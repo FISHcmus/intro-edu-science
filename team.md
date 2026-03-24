@@ -28,6 +28,8 @@ Rousseau đã thay đổi hoàn toàn cách châu Âu nghĩ về giáo dục qua
 ### Đồng tình
 Em đồng tình vì bản ngã tự nhiên của một đứa trẻ vốn dĩ là hoàn hảo và lương thiện, chính sự can thiệp sai lầm, gò ép và áp đặt của xã hội người lớn mới làm hỏng đứa trẻ đó. Rousseau đã nhìn thấy điều mà giáo dục thế kỷ XVIII không chịu thừa nhận: trẻ em không phải người lớn thu nhỏ, chúng có nhịp phát triển riêng và giáo dục phải tôn trọng nhịp đó. Tinh thần "lấy người học làm trung tâm" mà giáo dục Việt Nam đang hướng tới trong Chiến lược 2030 chính là di sản của Rousseau từ hơn 250 năm trước.
 
+Tuy nhiên, em cũng nhận thấy một số hạn chế. Rousseau viết cả một cuốn sách về giáo dục trẻ em nhưng lại bỏ rơi cả năm đứa con ruột của mình vào trại mồ côi — đây là mâu thuẫn lớn nhất giữa lời nói và hành động của ông. Ngoài ra, trong Quyển V của *Émile*, Rousseau cho rằng phụ nữ (Sophie) chỉ cần được giáo dục để phục vụ chồng — một quan điểm mà Mary Wollstonecraft đã phản bác mạnh mẽ trong *A Vindication of the Rights of Woman* (1792). Và triết lí "giáo dục tự nhiên" nghe rất hay nhưng khó áp dụng trong thực tế: không phải gia đình nào cũng có điều kiện thuê gia sư riêng cho con như Émile. Dù vậy, những hạn chế này không làm mất đi giá trị cốt lõi của Rousseau — ông đã mở đường cho giáo dục lấy trẻ em làm trung tâm, và đó là đóng góp không thể phủ nhận.
+
 ---
 
 ## Nguyễn Hữu Thiện Nhân (25310023) — Fukuzawa Yukichi
@@ -76,6 +78,8 @@ Jan Amos Komenský (Comenius, 1592–1670), người Séc, được UNESCO tôn 
 ### Đồng tình
 Em đồng tình với quan điểm này vì học vấn giúp con người hiểu biết hơn, phát triển bản thân và sống có ích cho xã hội. Comenius đã sống trong thời kỳ Chiến tranh Ba mươi năm, chứng kiến quê hương bị tàn phá, vợ con mất vì dịch bệnh, thư viện bị đốt cháy — nhưng ông vẫn tin rằng giáo dục là con đường duy nhất dẫn đến hòa bình. Chính niềm tin đó đã giúp ông xây dựng nền tảng cho giáo dục hiện đại mà chúng ta đang thụ hưởng ngày nay. Hệ thống trường học phân cấp, sách giáo khoa có hình ảnh, dạy bằng tiếng mẹ đẻ — tất cả những điều tưởng như hiển nhiên ấy đều bắt đầu từ Comenius.
 
+Tuy nhiên, em cũng thấy một số hạn chế trong tư tưởng của ông. Comenius nói "dạy tất cả cho mọi người" nhưng mục tiêu cuối cùng của giáo dục vẫn là "pietas" (lòng kính Chúa) — nghĩa là giáo dục vẫn phục vụ tôn giáo, chưa thực sự tách biệt. Ngoài ra, tầm nhìn của ông rất lí tưởng nhưng trong suốt cuộc đời, ông không thể xây dựng được hệ thống trường học nào hoàn chỉnh theo mô hình mình đề xuất — ông phải sống lưu vong, bản thảo bị cháy, và nhiều tác phẩm quan trọng như *Consultatio Catholica* chỉ được phát hiện lại vào năm 1935, gần 300 năm sau khi ông mất. Nhưng có lẽ chính vì Comenius không bao giờ từ bỏ lí tưởng dù trong hoàn cảnh khắc nghiệt nhất mà ông xứng đáng được UNESCO tôn vinh.
+
 ---
 
 ## Võ Thanh Trúc (25310046) — Rudolf Steiner
@@ -95,3 +99,5 @@ Rudolf Steiner (1861–1925), triết gia người Áo, sáng lập phong trào 
 
 ### Đồng tình
 Em đồng tình với triết lý giáo dục của Steiner. Thay vì áp lực kiến thức, triết lý này ưu tiên nuôi dưỡng tâm hồn và kỹ năng thực tế qua các giai đoạn phát triển tự nhiên. Điều em ấn tượng nhất là ý tưởng rằng "đôi tay là cơ quan của trí tuệ" — khi trẻ em đan len, làm mộc, hay làm vườn, chúng không chỉ học kỹ năng mà đang phát triển khả năng tập trung, kiên nhẫn, và tư duy logic. Một điều thú vị là nhiều lãnh đạo công nghệ ở Silicon Valley lại chọn trường Waldorf cho con mình — nơi không có máy tính hay màn hình — vì họ hiểu rằng sáng tạo bắt nguồn từ trí tưởng tượng, không phải từ thiết bị điện tử.
+
+Tuy nhiên, em cũng nhận thấy một số điểm cần cân nhắc. Giáo dục Waldorf được xây dựng trên nền tảng Nhân trí học (Anthroposophy) — một hệ thống tâm linh với các khái niệm như "thể dĩ thái", "thể vía", luân hồi và nghiệp — mà khoa học hiện đại không thể kiểm chứng. Một số bài giảng của Steiner cũng chứa những phát biểu về phân cấp chủng tộc mà ngày nay bị xem là phân biệt chủng tộc, dù các trường Waldorf hiện đại đã công khai bác bỏ những quan điểm đó. Ngoài ra, việc không dạy đọc viết trước 7 tuổi và không cho điểm có thể gây khó khăn khi học sinh chuyển sang hệ thống giáo dục chính quy. Dù vậy, em vẫn đánh giá cao triết lí phát triển toàn diện của Steiner — nó nhắc nhở chúng ta rằng giáo dục không chỉ là điểm số, mà còn là nuôi dưỡng tâm hồn và khả năng sáng tạo.
