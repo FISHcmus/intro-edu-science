@@ -1,0 +1,160 @@
+topic: "The Philosophy of Fukuzawa Yukichi on Education"
+
+fields:
+  concept_core:
+    description: "Essential definition and identity of each research item"
+    fields:
+      - name: concept_name
+        description: "Name of the concept/work/institution"
+        detail_level: brief
+
+      - name: original_japanese
+        description: "Original Japanese term with kanji"
+        detail_level: brief
+
+      - name: definition
+        description: "Clear definition in own words"
+        detail_level: moderate
+
+      - name: key_quote
+        description: "Most representative quote from Fukuzawa (Japanese + English/Vietnamese)"
+        detail_level: moderate
+
+      - name: source_work
+        description: "Which of Fukuzawa's works this concept primarily appears in"
+        detail_level: brief
+
+  intellectual_origins:
+    description: "Where this idea came from and what it reacted against"
+    fields:
+      - name: western_influences
+        description: "Specific Western thinkers/works that shaped this concept (Mill, Spencer, Guizot, Wayland, Buckle)"
+        detail_level: moderate
+
+      - name: japanese_context
+        description: "What was happening in Japan that made this concept necessary"
+        detail_level: moderate
+
+      - name: what_it_reacted_against
+        description: "What existing practice/belief Fukuzawa was attacking with this concept"
+        detail_level: moderate
+
+  educational_implication:
+    description: "How this concept translates into actual educational practice"
+    fields:
+      - name: what_should_be_taught
+        description: "Curriculum implications — what subjects, content, knowledge"
+        detail_level: detailed
+
+      - name: how_should_it_be_taught
+        description: "Pedagogy — teaching methods, classroom dynamics"
+        detail_level: detailed
+
+      - name: role_of_teacher
+        description: "How the teacher's role is defined under this concept"
+        detail_level: moderate
+
+      - name: role_of_student
+        description: "How the student's role and agency is defined"
+        detail_level: moderate
+
+  institutional_expression:
+    description: "How this concept was embodied in real institutions"
+    fields:
+      - name: how_keio_embodied_this
+        description: "Specific ways Keio Gijuku implemented this concept"
+        detail_level: detailed
+
+      - name: other_institutions
+        description: "Other institutions or organizations that expressed this concept"
+        detail_level: moderate
+
+      - name: concrete_actions
+        description: "Specific actions Fukuzawa took to realize this concept"
+        detail_level: detailed
+
+  historical_impact:
+    description: "What effect this concept had on Japan and beyond"
+    fields:
+      - name: effect_on_meiji_japan
+        description: "Impact on Meiji-era Japanese education and society"
+        detail_level: detailed
+
+      - name: effect_on_modern_education
+        description: "Lasting influence on modern educational thought and practice"
+        detail_level: moderate
+
+      - name: reception_and_criticism
+        description: "How contemporaries and later scholars received this concept"
+        detail_level: moderate
+
+  relevance_to_vietnam:
+    description: "Connections and parallels to Vietnamese education"
+    fields:
+      - name: parallel_to_vietnamese_education
+        description: "Similar movements, thinkers, or reforms in Vietnamese history"
+        detail_level: detailed
+
+      - name: comparison_with_vn_education_law
+        description: "How this concept maps to current Vietnamese education law and principles"
+        detail_level: moderate
+
+      - name: applicability_today
+        description: "Whether and how this concept could inform Vietnamese education today"
+        detail_level: moderate
+
+  contradictions_and_critiques:
+    description: "Internal tensions, scholarly debates, and limitations"
+    fields:
+      - name: internal_tensions
+        description: "Contradictions within Fukuzawa's own thought or practice on this concept"
+        detail_level: detailed
+
+      - name: scholarly_debates
+        description: "Key academic disagreements about interpretation of this concept"
+        detail_level: moderate
+
+      - name: what_critics_say
+        description: "Major criticisms of this concept from contemporary or modern scholars"
+        detail_level: moderate
+
+  empirical_methodology:
+    description: "How observation, verification, and inductive reasoning underpin this concept"
+    fields:
+      - name: observation_method
+        description: "Role of direct observation vs theoretical deduction"
+        detail_level: moderate
+
+      - name: relationship_to_scientific_method
+        description: "Connection to Western scientific methodology"
+        detail_level: brief
+
+  transnational_influence:
+    description: "How this concept spread beyond Japan"
+    fields:
+      - name: vietnam_adoption
+        description: "Dong Kinh Nghia Thuc and Vietnamese reformers' adoption"
+        detail_level: detailed
+
+      - name: korea_adoption
+        description: "Korean reformers (Kim Ok-gyun, 61 students at Keio 1883)"
+        detail_level: moderate
+
+      - name: china_comparison
+        description: "Parallels with Chinese reformers (Chen Duxiu, Liang Qichao)"
+        detail_level: moderate
+
+  civic_discourse:
+    description: "Education as democratic participation, not just knowledge transfer"
+    fields:
+      - name: speech_and_debate
+        description: "Role of public speaking and debate in education"
+        detail_level: moderate
+
+      - name: democratic_citizenship
+        description: "Education as preparation for constitutional government"
+        detail_level: moderate
+
+uncertain: []
+# Reserved field — auto-filled during deep research phase
+# Items where data is incomplete or contradictory will be flagged here
