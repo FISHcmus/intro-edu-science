@@ -1,0 +1,110 @@
+topic: Rudolf Steiner's Waldorf Education Philosophy
+items:
+  - name: "Rudolf Steiner — Life and Intellectual Biography"
+    category: Biography
+    description: "Austrian philosopher (1861-1925), from Goethe scholar to theosophist to founder of anthroposophy and Waldorf education; key life events and intellectual development"
+
+  - name: "Anthroposophy as Educational Foundation"
+    category: Philosophical Foundation
+    description: "Steiner's spiritual-scientific worldview: the human being as body, soul, and spirit; basis for all Waldorf pedagogy; relationship to theosophy"
+
+  - name: "Karma, Reincarnation, and the Four Bodies"
+    category: Philosophical Foundation
+    description: "Steiner's belief in etheric, astral, and ego bodies incarnating at 7-year intervals; karma and reincarnation as pedagogical foundations; the most controversial spiritual claims"
+
+  - name: "The First Waldorf School (Stuttgart, 1919)"
+    category: Historical Event
+    description: "Founded at Waldorf-Astoria cigarette factory for workers' children; Emil Molt's initiative; the school that launched a global movement"
+
+  - name: "Three-fold Human Development (Head-Heart-Hands)"
+    category: Core Doctrine
+    description: "Thinking, feeling, willing as the three soul capacities; education must address all three equally; cognitive-affective-volitional integration"
+
+  - name: "Seven-Year Developmental Cycles"
+    category: Core Doctrine
+    description: "0-7 (willing/imitation), 7-14 (feeling/authority), 14-21 (thinking/judgment); each cycle has distinct educational needs and body incarnation"
+
+  - name: "Early Childhood Education (0-7): Imitation and Play"
+    category: Developmental Stage
+    description: "No formal academics before age 7; learning through imitation, free play, rhythm, domestic activities; protecting the etheric body"
+
+  - name: "Middle Childhood (7-14): Authority and Imagination"
+    category: Developmental Stage
+    description: "Class teacher stays with same group for 8 years; storytelling, artistic activity, emotional engagement; the feeling life awakens"
+
+  - name: "Adolescence (14-21): Judgment and Idealism"
+    category: Developmental Stage
+    description: "Specialist teachers; critical thinking, scientific method, philosophical inquiry; awakening individual judgment and the ego"
+
+  - name: "Main Lesson Block System"
+    category: Pedagogical Method
+    description: "2-hour morning blocks on a single subject for 3-4 weeks; immersive depth over breadth; subjects taught in rhythm; sleeping on content"
+
+  - name: "Artistic Integration Across Curriculum"
+    category: Pedagogical Method
+    description: "Painting, drawing, music, eurythmy, handwork woven into every subject; art as cognitive tool, not decoration; beauty as path to truth"
+
+  - name: "Eurythmy — Visible Speech and Music"
+    category: Pedagogical Method
+    description: "Movement art unique to Waldorf; expressing language and music through bodily gesture; Steiner's original creation; required in all Waldorf schools"
+
+  - name: "Main Lesson Books as Pedagogical Tool"
+    category: Pedagogical Method
+    description: "Student-created illustrated notebooks replacing textbooks; integration of text and visual art; living record of learning; no pre-printed textbooks"
+
+  - name: "Temperaments in Education"
+    category: Pedagogical Method
+    description: "Choleric, sanguine, melancholic, phlegmatic; teacher adapts approach to child's temperament; seating, activities, stories matched to type"
+
+  - name: "No Grades, No Standardized Tests"
+    category: Pedagogical Method
+    description: "Narrative assessments; teacher observes the whole child; rejection of competitive ranking; ipsative evaluation against child's own development"
+
+  - name: "Waldorf Curriculum by Grade"
+    category: Curriculum
+    description: "Fairy tales (Gr.1) → Fables (2) → Old Testament (3) → Norse myths (4) → Greek history (5) → Rome (6) → Renaissance (7) → Modern (8); world civilizations mirroring child development"
+
+  - name: "Form Drawing and Geometric Progression"
+    category: Curriculum
+    description: "From freehand form drawing to geometry; developing spatial awareness, concentration, aesthetic sense; unique to Waldorf"
+
+  - name: "Handwork and Practical Arts"
+    category: Curriculum
+    description: "Knitting, sewing, woodwork, gardening, cooking; hands as organs of intelligence; practical skills as cognitive development; gender-neutral crafts"
+
+  - name: "Delayed Reading and Writing"
+    category: Pedagogical Method
+    description: "No formal literacy before age 7; letters emerge from pictures and stories; writing before reading; protecting imagination"
+
+  - name: "The Role of the Waldorf Teacher"
+    category: Pedagogical Method
+    description: "Teacher as artist and healer; inner development required; class teacher stays 8 years with same students; authority through love, not fear"
+
+  - name: "Festivals and Rhythm in School Life"
+    category: Pedagogical Method
+    description: "Seasonal festivals (Michaelmas, Martinmas, Advent, May Day), daily/weekly rhythms, breathing in-breathing out; time as pedagogical structure"
+
+  - name: "Waldorf and Technology/Media"
+    category: Contemporary Issue
+    description: "Screen-free early childhood; delayed introduction of technology; Steiner's warnings about mechanization of thinking; Silicon Valley paradox"
+
+  - name: "Critiques of Waldorf Education"
+    category: Critiques & Controversies
+    description: "Accusations of cultishness, racism in Steiner's lectures, pseudoscience, lack of academic rigor, religious undertones, vaccine hesitancy patterns"
+
+  - name: "The Threefold Social Order and Education"
+    category: Political Philosophy
+    description: "Freedom in cultural/spiritual life, equality in rights, brotherhood in economics; school as free cultural institution independent of state and market"
+
+  - name: "Global Waldorf Movement — 1,200+ Schools in 75+ Countries"
+    category: Legacy & Influence
+    description: "Growth from one school to global network; regional adaptations; Waldorf in Asia, Africa, Latin America; teacher training worldwide"
+
+  - name: "Vietnamese Relevance — Waldorf and Vietnam's Education Reform"
+    category: Vietnamese Relevance
+    description: "Connections to Luật Giáo dục 2019, holistic development goals, Chiến lược 2030; emerging Waldorf-inspired initiatives in Vietnam"
+
+execution:
+  batch_size: 13
+  items_per_agent: 2
+  output_dir: ./results
