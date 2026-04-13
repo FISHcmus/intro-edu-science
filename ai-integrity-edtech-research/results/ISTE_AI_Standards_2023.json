@@ -1,0 +1,59 @@
+{
+  "name": "ISTE AI in Education Standards 2023",
+  "type": "framework",
+  "year": "2023 (updated; ISTE Standards for Students last major revision 2016, AI guidance added progressively 2022-2024)",
+  "issuing_authority": "International Society for Technology in Education (ISTE)",
+  "country_or_region": "USA-headquartered, globally applicable",
+  "summary": "ISTE provides the most widely referenced framework for technology integration in K-12 and higher education globally. While ISTE's core Standards (for Students, Educators, Education Leaders) were last formally revised in 2016-2017, ISTE has published extensive AI-specific guidance since 2022. The 2023 'Bringing AI to School: Tips for School Leaders' document and ongoing AI guidance address ethical use and academic integrity. ISTE's AI in Education hub consolidates guidance on responsible AI, digital citizenship, and AI literacy. A major update to the full ISTE Standards is underway (v2024 draft visible in published PDF).",
+
+  "ai_use_policy": "ISTE recommends: rather than banning AI, redesign assessments to focus on critical thinking, problem-solving, and creativity which are difficult to cheat on using AI. Permitted use of AI tools when accompanied by AI literacy education. Schools should establish clear AI use policies and communicate them to students. ISTE advocates for 'adaptive' rather than 'restrictive' responses to AI.",
+  "academic_fraud_definition": "ISTE defines academic integrity in AI context through digital citizenship lens: using AI without attribution or disclosure when it produces work claimed as one's own violates the principle of intellectual honesty embedded in ISTE's Digital Citizenship standard. ISTE does not provide a specific AI fraud definition — this is left to institutions.",
+  "detection_mechanisms": "ISTE does not advocate for specific detection tools. Instead, ISTE's approach focuses on assessment redesign to make detection less necessary. Where detection is used, ISTE recommends human review as part of any AI-assisted detection system.",
+  "penalties": "Not addressed — ISTE provides frameworks for school leaders and educators, not enforcement mechanisms.",
+  "transparency_requirements": "ISTE Digital Citizenship standard: students should manage their digital identity and make safe, legal and ethical decisions. This includes appropriate attribution and transparency about tool use. ISTE strongly emphasizes transparency about AI use in academic work.",
+
+  "vietnamese_law_reference": "[uncertain] — ISTE is a US organization; Vietnam has not formally adopted ISTE standards.",
+  "moet_policy": "[uncertain] — MOET's AI curriculum framework is consistent with ISTE's approach but does not formally reference ISTE.",
+  "documented_vn_cases": "[uncertain]",
+  "vn_university_responses": "[uncertain]",
+
+  "ai_tutor_vs_cheater_framing": "ISTE's framing is optimistic-realist: AI as a learning tool that requires thoughtful integration. Digital citizenship education is the answer to 'AI as cheater' concerns — if students understand ethical AI use as part of their digital identity, they are less likely to misuse AI fraudulently. ISTE does not frame AI primarily as a threat.",
+  "responsible_ai_definition": "ISTE Responsible AI = AI literacy + digital citizenship + critically evaluating AI applications + maintaining vigilance against misuse and bias. A student who uses AI responsibly: understands what AI can and cannot do, attributes AI contributions, uses AI to enhance their thinking not replace it, and considers the equity and social implications of AI use.",
+  "key_researchers": "ISTE organizational guidance (not attributed to individual researchers). Co-authored 'Bringing AI to School' with Code.org, CoSN, Digital Promise, European EdTech Alliance, and PACE.",
+  "company_ethics_policy": "[uncertain]",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "Australian TEQSA and AAIN (Australasian Academic Integrity Network) guidelines align with ISTE's approach: responsible use over prohibition, assessment redesign as primary response.",
+  "asia_vs_western_differences": "ISTE's framework is Western in origin. Application in high-stakes exam cultures (Vietnam, China, South Korea) requires adaptation — the 'reduce AI temptation by redesigning assessment' approach assumes institutions have flexibility to change assessment formats, which is not always true in centralized exam systems.",
+  "asean_regional_initiatives": "[uncertain]",
+
+  "framework_name": "ISTE Standards for Students (Digital Citizenship) + AI Guidance 2023",
+  "framework_principles": "ISTE Standards 2016 digital citizenship standard — most AI-relevant: students manage digital identity, make ethical decisions, understand lasting impact of online behaviors. AI guidance 2023 adds: (1) AI literacy (understanding how AI works), (2) Critical evaluation (identifying bias, limitations), (3) Responsible use (ethical decision-making with AI), (4) AI equity (understanding who benefits and who is harmed). Seven principles for AI guidance in education (from CoSN/ISTE/Code.org collaborative document): Transparency, Accountability, Safety, Privacy, Fairness, Reliability, and Human Oversight.",
+  "iste_standards": "Direct content: ISTE Standards for Students 1.2 Digital Citizen: 'Students recognize the rights, responsibilities and opportunities of living, learning and working in an interconnected digital world, and they act and model the ways that are safe, legal and ethical.' AI-specific additions in 2023 guidance.",
+  "cosn_guidelines": "ISTE and CoSN co-produced 'Bringing AI to School: Tips for School Leaders' (2023). CoSN's AI Advisor tool (chat-based guidance) was developed with ISTE input. Seven principles document jointly authored.",
+  "unesco_guidelines": "ISTE's framework is consistent with UNESCO's AI in Education guidance (2023). Both emphasize human-centered AI, equity, and responsible use over prohibition.",
+
+  "implementation_challenges": "ISTE standards are voluntary — adoption rates vary. In countries without strong educational technology infrastructure (including Vietnam outside of major cities), ISTE guidance has limited reach. The assessment redesign recommendation requires significant teacher professional development investment.",
+  "student_perspective": "ISTE's student standards give students agency — they are expected to be active digital citizens who make ethical choices, not just passive rule-followers. This student-agency framing contrasts with punitive detection approaches.",
+  "teacher_perspective": "ISTE educator standards: educators 'design authentic, learner-driven activities and environments that recognize and accommodate learner variability' — this directly supports AI-resilient assessment design. Teachers need professional development to implement ISTE's recommended approaches.",
+  "recommendations": "For EdTech researchers proposing AI integrity frameworks: ISTE's Seven Principles (Transparency, Accountability, Safety, Privacy, Fairness, Reliability, Human Oversight) provide a ready-made framework applicable globally. Cite ISTE alongside UNESCO and EDUCAUSE for institutional credibility. For Vietnamese context: ISTE's digital citizenship framing can be integrated into MOET's AI literacy curriculum as an internationally recognized benchmark.",
+
+  "primary_sources": [
+    "ISTE Standards — iste.org/standards",
+    "Bringing AI to School: Tips for School Leaders (2023) — cms-live-media.iste.org/Bringing_AI_to_School-2023_07.pdf",
+    "ISTE AI in Education hub — iste.org/ai"
+  ],
+  "academic_sources": [
+    "ISTE Standards 2024 draft — cms-live-media.iste.org/ISTE_STANDARDS_2024_v02.pdf",
+    "A New Approach to Updating the ISTE Standards — iste.org/blog"
+  ],
+  "vietnamese_sources": "[uncertain]",
+  "urls": [
+    "https://iste.org/standards",
+    "https://iste.org/ai",
+    "https://cms-live-media.iste.org/Bringing_AI_to_School-2023_07.pdf",
+    "https://iste.org/blog/simple-starters-for-ai-literacy-and-digital-citizenship-learning"
+  ],
+
+  "uncertain": ["vietnamese_law_reference", "moet_policy", "documented_vn_cases", "vn_university_responses", "company_ethics_policy", "singapore_approach", "asean_regional_initiatives", "vietnamese_sources"]
+}

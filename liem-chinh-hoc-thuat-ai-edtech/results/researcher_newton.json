@@ -1,0 +1,61 @@
+{
+  "id": "researcher_newton",
+  "name": "Phil Newton",
+  "type": "researcher",
+  "institution": "Swansea University Medical School (Professor)",
+  "specialty": "Contract cheating prevalence; ChatGPT threat to assessment; evidence-based education research",
+
+  "dinh_nghia": "Newton's work operationalizes contract cheating as any instance where a student submits work completed by another person or AI system as their own. His systematic reviews provide empirical prevalence estimates rather than definitional elaborations, contributing to evidence-based policy-making.",
+
+  "phan_loai": "Newton's research addresses commercial contract cheating (essay mills), file-sharing platforms, and — from 2022 onward — AI tools (particularly ChatGPT) as a new category of academic misconduct that blurs the boundary between tool use and outsourcing.",
+
+  "lich_su_khai_niem": "Newton's 2018 Frontiers in Education systematic review was landmark in establishing evidence-based prevalence estimates for contract cheating. His subsequent work on ChatGPT (2023) extends the research to the AI era, documenting how LLMs qualitatively change the threat landscape.",
+
+  "ten_truong_hop": "Newton (2018): 'How Common Is Commercial Contract Cheating in Higher Education and Is It Increasing? A Systematic Review' — Frontiers in Education; Newton & Xiromeriti (2023): 'ChatGPT and Higher Education Assessments' — Computers & Education: Artificial Intelligence, doi:10.1016/j.caeai.2023.100114.",
+
+  "dien_bien": "Newton's 2018 systematic review of the literature found that across samples from 2014 onward, 15.7% of students self-reported having paid someone else to complete academic work — potentially representing 31 million students globally. The 2023 paper with Xiromeriti analyzed ChatGPT's performance on multiple-choice assessments, finding it could pass assessments in many disciplines, fundamentally threatening traditional assessment validity.",
+
+  "ket_qua_xu_ly": "Newton's research has informed UK legislative efforts to ban essay mills. His ChatGPT paper (2023) has been widely cited in institutional policy reviews. Newton advocates for assessment redesign rather than detection-only approaches.",
+
+  "con_so_thong_ke": "15.7% contract cheating self-report rate from systematic review (2018), potentially 31 million students globally. ChatGPT performance analysis (2023): passed assessments in multiple academic disciplines including medicine and law. Newton's papers have thousands of citations in academic integrity literature.",
+
+  "hai_cho_nguoi_hoc": "Students who contract-cheat bypass the learning process, acquiring credentials without developing the knowledge and skills the credential is meant to certify. Newton's research shows this is not marginal but affects a significant share of the student population, creating a systemic credentialing problem.",
+
+  "hai_cho_nghien_cuu": "Newton's medical school context makes the stakes concrete: a medical student who passes exams via ChatGPT or essay mills has not demonstrated clinical reasoning ability. The falsity of their credential has direct patient safety implications.",
+
+  "hai_cho_xa_hoi": "Newton's 31-million estimate illustrates the scale of credential inflation when contract cheating goes unchecked. Professional licensing bodies and employers cannot rely on degrees as competency signals if cheating is this widespread.",
+
+  "cong_cu_phat_hien": "Newton's research examines detection challenges rather than specific tool advocacy. His ChatGPT paper implicitly shows that traditional plagiarism detection (Turnitin) cannot catch AI-generated content, since AI text is original in the technical sense.",
+
+  "han_che_cong_cu": "The central finding of Newton & Xiromeriti (2023) is that ChatGPT can pass assessments without triggering conventional detection — because AI-generated text is not plagiarized from prior sources. This represents a fundamental limitation of current detection infrastructure.",
+
+  "watermarking": "[uncertain] Newton has not published specifically on LLM watermarking, but his research on ChatGPT's ability to pass assessments undetected creates the problem space that watermarking solutions aim to address.",
+
+  "thiet_ke_bai_tap": "Newton implies that multiple-choice and essay assessments that ChatGPT can pass must be redesigned. He implicitly endorses process-based, oral, and contextualized assessment formats that require genuine student engagement.",
+
+  "chinh_sach_truong_hoc": "Newton's research has been cited in UK policy discussions about essay mill legislation and in HE institution responses to ChatGPT. He does not himself prescribe specific institutional models but his data underpins policy urgency.",
+
+  "van_hoa_to_chuc": "Newton's work focuses more on prevalence and systemic risk than on cultural solutions. His research suggests that current honor-code and detection approaches are insufficient given the scale of the problem.",
+
+  "ai_literacy": "[uncertain] Newton's work implicitly supports the need for AI literacy — students and educators need to understand what AI can and cannot do — but he does not focus on AI literacy curricula.",
+
+  "khung_quoc_te": "Newton's systematic review methodology and ChatGPT paper have been cited across international contexts. His work contributes to the evidence base informing ICAI, Transparency International, and national HE regulatory bodies.",
+
+  "phap_luat_viet_nam": "[uncertain] Newton has not published on Vietnamese educational law or context.",
+
+  "chinh_sach_chau_a": "[uncertain] Newton's Swansea-based research is primarily UK-focused, though his findings are globally applicable. No specific Asian policy engagement documented in available sources.",
+
+  "ai_tutor_vs_ai_cheater": "Newton's work firmly establishes the AI-as-cheater threat. His ChatGPT paper demonstrates that AI can substitute for student learning in assessed contexts, making it a direct enabler of academic fraud rather than a pedagogical tool in these use cases.",
+
+  "edtech_company_policies": "[uncertain] Newton has not published on EdTech platform policies (Khan Academy, Coursera, etc.) but his assessment threat analysis is relevant to how these platforms design their assessments.",
+
+  "de_xuat_nha_nghien_cuu": "Newton recommends: (1) urgent recognition that ChatGPT fundamentally changes the assessment threat landscape; (2) systematic redesign of assessments that AI can easily pass; (3) policy frameworks that address both essay mills and AI tools; (4) legislative action against commercial contract cheating services; (5) evidence-based institutional responses rather than ad hoc bans.",
+
+  "bai_bao_khoa_hoc": "Newton (2018) Frontiers in Education — systematic review, 15.7% contract cheating rate; Newton & Xiromeriti (2023) Computers & Education: Artificial Intelligence, doi:10.1016/j.caeai.2023.100114 — ChatGPT threat to assessments; additional publications on contract cheating prevalence and international predictors.",
+
+  "sach_tham_khao": "Newton has contributed to Bretag (ed.) Handbook of Academic Integrity (Springer 2016) and related edited volumes. His research is frequently cited in Eaton (2021/2024) work on AI and academic integrity.",
+
+  "nguon_viet_nam": "[uncertain] No Vietnamese-context publications identified for Newton.",
+
+  "uncertain": ["watermarking", "ai_literacy", "phap_luat_viet_nam", "chinh_sach_chau_a", "edtech_company_policies", "nguon_viet_nam"]
+}

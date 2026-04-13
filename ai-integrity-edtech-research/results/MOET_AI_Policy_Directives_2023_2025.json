@@ -1,0 +1,64 @@
+{
+  "name": "MOET AI in Education Policy — Directives and Circulars 2023-2025",
+  "type": "policy",
+  "year": "2023-2025 (multiple directives; AI curriculum pilot 2025-2026)",
+  "issuing_authority": "Bộ Giáo dục và Đào tạo (Ministry of Education and Training, MOET)",
+  "country_or_region": "Vietnam",
+  "summary": "MOET has taken an integration-forward approach to AI in education, focusing on embedding AI literacy into curriculum rather than restricting AI tool use. As of April 2026, no specific MOET circular exists that regulates or prohibits student use of AI tools in academic work — this remains at the institutional level. Key 2024-2025 directives include a pilot AI education curriculum (announced for December 2025 pilot, 2026-2027 national rollout), a National Plan for AI competency in teachers, and co-hosting the National Forum on AI in Education (May 2025) with UNICEF. The ministry is preparing an Artificial Intelligence Law with education provisions, including academic integrity rules.",
+
+  "ai_use_policy": "MOET approach: promote AI integration, not prohibition. AI curriculum for general education (K-12) structured around four pillars: (1) Human-centered thinking, (2) AI ethics, (3) AI technology and applications, (4) AI system design. No formal ban or restriction on student AI tool use has been issued at the national level. Individual universities set their own rules. MOET's 2024 circular embeds AI competency content into curricula. Artificial Intelligence Law currently in preparation is expected to include academic integrity rules.",
+  "academic_fraud_definition": "MOET has not issued a specific definition of AI-assisted academic fraud. The ministry references Decree 109/2022/NĐ-CP for academic integrity enforcement, which covers plagiarism, fraud, and fabrication but does not specifically address generative AI outputs.",
+  "detection_mechanisms": "MOET supports Turnitin adoption across universities. No national AI detection tool has been mandated. Upcoming AI Law expected to address detection requirements.",
+  "penalties": "Institutional-level: not set by MOET circular. Decree 109/2022 requires institutions to establish their own penalty schedules.",
+  "transparency_requirements": "MOET AI curriculum pilot includes AI ethics component (likely to include disclosure principles). No specific AI use disclosure requirement at national level yet.",
+
+  "vietnamese_law_reference": "QĐ 1705/QĐ-TTg (Education Strategy 2030) — foundational authority. QĐ 127/QĐ-TTg 2021 (National AI Strategy 2030) — parallel mandate. Nghị quyết 57-NQ/TW (2024) — Resolution on science, technology, innovation, and high-quality human resources; cited by MOET as legal basis for AI education push. Luật Trí tuệ nhân tạo (AI Law — in preparation as of 2025-2026).",
+  "moet_policy": "Concrete 2025 actions: (1) Pilot AI curriculum at selected schools nationwide December 2025 — May 2026. (2) MOET 2025 National Plan for AI competency development for teachers and education managers. (3) Co-hosted Vietnam National Forum on Artificial Intelligence in Education (May 30, 2025, Hanoi) with UNICEF Vietnam, NIC, STEAM for Vietnam. (4) Circular embedding AI competency content into existing curricula (2024). (5) Survey of 35,000 teachers on AI usage in teaching (2024 — 76% had used AI, >60% self-taught).",
+  "documented_vn_cases": "[uncertain] — MOET has not published official statistics on AI academic fraud cases at institutions.",
+  "vn_university_responses": "Specific university responses to MOET guidance: British University Vietnam (BUV) pioneered AIAS framework. FPT University and Van Lang University participated in Coursera's AI academic integrity pilot (partnered with Coursera for Campus). RMIT Vietnam co-hosted Vietnam National Forum on AI in Education 2025. Most major universities (VNU, HUST, HCMUT, HCMUS) have moved toward Turnitin AI detection integration.",
+
+  "ai_tutor_vs_cheater_framing": "MOET's official framing is 'AI as tutor and learning tool' — the ministry explicitly stated: 'Teaching AI from elementary school does not mean forcing children to program or use ChatGPT' (Vietnam.vn, 2025). The ministry promotes AI literacy and critical engagement rather than use prohibition. The 'AI as cheater' concern is acknowledged in public discourse but not formally addressed in MOET policy.",
+  "responsible_ai_definition": "MOET curriculum framework defines responsible AI use as: understanding AI capabilities and limitations, applying AI ethics (including privacy, bias, human oversight), using AI as a tool to enhance human capabilities rather than replace human thinking. This is a literacy-based definition, not a conduct-based definition for academic work.",
+  "key_researchers": "Dr. Lê Anh Vinh (VNIES) — Director of Vietnam Institute of Educational Sciences, led AI readiness research. Dr. Mike Perkins (BUV) — most prominent researcher on AI academic integrity in Vietnamese higher education context. UNICEF Vietnam education team — supported national AI strategy for education to 2035.",
+  "company_ethics_policy": "Coursera partnership: Coursera ran AI academic integrity pilot with FPT University and Van Lang University in Vietnam as part of global pilot. This is the most direct EdTech company engagement with Vietnamese academic integrity in AI context.",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "[uncertain]",
+  "asia_vs_western_differences": "Vietnam's MOET takes a state-directed, curriculum-integration approach. Western countries rely more on institutional autonomy and faculty governance. Vietnam's centralized education system means MOET decisions cascade to all public universities faster than in decentralized Western systems — but also means the gap between policy intention and implementation can be larger.",
+  "asean_regional_initiatives": "Vietnam is aligned with ASEAN Digital Masterplan 2025. UNICEF Vietnam's AI education strategy feeds into UNICEF's regional AI in education program across Southeast Asia. Vietnam participated in UNESCO's AI education guidance development (Beijing Consensus follow-up).",
+
+  "framework_name": "MOET AI Education Curriculum Framework 2025",
+  "framework_principles": "Four pillars: (1) Human-centered thinking (tư duy lấy con người làm trung tâm), (2) AI ethics (đạo đức AI), (3) AI technology and applications (công nghệ và ứng dụng AI), (4) AI system design (thiết kế hệ thống AI). Two educational stages: basic (primary + lower secondary) and career orientation (upper secondary).",
+  "iste_standards": "Vietnam's AI curriculum framework is consistent with ISTE's approach to AI literacy, though not explicitly citing ISTE standards.",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "UNESCO Guidance for Generative AI in Education and Research (2023) aligns with Vietnam's approach. UNICEF Vietnam cited UNESCO frameworks in developing Vietnam's AI education strategy. UNESCO SDG4 Knowledge Hub documents Vietnam's digital education transformation.",
+
+  "implementation_challenges": "Critical gap: AI curriculum promotes AI use but no corresponding update to integrity regulations. Teacher preparation: 60%+ of AI-using teachers are self-taught — professional development infrastructure not yet in place. Vietnamese language AI tools remain less capable than English tools, creating equity issues. AI curriculum pilot limited to selected schools initially. National AI Law still in preparation — legal vacuum persists for AI academic conduct regulation.",
+  "student_perspective": "Students are adopting AI tools rapidly regardless of policy. MOET's focus on AI literacy may improve students' ability to use AI responsibly, but explicit integrity expectations in AI use have not been communicated through national policy channels.",
+  "teacher_perspective": "Teachers are adapting independently. 76% using AI in teaching but mostly self-taught. Many teachers report increased cheating concern (vietnam.vn: 'chưa bao giờ gian lận nhiều đến thế'). Teachers need institutional support for AI-resilient assessment design.",
+  "recommendations": "EdTech researchers working with Vietnamese education context should: (1) Engage MOET's AI curriculum framework as an entry point for integrity education; (2) Advocate for an AI disclosure component in the upcoming AI Law's education provisions; (3) Propose AIAS-type tools (from BUV Dr. Perkins) as a model for MOET's AI assessment guideline development; (4) Connect MOET's four-pillar AI curriculum with the AI ethics research literature (UNESCO, EDUCAUSE) to strengthen the ethics component.",
+
+  "primary_sources": [
+    "Vietnam to pilot AI education in schools beginning December — sggp.org.vn (2025)",
+    "UNICEF Vietnam National Forum on AI in Education — unicef.org/vietnam (May 2025)",
+    "Vietnam National Forum on Education Innovation with AI 2025 — rmit.edu.vn"
+  ],
+  "academic_sources": [
+    "AI powers sweeping overhaul of Vietnam's education system — vietnamnet.vn/en (2025)",
+    "JMIR Medical Education: AI in Medical Education in Vietnam — mededu.jmir.org (2025)"
+  ],
+  "vietnamese_sources": [
+    "AI xâm lan vào nhà trường, thầy cô than vãn 'chưa bao giờ gian lận nhiều đến thế' — vietnam.vn",
+    "Vietnam considers integrating AI education into school curriculum — vietnamnet.vn/en",
+    "ChatGPT, AI và cách ứng phó của các trường đại học — giaoduc.net.vn"
+  ],
+  "urls": [
+    "https://en.sggp.org.vn/vietnam-to-pilot-ai-education-in-schools-beginning-december-post121982.html",
+    "https://www.unicef.org/vietnam/press-releases/viet-nam-national-forum-artificial-intelligence-education",
+    "https://vietnamnet.vn/en/ai-powers-sweeping-overhaul-of-vietnams-education-system-2505071.html",
+    "https://www.vietnam.vn/en/ai-xam-lan-vao-nha-truong-thay-co-than-van-chua-bao-gio-gian-lan-nhieu-den-the",
+    "https://e.vnexpress.net/news/news/education/vietnam-to-pilot-ai-education-in-schools-from-december-4987393.html"
+  ],
+
+  "uncertain": ["documented_vn_cases", "singapore_approach", "australia_approach", "cosn_guidelines"]
+}

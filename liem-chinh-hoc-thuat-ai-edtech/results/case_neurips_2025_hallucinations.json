@@ -1,0 +1,62 @@
+{
+  "id": "case_neurips_2025_hallucinations",
+  "name": "NeurIPS 2025 — 100+ hallucinated citations in 51 papers (2026)",
+  "type": "real_case",
+  "category": "research_fraud",
+  "institution": "NeurIPS (Neural Information Processing Systems) — top global AI/ML conference",
+  "year": 2026,
+
+  "dinh_nghia": "Hallucinated citations are AI-fabricated bibliographic references — fake authors, titles, DOIs, journal names, and volume numbers that do not correspond to any real publication. Unlike plagiarism (copying real work), hallucinated citations constitute fabrication, a form of research fraud where false information is presented as factual evidence in scientific literature.",
+
+  "phan_loai": "Research fraud via fabrication (citation hallucination). AI-assisted dishonesty — authors used LLMs to generate literature reviews or citation lists without verifying reference validity. Category overlaps with: gian lận (fraud), bịa đặt (fabrication), and AI-assisted dishonesty.",
+
+  "lich_su_khai_niem": "Citation hallucination as a distinct integrity problem emerged after ChatGPT's release (November 2022). The NeurIPS 2025 case (reported January 2026) is the highest-profile instance at a top-tier venue. It prompted urgent discussions about LLM-generated text in scientific writing and the failure of existing peer review to catch citation fabrication.",
+
+  "ten_truong_hop": "NeurIPS 2025 Conference — GPTZero report on hallucinated citations in accepted papers, published January 21, 2026.",
+
+  "dien_bien": "On January 21, 2026, GPTZero released a report analyzing all 4,841 papers accepted at NeurIPS 2025 (held November 2025). The tool identified 100+ hallucinated citations spread across 51 accepted papers. Hallucinated references ranged from obvious placeholder names ('John Doe and Jane Smith') to sophisticated fake citations with plausible-sounding titles and near-valid DOIs (e.g., 'arXiv:2305.XXXX' with placeholder IDs). One paper contained 15 hallucinated citations. All 51 papers had cleared peer review by 3+ reviewers. NeurIPS 2025 received 21,575 paper submissions — the largest in the conference's history — creating extreme pressure on peer reviewers. The irony was widely noted: the world's premier AI research conference, papers about AI, contaminated by AI hallucinations.",
+
+  "ket_qua_xu_ly": "As of early 2026, NeurIPS organizers acknowledged the report. No mass retractions were announced immediately. Individual papers were under investigation. The incident prompted calls for mandatory citation verification tools in the review process, automated DOI/reference validation, and stricter disclosure requirements for LLM-assisted writing. Root causes identified: submission tsunami (21,575 papers), KPI-driven academic culture incentivizing speed over rigor, blind trust in AI writing tools, and peer review that does not incentivize citation verification.",
+
+  "con_so_thong_ke": "4,841 total papers scanned. 51 papers (1.05%) contained hallucinated citations. 100+ individual hallucinated citations identified. 21,575 papers submitted to NeurIPS 2025 (record high). Each affected paper reviewed by 3+ expert reviewers. Detection rate by peer review: 0% (no hallucinated citations caught by human reviewers).",
+
+  "hai_cho_nguoi_hoc": "Graduate students and early-career researchers citing NeurIPS 2025 papers may unknowingly propagate hallucinated citations into their own work, building on a contaminated foundation. Academic training relies on the integrity of published literature — citation hallucination undermines the learning infrastructure.",
+
+  "hai_cho_nghien_cuu": "Hallucinated citations corrupt the knowledge graph of AI/ML research. Other researchers may cite these papers, reference the fake citations, or build experiments based on work that doesn't exist. The failure of peer review to detect this contamination erodes confidence in the review system itself. Retraction cascades are possible if papers built on hallucinated foundations are subsequently retracted.",
+
+  "hai_cho_xa_hoi": "NeurIPS is the primary venue influencing AI policy, industry practice, and public trust in AI research. Papers from this conference are cited in regulatory documents, product development, and news coverage. Hallucinated citations in policy-relevant AI research can mislead policymakers and the public.",
+
+  "cong_cu_phat_hien": "GPTZero's hallucination detection tool (launched for reference verification) scanned all 4,841 papers and flagged 51 with suspicious citations. The tool cross-referenced DOIs, author names, and paper titles against real bibliographic databases. GPTZero — originally an AI-text detector — extended its capabilities to citation verification.",
+
+  "han_che_cong_cu": "GPTZero's detection of hallucinated citations relies on bibliographic database lookup — it can miss hallucinations that closely mimic real papers (e.g., slightly wrong page numbers or volume numbers). Sophisticated LLM users can manually verify citations before submission, defeating automated detection. GPTZero's AI-text detection alone would not catch this — citation hallucination requires separate bibliographic verification.",
+
+  "watermarking": "LLM watermarking (Kirchenbauer/UMD, Aaronson/OpenAI) would not directly prevent citation hallucination, as the problem is in the generated content's factual accuracy, not in its provenance. However, watermarking could help identify which sections of a paper were AI-generated, enabling reviewers to scrutinize citations in those sections more carefully.",
+
+  "thiet_ke_bai_tap": "For academic training: require authors/students to provide live hyperlinks or verified DOIs for every citation. Automated citation verification as part of paper submission pipelines (similar to Crossref validation). Process-based submission requiring citation verification step before final submission.",
+
+  "chinh_sach_truong_hoc": "The incident has implications for institutional policies requiring disclosure of LLM use in manuscript preparation. Stanford, MIT, and NeurIPS itself had no mandatory citation verification requirement in 2025. Post-incident proposals include making DOI verification mandatory at submission.",
+
+  "van_hoa_to_chuc": "The high submission volume (21,575) and competitive culture at top ML venues creates pressure to use AI writing tools without adequate verification. McCabe's honor code research suggests that enforcement alone (post-hoc detection) is insufficient — cultural norms of rigor must be internalized.",
+
+  "ai_literacy": "The case demonstrates a critical AI literacy gap: many researchers do not understand that LLMs hallucinate citations and treat AI-generated reference lists as reliable. AI literacy in research contexts must specifically include understanding of hallucination risks and citation verification practices.",
+
+  "khung_quoc_te": "The incident directly implicates the EU AI Act (2024): NeurIPS papers often concern high-risk AI systems (Annex III). Hallucinated citations in such papers could mislead regulatory bodies. IEEE Code of Ethics and ACM Code of Ethics both require accuracy in scientific publications — citation fabrication violates both.",
+
+  "phap_luat_viet_nam": "Vietnam's Nghị định 109/2022/NĐ-CP (Điều 20) prohibits fabrication in scientific research but does not specifically address AI-assisted citation hallucination. The legal framework does not yet require citation verification disclosures for AI-assisted manuscripts.",
+
+  "chinh_sach_chau_a": "NTU Singapore (2025) already imposed zero marks for papers containing hallucinated citations, predating the NeurIPS finding. The NeurIPS case may accelerate policy adoption in Asian universities participating in international AI research.",
+
+  "ai_tutor_vs_ai_cheater": "This case epitomizes the AI-as-cheater framing: AI tools that assist with literature reviews can silently fabricate citations, and researchers who over-rely on AI without verification become unwitting fraudsters. Neil Selwyn's concern (Monash) about AI enabling academic fraud is validated at the highest level of AI research itself.",
+
+  "edtech_company_policies": "Research manuscript preparation tools (Grammarly, Writefull, Elicit, Consensus) need citation hallucination warnings. Elicit and Consensus — AI research tools — specifically advertise grounded citations, positioning themselves against this problem. Conference submission systems (OpenReview used by NeurIPS) could integrate automated DOI verification.",
+
+  "de_xuat_nha_nghien_cuu": "From an EdTech/research integrity perspective: (1) Citation verification must become a mandatory submission step — automated DOI/CrossRef validation should be built into OpenReview and similar platforms; (2) LLM disclosure must include whether AI was used in literature review generation; (3) Peer reviewers should be trained and incentivized to verify citations; (4) Conference submission systems should flag papers with unverified DOIs before review; (5) Attribution standards must evolve to require verification certificates for AI-assisted bibliographies.",
+
+  "bai_bao_khoa_hoc": "GPTZero Report (January 21, 2026): 'GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers' (gptzero.me/news/neurips/). TechCrunch (January 21, 2026). Fortune (January 21, 2026). The Register (January 22, 2026). The Decoder (2026). Haider et al. (2024) HKS Misinformation Review on GPT-fabricated papers.",
+
+  "sach_tham_khao": "Eaton, S.E. (2024). Second Handbook of Academic Integrity. Springer (1991pp). McCabe, D.L. et al. (2012). Cheating in College. Johns Hopkins UP.",
+
+  "nguon_viet_nam": "No direct Vietnamese sources on this specific case. Case is relevant to Vietnamese EdTech researchers studying integrity in AI-era academic publishing. QĐ 1705/QĐ-TTg (2022) emphasizes international research integration — Vietnamese researchers publishing internationally are exposed to these norms.",
+
+  "uncertain": ["ket_qua_xu_ly (retraction decisions ongoing as of early 2026 — final outcomes not confirmed)", "con_so_thong_ke (GPTZero report states '100+' — exact count may be higher)"]
+}

@@ -1,0 +1,189 @@
+topic: "Vietnam Education - The Good, The Bad, and The Ugly: History, Ideals, Dreams and Reality"
+date: 2026-04-02
+
+items:
+  # === HISTORICAL PERIODS ===
+  - id: 1
+    name: "Confucian Education System (Nho học)"
+    description: "Imperial exam system (khoa cử), 1075-1919, 844 years. Last country to hold imperial exams. Shaped literati bureaucracy and exam obsession."
+    category: history
+
+  - id: 2
+    name: "Quốc Ngữ Romanization as Colonial Technology"
+    description: "Portuguese Jesuit origins (1620s), French adoption (1881). Ironic enabler of nationalist resistance. Learning in weeks vs years for classical Chinese."
+    category: history
+
+  - id: 3
+    name: "French Colonial Education (1858-1945)"
+    description: "Franco-Vietnamese dual school system. Only 1 in 10 school-age children in school by 1925. Quốc ngữ at lower levels, French at upper levels."
+    category: history
+
+  - id: 4
+    name: "Phan Châu Trinh & Đông Kinh Nghĩa Thục (1907)"
+    description: "'Chi bằng học' principle. Eight-month school closed by French. Modernization through enlightenment, 'khai dân trí'. Early liberal education movement."
+    category: history
+
+  - id: 5
+    name: "Democratic Republic Education (1945-1975)"
+    description: "Bình dân học vụ literacy campaign. Wartime education. Distinct North (Soviet model) vs South systems. Ideological function central to curriculum."
+    category: history
+
+  - id: 6
+    name: "Reunification & Socialist Education (1975-1986)"
+    description: "Unified system, Soviet model, 'red and expert' emphasis. High ideological content. Centralized curriculum control."
+    category: history
+
+  - id: 7
+    name: "Đổi Mới Education Reform (1986-2000)"
+    description: "Market economy adaptation. Shift from pure ideology to pragmatic skills. Introduction of private tutoring ecosystem. Decentralization began."
+    category: history
+
+  # === LEGAL & POLICY FRAMEWORK ===
+  - id: 8
+    name: "Luật Giáo dục 1998, 2005, 2019"
+    description: "Legal framework evolution. 2019 Law (43/2019/QH14): competency-based orientation, universal education for 5-year-olds, inclusive education as preferred mode."
+    category: policy
+
+  - id: 9
+    name: "Chương trình GDPT 2018 (New Curriculum)"
+    description: "Shift from knowledge-based to competency-based. 'One program, multiple textbooks'. Teacher adaptation challenges. Implementation fidelity gaps."
+    category: policy
+
+  - id: 10
+    name: "Resolution 71-NQ/TW (2023-2024)"
+    description: "Supersedes Resolution 77. Breakthrough objectives for education 2030, vision 2045. Full autonomy for higher education institutions."
+    category: policy
+
+  - id: 11
+    name: "Chiến lược phát triển GD 2021-2030"
+    description: "National education development strategy. Goals for quality, equity, and international integration."
+    category: policy
+
+  - id: 12
+    name: "English as Second Language Initiative (2025-2045)"
+    description: "Decree 222/2025/ND-CP. English mandatory from Grade 1. Target 22,000 new teachers by 2030. Critical for global integration."
+    category: policy
+
+  # === THE GOOD ===
+  - id: 13
+    name: "Bình dân học vụ — Literacy Revolution"
+    description: "From 95% illiteracy (1945) to 96% literacy (2019). 2.5M literate in 1 year, 75,000 classes. One of history's most successful mass education campaigns."
+    category: good
+
+  - id: 14
+    name: "PISA Overperformance"
+    description: "2012 debut: outperforming countries with 5-10x GDP. 2022: 31st math, 34th reading, 37th science. Despite decline, still 72-79% at Level 2+."
+    category: good
+
+  - id: 15
+    name: "Strong Math/Science Tradition"
+    description: "IMO medals, regional competition success. Deep cultural value placed on academic achievement."
+    category: good
+
+  - id: 16
+    name: "Expansion of Access"
+    description: "From elite to mass education. Rising enrollment at all levels. 84% of five-year-olds in full-day preschool (up from 66% in 2011)."
+    category: good
+
+  - id: 17
+    name: "Early Childhood Education Expansion"
+    description: "84% of 5-year-olds now in full-day preschool. Education Law mandates universal education for 5-year-olds. Critical foundation for later achievement."
+    category: good
+
+  # === THE BAD ===
+  - id: 18
+    name: "Rote Learning Culture (Học Vẹt)"
+    description: "Confucian exam tradition -> French colonial exam -> Soviet system -> modern exam obsession. Multi-century institutional path dependency toward memorization."
+    category: bad
+
+  - id: 19
+    name: "Exam-Oriented System (Bệnh Thành Tích)"
+    description: "Achievement disease, grade inflation. 26.3% secondary students contemplated suicide. 14.2% 12-month suicidal ideation among high school students."
+    category: bad
+
+  - id: 20
+    name: "Teacher Salary Crisis & Moonlighting"
+    description: "60% of teachers need secondary employment. Foreign teachers earn 2-3x local salaries. Inadequate pay creates retention and quality problems."
+    category: bad
+
+  - id: 21
+    name: "Urban-Rural Inequality"
+    description: "Secondary enrollment 76% rural vs 90% urban. Household spending 3x higher urban. 86% ethnic minorities in rural/mountainous areas."
+    category: bad
+
+  - id: 22
+    name: "Ethnic Minority Completion Rates"
+    description: "55-60% completion for non-Kinh vs higher for Kinh. Dropout 2x, enrollment 5x late. Language barrier as primary driver."
+    category: bad
+
+  - id: 23
+    name: "University Quality Gap"
+    description: "VNU Hanoi #761-770 QS 2026. Only 11 universities in THE rankings. Massification without quality assurance."
+    category: bad
+
+  - id: 24
+    name: "TVET Reform and Skills Gap"
+    description: "Skilled workers only 23% of workforce. TVET doesn't meet labor demands. GIZ-supported reform in 11 colleges."
+    category: bad
+
+  # === THE UGLY ===
+  - id: 25
+    name: "Corruption in Education"
+    description: "Diploma mills, fake degrees (15 teachers in Bắc Giang), Hà Giang 2018 admission scandal. Systemic trust deficit."
+    category: ugly
+
+  - id: 26
+    name: "Dạy Thêm / Học Thêm Shadow Education"
+    description: "VND 1-1.5M/day private tutoring vs modest salary. Teachers incentivized to underteach in public school. Conflicts of interest."
+    category: ugly
+
+  - id: 27
+    name: "Textbook Monopoly & Pricing Corruption"
+    description: "Former NXB Giáo dục chairman accepted bribes. 14.8B VND added to textbook costs. New prices 2-3x old books."
+    category: ugly
+
+  - id: 28
+    name: "Brain Drain"
+    description: "80% of self-financed students don't return. Talent emigration reflects quality/opportunity perception gap."
+    category: ugly
+
+  - id: 29
+    name: "Mental Health Crisis"
+    description: "Student pressure, suicide rates during exam season. Lack of counseling infrastructure. Academic stress epidemic."
+    category: ugly
+
+  # === DREAMS & IDEALS ===
+  - id: 30
+    name: "'Hiền tài là nguyên khí quốc gia' — Thân Nhân Trung"
+    description: "15th century (1419-1499). First Temple of Literature doctorate stele inscription 1484. National talent ideology."
+    category: ideal
+
+  - id: 31
+    name: "Hồ Chí Minh 'Trồng Người' Philosophy"
+    description: "'Vì lợi ích mười năm trồng cây, vì lợi ích trăm năm trồng người'. Education as tool for nation building. 'Red and expert' tension."
+    category: ideal
+
+  - id: 32
+    name: "EdTech & Digital Transformation"
+    description: "200+ startups, $3B+ market. 44.3% CAGR online education. AI/AR/VR. Post-COVID consolidation. 'Bình dân học vụ số' concept."
+    category: dream
+
+  - id: 33
+    name: "STEM Education National Initiative (2025-2035)"
+    description: "35% STEM enrollment target by 2030. 100 internationally-standardized STEM classrooms. High-tech workforce development."
+    category: dream
+
+  - id: 34
+    name: "Inclusive Education for Disabilities"
+    description: "From complete exclusion (1997) to 2019 law. Only 1 in 10 disabled children in secondary school. Three-model system. Capacity gaps."
+    category: dream
+
+  - id: 35
+    name: "Gender Equality in Education"
+    description: "98% primary enrollment but low attendance for girls. 3x spending gap. Targets: 30% female TVET by 2025, 40% by 2030."
+    category: dream
+
+execution:
+  batch_size: 7
+  items_per_agent: 5
+  output_dir: ./results

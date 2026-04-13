@@ -1,0 +1,61 @@
+{
+  "id": "researcher_tian",
+  "name": "Edward Tian",
+  "type": "researcher",
+  "institution": "Princeton University (Class of 2023, CS); CEO and co-founder of GPTZero Inc.",
+  "specialty": "AI text detection; creator of GPTZero — the most widely used AI detector in education worldwide",
+
+  "dinh_nghia": "Tian's contribution is practical rather than definitional. GPTZero operationalizes AI-generated text detection through two measurable properties: perplexity (randomness/predictability of word choice within sentences) and burstiness (variation of perplexity across sentences). Human writing has high burstiness; AI text has low, uniform burstiness.",
+
+  "phan_loai": "Tian's work addresses a specific sub-category of AI-assisted misconduct: submitting AI-generated text as original human writing without disclosure. GPTZero does not distinguish between different categories of academic misconduct — it detects AI authorship probability, which educators then use to investigate potential integrity violations.",
+
+  "lich_su_khai_niem": "GPTZero was built over the 2022-2023 winter break (December-January) while Tian was a Princeton undergraduate. ChatGPT had launched November 30, 2022 and immediately generated concerns about AI-generated academic submissions. Tian released GPTZero on January 2, 2023. In week 1: 30,000 users; site crashed; Streamlit allocated emergency server capacity. By 2024: 2.5M+ educators using the platform.",
+
+  "ten_truong_hop": "GPTZero launch (Jan 2, 2023): 30,000 users in first week, site crashed; viral NPR story (Jan 9, 2023); May 2023: $3.5M seed funding; Summer 2024: $10M Series A; as of 2024: 2.5M+ educator users in 40+ countries; recognized as the leading AI detection tool for education.",
+
+  "dien_bien": "Tian, a Princeton CS student with a thesis on AI detection, spent winter break 2022-2023 building GPTZero in a Toronto coffee shop, motivated by concerns about ChatGPT being used to cheat on assignments. He tweeted the demo on January 2, 2023, and it went viral immediately — driven by educator anxiety about ChatGPT. The tool measures perplexity (sentence-level unpredictability) and burstiness (variation across sentences), exploiting the fact that AI text tends to be uniformly low-perplexity while human writing varies. GPTZero then evolved into a company with institutional clients, API access, and ongoing model improvements to track newer AI models.",
+
+  "ket_qua_xu_ly": "GPTZero is now a commercial AI detection platform used by 2.5M+ educators. It has raised $13.5M total (seed + Series A). Tian graduated from Princeton in 2023 and became full-time CEO. GPTZero has faced criticism for false positives (especially ESL writers) and has invested in false-positive reduction features including a 'writing reports' feature providing detailed document analysis. The company added human writing verification features in response to false-positive concerns.",
+
+  "con_so_thong_ke": "30,000 users in first week (January 2023); site crashed; 40 US states and 30 countries in first months; 2.5M+ educators by 2024; $3.5M seed (May 2023); $10M Series A (Summer 2024); 40+ countries represented in user base; false positive rate: GPTZero has invested in reducing false positives but exact rates vary by model and writing style.",
+
+  "hai_cho_nguoi_hoc": "Students who submit AI-generated text without disclosure are not developing their writing, analytical, or critical thinking skills. Tian's motivation was explicitly to preserve the value of genuine student learning against AI shortcutting.",
+
+  "hai_cho_nghien_cuu": "AI-generated academic papers submitted without disclosure pollute the knowledge base with unverified, potentially hallucinated content. GPTZero's detection capability extends to research contexts — not just student assignments.",
+
+  "hai_cho_xa_hoi": "Undetected AI-generated submissions at scale devalue academic credentials, undermine employer trust in graduates, and — in professional training programs — create safety risks when graduate competency is not genuine.",
+
+  "cong_cu_phat_hien": "GPTZero is the primary tool created by Tian. Technical mechanism: (1) Perplexity — measures how surprised a language model is by each word in the text; AI text tends to be low-perplexity (predictable); human text is more varied. (2) Burstiness — humans write with varying sentence complexity (simple then complex); AI writes uniformly. (3) Later additions: paragraph-level highlighting, document-level scoring, humanized AI detection. Accuracy: strong on pure AI text; weaker on human-edited AI text.",
+
+  "han_che_cong_cu": "GPTZero's primary limitation is false positives, especially for: ESL/EFL writers (whose writing patterns may resemble AI); academic writing with formal style (naturally low perplexity); heavily edited text. Liang et al. (Stanford 2023) found 61.3% false positive rates for non-native English speakers using similar detection tools. GPTZero has publicly acknowledged this limitation and implemented mitigation features, but the arms race between detection and AI humanization tools continues.",
+
+  "watermarking": "Tian is aware of LLM watermarking research (Kirchenbauer/UMD, Aaronson/OpenAI) as a complementary or alternative approach to post-hoc detection. GPTZero's detection-based approach differs from watermarking (which embeds signals in AI-generated text at generation time). Tian has noted that watermarking requires AI companies' cooperation and doesn't work for open-source models, supporting the continued need for external detection tools.",
+
+  "thiet_ke_bai_tap": "Tian's work implicitly supports assessment redesign — if assignments are designed so that AI cannot generate plausible responses (oral defenses, process portfolios, personalized prompts), detection becomes less necessary. GPTZero is a complement to, not a replacement for, good assessment design.",
+
+  "chinh_sach_truong_hoc": "Many institutions (K-12 and HE) have adopted GPTZero as part of their AI integrity policy toolkit. GPTZero provides institutional API access and integration with learning management systems. Tian has engaged with school districts and universities on policy frameworks for AI detection.",
+
+  "van_hoa_to_chuc": "Tian has expressed concern about adversarial use of detection — institutions using GPTZero punitively without considering false positive risks. He advocates for detection as one tool in a broader integrity ecosystem, not as a standalone enforcement mechanism.",
+
+  "ai_literacy": "Tian has become an advocate for AI literacy alongside detection — arguing that students and educators need to understand what AI is and how it works in order to use it responsibly. His public profile (NPR, The Daily Beast, Princeton Princetonian) has contributed to mass AI literacy.",
+
+  "khung_quoc_te": "GPTZero is used in 40+ countries and is the de facto standard AI detection tool in education globally. Tian has engaged with education ministries, accreditation bodies, and international academic integrity organizations. His tool is referenced in academic integrity policy discussions worldwide.",
+
+  "phap_luat_viet_nam": "[uncertain] GPTZero is globally accessible and likely used by Vietnamese educators, but Tian has not specifically engaged with Vietnamese educational law or published on Vietnam context.",
+
+  "chinh_sach_chau_a": "[uncertain] GPTZero is used in Asian universities including those in Singapore, Hong Kong, and likely Vietnam. Tian has not published specific Asian policy guidance, but the tool's global deployment includes Asian institutions.",
+
+  "ai_tutor_vs_ai_cheater": "Tian is squarely on the 'AI as cheater' detection side — his entire product exists to identify AI-generated text that students submit as their own. However, Tian has expressed nuanced views: he does not oppose all AI use in education, but believes undisclosed AI submission undermines the learning contract.",
+
+  "edtech_company_policies": "GPTZero is itself an EdTech company. Tian has worked with Turnitin, major LMS providers, and school districts to integrate detection into existing EdTech infrastructure. His company's policy evolution — from simple detection to nuanced writing reports — reflects EdTech's challenge in balancing detection accuracy with false-positive harm.",
+
+  "de_xuat_nha_nghien_cuu": "Tian recommends: (1) use AI detection as one layer in a multi-pronged integrity approach — not a standalone solution; (2) invest in false-positive mitigation, especially for ESL writers; (3) combine detection with assessment redesign and AI literacy education; (4) develop industry standards for AI detection accuracy and transparency; (5) advocate for AI companies to implement watermarking to make detection more reliable; (6) engage policymakers on AI detection ethics — due process before punishing based on detection output.",
+
+  "bai_bao_khoa_hoc": "Tian has not published traditional peer-reviewed papers — his contribution is the GPTZero tool and associated technical documentation. GPTZero's methodology is described in blog posts and technical documentation at gptzero.me. His work is cited extensively in academic integrity literature including Perkins et al. (2023), Newton & Xiromeriti (2023), and others.",
+
+  "sach_tham_khao": "GPTZero technical documentation (gptzero.me); news coverage: NPR (Jan 9, 2023), The Daily Beast, The Princetonian; investor announcements (seed and Series A). Tian's Princeton thesis on AI detection.",
+
+  "nguon_viet_nam": "[uncertain] GPTZero is globally accessible. Vietnamese educators and students use AI detection tools including GPTZero, but no Vietnam-specific documentation or Tian publications on Vietnam context identified.",
+
+  "uncertain": ["phap_luat_viet_nam", "chinh_sach_chau_a", "nguon_viet_nam"]
+}

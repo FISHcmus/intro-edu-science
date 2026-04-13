@@ -1,0 +1,88 @@
+topic: "AI Academic Integrity & EdTech Ethics — Vietnam, Asia-Pacific, and Global Frameworks"
+date: 2026-04-12
+
+items:
+  # === VIETNAM LEGAL FRAMEWORK ===
+  - id: 1
+    name: "Luật Khoa học và Công nghệ 2013 & Research Integrity"
+    description: "Vietnam Law on Science and Technology No. 29/2013/QH13. Research integrity provisions, misconduct definitions, institutional responsibilities. Amended 2018. How it addresses fabrication, falsification, plagiarism."
+    category: vietnam_law
+
+  - id: 2
+    name: "MOET Circulars on Academic Integrity (Thông tư liêm chính)"
+    description: "Bộ GD&ĐT (Ministry of Education and Training) circulars on academic honesty, plagiarism detection requirements, institutional policies. Thông tư 09/2009/TT-BGDDT and later circulars on thesis evaluation and integrity."
+    category: vietnam_law
+
+  - id: 3
+    name: "QĐ 1705/QĐ-TTg — Chiến lược GD 2030 & AI/Integrity Provisions"
+    description: "Prime Minister Decision 1705/QĐ-TTg on Education Development Strategy to 2030, vision 2045. What it says about digital transformation, AI in education, ethical use, and integrity. CMCN 4.0 integration."
+    category: vietnam_policy
+
+  - id: 4
+    name: "MOET AI in Education Policy — Công văn and Directives 2023-2025"
+    description: "Ministry of Education directives on AI use in schools and universities. Any official guidance on ChatGPT/AI tools in classrooms. Responses from Hanoi National University, VNU, HCMUS, etc."
+    category: vietnam_policy
+
+  - id: 5
+    name: "Documented AI Fraud Cases in Vietnamese Universities 2023-2025"
+    description: "Specific documented cases of students using AI (ChatGPT, Gemini) for assignments, theses, exams in Vietnamese universities. Institutional responses. Public discourse on VnExpress, Tuổi Trẻ, Thanh Niên."
+    category: vietnam_cases
+
+  # === EDTECH COMPANY POLICIES ===
+  - id: 6
+    name: "Duolingo AI Ethics Policy & Integrity Stance"
+    description: "Duolingo's approach to AI in language learning. Max AI integration post-2023 (replaced contractors). Integrity stance: how they handle AI-assisted cheating on Duolingo English Test. Their responsible AI framework."
+    category: edtech_company
+
+  - id: 7
+    name: "Khan Academy Khanmigo AI Ethics Policy"
+    description: "Khan Academy's Khanmigo AI tutor. Sal Khan's framing of AI as tutor not cheater. Specific integrity policies: how Khanmigo refuses to write essays, encourages Socratic dialogue. Published guidelines."
+    category: edtech_company
+
+  - id: 8
+    name: "Coursera AI Integrity Policy 2023-2025"
+    description: "Coursera's response to AI fraud. Honor code updates. AI-generated content detection. Verified certificates vs. AI-assisted completion. How they handle AI use on graded assignments."
+    category: edtech_company
+
+  # === EDTECH RESEARCHER FRAMEWORKS ===
+  - id: 9
+    name: "AI Tutor vs AI Cheater — Academic Framing (Selwyn, Luckin, Holmes)"
+    description: "Key EdTech researchers who frame the AI-in-education integrity debate. Neil Selwyn (Monash), Rose Luckin (UCL), Wayne Holmes (UCL). Their published positions on AI fraud vs. AI augmentation. Key papers 2023-2025."
+    category: academic_research
+
+  - id: 10
+    name: "ISTE AI in Education Standards 2023"
+    description: "International Society for Technology in Education AI standards. What ISTE says about ethical AI use by students and educators. Specific competencies related to integrity and responsible AI. Published 2023 guidance."
+    category: framework
+
+  - id: 11
+    name: "UNESCO Recommendation on AI in Education & Ethics"
+    description: "UNESCO's Guidance for Generative AI in Education and Research (2023). Beijing Consensus on AI and Education. How UNESCO frames integrity, national policy recommendations. Specific sections on plagiarism and fraud."
+    category: framework
+
+  # === ASIA-PACIFIC POLICIES ===
+  - id: 12
+    name: "NUS & NTU Singapore AI Academic Integrity Policies"
+    description: "National University of Singapore and Nanyang Technological University AI use policies. Specific rules for different assignment types. Detection tools used. How Singapore's MOE frames AI integrity nationally."
+    category: singapore
+
+  - id: 13
+    name: "Australian Universities AI Integrity Policies (Monash, Melbourne, ANU)"
+    description: "Monash University AI use policy (Monash AI Use Framework 2023). University of Melbourne AI policy. ANU generative AI policy. How Australian academics frame contract cheating vs AI-assisted learning. TEQSA response."
+    category: australia
+
+  - id: 14
+    name: "Asia vs Western Approaches to AI Academic Integrity"
+    description: "Comparative analysis: Confucian exam culture influences, face culture and reporting rates, institutional trust, authority-based vs. student-centered policy framing. Why Asian universities may have different AI fraud patterns."
+    category: comparative
+
+  # === PUBLISHED FRAMEWORKS ===
+  - id: 15
+    name: "Ethical AI Integration Frameworks for EdTech Researchers"
+    description: "Published academic frameworks for ethical AI integration in EdTech contexts. CoSN AI guidelines. EDUCAUSE AI policy resources. Any peer-reviewed frameworks from 2022-2025 specifically for EdTech researchers designing AI-integrated learning."
+    category: framework
+
+execution:
+  batch_size: 5
+  items_per_agent: 3
+  output_dir: ./results

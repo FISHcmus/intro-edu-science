@@ -1,0 +1,62 @@
+{
+  "id": "case_emory_craver",
+  "name": "Benjamin Craver — Emory University (2024)",
+  "type": "real_case",
+  "category": "student_disciplinary",
+  "institution": "Emory University",
+  "year": 2024,
+
+  "dinh_nghia": "An unusual case at the boundary of innovation and academic integrity: a student who won a university-sanctioned $10,000 prize for building an AI study tool was subsequently suspended under the university's honor code for facilitating potential AI-assisted dishonesty by other students — despite no confirmed instances of misuse.",
+
+  "phan_loai": "Facilitating academic dishonesty (not direct AI cheating): Emory's honor code prohibits 'intentionally' helping other students cheat, plagiarize, or violate the honor code. The allegation was that Eightball's AI features could be used to complete assignments dishonestly. No evidence of direct AI-assisted exam cheating by Craver himself.",
+
+  "lich_su_khai_niem": "The Craver case (2024) marks a new category of AI academic integrity dispute: sanction of the tool-builder rather than the tool-user. It highlights the policy ambiguity when universities both incentivize AI EdTech innovation (startup competitions) and enforce anti-AI honor codes — a contradiction that emerged with the EdTech boom post-ChatGPT (2023-2024).",
+
+  "ten_truong_hop": "Benjamin Craver and unnamed co-founder — Emory University, Atlanta, Georgia. Undergraduates who created AI study tool 'Eightball.' Won $10,000 in Emory's startup pitch competition. Honor Council recommended: Craver — suspension (summer + fall 2024 semesters); co-founder — initially expulsion, reduced to one-year suspension. Craver filed lawsuit against Emory.",
+
+  "dien_bien": "Benjamin Craver and a co-founder, both Emory University undergraduates, created an AI study tool called 'Eightball' designed to convert coursework materials (lecture notes, syllabi) into study aids such as flashcards and practice tests. The tool won Emory's own startup pitch competition, earning $10,000 in prize money from the university. Subsequently, Emory's Honor Council reviewed the product and determined it 'may be used by students to complete assignments in violation of the Undergraduate Academic Honor Code.' The council invoked the provision prohibiting students from 'intentionally' helping others cheat. Despite Emory's own concession that there was no evidence anyone had ever used Eightball to cheat, the Honor Council recommended suspension for Craver and expulsion for his co-founder (later reduced to one-year suspension). Craver filed a lawsuit against Emory challenging the disciplinary action.",
+
+  "ket_qua_xu_ly": "Craver: suspended for summer and fall 2024 semesters. Co-founder: initially expelled, penalty reduced to one-year suspension on appeal. Craver sued Emory seeking to reverse the suspension and seeking damages — the lawsuit alleged Emory acted inconsistently by first rewarding and then punishing the same product. Case raised significant media attention about institutional inconsistency on AI policy.",
+
+  "con_so_thong_ke": "2 students disciplined; $10,000 prize money awarded by Emory to the same product it later penalized students for creating; 0 confirmed instances of Eightball being used by any student to cheat (per Emory's own admission); 1 lawsuit filed by Craver.",
+
+  "hai_cho_nguoi_hoc": "The case creates a chilling effect on student AI innovation: legitimate EdTech entrepreneurs face punishment for building tools that could theoretically enable misuse, even without evidence of actual misuse. This discourages students from developing AI literacy and entrepreneurial skills that are valuable to society. It also illustrates how overly broad honor code enforcement can harm rather than protect educational integrity.",
+
+  "hai_cho_nghien_cuu": "The case does not directly harm research integrity, but the institutional contradiction — rewarding and punishing the same AI tool — undermines clear policy frameworks needed for responsible AI development in academic contexts.",
+
+  "hai_cho_xa_hoi": "Broad societal implications: if universities punish students for building AI learning tools, they disincentivize the EdTech innovation sector. This case was widely covered in technology media (404 Media, Yahoo Finance, Entrepreneur) and became a reference point in the debate about how institutions should balance AI restriction and AI adoption.",
+
+  "cong_cu_phat_hien": "No AI detection tool was used. Detection was administrative: the Honor Council reviewed the Eightball product's features and capabilities and applied a prospective risk assessment — punishing potential facilitation rather than actual detected misuse.",
+
+  "han_che_cong_cu": "This case illustrates the limits of a purely enforcement-based approach: when there is no actual detected cheating event, the institution's only evidence is capability-based (the tool could be misused). This mirrors the broader challenge of regulating AI tools: Turnitin, GPTZero etc. detect after-the-fact misuse; there is no mechanism to prospectively evaluate whether a study tool will be used for cheating.",
+
+  "watermarking": "Watermarking is not directly relevant to this case, as the alleged violation is tool-building, not text generation. However, if Eightball's AI outputs were watermarkable, it could potentially help distinguish study aid use from assignment submission fraud.",
+
+  "thiet_ke_bai_tap": "The case argues for assignment design that renders AI study tools neutral or beneficial rather than cheating-enabling. If assignments require authentic personal reflection, oral defense, or process portfolios, AI-generated flashcards and practice tests (like Eightball's core function) cannot be misused for final submissions.",
+
+  "chinh_sach_truong_hoc": "Emory's honor code prohibits intentionally facilitating others' violations. The case exposed a contradiction between Emory's startup competition (which explicitly endorsed AI EdTech building) and its honor code enforcement. Post-case, Emory's policy remained unchanged publicly — no disclosure framework distinguishing 'study aid AI' from 'submission AI' was announced.",
+
+  "van_hoa_to_chuc": "The case exemplifies institutional inconsistency — the antithesis of a trust-based honor code culture (McCabe framework). When a university rewards and punishes the same behavior, it erodes student trust in institutional fairness and reduces voluntary compliance with integrity norms.",
+
+  "ai_literacy": "The Craver case reveals the need for clear institutional guidance distinguishing: AI tools that support learning (flashcards, practice tests, note organization) vs. AI tools that substitute for assessed work (essay writing, exam answer generation). AI literacy programs should address this distinction for both students and faculty.",
+
+  "khung_quoc_te": "IEEE EAD and ACM Code of Ethics address the responsibilities of technology creators to prevent foreseeable misuse. The case raises the question of whether EdTech developers have an integrity obligation to build misuse-prevention features into study tools. UNESCO's 2023 AI in Education guidance does not address tool-builder liability.",
+
+  "phap_luat_viet_nam": "Luật KH&CN 2025 (upcoming, [uncertain]) and Nghị định 109/2022/NĐ-CP do not address EdTech startup liability for academic integrity violations. Vietnamese law has no equivalent to Emory's honor code provision on facilitating dishonesty.",
+
+  "chinh_sach_chau_a": "NUS (Singapore) adopted an AI disclosure framework (2023/2024) that distinguishes permitted AI study tools from prohibited AI submission substitutes — a policy approach that would have avoided the Craver contradition. NTU's zero-mark policy focuses on submitted work, not tool-building.",
+
+  "ai_tutor_vs_ai_cheater": "The Eightball case directly engages the Rose Luckin (AI as tutor) vs. Neil Selwyn (AI as cheater) debate. Eightball was designed as an AI tutor (study aids, practice tests). Emory treated it as a potential AI cheater enabler. The case illustrates that the same tool can be pedagogically beneficial or academically fraudulent depending on the context of use — and that blanket prohibition of AI study tools is counterproductive.",
+
+  "edtech_company_policies": "Eightball represents the student-as-EdTech-builder category. Khan Academy Khanmigo (Socratic AI tutor, refuses to write essays), Coursera's AI-assisted content, and Duolingo's in-product AI all provide comparable study aid functions without being classified as honor code violations — revealing the inconsistency of penalizing student-built equivalents.",
+
+  "de_xuat_nha_nghien_cuu": "From an EdTech research perspective: (1) universities should establish an explicit 'permitted AI study tools' framework before running startup competitions that reward AI EdTech; (2) honor code provisions on facilitation should require demonstrated harm (actual misuse), not theoretical capability; (3) AI-resistant assessment design (oral defense, process documentation) makes study tool AI neutral to academic integrity; (4) the AIAS 5-tier framework (Perkins) for permitted AI use should be extended to cover EdTech tool classification.",
+
+  "bai_bao_khoa_hoc": "Perkins, M., et al. (2023). Academic Integrity Considerations of AI Large Language Models in the Post-ChatGPT Era. Journal of University Teaching & Learning Practice, 20(2). Haider, A.S., et al. (2024). Using AI in Education: Academic Integrity Perspectives. Journal of Academic Ethics.",
+
+  "sach_tham_khao": "Eaton, S.E. (2021). Plagiarism in Higher Education. ABC-CLIO. McCabe, D.L., Butterfield, K.D., & Treviño, L.K. (2012). Cheating in College. Johns Hopkins University Press.",
+
+  "nguon_viet_nam": "No direct Vietnamese source. Tangentially relevant: FPT University and Van Lang University's Coursera AI pilot in Vietnam represents the EdTech integration model that the Craver case argues for vs. prohibition.",
+
+  "uncertain": ["phap_luat_viet_nam (Luật KH&CN 2025 status uncertain)", "ket_qua_xu_ly (final lawsuit outcome not confirmed in search results as of April 2026)"]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "researcher_lancaster",
+  "name": "Thomas Lancaster",
+  "type": "researcher",
+  "institution": "Imperial College London (Principal Teaching Fellow in Computing); formerly Birmingham City University",
+  "specialty": "Contract cheating, AI in academic integrity, plagiarism detection, essay mills",
+
+  "dinh_nghia": "Academic integrity violations include contract cheating — where a student submits work completed by a third party as their own — a term Lancaster and Clarke (2006) helped define and popularize. With the rise of generative AI, this definition now extends to AI-assisted submission where AI providers function analogously to criminal essay mills.",
+
+  "phan_loai": "Lancaster's work covers plagiarism, contract cheating (essay mills, file-sharing sites), AI-assisted cheating (ChatGPT and similar LLMs used to generate assessments), and fabricated citations. His 2024 work with Cotarlan frames AI providers as criminal essay mills — a new category in the taxonomy of academic misconduct.",
+
+  "lich_su_khai_niem": "Lancaster and Clarke coined the term 'contract cheating' in a 2006 paper identifying outsourced academic work as a distinct integrity threat. The concept evolved from simple plagiarism detection into a multi-front challenge encompassing file-sharing, essay mills, and from 2022 onward, generative AI tools.",
+
+  "ten_truong_hop": "Lancaster & Cotarlan (2024): AI providers as criminal essay mills (ICT Law Journal); Lancaster (2019): systemic analysis of contract cheating policies (Journal of Academic Ethics 17(2):101-122); Lancaster 2025: policies for historic contract cheating and generative AI misuse.",
+
+  "dien_bien": "Lancaster has documented that AI providers such as ChatGPT and similar LLMs can be used to fulfill essay-mill-style requests, bypassing traditional detection. His 2024 ICT Law paper argues these constitute criminal academic misconduct analogous to illegal essay mills. He has also catalogued the evolution from simple file-sharing cheating services (pre-2010) to sophisticated AI tools (2022+).",
+
+  "ket_qua_xu_ly": "Lancaster advocates for policy frameworks that retrospectively address contract cheating and proactively govern generative AI misuse. His 2025 paper on developing policies for historic cheating and GenAI reflects ongoing institutional responses. He has been cited by lawmakers and regulatory bodies in UK discussions about banning essay mills.",
+
+  "con_so_thong_ke": "Lancaster has been cited by over 3,200 scholars (Google Scholar). His research spans over 20 years and covers multiple jurisdictions. As of 2025, he has contributed to policies at Imperial College London and beyond.",
+
+  "hai_cho_nguoi_hoc": "Students who rely on contract cheating or AI-generated submissions fail to develop critical thinking, subject expertise, or professional skills. Lancaster argues this creates a hollow credential — a graduate who cannot perform the competencies their degree certifies.",
+
+  "hai_cho_nghien_cuu": "When AI-generated text is submitted as original academic work, it introduces unverified claims and potentially hallucinated citations into the knowledge base, eroding the integrity of peer review and scholarly discourse.",
+
+  "hai_cho_xa_hoi": "Widespread contract cheating degrades the value of academic credentials, undermines employer trust in graduates, and — in safety-critical fields (medicine, engineering, law) — poses direct public safety risks.",
+
+  "cong_cu_phat_hien": "Lancaster has researched detection tools including Turnitin, GPTZero, and digital watermarking. He notes that AI-generated text detection is an active arms race between detection tools and humanization/paraphrasing tools that circumvent them.",
+
+  "han_che_cong_cu": "Lancaster acknowledges significant limitations: AI detectors produce false positives especially for non-native English speakers, and humanized AI text is difficult to reliably detect. He argues that detection alone is insufficient — structural assessment redesign is necessary.",
+
+  "watermarking": "Lancaster has written about LLM watermarking as a potential technical solution. He notes that cryptographic and statistical watermarking (e.g., UMD Kirchenbauer approach) is promising but not yet universally deployable, especially for open-source models.",
+
+  "thiet_ke_bai_tap": "Lancaster advocates for assessment redesign as a primary preventive measure — oral defenses, process portfolios, staged submissions, and personalized tasks that are difficult for AI or essay mills to complete authentically.",
+
+  "chinh_sach_truong_hoc": "His 2019 and 2025 papers provide frameworks for institutional policy, covering detection, deterrence, education, and retrospective handling of detected cases. He has contributed to policy at Imperial College London and to national UK discussions.",
+
+  "van_hoa_to_chuc": "Lancaster emphasizes that deterrence-only policies are insufficient. He argues for culture-building approaches that make academic integrity a positive value rather than merely a compliance obligation.",
+
+  "ai_literacy": "Lancaster's work implicitly supports AI literacy as a precondition for responsible use — students and educators must understand AI capabilities and limitations to distinguish legitimate AI-assisted work from AI fraud.",
+
+  "khung_quoc_te": "Lancaster's research aligns with ICAI (International Center for Academic Integrity) principles and has informed policy in the UK, Australia, and internationally. His ICT Law paper on AI as criminal essay mills engages with legal and regulatory frameworks.",
+
+  "phap_luat_viet_nam": "[uncertain] Lancaster has not published specifically on Vietnamese law, but his frameworks on essay mill legislation are relevant to Vietnam's developing regulatory landscape.",
+
+  "chinh_sach_chau_a": "[uncertain] Limited direct engagement with Asian policy contexts in Lancaster's published work; however his frameworks are cited globally including in Asian universities.",
+
+  "ai_tutor_vs_ai_cheater": "Lancaster is firmly focused on the cheating dimension of AI — framing AI tools as potential criminal instruments analogous to essay mills. He does not foreground the 'AI as tutor' narrative in his work, representing the integrity-threat side of the debate.",
+
+  "edtech_company_policies": "Lancaster's work on AI as essay mills implicitly critiques the lack of safeguards in AI platforms that allow academic fraud. He calls for legal and policy accountability for providers that knowingly facilitate contract cheating.",
+
+  "de_xuat_nha_nghien_cuu": "Lancaster recommends: (1) legal frameworks criminalizing AI-assisted essay mill services; (2) institutional policies covering both detection and prevention; (3) assessment redesign to reduce opportunities for AI fraud; (4) retrospective policies for handling historical cases; (5) international regulatory coordination.",
+
+  "bai_bao_khoa_hoc": "Lancaster & Clarke (2006) — coined 'contract cheating' term; Lancaster (2019) J. Academic Ethics 17(2):101-122; Lancaster & Cotarlan (2024) ICT Law Journal — AI as criminal essay mills; Lancaster (2025) — policies for historic cheating and GenAI.",
+
+  "sach_tham_khao": "Lancaster has contributed chapters to Bretag's Handbook of Academic Integrity (Springer 2016). His own website (thomaslancaster.co.uk) hosts research reports and policy briefs.",
+
+  "nguon_viet_nam": "[uncertain] No specific Vietnamese-context publications identified for Lancaster. His work is globally applicable and cited in Southeast Asian integrity research.",
+
+  "uncertain": ["phap_luat_viet_nam", "chinh_sach_chau_a", "nguon_viet_nam"]
+}

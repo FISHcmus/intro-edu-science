@@ -1,0 +1,45 @@
+{
+  "_source_file": "outline.yaml",
+  "id": "researcher_kirchenbauer",
+  "name": "John Kirchenbauer et al.",
+  "type": "researcher",
+  "institution": "University of Maryland",
+  "specialty": "LLM watermarking — green/red token list method",
+  "key_work": "A Watermark for Large Language Models (arXiv 2301.10226, ICML 2023) — pseudorandom green/red vocabulary split; detectable after ~200 tokens at p<0.0001",
+
+  "dinh_nghia": "LLM watermarking is a technique to embed a statistically detectable signal into AI-generated text by biasing the token selection process, enabling downstream detection without access to the model.",
+  "phan_loai": "Technical method for AI-generated text detection; differs from stylometric detection or perplexity-based detection; operates at token probability level during decoding.",
+  "lich_su_khai_niem": "Kirchenbauer et al. published arXiv 2301.10226 in January 2023, presented at ICML 2023. Concurrent work by Scott Aaronson (UT Austin/OpenAI) using Gumbel softmax approach. Neither has been deployed in production LLMs as of 2025.",
+
+  "ten_truong_hop": "A Watermark for Large Language Models — Kirchenbauer, Geiping, Wen, Kirchenbauer, Goldstein (UMD, 2023)",
+  "dien_bien": "The method uses a pseudorandom function seeded by the preceding token to partition the vocabulary into a 'green list' (~50% of tokens) and 'red list'. During generation, the model is nudged to prefer green-list tokens via logit bias delta. Detection is purely statistical: count the fraction of green tokens; a z-score test at p<0.0001 achieves detection after ~200 tokens.",
+  "ket_qua_xu_ly": "Published at ICML 2023 (top ML conference). Spawned extensive follow-up work. Limitation: (1) paraphrase attacks can remove watermark; (2) multilingual content reduces effectiveness; (3) quality degradation at high delta values; (4) no major LLM provider has deployed it in production.",
+  "con_so_thong_ke": "Detection threshold: ~200 tokens at p<0.0001; green list = ~50% vocabulary; logit bias delta typically 1.0–2.0; ICML 2023 acceptance rate ~27.9%.",
+
+  "hai_cho_nguoi_hoc": "Without deployed watermarking, students who submit AI-generated work cannot be reliably detected via this method, undermining fair assessment.",
+  "hai_cho_nghien_cuu": "Hallucinated citations and fabricated content in AI-generated papers cannot currently be flagged by watermarking since no production LLM deploys it. The 'arms race' between watermarking and paraphrase-based evasion continues.",
+  "hai_cho_xa_hoi": "Lack of deployed watermarking means AI-generated disinformation and academic fraud are harder to attribute to specific models, reducing accountability.",
+
+  "cong_cu_phat_hien": "Watermark detector is a separate statistical test: compute z-score of green-token fraction. No model access needed for detection — only the pseudorandom seed function (public). Complementary to tools like GPTZero (perplexity) and Turnitin (stylometric).",
+  "han_che_cong_cu": "Key limitations: (1) paraphrase attacks (copy-paste into another LLM) remove watermark; (2) adversarial token substitution; (3) requires knowing which token-hashing scheme the generator used; (4) quality-utility tradeoff at high delta; (5) not robust across translation or heavy editing.",
+  "watermarking": "Kirchenbauer et al. (UMD, ICML 2023): pseudorandom green/red token split, detectable at ~200 tokens p<0.0001. Aaronson (UT Austin/OpenAI, 2022 blog): Gumbel softmax distortion-free variant. Neither deployed in production (2025). OpenAI explored but did not ship; Google DeepMind has independent research. Main obstacle: paraphrase robustness and quality degradation.",
+
+  "thiet_ke_bai_tap": "Watermarking alone cannot replace assessment redesign. Process-based assessment (staged submissions, oral defense) is more robust than detection tools including watermarking.",
+  "chinh_sach_truong_hoc": "No university policy currently mandates watermark-based detection. Policies from Stanford, MIT, NUS focus on disclosure and process-based evaluation rather than technical detection.",
+  "van_hoa_to_chuc": "Technical detection tools like watermarking are insufficient without an organizational culture of integrity. McCabe's honor-code research shows culture outperforms enforcement.",
+  "ai_literacy": "Understanding watermarking limitations is part of AI literacy for educators: watermarking is a promising but undeployed technical solution, not a current reliable detection method.",
+
+  "khung_quoc_te": "EU AI Act Article 50 (effective 2026) requires disclosure of AI-generated content but does not specify watermarking as the technical mechanism. IEEE EAD and ACM Code both emphasize transparency which watermarking could support.",
+  "phap_luat_viet_nam": "Vietnam's Decree 109/2022 and Luật KH&CN 2025 do not mention watermarking or technical AI detection requirements.",
+  "chinh_sach_chau_a": "NUS, NTU, CUHK policies rely on disclosure frameworks rather than technical watermarking detection.",
+
+  "ai_tutor_vs_ai_cheater": "Watermarking is neutral on this debate — it addresses attribution and detection, not whether AI use is educationally beneficial or harmful.",
+  "edtech_company_policies": "No major EdTech platform (Khan Academy, Coursera, Duolingo) currently uses watermark-based detection. Detection relies on behavioral signals and post-submission analysis.",
+  "de_xuat_nha_nghien_cuu": "From an EdTech research perspective: watermarking is a technically promising long-term solution but should not be relied upon currently. Assessment redesign and AI literacy education are more actionable near-term strategies.",
+
+  "bai_bao_khoa_hoc": "Kirchenbauer et al. (2023) arXiv:2301.10226 / ICML 2023; Aaronson (2022) blog post on Gumbel watermarking; Christ et al. (2023) 'Undetectable Watermarks for Language Models' (cryptographic approach); Zhao et al. (2023) 'Provable Robust Watermarking for AI-Generated Text'.",
+  "sach_tham_khao": "No book-length treatment of LLM watermarking yet (2024). Referenced in Eaton (2024) Second Handbook and in IEEE/ACM technical reports.",
+  "nguon_viet_nam": "No Vietnam-specific watermarking research identified. General AI policy gap in Vietnam (Decree 109/2022) extends to watermarking.",
+
+  "uncertain": []
+}

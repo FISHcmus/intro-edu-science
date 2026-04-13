@@ -1,0 +1,62 @@
+{
+  "id": "case_sheffield_uk",
+  "name": "University of Sheffield — 92 AI misconduct cases (2023–24)",
+  "type": "real_case",
+  "category": "institutional_data",
+  "institution": "University of Sheffield, UK",
+  "year": 2024,
+
+  "dinh_nghia": "Institutional data documenting the explosive growth of AI-related academic misconduct at a UK Russell Group university. The University of Sheffield defines AI misconduct as the unauthorized use of AI generative tools (including ChatGPT and similar LLMs) to produce assessed work, classified under its three-tier academic misconduct policy (poor academic practice / moderate offence / severe offence).",
+
+  "phan_loai": "AI-assisted academic misconduct (unauthorized use of generative AI in assessed work). Sheffield's policy tiers: (1) poor academic practice — inadvertent/low-level; (2) moderate offence — behavior intended to deceive marker; (3) severe offence — extensive misconduct, repeated incidents, clear intent to deceive including AI-generated submission. Possible overlap with contract cheating where AI is used as the 'contractor.'",
+
+  "lich_su_khai_niem": "Sheffield had 6 suspected AI cases in 2022-23 (the year ChatGPT launched). In 2023-24, cases rose to 92 — a ~15x increase in one year. This mirrors the pattern seen across UK Russell Group universities, where Freedom of Information requests (Times Higher Education, 2024) revealed dramatic year-on-year increases. Sheffield's data became a benchmark case for the UK sector's response.",
+
+  "ten_truong_hop": "University of Sheffield, Russell Group, South Yorkshire, UK. 2022-23: 6 suspected AI misconduct cases, 6 penalties. 2023-24: 92 suspected AI misconduct cases, 79 students penalized. Data obtained through Freedom of Information requests and reported in Times Higher Education and The Cheatsheet (Substack).",
+
+  "dien_bien": "Following ChatGPT's launch (November 2022), the University of Sheffield recorded only 6 suspected AI misconduct cases in 2022-23 — consistent with very early-stage tool adoption. By 2023-24, as AI tools became mainstream and student awareness grew, 92 cases were suspected. Of these, 79 students received penalties. The university had to develop AI-specific misconduct categories within its existing three-tier framework. The data was revealed through Freedom of Information requests submitted to Russell Group universities, part of a broader investigative journalism effort (Times Higher Education) that exposed widespread AI cheating increases across UK higher education.",
+
+  "ket_qua_xu_ly": "79 students penalized across 92 suspected cases. Penalties under Sheffield's framework range from mark reduction (poor academic practice tier) to zero on assignment (moderate tier) to course failure, suspension, or degree revocation (severe tier). The 13 cases without penalty may reflect insufficient evidence or successful student appeals. The data triggered university-level reviews of AI policy and assessment design.",
+
+  "con_so_thong_ke": "2022-23: 6 suspected cases, 6 penalties. 2023-24: 92 suspected cases, 79 penalties (86% penalty rate). Year-on-year increase: ~15x (1,433% increase). Sheffield ranks among the highest documented AI misconduct rates in the Russell Group sector. UK context: Guardian FOI data shows nearly 7,000 confirmed AI cheating cases across UK universities in 2023-24 (5.1 per 1,000 students).",
+
+  "hai_cho_nguoi_hoc": "The 79 penalized students faced academic record impacts ranging from grade reduction to degree suspension. The broader cohort of students who do not cheat faces increased surveillance, more restrictive assessment conditions, and reduced trust from faculty — collateral costs imposed by the minority who cheat.",
+
+  "hai_cho_nghien_cuu": "At Sheffield, a major research university (Russell Group), AI-generated submissions in research methods courses, dissertation components, and scientific writing assignments directly compromise the research training pipeline. Graduates who substituted AI for authentic research skill development enter the workforce and research community with credential gaps.",
+
+  "hai_cho_xa_hoi": "The 15x increase in one year signals a structural shift in the scale of academic dishonesty. UK employers and graduate admissions committees began questioning Sheffield and other UK degrees' integrity. Media coverage of the FOI data damaged public trust in higher education quality. The data contributed to government and QAA (Quality Assurance Agency) pressure on universities to update AI policies.",
+
+  "cong_cu_phat_hien": "Sheffield's detection relied on: (1) Turnitin AI detection module (launched 2023) — integrated into existing plagiarism detection workflow; (2) faculty expert judgment on stylistic inconsistencies; (3) comparison of submission with known AI outputs. The university created an explicit 'AI' category in its misconduct tracking system following the rise in cases.",
+
+  "han_che_cong_cu": "Turnitin's AI detection has a 4% sentence-level false positive rate, and higher rates for non-native English speakers (Liang et al., Stanford 2023: 61.3% for TOEFL essays). Sheffield's international student population (including large cohorts from China, India, Middle East) creates elevated false-positive risk. 13 suspected cases without penalties may include false positives that were resolved on appeal. The arms race between detection tools and 'AI humanization' tools (undetectable.ai, QuillBot) means actual cheating rates likely exceed detected rates.",
+
+  "watermarking": "UK HEPI (Higher Education Policy Institute) and QAA have advocated for LLM watermarking as a systemic solution. Kirchenbauer et al. (UMD) and Aaronson's (OpenAI) proposals, if implemented, would allow Sheffield to verify AI origin of suspected submissions. As of 2023-24, no watermarking was available, limiting detection to stylistic analysis.",
+
+  "thiet_ke_bai_tap": "Sheffield's academic misconduct surge triggered university-wide review of assessment design. Recommended reforms: in-person written assessments for high-stakes coursework; oral viva components for dissertations; process-based submissions (drafts, annotated bibliographies); reflective journals. QAA published UK-wide guidance on AI-resistant assessment in 2024.",
+
+  "chinh_sach_truong_hoc": "Sheffield's academic misconduct policy operates on three tiers (poor practice, moderate, severe) applied to AI violations. Post-2023-24 data, Sheffield updated its policy guidance to provide explicit AI-specific examples at each tier level. No blanket AI ban — contextual approach with faculty-determined permission levels. Sheffield is among the UK universities that adopted nuanced (rather than absolute prohibit-or-permit) stances.",
+
+  "van_hoa_to_chuc": "The 15x case increase suggests Sheffield's existing honor culture did not deter AI misuse. McCabe's research supports the need for proactive integrity education alongside enforcement. Sheffield's student newspaper (The Tab) reported on school-level misconduct rates, creating public accountability pressure within the institution.",
+
+  "ai_literacy": "The rapid case growth from 6 to 92 suggests many students exploited the policy vacuum of 2022-23 when AI norms were unclear. Sheffield and UK universities broadly implemented AI literacy workshops and policy communications in 2023-24 as a response. UNESCO Art. 4 / EU AI Act AI literacy mandates are consistent with this remedial approach.",
+
+  "khung_quoc_te": "UK Quality Assurance Agency (QAA) and OIA (Office of the Independent Adjudicator) provide the institutional oversight framework. UNESCO 2023 AI in education guidance informed UK sector policy. EU AI Act (2024) applies to UK AI tool providers (Turnitin has EU operations), affecting detection tool transparency requirements.",
+
+  "phap_luat_viet_nam": "No equivalent UK-style FOI mechanism for Vietnamese universities to report academic misconduct statistics publicly. Nghị định 109/2022/NĐ-CP lacks AI-specific provisions. The Sheffield 15x growth pattern likely replicates in Vietnam but is untracked — a regulatory gap in Vietnamese higher education oversight.",
+
+  "chinh_sach_chau_a": "Hong Kong's CUHK (expulsion policy, 2023) and Singapore's NUS (disclosure framework, 2023) represent the Asian policy spectrum. Sheffield's data-driven approach (tracking, FOI transparency) is more systematic than most Asian university responses, which tend to be policy announcement-driven without published misconduct statistics.",
+
+  "ai_tutor_vs_ai_cheater": "Sheffield's 92-case institutional data confirms that the dominant student behavior is AI-as-cheater, not AI-as-learning-tool. The 15x growth in one year, correlated with wider AI tool adoption, supports Neil Selwyn's (Monash) concern that unrestricted AI access primarily enables academic fraud without pedagogical redesign.",
+
+  "edtech_company_policies": "Turnitin is the primary detection tool used by Sheffield — its AI detection module (launched April 2023) is integrated into the UK higher education workflow. Duolingo, Coursera, and Khan Academy impose their own AI guardrails for assessed activities. The Sheffield data illustrates the gap between EdTech platform controls and student-facing AI tool availability.",
+
+  "de_xuat_nha_nghien_cuu": "From EdTech research perspective: (1) mandatory annual publication of AI misconduct statistics by all UK universities (extend FOI transparency); (2) QAA-mandated AI-resistant assessment standards for all programmes; (3) Turnitin and alternative detection tools must publish validated false positive rates by student demographic; (4) AI literacy integration into freshers' induction as standard; (5) longitudinal research tracking Sheffield's case trends through 2024-25 to assess policy intervention effectiveness.",
+
+  "bai_bao_khoa_hoc": "Times Higher Education (2024) — FOI investigation on Russell Group AI cheating cases (primary source for Sheffield data). Liang, W., et al. (2023). GPT detectors are biased against non-native English writers. Patterns. DOI: 10.1016/j.patter.2023.100779. Newton, P.M., & Xiromeriti, M. (2023). Contract Cheating and Assessment Design. Assessment & Evaluation in Higher Education.",
+
+  "sach_tham_khao": "Bretag, T. (Ed.) (2016). Handbook of Academic Integrity. Springer. Eaton, S.E. (2021). Plagiarism in Higher Education. ABC-CLIO.",
+
+  "nguon_viet_nam": "No direct Sheffield-Vietnam link. Relevant comparison: Vietnamese university academic integrity reporting has no public data equivalent. Nghị định 109/2022/NĐ-CP Điều 20; QĐ 1705/QĐ-TTg on education strategy.",
+
+  "uncertain": ["con_so_thong_ke (92 cases and 79 penalties confirmed via search results; the ~15x figure confirmed as increase from 6 cases)"]
+}

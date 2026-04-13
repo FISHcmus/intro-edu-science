@@ -1,0 +1,47 @@
+{
+  "_source_file": "outline.yaml",
+  "id": "framework_icai_6values",
+  "name": "ICAI — 6 Core Values of Academic Integrity",
+  "type": "framework",
+  "organization": "International Center for Academic Integrity",
+  "year_founded": 1992,
+  "values": ["Honesty", "Trust", "Fairness", "Respect", "Responsibility", "Courage"],
+  "url": "https://www.academicintegrity.org/",
+  "note": "Courage added in 2014 edition — acting on values under pressure; 3 editions: 1999 (5 values), 2014 (added Courage), 2021; founded by Donald McCabe and Gary Pavela",
+
+  "dinh_nghia": "The ICAI defines academic integrity as 'a commitment to six fundamental values: honesty, trust, fairness, respect, responsibility, and courage.' Each value has operational meaning: Honesty (represent work and findings accurately), Trust (create environments where trust can flourish), Fairness (fair standards and practices), Respect (respect self and others), Responsibility (uphold values personally and institutionally), Courage (act on values even under pressure). The framework is the most widely cited operational definition of academic integrity globally.",
+  "phan_loai": "The 6 values constitute a normative framework — not a violation taxonomy. Violations are classified by which values they breach: plagiarism breaches Honesty; accepting others' help without disclosure breaches Trust; grade fraud breaches Fairness; disrespecting peers' work breaches Respect; failing to report known violations breaches Responsibility; staying silent when witnessing cheating out of peer pressure breaches Courage.",
+  "lich_su_khai_niem": "ICAI founded 1992 by Donald McCabe (Rutgers) and Gary Pavela at a meeting of 7 universities. First statement of fundamental values published 1999 with 5 values (Honesty, Trust, Fairness, Respect, Responsibility). Courage added in 2014 edition — explicitly to address peer pressure and bystander effects. Most recent edition: 2021. The 2021 edition explicitly addresses AI, GenAI, and postplagiarism conditions.",
+
+  "ten_truong_hop": "ICAI framework is referenced in virtually every academic integrity policy globally. Specific institutional applications: University of Maryland honor code, University of Sydney AI integrity policy (2023), NUS Academic Honesty Policy, CUHK Plagiarism Policy.",
+  "dien_bien": "The 6-value framework operates as: (1) a normative foundation for institutional honor codes; (2) a pedagogical tool for teaching academic integrity to students; (3) a benchmarking standard for institutional policy audit. ICAI produces the 'Fundamental Values of Academic Integrity' document (freely available, translations in 12+ languages). ICAI also administers an annual 'Donald L. McCabe Award' and publishes the journal 'Academic Integrity.'",
+  "ket_qua_xu_ly": "The framework has been adopted explicitly by 500+ member institutions globally (as of 2024). It informs UNESCO guidance (2023), EU AI Act commentary, and national higher education policies in Australia, Canada, UK, and USA. McCabe's 2012 empirical work validates that institutions that operationalize these values — especially through honor codes — demonstrate significantly lower cheating rates.",
+  "con_so_thong_ke": "Founded 1992; 3 framework editions: 1999, 2014, 2021; 6 core values (5 + Courage in 2014); 500+ member institutions worldwide; document available in 12+ language translations [uncertain]; ICAI based in Clemson, South Carolina.",
+
+  "hai_cho_nguoi_hoc": "When institutions fail to operationalize the 6 values, students receive mixed signals about what integrity means in practice. The 'Courage' value specifically addresses peer pressure — students need institutional support to maintain integrity when peers normalize cheating.",
+  "hai_cho_nghien_cuu": "The values apply to research integrity: Honesty (accurate reporting), Trust (transparent methods), Fairness (peer review rigor), Responsibility (retraction when errors found), Courage (reporting misconduct in one's own lab or field).",
+  "hai_cho_xa_hoi": "The 6-value framework provides a universal ethical foundation that transcends specific technology or violation types. As AI creates new forms of academic dishonesty, the question becomes how these 6 values apply — not whether they apply.",
+
+  "cong_cu_phat_hien": "The ICAI framework does not prescribe specific detection tools. However, the 'Fairness' value implies that detection tools must not produce disparate impact — directly relevant to Liang et al.'s findings on AI detector ESL bias.",
+  "han_che_cong_cu": "ICAI's position (aligned with McCabe's research): detection tools are a supplement to, not a substitute for, a values-based culture. The Courage value specifically addresses why detection-only approaches fail — students need to internalize values, not just fear punishment.",
+  "watermarking": "Not directly addressed by ICAI, but the Honesty value (accurately representing one's work) and Responsibility value (taking ownership of work) are precisely the values violated by submitting AI-generated work without disclosure — which watermarking could help enforce.",
+
+  "thiet_ke_bai_tap": "ICAI's pedagogical materials include classroom assessment integrity design guides. The Fairness value requires that assessments give all students an equitable opportunity to demonstrate genuine learning — which AI-vulnerable assessments fail to provide.",
+  "chinh_sach_truong_hoc": "The ICAI framework is the primary reference for honor code design. Stanford, Princeton, and MIT honor codes directly cite or implement the 6-value framework. NUS and NTU honor codes align structurally with ICAI values.",
+  "van_hoa_to_chuc": "The core insight of the ICAI framework — confirmed by McCabe's empirical research — is that values internalization outperforms enforcement. Institutions that build a culture of Honesty, Trust, and Responsibility see lower violation rates than those that rely on Turnitin and punitive codes.",
+  "ai_literacy": "The 2021 ICAI edition explicitly addresses AI literacy as a component of academic integrity education. Students need to understand what AI tools do, when using them is honest and responsible, and when it constitutes misrepresentation — all framed through the 6 values.",
+
+  "khung_quoc_te": "ICAI values are the de facto international standard. UNESCO 2023 GenAI guidance aligns its recommendations with the ICAI framework. EU AI Act Article 50 (disclosure obligation) operationalizes the ICAI Honesty value. ACM Code of Ethics Section 1.3 ('Be Honest and Trustworthy') mirrors ICAI principles.",
+  "phap_luat_viet_nam": "Vietnam's Decree 109/2022 Điều 20 mandates institutional integrity codes but does not specify a value framework. ICAI's 6 values could serve as the normative foundation Vietnam lacks — especially Courage (acting on values under institutional pressure) and Responsibility (shared institutional obligation).",
+  "chinh_sach_chau_a": "CUHK, NUS, and NTU honor systems align with ICAI values. The 2023 Asian HE AI integrity cases (CUHK expulsions, NUS disclosure framework) can be analyzed through all 6 ICAI values — Honesty (disclosure), Fairness (equitable enforcement), Courage (faculty reporting).",
+
+  "ai_tutor_vs_ai_cheater": "The 6-value framework provides a principled resolution: AI use is honest and responsible when disclosed and when the student genuinely engages with the learning; it is dishonest when it misrepresents authorship or bypasses genuine intellectual work. This is a values-based answer to the tutor/cheater dichotomy.",
+  "edtech_company_policies": "Khan Academy Khanmigo explicitly embodies the Trust and Honesty values by refusing to complete work for students. Coursera's post-submission dialogue embodies Responsibility. Duolingo's exam proctoring enforces Fairness. All can be analyzed through the ICAI framework.",
+  "de_xuat_nha_nghien_cuu": "The ICAI 6-value framework is the recommended normative foundation for any EdTech academic integrity policy: (1) Anchor AI use policies in the 6 values (not just rules); (2) Use the Courage value to address normalization of AI fraud; (3) Apply Fairness to require bias audits of detection tools; (4) Use Responsibility to establish shared institutional/student/faculty ownership; (5) The 2021 ICAI update directly addresses GenAI — use it as the foundational document for policy development.",
+
+  "bai_bao_khoa_hoc": "McCabe, D.L. & Pavela, G. (2004) 'Ten principles of academic integrity' Change: The Magazine of Higher Learning. ICAI (2021) 'The Fundamental Values of Academic Integrity, 3rd ed.' Clemson, SC. McCabe, D.L. (1993) 'Academic dishonesty among male college students' Journal of College Student Development.",
+  "sach_tham_khao": "ICAI (2021) Fundamental Values of Academic Integrity, 3rd ed. McCabe et al. (2012) Cheating in College (Johns Hopkins UP). Bretag (2016) Handbook of Academic Integrity. Eaton (2024) Second Handbook of Academic Integrity.",
+  "nguon_viet_nam": "No Vietnamese organization is an ICAI member as of 2024 [uncertain]. The ICAI 6-value framework has not been officially adopted by Vietnam's Ministry of Education and Training. Vietnamese universities developing integrity codes could use ICAI framework as a model — especially the Courage value to address student silence about peer cheating.",
+
+  "uncertain": ["nguon_viet_nam_icai_membership", "con_so_thong_ke_language_translations"]
+}

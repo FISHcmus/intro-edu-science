@@ -1,0 +1,61 @@
+{
+  "id": "researcher_mccabe",
+  "name": "Donald L. McCabe",
+  "type": "researcher",
+  "institution": "Rutgers Business School, Rutgers University (Newark and New Brunswick, NJ, USA); Co-founder, International Center for Academic Integrity (ICAI)",
+  "year": null,
+
+  "dinh_nghia": "Donald L. McCabe is widely regarded as the 'founding father' or 'grandfather' of empirical academic integrity research. His definition of academic integrity, operationalized through the ICAI, centers on six fundamental values: honesty, trust, fairness, respect, responsibility, and courage — values that institutions must model and students must internalize.",
+
+  "phan_loai": "McCabe's research taxonomy of academic dishonesty covers: cheating on tests/exams, plagiarism, unauthorized collaboration, fabrication, facilitation (helping others cheat), and falsification. His framework predates the AI era but remains the foundational classification system extended by AI-era researchers including Eaton and Perkins.",
+
+  "lich_su_khai_niem": "McCabe began foundational academic integrity research in the early 1990s, building on Bowers' 1964 survey. In 1993, McCabe and Treviño published the most consequential student misconduct survey to that point. McCabe co-founded ICAI (International Center for Academic Integrity) in 1992, transforming what had been isolated institutional practices into a recognized academic field. He conducted surveys of 70,000+ students across hundreds of U.S. and Canadian institutions over 30 years.",
+
+  "ten_truong_hop": "Not applicable — this is a researcher profile, not a case. McCabe's research has informed responses to cases of academic dishonesty worldwide, including the Texas A&M 2023 false positive case and the broader institutional policy debates triggered by AI writing tools.",
+
+  "dien_bien": "Not applicable — researcher profile.",
+
+  "ket_qua_xu_ly": "Not applicable — researcher profile. McCabe's legacy: when he retired from Rutgers, he transferred stewardship of his longitudinal survey instrument to ICAI, which continues the McCabe-ICAI Academic Integrity Survey. His research directly influenced honor code adoption at hundreds of institutions.",
+
+  "con_so_thong_ke": "70,000+ undergraduate and graduate students surveyed across U.S. and Canadian institutions (career total). Over 100 institutions participated in McCabe's surveys. Key finding: approximately 2/3 (64%) of surveyed college students self-reported at least one form of cheating. 95% of surveyed high school students reported participating in some form of cheating. Students at honor code institutions view academic integrity fundamentally differently from non-honor code students.",
+
+  "hai_cho_nguoi_hoc": "McCabe's research documented the harm to individual learners: students who cheat fail to develop genuine competencies, create dependency on dishonest shortcuts, and suffer long-term career disadvantage when real skills are required. His honor code research showed that culture-based integrity education produces more lasting behavioral change than punitive enforcement alone.",
+
+  "hai_cho_nghien_cuu": "McCabe's survey methodology (self-report, longitudinal, multi-institutional) established the evidentiary foundation for academic integrity as a field. His finding that 2/3 of students self-report cheating provided the empirical basis for treating academic dishonesty as a systemic rather than individual problem.",
+
+  "hai_cho_xa_hoi": "McCabe's research documented that academic dishonesty erodes the value of educational credentials, reduces trust in institutional certification, and produces graduates who may carry dishonest habits into professional contexts. The societal cost of integrity failures in education — healthcare professionals, engineers, lawyers who cheated through school — motivated his life's work.",
+
+  "cong_cu_phat_hien": "McCabe's methodology was primarily survey-based (self-report of misconduct), not detection-tool based. He argued that understanding student motivations and cultural context was more important than detecting individual violations. His approach influenced the shift from detection-first to culture-first integrity policy in honor code institutions.",
+
+  "han_che_cong_cu": "McCabe was skeptical of purely enforcement-based approaches. His research consistently showed that punitive detection systems without underlying culture change (honor codes, community standards) produced minimal long-term behavioral improvement. This critique is directly applicable to AI detection tool debates in the 2020s.",
+
+  "watermarking": "McCabe's work predates LLM watermarking. However, his foundational insight — that technology-based detection alone is insufficient without cultural norm formation — is directly relevant to watermarking policy debates. Watermarking addresses provenance but not motivation; McCabe's research addresses motivation.",
+
+  "thiet_ke_bai_tap": "McCabe's honor code research informed assignment design principles: creating learning environments where students feel personally invested in integrity reduces cheating more than surveillance-based assessment design. Oral defenses, portfolio-based assessment, and community accountability align with McCabe's cultural approach.",
+
+  "chinh_sach_truong_hoc": "McCabe's most policy-influential finding: modified honor codes — where students pledge integrity AND faculty treat students as trusted partners AND institutional norms consistently model integrity — reduce cheating rates more effectively than traditional honor codes or enforcement-only policies. This finding shaped honor code reform at Stanford, Duke, MIT, and hundreds of other institutions.",
+
+  "van_hoa_to_chuc": "McCabe's central contribution: academic integrity is a cultural phenomenon, not primarily an enforcement problem. The 'culture of integrity' framework (versus 'culture of compliance') is his most cited conceptual contribution. Institutions with strong honor code cultures show 25-30% lower self-reported cheating rates than comparable institutions without such cultures.",
+
+  "ai_literacy": "McCabe's framework, extended to the AI era, suggests that AI literacy must include internalized ethical norms about AI use — not just rules about what is permitted or detectable. Students must understand why disclosure and attribution matter, not just which tools are prohibited.",
+
+  "khung_quoc_te": "ICAI (which McCabe co-founded) contributes to UNESCO, EU, and international academic integrity frameworks. The ICAI Fundamental Values of Academic Integrity — honesty, trust, fairness, respect, responsibility, courage — are referenced in international policy documents on academic integrity.",
+
+  "phap_luat_viet_nam": "McCabe's framework influenced Nghị định 109/2022/NĐ-CP's emphasis on research integrity culture alongside enforcement. Vietnamese higher education reform documents (including QĐ 1705/QĐ-TTg) cite international best practices in academic integrity that are rooted in McCabe's empirical foundation.",
+
+  "chinh_sach_chau_a": "ICAI has expanded internationally, including Asian member institutions. NUS (Singapore), CUHK (Hong Kong), and universities in Japan and South Korea have adopted honor code frameworks influenced by McCabe's research. The McCabe-ICAI survey instrument has been adapted for Asian institutional contexts.",
+
+  "ai_tutor_vs_ai_cheater": "McCabe's cultural integrity framework is the key to resolving the AI tutor vs. AI cheater tension: institutions that build genuine cultures of integrity — where students understand why they are learning and value authentic competence — are less vulnerable to AI-as-cheater dynamics. Detection-first approaches (without culture) will always lose the arms race against AI writing tools.",
+
+  "edtech_company_policies": "McCabe's research has been cited by Turnitin, Coursera, and Khan Academy in developing academic integrity policies. His finding that trust-based environments reduce cheating has influenced Khan Academy's Khanmigo design (Socratic dialogue, refuses to write essays for students) over pure detection.",
+
+  "de_xuat_nha_nghien_cuu": "McCabe's most policy-relevant contributions for EdTech researchers: (1) Build honor code cultures, not just enforcement systems — culture predicts integrity better than surveillance; (2) Engage students as partners in integrity, not suspects; (3) Faculty modeling of integrity behaviors is as important as student enforcement; (4) Survey-based research (self-report) provides access to dishonesty that detection tools cannot; (5) Institutional norms must be consistent across all contexts — policies that are applied selectively undermine trust.",
+
+  "bai_bao_khoa_hoc": "McCabe, D.L., & Treviño, L.K. (1993). 'Academic dishonesty: Honor codes and other contextual influences.' Journal of Higher Education, 64(5), 522-538. McCabe, D.L., Treviño, L.K., & Butterfield, K.D. (2001). 'Cheating in Academic Institutions: A Decade of Research.' Ethics & Behavior, 11(3), 219-232. Multiple Springer Nature chapter contributions to academic integrity handbooks.",
+
+  "sach_tham_khao": "McCabe, D.L., Butterfield, K.D., & Treviño, L.K. (2012). Cheating in College: Why Students Do It and What Educators Can Do About It. Baltimore: Johns Hopkins University Press. (Key finding: 2/3 self-report cheating; honor code culture most effective deterrent; surveyed 70,000+ students.)",
+
+  "nguon_viet_nam": "McCabe's work is cited in Vietnamese academic integrity literature. Nghị định 109/2022/NĐ-CP and MOET guidance documents reference international integrity frameworks derived from ICAI/McCabe. No Vietnamese translation of 'Cheating in College' is confirmed, but the framework is taught in Vietnamese education research graduate programs.",
+
+  "uncertain": ["year (birth/death dates not researched for this profile — McCabe passed away in 2021 [uncertain — requires verification])", "con_so_thong_ke (70,000 figure cited varies by source — some sources say 70,000 undergrad, others say 100,000+ total including high school surveys)"]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "AI Tutor vs AI Cheater — Academic Framing (Selwyn, Luckin, Holmes)",
+  "type": "academic_framework",
+  "year": "2016-2024 (foundational works 2016; updated framing 2023-2024)",
+  "issuing_authority": "Academic researchers: Neil Selwyn (Monash), Rose Luckin (UCL), Wayne Holmes (UCL/UNESCO)",
+  "country_or_region": "UK, Australia, Global",
+  "summary": "The 'AI in education' academic debate was shaped by three key researchers before and after the ChatGPT era. Rose Luckin and Wayne Holmes (UCL) established the optimistic AI-as-tutor framework in 'Intelligence Unleashed' (2016, Pearson), arguing for AI as a personal tutor for every learner. Neil Selwyn (Monash) represents the critical/sociological counterpoint, examining structural power, equity, and unintended consequences. Holmes' 2023 Routledge book 'The Unintended Consequences of Artificial Intelligence and Education' directly addresses how AI creates academic integrity problems. These three voices define the academic debate that EdTech researchers must engage with.",
+
+  "ai_use_policy": "Not a policy document — this is the academic debate that informs policy. Key positions: Luckin/Holmes (2016): AI as intelligent tutor is the transformative opportunity; learning analytics enable personalized support. Selwyn (2023): AI in education reflects and amplifies existing power structures; 'datafication' of learning raises privacy and equity concerns. Holmes (2023): AI creates unintended consequences for academic integrity that optimists failed to anticipate.",
+  "academic_fraud_definition": "Holmes' framework: AI academic fraud arises because AI can produce credentialed-looking work indistinguishable from student work — this is a systemic problem, not just individual cheating. Selwyn: cheating is a symptom of the commodification of education credentials, not a technology problem. Luckin: fraud concern is a reason to redesign assessment, not to ban AI.",
+  "detection_mechanisms": "Academic researchers generally oppose over-reliance on detection tools. Selwyn critiques surveillance culture in EdTech. Luckin: redesign assessment to make AI assistance visible and productive rather than hidden and fraudulent. Holmes: detection is a temporary arms race, not a solution.",
+  "penalties": "Not directly addressed by these researchers — they focus on policy frameworks and system design, not enforcement.",
+  "transparency_requirements": "Luckin: Learning analytics should be transparent to learners. Selwyn: Transparency in how student data is used by EdTech companies. Holmes: Transparency in AI system design is an ethical requirement.",
+
+  "vietnamese_law_reference": "[uncertain]",
+  "moet_policy": "[uncertain]",
+  "documented_vn_cases": "[uncertain]",
+  "vn_university_responses": "[uncertain]",
+
+  "ai_tutor_vs_cheater_framing": "THE central framing debate in EdTech academic literature: OPTIMIST (Luckin/Holmes 2016): AI as 'intelligent personal tutor' democratizes access to quality education — the AI tutor that only wealthy students previously had access to. CRITICAL (Selwyn): Technology solutionism ignores that cheating is driven by credential pressure, inequality, and exam culture — AI doesn't create cheating, it enables it in new forms. REALIST (Holmes 2023): Unintended consequences of AI in education include academic integrity erosion — this must be addressed proactively through policy and design, not ignored. PRACTITIONER (Sal Khan): Design makes the difference — build AI that is structurally incapable of doing homework for students (Khanmigo model).",
+  "responsible_ai_definition": "Luckin: Responsible AI in education = AI that enhances metacognition, self-regulated learning, and genuine understanding rather than surface performance. Holmes: Responsible AI requires explicit attention to unintended consequences — integrity is one of the most important. Selwyn: Responsible AI must address power, equity, and labor implications, not just learning outcomes.",
+  "key_researchers": "Rose Luckin (Professor, UCL Knowledge Lab) — 'Intelligence Unleashed' (2016, Pearson); EDUCATE venture co-founder. Wayne Holmes (UCL/UNESCO) — 'Intelligence Unleashed' co-author (2016); 'The Unintended Consequences of Artificial Intelligence and Education' (Routledge, 2023); UNESCO AI in education work; positions AI ethics as central concern. Neil Selwyn (Professor, Monash University Faculty of Arts) — 'Should Robots Replace Teachers?' (2019), 'Is Technology Good for Education?' (2016), 'Distrusting Educational Technology' (2013); critical-sociological perspective; questions systemic impacts. Dr. Mike Perkins (British University Vietnam) — most relevant to Vietnamese context; developed AIAS (AI Assessment Scale) framework 2023; published most-cited paper on AI integrity in post-pandemic HE.",
+  "company_ethics_policy": "[uncertain] — These are academic researchers, not company policy makers.",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "Neil Selwyn is based at Monash University (Melbourne, Australia) — his critical perspective informs Australian academic discourse on EdTech and AI. Australia's TEQSA framework reflects the Luckin/Holmes 'responsible use' approach more than Selwyn's critical approach.",
+  "asia_vs_western_differences": "[uncertain]",
+  "asean_regional_initiatives": "Wayne Holmes worked with UNESCO on Beijing Consensus on AI and Education and subsequent guidance. This connects Western academic debate to ASEAN/Asia-Pacific policy context.",
+
+  "framework_name": "AI in Education Debate Framework (Optimist / Critical / Realist)",
+  "framework_principles": "Three positions: (1) Optimist (Luckin/Holmes 2016): AI personalizes learning at scale, democratizes access to quality tutoring — the opportunity outweighs risks; (2) Critical (Selwyn): Technology disrupts existing power relations in education — surveillance, datafication, labor displacement are underexamined harms; (3) Realist (Holmes 2023): Unintended consequences including academic integrity erosion require proactive policy response. For practitioners: combine optimist opportunity with realist safeguards.",
+  "iste_standards": "[uncertain]",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "Wayne Holmes (co-author, Intelligence Unleashed) is directly connected to UNESCO's AI in education work. UNESCO's 2023 Guidance for Generative AI in Education reflects the realist position — acknowledging both opportunity and integrity risks.",
+
+  "implementation_challenges": "Academic debate has not yet produced unified actionable frameworks for institutions. Gap between critical scholarship (Selwyn) and practitioner needs. Cultural context (Vietnam, ASEAN) underrepresented in this primarily UK/US/Australian debate.",
+  "student_perspective": "Selwyn: students are actors with agency in resisting or subverting EdTech systems — their 'cheating' is often rational response to credential pressure. Holmes: students need to understand AI limitations and integrity requirements as part of digital literacy.",
+  "teacher_perspective": "Selwyn: teachers' professional expertise is being devalued and surveilled by EdTech systems. Luckin: AI frees teachers from routine tasks to focus on mentoring and higher-order teaching. Holmes: teachers need support in redesigning assessments for the AI era.",
+  "recommendations": "EdTech researchers in Vietnamese context should: (1) Cite Luckin/Holmes (2016) to establish the AI-as-tutor opportunity case; (2) Cite Holmes (2023) to acknowledge integrity risks as a legitimate and foreseen concern; (3) Cite Selwyn to acknowledge that exam culture and credential pressure drive cheating — AI is an enabler, not the root cause; (4) Cite Perkins (BUV) as the Vietnam-specific voice bridging international academic debate and Vietnamese institutional reality.",
+
+  "primary_sources": [
+    "Intelligence Unleashed: An argument for AI in Education — Rose Luckin, Wayne Holmes, Mark Griffiths, Laurie B. Corcier — Pearson 2016",
+    "The Unintended Consequences of Artificial Intelligence and Education — Wayne Holmes — Routledge 2023",
+    "Neil Selwyn — Faculty of Arts, Monash University — scholar.google.com/citations?user=8bLsyZ4AAAAJ"
+  ],
+  "academic_sources": [
+    "Intelligence Unleashed — UCL Discovery — discovery.ucl.ac.uk/1475756/",
+    "Artificial Intelligence in Education — ResearchGate — researchgate.net/publication/369288544",
+    "Perkins, M. et al. (2023). Academic Integrity considerations of AI Large Language Models — JUTLP"
+  ],
+  "vietnamese_sources": "[uncertain]",
+  "urls": [
+    "https://discovery.ucl.ac.uk/1475756/",
+    "https://scholar.google.com/citations?user=8bLsyZ4AAAAJ&hl=en",
+    "https://www.researchgate.net/publication/299561597_Intelligence_Unleashed_An_argument_for_AI_in_Education",
+    "https://www.buv.edu.vn/faculty/assoc-prof-mike-perkins/"
+  ],
+
+  "uncertain": ["vietnamese_law_reference", "moet_policy", "documented_vn_cases", "vn_university_responses", "company_ethics_policy", "singapore_approach", "asia_vs_western_differences", "asean_regional_initiatives", "iste_standards", "cosn_guidelines", "vietnamese_sources"]
+}

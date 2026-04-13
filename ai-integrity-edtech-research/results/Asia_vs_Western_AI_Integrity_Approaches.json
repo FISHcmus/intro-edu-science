@@ -1,0 +1,61 @@
+{
+  "name": "Asia vs Western Approaches to AI Academic Integrity",
+  "type": "academic_framework",
+  "year": "2023-2025 (comparative analysis of policies issued 2023-2025)",
+  "issuing_authority": "Academic literature (comparative; multiple sources)",
+  "country_or_region": "Comparative: Vietnam, Singapore, China, HK; vs UK, US, Australia",
+  "summary": "A systematic comparative analysis of how Asian vs Western universities approach AI academic integrity. Key differentiating factors: Confucian exam culture, face culture reducing fraud reporting, centralized vs. decentralized governance structures, different student rights frameworks, and the relationship between AI fraud and credential pressure. Singapore provides the most developed Asian comparison case (NUS/NTU policies). Vietnam's case is distinctive for its combination of highest-stakes exam culture ('bệnh thành tích'), collectivist concealment patterns, and state-directed education policy. The academic literature from Turnitin, University World News, and Inside Higher Ed provides the most systematic comparative analysis.",
+
+  "ai_use_policy": "Western (US/UK/AU): Generally disclosure-based; faculty/senate governance of policies; strong student procedural rights; prohibition-based approaches increasingly abandoned in favor of integration. Asian (Vietnam, China, Singapore): More variation — Singapore moved quickly to disclosure-based (matching Western); China: mixed responses, some strict bans; Vietnam: institution-level variation, no national standard; Hong Kong: some universities (Chinese University HK) initially moved to expulsion threat for any AI use, later softened.",
+  "academic_fraud_definition": "Confucian scholarship tradition: copying from masters = respect, not fraud. This creates a cultural baseline where citation practices and originality concepts differ from Western academic norms. AI fraud definition in Asian context may need to account for: students who genuinely do not understand that AI-generated text constitutes fraud (particularly where integrity education is weak), vs. students who intentionally deceive.",
+  "detection_mechanisms": "Western: Turnitin widely adopted; institutional investment in AI detection. Asian (Vietnam): Turnitin adoption is growing but inconsistent; less Vietnamese-language AI detection capacity; manual review by supervisors remains primary. Singapore: systematic tool adoption similar to Western standards. Key finding: Vietnamese-language AI tools are less capable and less scrutinized than English tools — creating a detection gap for Vietnamese-language submissions.",
+  "penalties": "Western: Graduated penalties with due process rights; student appeals often to independent bodies. Asian: More variable — Singapore has due process (NTU case showed student appeal options); Vietnam: institutional discretion, less formalized appeals. Hong Kong initial response (CUHK): expulsion for any AI use — later walked back. Penalty severity pressure in face-culture contexts creates under-reporting.",
+  "transparency_requirements": "Western: Strong transparency norms; disclosure requirements well-established. Asian: Emerging — Singapore adopted disclosure-based approach; Vietnam has not yet standardized AI disclosure requirements at national level.",
+
+  "vietnamese_law_reference": "Key differences in legal basis: Western universities operate under academic governance with minimal state direction on integrity specifics. Vietnamese universities operate under Decree 109/2022 (state-mandated integrity codes) but without specific AI provisions. This legal structure gives MOET authority to issue binding circulars — a policy lever not available in decentralized Western systems.",
+  "moet_policy": "The centralized MOET structure is actually an advantage for coherent AI integrity policy: if MOET issues a circular on AI in academic work, all Vietnamese public universities must comply. The challenge is MOET has chosen to focus on AI promotion (QĐ 1705) rather than AI integrity regulation.",
+  "documented_vn_cases": "Vietnam-specific pattern: Springer 2024 study shows ~3x concealment ratio (actual AI fraud vs. self-reported). This is consistent with face culture hypothesis — students in collectivist, high-stakes environments hide AI use rather than disclose it. Compare: US studies show lower concealment ratios (students more willing to self-report or accept responsibility when caught).",
+  "vn_university_responses": "[uncertain] — no systematic comparative data on Vietnamese universities vs Asian peers.",
+
+  "ai_tutor_vs_cheater_framing": "Cultural difference in framing: Western academia increasingly accepts 'AI as tutor' narrative (Sal Khan, ISTE, UNESCO). Asian exam culture makes 'AI as cheater' the dominant public discourse — because AI is used primarily to pass high-stakes exams, not for genuine learning. The stakes difference is key: in Western educational systems, an essay is a learning activity; in Vietnam's exam culture, an essay score determines career trajectory, creating much stronger fraud incentives.",
+  "responsible_ai_definition": "Cultural adaptation needed: Western definitions of 'responsible AI use' assume students have internalized originality and intellectual honesty norms. Confucian tradition values collective knowledge and citing authorities — individual originality is a Western-dominant academic norm. Responsible AI use frameworks for Asian contexts need to account for this cultural difference while still maintaining integrity standards.",
+  "key_researchers": "Turnitin blog: 'Understanding cultural differences in plagiarism' — turnitin.com — most accessible comparative analysis. Quod.lib.umich.edu: 'Academic Dishonesty Among International Students in Higher Education' — chapter 12. Inside Higher Ed: 'Academic Fraud and the Academic Culture in China — and Asia' — systematic analysis. Vietnamese-specific: Springer 2024 study authors (Vietnamese researchers at Vietnamese institutions, published internationally).",
+  "company_ethics_policy": "[uncertain]",
+
+  "singapore_approach": "Singapore is the most Westernized Asian case: strong institutional governance, student due process rights, fast adoption of Western-style disclosure framework. However, Singapore's Smart Nation framing makes AI adoption a national priority — universities face dual pressure to both promote and govern AI. The NTU case showed that even Singapore's developed system has procedural fairness challenges in AI fraud determination.",
+  "australia_approach": "Australia provides important comparison as a Western country with large Asian student populations (including Vietnamese students). Australian findings: international students from Asian contexts may have different integrity baseline behaviors AND may face discriminatory AI fraud suspicions. The AAIN guidelines specifically address culturally sensitive communication.",
+  "asia_vs_western_differences": "FIVE KEY DIFFERENCES: (1) Governance structure — centralized (Asia) vs. faculty-led (West): Asian universities respond faster when state/institution acts, but less faculty ownership; (2) Student rights — stronger procedural protections in Western systems; (3) Cultural baseline — Confucian copying-as-respect tradition requires explicit integrity education, not assumed; (4) Exam stakes — higher stakes in Asian systems create stronger fraud incentives; (5) Face culture concealment — peer reporting of AI fraud is extremely rare in Asian contexts; self-reporting rates are also very low. REPORTING RATE: In Vietnam/Asian contexts, AI fraud is dramatically under-reported relative to prevalence. In Western contexts (particularly Anglophone), there is more self-reporting and peer reporting culture.",
+  "asean_regional_initiatives": "Tandfonline 2024 article: 'University policies on generative AI in Asia: promising practices, gaps, and future directions' — best systematic comparative analysis of Asian university AI policies including gaps and recommendations for ASEAN context. ASEAN has not adopted a regional AI academic integrity framework as of 2025.",
+
+  "framework_name": "Comparative AI Academic Integrity Framework: Asia vs Western",
+  "framework_principles": "Five dimensions for comparison: (1) Policy governance model (centralized/decentralized); (2) Student rights and due process; (3) Cultural integrity baseline (Confucian vs. Western individualism); (4) Stakes intensity (exam-to-career pathways); (5) Reporting culture (collectivist concealment vs. individualist disclosure). For EdTech researchers: any AI integrity framework designed for Vietnamese or ASEAN context must explicitly address all five dimensions.",
+  "iste_standards": "[uncertain]",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "UNESCO's guidance was designed to be globally applicable but is strongest in the Western liberal tradition. Application to Asian contexts requires adaptation for cultural integrity baseline differences.",
+
+  "implementation_challenges": "Creating AI integrity policies that are culturally appropriate for Vietnamese students while meeting international academic standards. Avoiding punitive approaches that will be circumvented in face culture. Building faculty AI literacy simultaneously with student AI literacy. Developing Vietnamese-language AI detection capacity to close detection gap.",
+  "student_perspective": "Vietnamese student pattern (Springer 2024): concealment is the default behavior. Students do not self-report AI use and actively deny it when questioned directly. This is rational behavior in a high-stakes exam culture where penalties are severe and the benefit of AI use is large. Policy must change the incentive structure, not just add surveillance.",
+  "teacher_perspective": "Vietnamese teachers in exam-oriented culture face conflicting pressures: they want to prevent AI fraud but they also face 'bệnh thành tích' pressure (their school's pass rates matter). This may reduce faculty motivation to aggressively detect and report AI fraud.",
+  "recommendations": "For EdTech researchers designing AI integrity frameworks for Vietnamese/ASEAN context: (1) Explicitly address Confucian cultural context — integrity education must build new norms, not assume pre-existing ones; (2) Use positive incentives for disclosure (disclosure = permitted, non-disclosure = punished) rather than blanket bans; (3) Design detection to catch the most egregious fraud (hallucinated citations) rather than attempting to detect all AI use; (4) Connect to MOET's centralized authority as a policy lever — propose national-level guidance that creates consistency; (5) Cite the Springer 2024 Vietnamese study as evidence of the concealment gap that generic Western frameworks don't address.",
+
+  "primary_sources": [
+    "Understanding cultural differences in plagiarism — Turnitin blog — turnitin.com/blog/cultural-differences-in-plagiarism",
+    "Academic Fraud and the Academic Culture in China — and Asia — Inside Higher Ed — insidehighered.com",
+    "University policies on generative AI in Asia: promising practices, gaps, and future directions — Tandfonline (2024) — tandfonline.com/doi/full/10.1080/17516234.2024.2379070"
+  ],
+  "academic_sources": [
+    "Academic Dishonesty Among International Students in Higher Education — quod.lib.umich.edu/t/tia/17063888.0030.016",
+    "Students' Academic Cheating in Chinese Universities — ResearchGate — researchgate.net/publication/257576277",
+    "Unmasking academic cheating in Vietnam (Springer 2024) — link.springer.com/article/10.1007/s10639-024-12495-4"
+  ],
+  "vietnamese_sources": "[uncertain]",
+  "urls": [
+    "https://www.turnitin.com/blog/cultural-differences-in-plagiarism",
+    "https://www.tandfonline.com/doi/full/10.1080/17516234.2024.2379070",
+    "https://www.insidehighered.com/blogs/world-view/academic-fraud-and-academic-culture-china-%E2%80%94-and-asia",
+    "https://quod.lib.umich.edu/t/tia/17063888.0030.016/--12-academic-dishonesty-among-international-students",
+    "https://link.springer.com/article/10.1007/s10639-024-12495-4"
+  ],
+
+  "uncertain": ["company_ethics_policy", "iste_standards", "cosn_guidelines", "vn_university_responses", "vietnamese_sources"]
+}

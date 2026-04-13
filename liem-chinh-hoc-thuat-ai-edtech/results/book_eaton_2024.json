@@ -1,0 +1,49 @@
+{
+  "_source_file": "outline.yaml",
+  "id": "book_eaton_2024",
+  "name": "Second Handbook of Academic Integrity",
+  "type": "book",
+  "author": "Sarah Elaine Eaton (editor)",
+  "publisher": "Springer",
+  "year": 2024,
+  "isbn": "978-3-031-54143-8",
+  "pages": 1991,
+  "url": "https://link.springer.com/referencework/10.1007/978-3-031-54144-5",
+  "key_argument": "Most comprehensive current reference; covers AI, GenAI, postplagiarism, contract cheating globally; successor to Bretag 2016",
+
+  "dinh_nghia": "The Second Handbook of Academic Integrity (2024) is the most comprehensive current scholarly reference on academic integrity, defined broadly as 'a commitment to the values of honesty, trust, fairness, respect, responsibility, and courage in academic contexts' (following ICAI). It explicitly addresses the paradigm shift caused by generative AI in what constitutes legitimate and illegitimate academic work.",
+  "phan_loai": "The handbook covers all major violation categories: plagiarism (traditional and AI-assisted), contract cheating and essay mills, fabrication and falsification, examination fraud, AI-generated work misrepresentation, postplagiarism phenomena, and systemic/institutional failures. Organized in thematic sections with global case studies.",
+  "lich_su_khai_niem": "Successor to Bretag (2016) Handbook of Academic Integrity — the first global reference work. Eaton's 2024 edition adds an entirely new section on GenAI and postplagiarism. The jump from 1,200 pages (Bretag 2016) to 1,991 pages reflects both the field's growth and the seismic impact of ChatGPT (2022) on academic integrity practice.",
+
+  "ten_truong_hop": "Reference to multiple global cases: Hindawi/Wiley mass retractions, NeurIPS 2025 hallucinated citations, CUHK and NUS policy development, Vanderbilt/Turnitin controversy — all synthesized across chapters.",
+  "dien_bien": "Multi-author volume with contributions from leading researchers worldwide: Eaton (editor, Calgary), Bretag (Adelaide), Lancaster (Imperial), Newton (Swansea), Perkins (BUV), Liang (Stanford)  — and dozens more. Covers contract cheating in Asia, postplagiarism frameworks, AI detection tool limitations, watermarking, policy responses from 20+ countries, and EdTech platform responses.",
+  "ket_qua_xu_ly": "Definitive reference for academic integrity scholars, policy-makers, and institutional administrators. Cited in UNESCO and EU AI Act educational guidance. Open access chapters available via SpringerLink (doi:10.1007/978-3-031-54144-5). Replaces Bretag (2016) as the field's canonical reference.",
+  "con_so_thong_ke": "1,991 pages; ISBN 978-3-031-54143-8 (print) / 978-3-031-54144-5 (online); Springer; 2024; approximately 80+ chapters; contributors from 30+ countries; estimated 1,000+ citations within 2 years of publication [uncertain].",
+
+  "hai_cho_nguoi_hoc": "The handbook documents extensively how academic dishonesty — especially AI-assisted fraud — harms learners: failure to develop genuine competence, psychological dependence on external tools, credential devaluation, and risk of disciplinary action.",
+  "hai_cho_nghien_cuu": "Dedicated sections on research integrity, retraction culture, hallucinated citations, and paper mills. Synthesizes evidence that AI-generated content contamination threatens peer review infrastructure and reproducibility.",
+  "hai_cho_xa_hoi": "Cross-national chapters document societal consequences: credential devaluation, erosion of trust in academic institutions, impact on professional licensing (medicine, law, engineering), and growing inequality in enforcement (ESL students disproportionately penalized).",
+
+  "cong_cu_phat_hien": "Comprehensive coverage of AI detection tools: Turnitin, GPTZero, Copyleaks, Sapling, ZeroGPT — their mechanisms, accuracy rates, and documented failure modes. Liang et al. ESL bias findings are prominently featured.",
+  "han_che_cong_cu": "Multiple chapters address detection tool limitations: ESL bias (Liang et al.), paraphrase evasion, 'humanization' tools, arms race dynamics. Consensus: no detection tool is reliable enough for sole-source disciplinary action.",
+  "watermarking": "Dedicated coverage of Kirchenbauer/UMD green/red token watermarking and Aaronson/OpenAI Gumbel approach. Analysis of deployment barriers: robustness to paraphrase, quality-utility tradeoffs, no production deployment as of 2024.",
+
+  "thiet_ke_bai_tap": "Chapters on assessment redesign from University of Sydney, Stanford, Chartered College of Teaching UK, and University of San Diego. Oral defense, process portfolios, reflective journals, staged submissions — with empirical effectiveness data.",
+  "chinh_sach_truong_hoc": "International policy survey: Stanford (flexible disclosure), Harvard (case-by-case), MIT (instructor discretion), NUS (5-tier disclosure framework), CUHK (prohibition), UK QAA guidance, EU and Australian national frameworks. Perkins' AIAS 5-tier framework featured prominently.",
+  "van_hoa_to_chuc": "McCabe's honor code findings re-examined in GenAI context. New research shows that culture-first approaches remain more effective than detection-enforcement in reducing AI fraud, just as they were more effective for plagiarism.",
+  "ai_literacy": "UNESCO Art. 4 EU AI Act (AI literacy obligation), ISTE/CoSN frameworks — and new institutional AI literacy program models from member universities. Chapter on distinguishing AI as learning tool vs. AI as fraud vector.",
+
+  "khung_quoc_te": "Full chapter on UNESCO 2021 and 2023 guidance, EU AI Act Annex III and Article 50, IEEE EAD, ACM Code — with analysis of how each framework applies to academic integrity in HE.",
+  "phap_luat_viet_nam": "Vietnam referenced in global policy survey chapters. Decree 109/2022 cited as example of pre-AI academic integrity legislation with significant gaps. Perkins (BUV) Vietnam-based research featured.",
+  "chinh_sach_chau_a": "Dedicated Asia-Pacific chapter: CUHK expulsion policy (2023), NUS disclosure framework (2023/2024), NTU hallucinated citations case (2025), Singapore MOE national guidance. Comparative analysis with Western approaches.",
+
+  "ai_tutor_vs_ai_cheater": "Chapter-length treatment of the Luckin vs. Selwyn debate. Synthesizes EdTech company policies (Khan Academy Khanmigo, Coursera, Duolingo) and research evidence on when AI supports vs. undermines learning.",
+  "edtech_company_policies": "Khan Academy Khanmigo (Socratic AI that refuses to complete work), Coursera post-submission dialogue, Duolingo proctored exam restrictions, FPT/Van Lang Coursera pilots in Vietnam — all covered.",
+  "de_xuat_nha_nghien_cuu": "The handbook's consensus EdTech researcher recommendations: (1) postplagiarism framework as conceptual foundation; (2) contextual integration over blanket prohibition; (3) AIAS 5-tier framework for institutional policy; (4) new attribution standards for AI assistance; (5) oral/process-based assessment as primary defense; (6) AI literacy as mandatory component of curriculum.",
+
+  "bai_bao_khoa_hoc": "Published chapters cite: Perkins et al. (2023) IETI, Newton & Xiromeriti (2023), Liang et al. (2023) Patterns, Haider et al. (2024) Harvard Misinformation Review, Kirchenbauer et al. (2023) ICML.",
+  "sach_tham_khao": "Eaton (2024) Second Handbook, Springer ISBN 978-3-031-54143-8. Bretag (2016) Handbook of Academic Integrity, Springer. McCabe et al. (2012) Cheating in College. Eaton (2021) Plagiarism in Higher Education.",
+  "nguon_viet_nam": "Perkins (BUV, Vietnam) has chapter contributions. Vietnam Springer 2024 study (1,386 students, doi:10.1007/s10639-024-12495-4) cited. HCMUFA case referenced as first Vietnamese public AI disciplinary case.",
+
+  "uncertain": ["con_so_thong_ke_citations"]
+}

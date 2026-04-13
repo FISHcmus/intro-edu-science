@@ -1,0 +1,505 @@
+topic: "Liêm chính học thuật và gian lận AI trong nghiên cứu EdTech"
+topic_slug: liem-chinh-hoc-thuat-ai-edtech
+date: 2026-04-12
+context: >
+  Bài tập Chương 3 — Nhập môn KHGD (16048). Vai trò: nhà nghiên cứu EdTech.
+  Đề xuất phương án trả lời câu hỏi về liêm chính khoa học và gian lận khi sử dụng AI.
+  Deadline: 12/4/2026 23:59.
+
+items:
+  # === REAL CASES — SINH VIÊN / HỌC VIÊN ===
+  - id: case_yang_umn
+    name: "Haishan Yang — University of Minnesota (2024–2026)"
+    type: real_case
+    category: student_disciplinary
+    institution: "University of Minnesota"
+    year: 2024
+    summary: >
+      PhD student bị đuổi học vì bị nghi dùng AI trong kỳ thi open-book cấm AI.
+      Kiện 4 triệu USD, thua kiện liên bang (10/2025) và thua kháng cáo (2/2026).
+    outcome: expelled, lawsuits dismissed
+    sources:
+      - https://www.mprnews.org/story/2025/01/17/phd-student-says-university-of-minnesota-expelled-him-over-ai-allegation
+      - https://minnlawyer.com/2026/02/13/u-of-m-ai-cheating-expulsion-upheld-appeal/
+
+  - id: case_anand_lehigh
+    name: "Aryan Anand — Lehigh University (2024)"
+    type: real_case
+    category: student_disciplinary
+    institution: "Lehigh University"
+    year: 2024
+    summary: >
+      Sinh viên thú nhận dùng ChatGPT viết essay xin học bổng toàn phần,
+      đồng thời giả mạo giấy tờ (giấy khai tử, hồ sơ thuế, mạo danh hiệu trưởng).
+    outcome: expelled
+    sources:
+      - https://www.universityherald.com/articles/79100/20240709/lehigh-university-expels-student-who-admitted-forging-documents-using-chatgpt.htm
+
+  - id: case_yeshiva_2022
+    name: "Multiple students — Yeshiva University (December 2022)"
+    type: real_case
+    category: student_disciplinary
+    institution: "Yeshiva University"
+    year: 2022
+    summary: >
+      Vụ kỷ luật tập thể đầu tiên sau khi ChatGPT ra mắt (30/11/2022).
+      Nhiều sinh viên nộp bài thi take-home được ChatGPT viết nguyên văn trong 2 lớp của Prof. Paula Geyh.
+    outcome: expelled + suspended + course failure
+    sources:
+      - https://yucommentator.org/2023/01/students-caught-cheating-using-ai-on-final-academic-integrity-policy-updated/
+
+  - id: case_emory_craver
+    name: "Benjamin Craver — Emory University (2024)"
+    type: real_case
+    category: student_disciplinary
+    institution: "Emory University"
+    year: 2024
+    summary: >
+      Sinh viên thắng cuộc thi khởi nghiệp 10.000 USD với sản phẩm AI study-tool (Eightball),
+      sau đó bị xác định sản phẩm vi phạm honor code.
+    outcome: suspended (Summer + Fall 2024)
+
+  - id: case_umn_system_2024
+    name: "188 students — University of Minnesota system-wide (2023–24)"
+    type: real_case
+    category: institutional_data
+    institution: "University of Minnesota"
+    year: 2024
+    summary: >
+      188 sinh viên bị xác định vi phạm liên quan AI trong năm học 2023–24,
+      chiếm ~50% tổng số vi phạm học thuật trên campus Twin Cities.
+    sources:
+      - https://mindingthecampus.org/2025/04/29/umn-expels-student-for-ai-use-yet-faculty-practices-go-unchecked/
+
+  - id: case_sheffield_uk
+    name: "University of Sheffield — 92 AI misconduct cases (2023–24)"
+    type: real_case
+    category: institutional_data
+    institution: "University of Sheffield, UK"
+    year: 2024
+    summary: >
+      92 ca nghi gian lận AI trong 2023–24 (tăng từ 6 ca năm trước — tăng ~15x trong 1 năm).
+      79 sinh viên bị xử phạt.
+    sources:
+      - https://www.timeshighereducation.com/news/student-ai-cheating-cases-soar-uk-universities
+
+  - id: case_cuhk_policy
+    name: "CUHK — Chính sách đuổi học vì AI (2023)"
+    type: real_case
+    category: asia_policy
+    institution: "Chinese University of Hong Kong"
+    year: 2023
+    summary: >
+      Một trong những trường đầu tiên ở châu Á tuyên bố sẽ đuổi học sinh viên
+      bị bắt dùng ChatGPT hoặc công cụ AI — hướng dẫn chính sách cụ thể.
+    sources:
+      - https://www.scmp.com/yp/discover/news/hong-kong/article/3213450/chinese-university-hong-kong-students-be-expelled-if-caught-using-chatgpt-or-ai-tools-new-guide
+
+  - id: case_false_positive_uk
+    name: "False positive cases — UK students wrongly accused (2023–2025)"
+    type: real_case
+    category: false_positive
+    institution: "UK universities (multiple) / Office of the Independent Adjudicator"
+    year: 2024
+    summary: >
+      Sinh viên tự kỷ ám thị (autistic student) bị chấm 0 vì Turnitin flag.
+      OIA (July 2024) xử sinh viên thắng kháng cáo — trường không xem xét đúng bằng chứng phong cách viết.
+      Sinh viên quốc tế dùng Grammarly bị oan tương tự.
+    sources:
+      - https://www.timeshighereducation.com/news/students-win-plagiarism-appeals-over-generative-ai-detection-tool
+      - https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating
+
+  - id: case_texas_am_2023
+    name: "Texas A&M — Instructor fails entire class (May 2023)"
+    type: real_case
+    category: false_positive
+    institution: "Texas A&M University"
+    year: 2023
+    summary: >
+      Giảng viên chấm trượt toàn bộ lớp dựa trên điểm AI detector — vụ oan tập thể đầu tiên.
+      Bị đảo ngược sau khi lên báo.
+    outcome: reversed after media coverage
+
+  # === REAL CASES — NGHIÊN CỨU / PAPER RETRACTION ===
+  - id: case_neurips_2025_hallucinations
+    name: "NeurIPS 2025 — 100+ hallucinated citations in 51 papers (2026)"
+    type: real_case
+    category: research_fraud
+    institution: "NeurIPS (top AI conference globally)"
+    year: 2026
+    summary: >
+      GPTZero phân tích 4.000+ bài được chấp nhận tại NeurIPS 2025,
+      tìm thấy 100+ trích dẫn bịa đặt (tác giả, tạp chí, DOI không tồn tại) trong 51 bài —
+      tất cả đều đã qua peer review 3+ người. Nghịch lý: hội nghị AI hàng đầu thế giới.
+    sources:
+      - https://fortune.com/2026/01/21/neurips-ai-conferences-research-papers-hallucinations/
+      - https://gptzero.me/news/neurips/
+
+  - id: case_hindawi_wiley_retraction
+    name: "Hindawi/Wiley — 8.000+ bài retract (2023–2024)"
+    type: real_case
+    category: research_fraud
+    institution: "Hindawi (Wiley subsidiary)"
+    year: 2023
+    summary: >
+      Hindawi thu hồi 8.000+ bài trong 2023, chủ yếu từ paper mills sử dụng AI tạo nội dung.
+      Wiley đóng cửa 19 tạp chí, tổng 11.000 bài retract, thiệt hại 35–40 triệu USD.
+    sources:
+      - https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/
+
+  - id: case_ai_phrase_contamination
+    name: "AI phrase contamination in published papers (2023–2025)"
+    type: real_case
+    category: research_fraud
+    year: 2024
+    summary: >
+      Các cụm từ "As an AI language model, I…", "As of my last knowledge update" xuất hiện
+      trong 115+ bài trên Google Scholar. Springer rút sách ung thư 119 USD vì có câu AI verbatim.
+      Zhang et al. (Surfaces and Interfaces, 2024) và Bader et al. (Radiology Case Reports, 2024) bị retract.
+    sources:
+      - https://retractionwatch.com/2023/10/06/signs-of-undeclared-chatgpt-use-in-papers-mounting/
+
+  - id: case_gpt_fabricated_papers_hks
+    name: "GPT-fabricated papers on Google Scholar (Haider et al., Harvard KSG, 2024)"
+    type: real_case
+    category: research_fraud
+    institution: "Harvard Kennedy School Misinformation Review"
+    year: 2024
+    summary: >
+      Nghiên cứu tìm 139 bài nghi dùng GPT lừa đảo: 19 trong tạp chí indexed,
+      89 non-indexed, 12 preprints — đặc biệt về sức khỏe và môi trường.
+    doi: "https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/"
+
+  - id: case_springer_nature_2024
+    name: "Springer Nature — 2.923 bài retract trong 2024"
+    type: real_case
+    category: research_fraud
+    institution: "Springer Nature"
+    year: 2024
+    summary: >
+      Springer Nature thu hồi 2.923 bài trong năm 2024 — kỷ lục.
+      Neurosurgical Review tràn ngập manuscript AI-generated.
+    sources:
+      - https://retractionwatch.com/2025/02/17/springer-nature-journal-retractions-2024/
+
+  # === KEY RESEARCHERS ===
+  - id: researcher_mccabe
+    name: "Donald L. McCabe"
+    type: researcher
+    institution: "Rutgers University (founder ICAI)"
+    specialty: "Foundational empirical research on academic dishonesty"
+    key_work: "Cheating in College (Johns Hopkins UP, 2012) — 70.000 sinh viên khảo sát"
+
+  - id: researcher_eaton
+    name: "Sarah Elaine Eaton"
+    type: researcher
+    institution: "University of Calgary, Werklund School of Education"
+    specialty: "Postplagiarism, AI era academic integrity policy"
+    key_work: "Postplagiarism framework (IJEI 2023); Second Handbook of Academic Integrity (Springer, 2024, 1991pp)"
+    url: https://profiles.ucalgary.ca/sarah-eaton
+
+  - id: researcher_lancaster
+    name: "Thomas Lancaster"
+    type: researcher
+    institution: "Imperial College London / Birmingham City University"
+    specialty: "Contract cheating (coined the term 2006)"
+    key_work: "Lancaster & Cotarlan (2024) — AI providers as criminal essay mills; ICT Law journal"
+
+  - id: researcher_bretag
+    name: "Tracey Bretag"
+    type: researcher
+    institution: "University of South Australia"
+    specialty: "Academic integrity policy frameworks"
+    key_work: "5 core elements of exemplary AI policy (2011); Handbook of Academic Integrity (Springer, 2016)"
+
+  - id: researcher_newton
+    name: "Phil Newton"
+    type: researcher
+    institution: "Swansea University Medical School"
+    specialty: "Contract cheating prevalence, ChatGPT + assessment"
+    key_work: "Newton & Xiromeriti (2023) — ChatGPT threat to academic integrity; 15.7% contract cheating rate"
+
+  - id: researcher_perkins
+    name: "Mike Perkins"
+    type: researcher
+    institution: "British University Vietnam (Centre for Research & Innovation)"
+    specialty: "AI detection in HE, AIAS framework (Vietnam-developed)"
+    key_work: "Chatting and cheating (IETI, 2023); Detection of GPT-4 (J. Academic Ethics, 2024); AIAS 5-tier framework"
+    note: "Đặc biệt liên quan: làm việc tại Việt Nam"
+
+  - id: researcher_luckin
+    name: "Rose Luckin"
+    type: researcher
+    institution: "University College London (UCL)"
+    specialty: "AI as personal tutor, intelligence augmentation"
+    key_work: "Intelligence Unleashed (Pearson, 2016) — AI tutor democratizes education"
+
+  - id: researcher_selwyn
+    name: "Neil Selwyn"
+    type: researcher
+    institution: "Monash University"
+    specialty: "Critical EdTech sociology, AI cheating as systemic symptom"
+    key_work: "Cheating driven by credential pressure & inequality, not technology"
+
+  - id: researcher_holmes
+    name: "Wayne Holmes"
+    type: researcher
+    institution: "UCL / UNESCO"
+    specialty: "AI in education ethics, unintended consequences"
+    key_work: "Unintended Consequences of AI and Education (Routledge, 2023)"
+
+  - id: researcher_tian
+    name: "Edward Tian"
+    type: researcher
+    institution: "Princeton University (student → CEO GPTZero)"
+    specialty: "AI detection tools"
+    key_work: "GPTZero — viral Jan 2 2023, 30k users week 1, 2.5M+ educators 2024"
+
+  - id: researcher_kirchenbauer
+    name: "John Kirchenbauer et al."
+    type: researcher
+    institution: "University of Maryland"
+    specialty: "LLM watermarking"
+    key_work: "Green/red token watermarking (arXiv 2301.10226, ICML 2023)"
+
+  - id: researcher_liang_stanford
+    name: "Weixin Liang et al."
+    type: researcher
+    institution: "Stanford University"
+    specialty: "AI detector bias against non-native English speakers"
+    key_work: "Liang et al. (2023) — 61.3% false positive on TOEFL essays; Patterns/Cell Press, DOI: 10.1016/j.patter.2023.100779"
+
+  # === KEY BOOKS ===
+  - id: book_mccabe_2012
+    name: "Cheating in College"
+    type: book
+    author: "Donald L. McCabe, Kenneth D. Butterfield, Linda K. Treviño"
+    publisher: "Johns Hopkins University Press"
+    year: 2012
+    key_argument: "2/3 sinh viên Mỹ tự báo cáo đã gian lận; honor code văn hóa hiệu quả hơn trừng phạt"
+
+  - id: book_eaton_2021
+    name: "Plagiarism in Higher Education: Tackling Tough Topics in Academic Integrity"
+    type: book
+    author: "Sarah Elaine Eaton"
+    publisher: "ABC-CLIO (Libraries Unlimited)"
+    year: 2021
+    isbn: "978-1-4408-7437-6"
+    key_argument: "Giới thiệu khái niệm 'postplagiarism' — AI thay đổi bản chất của đạo văn"
+
+  - id: book_eaton_2024
+    name: "Second Handbook of Academic Integrity"
+    type: book
+    author: "Sarah Elaine Eaton (editor)"
+    publisher: "Springer"
+    year: 2024
+    isbn: "978-3-031-54143-8"
+    pages: 1991
+    key_argument: "Toàn diện nhất hiện tại; bao gồm AI, GenAI, postplagiarism, contract cheating toàn cầu"
+    url: https://link.springer.com/referencework/10.1007/978-3-031-54144-5
+
+  - id: book_bretag_2016
+    name: "Handbook of Academic Integrity"
+    type: book
+    author: "Tracey Bretag (editor)"
+    publisher: "Springer Singapore"
+    year: 2016
+    key_argument: "Công trình tham khảo toàn cầu đầu tiên về liêm chính học thuật"
+    url: https://link.springer.com/referencework/10.1007/978-981-287-098-8
+
+  - id: book_gallant_2008
+    name: "Academic Integrity in the Twenty-First Century"
+    type: book
+    author: "Tricia Bertram Gallant"
+    publisher: "Jossey-Bass / ASHE Higher Education Report"
+    year: 2008
+    key_argument: "Gian lận là triệu chứng của thất bại thể chế, không chỉ đạo đức cá nhân"
+
+  # === FRAMEWORKS & POLICIES ===
+  - id: framework_icai_6values
+    name: "ICAI — 6 Core Values of Academic Integrity"
+    type: framework
+    organization: "International Center for Academic Integrity"
+    year_founded: 1992
+    values: [Honesty, Trust, Fairness, Respect, Responsibility, Courage]
+    note: "Courage được thêm vào bản 2014 — hành động theo giá trị dù áp lực"
+    url: https://www.academicintegrity.org/
+
+  - id: framework_eaton_postplagiarism
+    name: "Postplagiarism Framework (Eaton, 2023)"
+    type: framework
+    author: "Sarah Elaine Eaton"
+    journal: "International Journal for Educational Integrity"
+    year: 2023
+    doi: https://link.springer.com/article/10.1007/s40979-023-00144-1
+    tenets:
+      - "Human-AI hybrid writing sẽ trở thành chuẩn mực"
+      - "Sáng tạo có thể được nâng cao bởi AI"
+      - "AI giúp vượt rào cản ngôn ngữ"
+      - "Có thể outsource việc viết cho AI, nhưng không thể outsource trách nhiệm"
+      - "Attribution (ghi nguồn) vẫn quan trọng"
+      - "Định nghĩa lịch sử về đạo văn cần được định nghĩa lại"
+
+  - id: framework_perkins_aias
+    name: "AIAS — AI Assessment Scale (Perkins, BUV)"
+    type: framework
+    author: "Mike Perkins"
+    institution: "British University Vietnam"
+    tiers:
+      - "Tier 1: AI prohibited (thi, sáng tác gốc)"
+      - "Tier 2: AI limited (chỉ research, không viết)"
+      - "Tier 3: AI permitted with disclosure (bản nháp AI, công khai)"
+      - "Tier 4: AI encouraged (công cụ là một phần bài tập)"
+      - "Tier 5: AI integrated (AI co-creation là bài tập)"
+
+  - id: framework_bretag_5elements
+    name: "Bretag's 5 Core Elements of Exemplary AI Policy"
+    type: framework
+    author: "Tracey Bretag"
+    year: 2011
+    elements: [Access, Approach, Responsibility, Detail, Support]
+
+  - id: policy_unesco_2021
+    name: "UNESCO Recommendation on the Ethics of AI (2021)"
+    type: policy
+    organization: UNESCO
+    year: 2021
+    adopted_by: "193 member states"
+    url: https://unesdoc.unesco.org/ark:/48223/pf0000380455
+
+  - id: policy_unesco_2023
+    name: "UNESCO Guidance for Generative AI in Education and Research (2023)"
+    type: policy
+    organization: UNESCO
+    year: 2023
+    url: https://unesdoc.unesco.org/ark:/48223/pf0000386693
+    key_recommendation: >
+      Không cấm hoàn toàn GenAI; hỗ trợ sinh viên sử dụng có đạo đức và minh bạch;
+      khuyến nghị giới hạn độ tuổi và bảo vệ dữ liệu riêng tư.
+
+  - id: policy_eu_ai_act
+    name: "EU AI Act (Regulation 2024/1689)"
+    type: policy
+    organization: "European Union"
+    year: 2024
+    url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689
+    education_provisions:
+      - "Annex III §3: AI trong GD là high-risk (tuyển sinh, đánh giá, giám sát thi)"
+      - "Article 50: AI-generated text phải có disclosure — hiệu lực 2/8/2026"
+      - "Article 4: AI literacy bắt buộc cho nhà cung cấp và người dùng"
+
+  - id: policy_acm_ethics
+    name: "ACM Code of Ethics and Professional Conduct (2018)"
+    type: policy
+    organization: "Association for Computing Machinery"
+    year: 2018
+    url: https://www.acm.org/code-of-ethics
+    relevant_sections:
+      - "1.3 Be Honest and Trustworthy"
+      - "1.2 Avoid Harm"
+      - "2.5 Give Comprehensive and Thorough Evaluations"
+
+  - id: policy_ieee_ead
+    name: "IEEE Ethically Aligned Design (EAD1e, 2019)"
+    type: policy
+    organization: "IEEE Global Initiative on Ethics of AI"
+    year: 2019
+    url: https://engagestandards.ieee.org/rs/211-FYL-955/images/EAD1e.pdf
+    principles: [Transparency, Accountability, Human Well-being, Data Agency, Awareness of Misuse]
+
+  # === VIETNAM SPECIFIC ===
+  - id: vn_decree_109_2022
+    name: "Nghị định 109/2022/NĐ-CP"
+    type: vietnam_policy
+    effective: "2023-03-01"
+    article_20: "Các CSGD ĐH phải ban hành bộ quy tắc liêm chính học thuật; phòng ngừa đạo văn, gian lận, bịa đặt"
+    gap: "Không đề cập AI tạo sinh — khoảng trống pháp lý chính"
+    url: https://vanban.chinhphu.vn/?docid=207110
+
+  - id: vn_qd1705
+    name: "QĐ 1705/QĐ-TTg — Chiến lược Giáo dục 2030"
+    type: vietnam_policy
+    year: 2024
+    ai_mention: "Thúc đẩy chuyển đổi số, AI trong GD; tham chiếu QĐ 127 (AI Strategy 2030)"
+    gap: "Không có điều khoản về liêm chính học thuật trong bối cảnh AI"
+    url: https://thuvienphapluat.vn/van-ban/Giao-duc/Quyet-dinh-1705-QD-TTg-2024-638222.aspx
+
+  - id: vn_hcmufa_case
+    name: "Trường hợp đầu tiên tại Việt Nam (HCMUFA, 2023)"
+    type: real_case
+    category: vietnam_case
+    institution: "HCMUFA (Đại học Mỹ thuật TP.HCM)"
+    year: 2023
+    summary: "Sinh viên bị trừ 50% điểm vì nộp essay AI-generated — ca báo cáo công khai đầu tiên tại VN"
+
+  - id: vn_springer_study_2024
+    name: "Nghiên cứu Springer 2024 — sinh viên ĐH Việt Nam (1.386 người)"
+    type: research
+    year: 2024
+    key_finding: "Tỷ lệ gian lận AI thực tế ~3x cao hơn self-report — sinh viên che giấu chủ động (list experiment)"
+    doi: https://link.springer.com/article/10.1007/s10639-024-12495-4
+
+  # === AI DETECTION TOOLS ===
+  - id: tool_turnitin_ai
+    name: "Turnitin AI Detection"
+    type: tool
+    launched: "April 2023"
+    official_accuracy: "98% (claim); 50% trong WaPo testing"
+    false_positive: "~4% sentence-level; 30% higher on ESL writers"
+    controversy: "Vanderbilt, Michigan State, Northwestern, UT Austin disabled it (2023)"
+
+  - id: tool_gptzero
+    name: "GPTZero"
+    type: tool
+    creator: "Edward Tian (Princeton)"
+    launched: "January 2, 2023"
+    method: "Perplexity + burstiness; 7-component proprietary model"
+    claimed_fp: "0.24%"
+    actual_fp: "61.3% on TOEFL essays (Liang et al. Stanford 2023)"
+
+  - id: tool_watermarking
+    name: "LLM Watermarking (Kirchenbauer/Aaronson)"
+    type: technical_method
+    researchers:
+      - "John Kirchenbauer (UMD) — green/red token list (ICML 2023, arXiv 2301.10226)"
+      - "Scott Aaronson (UT Austin/OpenAI) — Gumbel softmax, distortion-free"
+    status: "Chưa triển khai production tại bất kỳ LLM lớn nào (2025)"
+
+  # === ASSESSMENT REDESIGN ===
+  - id: assessment_process_based
+    name: "Process-based assessment"
+    type: prevention_method
+    mechanisms: ["staged submissions", "Google Docs revision history", "reflective journals", "annotated bibliography"]
+    adopters: ["University of Sydney", "University of Wyoming", "Stanford", "Chartered College of Teaching UK"]
+
+  - id: assessment_oral_defense
+    name: "Oral defense / Viva voce"
+    type: prevention_method
+    adopters: ["University of Sydney", "UC San Diego", "University of Western Ontario"]
+    effectiveness: "Cao nhất — không thể giải thích nội dung chưa thực sự học"
+    limitation: "Chi phí cao; khó scale; accessibility challenges"
+
+  # === EDTECH COMPANIES ===
+  - id: edtech_khan_academy
+    name: "Khan Academy — Khanmigo"
+    type: edtech_policy
+    approach: "Socratic design — AI không thể hoàn thành bài tập thay học sinh"
+    mechanism: "Từ chối viết essay; flag pasted text; log conversation cho giáo viên"
+
+  - id: edtech_coursera
+    name: "Coursera AI integrity policy"
+    type: edtech_policy
+    approach: "Post-submission AI dialogue (5 câu hỏi về lựa chọn của học sinh)"
+    vietnam_connection: "Pilot tại FPT University và Van Lang University"
+
+  - id: edtech_duolingo
+    name: "Duolingo — Responsible AI Standards"
+    type: edtech_policy
+    year: 2023
+    approach: "AI là sản phẩm dạy học; AI bị cấm trong DET exam (proctoring + LLM cheating detection)"
+
+execution:
+  batch_size: 4
+  items_per_agent: 8
+  output_dir: ./results
+  model: sonnet

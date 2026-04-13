@@ -1,0 +1,62 @@
+{
+  "id": "case_anand_lehigh",
+  "name": "Aryan Anand — Lehigh University (2024)",
+  "type": "real_case",
+  "category": "student_disciplinary",
+  "institution": "Lehigh University",
+  "year": 2024,
+
+  "dinh_nghia": "Multi-layered academic and admissions fraud combining AI-generated essay writing (ChatGPT), document fabrication (forged transcripts, fake death certificate, falsified income documents), and identity impersonation. Extends beyond standard AI dishonesty into criminal fraud territory.",
+
+  "phan_loai": "Contract cheating / AI-assisted dishonesty (ChatGPT used to write scholarship essay); Fabrication (forged Class 12 transcripts, falsified income documents); Fraud / identity impersonation (created fake school domain and email addresses impersonating school principal; fabricated father's death certificate to claim financial hardship scholarship); Visa fraud (misrepresented documents to ICE and State Department).",
+
+  "lich_su_khai_niem": "The Anand case (2024) represents an evolved form of admissions fraud enabled by generative AI: where earlier fraudsters manually fabricated documents, AI tools reduced the barrier to producing convincing essays and supporting materials. The case predates but parallels the 2024-2025 surge in AI-assisted admissions fraud globally.",
+
+  "ten_truong_hop": "Aryan Anand — Lehigh University, Bethlehem, Pennsylvania, USA. Undergraduate student on full scholarship (~$85,000 value). Arrested April 30, 2024; pleaded guilty June 12, 2024 to forgery charge; sentenced 1–3 months (time served); expelled by Lehigh University; deported to India.",
+
+  "dien_bien": "Aryan Anand, an Indian student, obtained a full scholarship to Lehigh University through an elaborate fraud scheme. He: (1) forged his Class 12 transcripts; (2) created a fake school domain and email addresses impersonating his school principal to provide false verification; (3) used ChatGPT to write his admissions essay; (4) fabricated a death certificate for his living father to claim financial hardship; (5) falsified income/tax documents to qualify for need-based scholarship totaling approximately $85,000. The fraud was exposed when Anand anonymously posted on Reddit under the username u/TransportationOk4728. A Reddit moderator traced his identity and alerted Lehigh University. This triggered an internal investigation, leading to his arrest on April 30, 2024.",
+
+  "ket_qua_xu_ly": "Pleaded guilty to forgery charge (June 12, 2024); sentenced to 1–3 months in Northampton County Prison (equivalent to time served); Lehigh University expelled him and chose not to seek restitution (~$85,000) on condition of return to India; deported to India. The case also raised broader concerns about AI in admissions processes and triggered review of admissions verification practices.",
+
+  "con_so_thong_ke": "1 student; ~$85,000 in scholarship funds fraudulently obtained; 1 criminal conviction (forgery); 1 deportation. Self-incrimination via Reddit post was the discovery mechanism.",
+
+  "hai_cho_nguoi_hoc": "The case demonstrates how AI tools lower the effort threshold for fraud, enabling students who lack authentic qualifications to bypass merit-based selection — directly harming qualified students who are displaced by fraudulent applicants. The fraudulent student himself is deprived of genuine education by substituting fabricated credentials for real learning.",
+
+  "hai_cho_nghien_cuu": "Admissions fraud using AI-generated essays undermines the validity of scholarship selection processes. When AI writes the essay, the admissions committee is evaluating AI output rather than student capability, corrupting the human judgment at the core of selection.",
+
+  "hai_cho_xa_hoi": "Erodes trust in international student scholarship programs; increases administrative burden for verification; risks policy backlash that disadvantages legitimate international students; contributes to anti-immigration narratives. Self-incrimination via social media (Reddit) highlights the psychological toll of maintaining fraud.",
+
+  "cong_cu_phat_hien": "Primary detection: self-exposure via Reddit post (inadvertent self-incrimination). Secondary: Reddit moderator identity tracing; university internal investigation. No automated AI detection tool was the primary discovery mechanism — highlights that AI-generated essays in admissions contexts are rarely caught by technical tools alone.",
+
+  "han_che_cong_cu": "AI essay detectors (GPTZero, Turnitin) are not routinely applied at admissions stage. Even if applied, a student who edits AI-generated content can evade detection. The Anand case was discovered through human social engineering (Reddit), not technical detection — illustrating the fundamental limitation of automated tools for admissions fraud.",
+
+  "watermarking": "Prospective LLM watermarking (Kirchenbauer/UMD, Aaronson/OpenAI) could help identify AI-generated admissions essays if implemented by OpenAI. As of 2024, no commercial watermarking was deployed, leaving this gap open.",
+
+  "thiet_ke_bai_tap": "Admissions reform implications: interview-based assessment, in-person writing samples, and multi-stage verification (direct contact with issuing institutions) can reduce AI-assisted admissions fraud. Process-based evidence collection (requiring portfolio of prior writing) can reveal authenticity gaps.",
+
+  "chinh_sach_truong_hoc": "Lehigh University's existing academic integrity policy covers misrepresentation in admissions materials. Post-case, universities broadly began reviewing AI-use policies in admissions contexts. No public record of Lehigh issuing new specific AI-in-admissions policy following this case.",
+
+  "van_hoa_to_chuc": "The case occurred outside classroom academic culture and within the admissions system — a domain where honor-code culture has less applicability. Enforcement response (arrest, prosecution) was proportional to criminal fraud level. McCabe's honor-code framework does not fully apply to admissions fraud.",
+
+  "ai_literacy": "The case highlights the need to educate prospective students on the legal and ethical boundaries of AI use in applications. AI literacy must include understanding that using AI to write admissions essays without disclosure constitutes fraud, not just policy violation.",
+
+  "khung_quoc_te": "ICAI (International Center for Academic Integrity) definition of academic fraud covers fabrication and misrepresentation. EU AI Act Art. 50 requires disclosure of AI-generated content in certain contexts. Anand's conduct also violated US immigration law (visa fraud) — illustrating how AI-assisted academic fraud can have criminal law dimensions.",
+
+  "phap_luat_viet_nam": "Nghị định 109/2022/NĐ-CP Điều 20 on fabrication in research; Luật Giáo dục 2019 on honest admission processes. Vietnamese law does not yet specifically address AI-generated admissions materials — a regulatory gap. Criminal fraud provisions (Bộ luật Hình sự) would apply to equivalent document forgery.",
+
+  "chinh_sach_chau_a": "The Anand case (India-origin student) prompted Indian EdTech discussion on AI ethics in US college applications. Singapore's NUS and NTU have disclosure-based AI policies that would classify ChatGPT essay writing without disclosure as misconduct. CUHK's 2023 expulsion-level AI policy focuses on coursework, not admissions.",
+
+  "ai_tutor_vs_ai_cheater": "This case is unambiguously AI-as-cheater: ChatGPT was used to construct false identity and false merit, not to assist learning. No legitimate educational purpose. Neil Selwyn's (Monash) concerns about AI enabling fraud are directly validated by this case.",
+
+  "edtech_company_policies": "OpenAI's terms of service prohibit using ChatGPT for fraudulent purposes. The case illustrates that platform-level policy cannot prevent misuse without institutional and legal enforcement. Common Application and Coalition Application platforms began considering AI detection in essays post-2023.",
+
+  "de_xuat_nha_nghien_cuu": "EdTech research recommendations: (1) admissions platforms should pilot AI-content detection at essay submission; (2) multi-stage document verification with direct institutional contact; (3) in-person or video interviews as standard for scholarship candidates; (4) AI literacy in secondary school curricula covering legal risks of AI fraud in applications; (5) international cooperation on academic credential verification.",
+
+  "bai_bao_khoa_hoc": "Newton, P.M., & Xiromeriti, M. (2023). ChatGPT Performance on Objective Structured Clinical Examinations. Medical Education. Haider, A.S., et al. (2024). AI in Academic Fraud: Current State and Implications. Journal of Academic Ethics.",
+
+  "sach_tham_khao": "Eaton, S.E. (2024). Academic Integrity in the Age of AI. Springer. Bretag, T. (Ed.) (2016). Handbook of Academic Integrity. Springer.",
+
+  "nguon_viet_nam": "VietnamNet coverage of international AI fraud cases in education; Springer research: 1,386 Vietnamese students surveyed on academic integrity (Nguyen et al., 2024 — [uncertain]).",
+
+  "uncertain": ["nguon_viet_nam (Springer Vietnamese student survey citation unverified)", "chinh_sach_truong_hoc (no confirmed post-case Lehigh policy update found)"]
+}

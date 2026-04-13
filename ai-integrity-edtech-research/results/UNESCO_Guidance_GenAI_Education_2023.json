@@ -1,0 +1,61 @@
+{
+  "name": "UNESCO Recommendation on AI in Education & Ethics (2023)",
+  "type": "framework",
+  "year": "2023 (September 2023 publication; Beijing Consensus 2019 predecessor)",
+  "issuing_authority": "UNESCO (United Nations Educational, Scientific and Cultural Organization)",
+  "country_or_region": "Global — 193 member states; Vietnam is a signatory",
+  "summary": "UNESCO published 'Guidance for Generative AI in Education and Research' in September 2023 — the most authoritative international document on this topic. The guidance was informed by an expert meeting in May 2023 and provides frameworks for national policy formulation, instructional design, and ethical use. It takes a humanistic approach: education should develop full human potential, and AI should serve this goal. The document specifically addresses academic integrity, plagiarism, and the need for age-appropriate access policies. UNESCO's guidance is referenced by Vietnamese MOET and UNICEF Vietnam in developing Vietnam's AI in education strategy.",
+
+  "ai_use_policy": "UNESCO's position: progressive, supportive integration of generative AI rather than prohibition. Quote: 'Rather than seek to prohibit their use, students and staff need to be supported in using GenAI tools effectively, ethically and transparently.' Recommended approach: human-agent collaboration model — AI assists, humans judge. Mandatory data privacy protection. Age limit recommendation: independent conversations with GenAI platforms should have minimum age restrictions (analogous to social media age limits).",
+  "academic_fraud_definition": "UNESCO does not define AI academic fraud prescriptively — this is left to national and institutional policy. UNESCO's approach: plagiarism and fraud are addressed by ensuring students understand the difference between AI-assisted work and original contribution. Emphasis on pedagogical approaches that 'leverage the facilitative value' of AI while 'reinforcing academic integrity.'",
+  "detection_mechanisms": "UNESCO does not recommend specific detection tools. Instead emphasizes: (1) pedagogy that makes AI assistance transparent and disclosed; (2) assessment redesign; (3) AI literacy education so students understand ethical use. Detection is acknowledged as necessary but not sufficient.",
+  "penalties": "Not specified — left to national and institutional policy within member states.",
+  "transparency_requirements": "UNESCO strongly recommends transparency requirements: students and staff should use AI transparently and with disclosure. Institutions should disclose how AI is used in educational systems. Vendors should provide transparency about AI capabilities and limitations.",
+
+  "vietnamese_law_reference": "Vietnam is a UNESCO member state and is expected to align national policy with UNESCO guidance. QĐ 1705/QĐ-TTg (Education Strategy 2030) and MOET's AI curriculum framework are consistent with UNESCO's guidance. UNICEF Vietnam's AI in education strategy (developed with MOET) explicitly builds on UNESCO frameworks.",
+  "moet_policy": "MOET's AI curriculum for general education (announced 2025) reflects UNESCO's four pillars of AI education. UNICEF Vietnam cited UNESCO frameworks in supporting MOET's national AI strategy for education to 2035. Vietnam participated in UNESCO's SDG4 Education 2030 framework implementation.",
+  "documented_vn_cases": "[uncertain]",
+  "vn_university_responses": "[uncertain]",
+
+  "ai_tutor_vs_cheater_framing": "UNESCO frames AI primarily as an opportunity for 'democratizing access to personalized learning' (echoing Luckin/Holmes). Academic integrity is acknowledged as a significant concern requiring proactive policy response. UNESCO's frame: the risk is not AI itself, but AI used without transparency, age-appropriate guidance, and pedagogical integration. Integrity concerns are a reason for better policy and pedagogy, not prohibition.",
+  "responsible_ai_definition": "UNESCO's 'human-agent' model of responsible AI use: AI acts as agent, human exercises judgment and oversight. Responsible AI in education = AI that serves humanistic educational values (developing full human potential, promoting equity, protecting privacy). UNESCO's 2021 Recommendation on AI Ethics defines four core values: respect for human rights and dignity, social justice, gender equality, and sustainability.",
+  "key_researchers": "Wayne Holmes (UCL/UNESCO) — connected to UNESCO's AI in education work; co-developed frameworks. Stefania Giannini (UNESCO Assistant Director-General for Education) — led UNESCO's AI in education governance work. UNICEF's Child Online Safety team contributed to age-appropriate access recommendations.",
+  "company_ethics_policy": "[uncertain]",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "[uncertain]",
+  "asia_vs_western_differences": "UNESCO's guidance specifically addresses non-Western contexts. Beijing Consensus on AI and Education (2019 — predecessor document) brought in Chinese and Asian perspectives. Vietnam's MOET and UNICEF Vietnam implementation shows the guidance is being applied in ASEAN context. However, UNESCO's framework does not specifically address Confucian exam culture's impact on AI fraud rates — this remains a gap.",
+  "asean_regional_initiatives": "UNESCO's guidance is the primary international framework for ASEAN-level AI in education discussions. UNICEF's regional AI in education program (covering Vietnam, Thailand, Indonesia, Philippines) builds on UNESCO frameworks. UNESCO SDG4 Knowledge Hub documents Vietnam's progress: 'Advancing equitable and inclusive digital transformation in education in Viet Nam.'",
+
+  "framework_name": "UNESCO Guidance for Generative AI in Education and Research (2023)",
+  "framework_principles": "Six key guidance areas: (1) Mandating data privacy protection; (2) Age-appropriate access policies for GenAI platforms; (3) Human-agent collaboration model; (4) Pedagogical integration for ethical use; (5) National regulatory framework development; (6) Institutional policy formulation templates. Core values from 2021 UNESCO AI Ethics Recommendation: respect for human rights, social justice, gender equality, sustainability.",
+  "iste_standards": "UNESCO's framework complements ISTE's digital citizenship and AI literacy approach. Both organizations emphasize transparency, responsible use, and assessment redesign over prohibition.",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "Self-referential: this item IS the UNESCO guideline. Full document: unesdoc.unesco.org/ark:/48223/pf0000386693. Free PDF download available.",
+
+  "implementation_challenges": "UNESCO guidance is non-binding — implementation depends on member state will and capacity. For Vietnam: the guidance's progressive approach (don't ban, integrate ethically) may conflict with pressure from conservative educational institutions resistant to AI. Language access: UNESCO's guidance is in 6 UN languages but not Vietnamese; UNICEF Vietnam has translated key elements.",
+  "student_perspective": "UNESCO emphasizes student agency and rights: students have the right to education that prepares them for AI-transformed world. Students should understand AI capabilities and limitations as part of modern digital literacy.",
+  "teacher_perspective": "UNESCO calls for teacher professional development specifically for AI-integrated pedagogy. The guidance warns against using AI to surveil or evaluate teachers — AI in education should support teachers, not replace or monitor them.",
+  "recommendations": "UNESCO's guidance is the most internationally credible document to cite in a Vietnamese academic assignment on AI integrity. Specific citation value: (1) The 'humanistic vision' framing aligns with Vietnam's 'lấy con người làm trung tâm' (human-centered) education philosophy; (2) The age-appropriate access recommendation has direct policy relevance; (3) The national regulatory framework template provides a blueprint for MOET to develop specific AI academic integrity circulars. EdTech researchers should cite UNESCO 2023 alongside Decree 109/2022 to connect international standards to Vietnamese legal requirements.",
+
+  "primary_sources": [
+    "Guidance for generative AI in education and research — UNESCO 2023 — unesdoc.unesco.org/ark:/48223/pf0000386693",
+    "UNESCO AI Ethics Recommendation 2021 — UNESCO formal Recommendation"
+  ],
+  "academic_sources": [
+    "UNESCO (2023) — extensively cited in academic literature — scirp.org reference database shows high citation count",
+    "Advancing equitable and inclusive digital transformation in education in Viet Nam — UNESCO SDG4 Knowledge Hub"
+  ],
+  "vietnamese_sources": [
+    "UNICEF Vietnam National Forum on AI in Education (May 2025) — unicef.org/vietnam — builds on UNESCO framework",
+    "UNESCO SDG4: Advancing equitable digital transformation in Viet Nam — unesco.org/sdg4education2030/en/knowledge-hub"
+  ],
+  "urls": [
+    "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research",
+    "https://unesdoc.unesco.org/ark:/48223/pf0000386693",
+    "https://cdn.table.media/assets/wp-content/uploads/2023/09/386693eng.pdf",
+    "https://www.unesco.org/sdg4education2030/en/knowledge-hub/advancing-equitable-and-inclusive-digital-transformation-education-viet-nam"
+  ],
+
+  "uncertain": ["documented_vn_cases", "vn_university_responses", "company_ethics_policy", "singapore_approach", "australia_approach", "cosn_guidelines"]
+}

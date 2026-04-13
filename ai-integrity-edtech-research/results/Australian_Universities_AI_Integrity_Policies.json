@@ -1,0 +1,61 @@
+{
+  "name": "Australian Universities AI Integrity Policies (Monash, Melbourne, ANU)",
+  "type": "policy",
+  "year": "2023 (initial policies; Monash April 2023; Melbourne GAIT 2023; ongoing updates 2024)",
+  "issuing_authority": "Monash University, University of Melbourne, Australian National University (ANU), TEQSA (national regulator)",
+  "country_or_region": "Australia",
+  "summary": "Australian universities were among the first globally to develop systematic AI academic integrity frameworks. This was driven by the national regulator TEQSA (Tertiary Education Quality and Standards Agency) and the Australasian Academic Integrity Network (AAIN). Three distinctive institutional approaches: Monash adopted a 'responsible use' framework with Chief Examiner accountability; Melbourne established a Generative AI Taskforce (GAIT) and developed 10 guiding principles; ANU developed a responsible and ethical use policy. Notably, Neil Selwyn (Monash) — the critical EdTech scholar — works at one of these institutions, though his academic work is distinct from the institutional policy.",
+
+  "ai_use_policy": "Monash (April 2023): 'Responsible use' approach — Chief Examiners specify conditions for AI use per unit and explain acknowledgment requirements. AI is not universally banned — use is allowed where specified. ANU: 'Responsible and ethical use consistent with academic integrity' — similar disclosure-based approach. Melbourne: Generative AI Taskforce (GAIT) developed guiding principles — 10 principles for AI integration. TEQSA framework: institutions must mitigate risks of academic misconduct, but approach is left to institutional discretion.",
+  "academic_fraud_definition": "AAIN (Australasian Academic Integrity Network) March 2023 guidelines: undisclosed use of generative AI in assessments where it is not permitted constitutes academic misconduct. The guidelines distinguish between: (1) fully AI-generated submissions (fraud), (2) AI-assisted work without disclosure (misconduct), (3) AI-assisted work with disclosure and within permitted limits (acceptable). Contract cheating (pre-2023 focus) extended to include AI-generated content.",
+  "detection_mechanisms": "Turnitin AI detection module widely adopted across Australian universities. Oral examinations increasingly added to verify authorship. Process-based assessment (showing drafts, research notes) as verification. Melbourne GAIT developed assessment redesign resources specifically for AI era. TEQSA: institutions must demonstrate they have mitigation measures, not necessarily prescribing specific tools.",
+  "penalties": "Institutional variation: grade zero for serious violations, academic misconduct recording on student record, potential suspension or exclusion for repeat violations. Australian universities have relatively robust procedural rights for students — due process requirements are higher than in some Asian contexts.",
+  "transparency_requirements": "Acknowledgment requirement: when AI use is permitted, students must describe how they used the tool and how they integrated results. Both Monash and ANU have explicit acknowledgment guidelines. This matches UNESCO's transparency recommendation.",
+
+  "vietnamese_law_reference": "[uncertain]",
+  "moet_policy": "[uncertain]",
+  "documented_vn_cases": "[uncertain]",
+  "vn_university_responses": "[uncertain]",
+
+  "ai_tutor_vs_cheater_framing": "Australian university frameworks generally adopt a realist balanced position: AI has legitimate educational uses (tutor framing) AND creates significant integrity risks (cheater framing). The responsible use framework tries to enable the former while preventing the latter. TEQSA's position: assessment redesign is the most sustainable response — make AI assistance transparent and part of the learning process rather than hidden fraud.",
+  "responsible_ai_definition": "AAIN/TEQSA: Responsible AI use = using AI in ways specified by the course, with full disclosure, in a manner that supports rather than replaces the student's own learning. Specifically: students must be able to explain and defend their AI-assisted work. Monash: 'responsible use' includes environmental, ethical, and academic dimensions. Melbourne GAIT: 10 principles include honesty, accountability, respect for intellectual property, and transparency.",
+  "key_researchers": "Neil Selwyn (Monash University) — critical EdTech scholar at Monash; his academic work critiques EdTech systems including AI surveillance. AAIN (national network) — multi-institutional research on academic integrity. Tracey Bretag (University of South Australia) — leading researcher on contract cheating, now extending to AI.",
+  "company_ethics_policy": "[uncertain]",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "Self-referential. Key distinction from other approaches: TEQSA provides national quality standards that create baseline requirements, but institutions retain substantial autonomy in implementation. AAIN provides peer-learning network for sharing good practices. Result: more coordination than US (no national body comparable to TEQSA) but more institutional diversity than Singapore's more directive national approach. Strong procedural rights for students in misconduct proceedings.",
+  "asia_vs_western_differences": "Australia has large populations of international students from Vietnam, China, and other Asian countries — this creates a specific AI integrity dynamic. International students from high-stakes exam cultures may have different learned behaviors around academic integrity. Australian universities have developed culturally sensitive communication of integrity expectations. However, this can also lead to unconscious bias in AI fraud determinations (attributing AI use disproportionately to international students).",
+  "asean_regional_initiatives": "Australia has partnerships with ASEAN universities. Monash has a campus in Malaysia. The TEQSA/AAIN frameworks have been shared with Indonesian and Vietnamese universities through bilateral education partnerships. The 'Contract Cheating and Academic Integrity' research (Bretag et al.) influenced ASEAN academic integrity discourse.",
+
+  "framework_name": "AAIN Generative AI Guidelines (March 2023) + Institutional Policies (Monash, Melbourne, ANU)",
+  "framework_principles": "AAIN March 2023: (1) AI is a new form of contract cheating risk; (2) Institutions need clear, specific AI policies per assessment type; (3) Assessment redesign is the most sustainable response; (4) Disclosure-based approach preferred over prohibition. Melbourne GAIT 10 principles (paraphrased): Honesty, Transparency, Fairness, Accountability, Respect for intellectual property, Privacy, Human oversight, Equity of access, Critical engagement, Continuous review.",
+  "iste_standards": "[uncertain]",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "Australian university approaches align with UNESCO's guidance. TEQSA's responsible use framework echoes UNESCO's 'transparent and ethical use' approach. Neil Selwyn's critical perspective adds a dimension that UNESCO's guidance touches on (equity, labor, surveillance) but doesn't fully develop.",
+
+  "implementation_challenges": "Chief Examiner accountability model (Monash) works when individual faculty are AI-literate — gaps exist for faculty who are not. Assessment redesign requires significant workload investment from faculty. International student populations create cultural complexity. AI detection tools (Turnitin) have non-trivial false positive rates, creating fairness concerns.",
+  "student_perspective": "Australian students have stronger procedural rights than students at most Asian universities. The NTU-style unilateral Academic Integrity Officer override would be more contested in Australian context. Student unions have been active in demanding clear, fair AI policies. International students have raised concerns about cultural differences in understanding AI disclosure requirements.",
+  "teacher_perspective": "Australian academics are more resistant to EdTech surveillance (Selwyn's influence is felt). Faculty value assessment autonomy — the Chief Examiner model (Monash) works WITH faculty autonomy rather than imposing centralized rules. Many faculty report workload challenges in redesigning assessments for the AI era.",
+  "recommendations": "For Vietnamese EdTech researchers: (1) AAIN March 2023 guidelines are a practical, implementable set of recommendations that can be adapted for Vietnamese university context; (2) The disclosure-based approach (vs. prohibition) is consistent with both UNESCO guidance and Singapore practice — represents a consensus international model; (3) Melbourne GAIT's 10 principles provide a named framework suitable for policy proposals; (4) Australian experience with international student AI integrity issues is directly relevant to Vietnamese student population context.",
+
+  "primary_sources": [
+    "AAIN Generative AI Guidelines March 2023 — teqsa.gov.au/sites/default/files/2023-04/aain-generative-ai-guidelines.pdf",
+    "TEQSA Gen AI Knowledge Hub — teqsa.gov.au/guides-resources/higher-education-good-practice-hub/gen-ai-knowledge-hub",
+    "Monash University Guidance on Generative AI — Graduate Research — monash.edu/graduate-research/support-and-resources/resources/guidance-on-generative-ai",
+    "University of Melbourne: Using AI in teaching, learning and assessment — unimelb.edu.au/tli/news/articles/Using-AI-in-teaching,-learning-and-assessment"
+  ],
+  "academic_sources": [
+    "Generative AI in Education — Australian Parliamentary submission — aph.gov.au",
+    "Inquiry into the use of generative artificial intelligence in the Australian education system — aph.gov.au"
+  ],
+  "vietnamese_sources": "[uncertain]",
+  "urls": [
+    "https://www.teqsa.gov.au/guides-resources/higher-education-good-practice-hub/gen-ai-knowledge-hub/gen-ai-academic-integrity-and-assessment-reform",
+    "https://www.teqsa.gov.au/sites/default/files/2023-04/aain-generative-ai-guidelines.pdf",
+    "https://www.monash.edu/graduate-research/support-and-resources/resources/guidance-on-generative-ai",
+    "https://www.unimelb.edu.au/tli/news/articles/Using-AI-in-teaching,-learning-and-assessment",
+    "https://www.monashcollege.edu.au/about-us/policies-procedures/academic-integrity"
+  ],
+
+  "uncertain": ["vietnamese_law_reference", "moet_policy", "documented_vn_cases", "vn_university_responses", "company_ethics_policy", "singapore_approach", "iste_standards", "cosn_guidelines", "vietnamese_sources"]
+}
