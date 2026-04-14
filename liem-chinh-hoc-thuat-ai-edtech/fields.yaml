@@ -1,0 +1,170 @@
+topic: "Liêm chính học thuật và gian lận AI trong nghiên cứu EdTech"
+
+fields:
+  - category: "Định nghĩa & Khái niệm"
+    fields:
+      - name: dinh_nghia
+        label: "Định nghĩa chính thức"
+        description: "Khái niệm theo ICAI, UNESCO, hoặc tổ chức học thuật uy tín"
+        detail_level: moderate
+
+      - name: phan_loai
+        label: "Phân loại vi phạm"
+        description: >
+          Các loại vi phạm liêm chính: đạo văn (plagiarism), gian lận (fraud),
+          bịa đặt (fabrication), làm hộ (contract cheating), gian lận AI (AI-assisted dishonesty)
+        detail_level: detailed
+
+      - name: lich_su_khai_niem
+        label: "Lịch sử khái niệm"
+        description: "Khái niệm xuất hiện khi nào, ai định nghĩa, thay đổi như thế nào qua AI era"
+        detail_level: brief
+
+  - category: "Bằng chứng thực tế"
+    fields:
+      - name: ten_truong_hop
+        label: "Tên trường hợp / vụ việc"
+        description: "Tên đầy đủ, trường/tổ chức, năm"
+        detail_level: moderate
+
+      - name: dien_bien
+        label: "Diễn biến"
+        description: "Chuyện gì xảy ra? Gian lận bằng cách nào? Bị phát hiện thế nào?"
+        detail_level: detailed
+
+      - name: ket_qua_xu_ly
+        label: "Kết quả xử lý"
+        description: "Hình phạt áp dụng, kháng cáo, bài học rút ra"
+        detail_level: moderate
+
+      - name: con_so_thong_ke
+        label: "Con số thống kê"
+        description: "Số liệu cụ thể: số sinh viên, số bài retract, tỷ lệ phát hiện"
+        detail_level: moderate
+
+  - category: "Tác hại & Hậu quả"
+    fields:
+      - name: hai_cho_nguoi_hoc
+        label: "Hại cho người học"
+        description: "Không phát triển kỹ năng tư duy, phụ thuộc công cụ, thiếu năng lực thực sự"
+        detail_level: moderate
+
+      - name: hai_cho_nghien_cuu
+        label: "Hại cho tri thức khoa học"
+        description: "Thông tin sai, trích dẫn bịa đặt, xói mòn peer review, retraction"
+        detail_level: detailed
+
+      - name: hai_cho_xa_hoi
+        label: "Hại cho xã hội"
+        description: "Bằng cấp mất giá trị, niềm tin vào GD sụt giảm, tác động ngành EdTech"
+        detail_level: brief
+
+  - category: "Phát hiện & Công cụ"
+    fields:
+      - name: cong_cu_phat_hien
+        label: "Công cụ phát hiện AI"
+        description: "Turnitin, GPTZero, Copyleaks — cách hoạt động, độ chính xác, giới hạn"
+        detail_level: detailed
+
+      - name: han_che_cong_cu
+        label: "Hạn chế của công cụ"
+        description: >
+          False positive (đặc biệt ESL writers — Liang et al. Stanford 2023: 61.3%),
+          không phát hiện được human-edited AI, arms race với humanization tools
+        detail_level: detailed
+
+      - name: watermarking
+        label: "LLM Watermarking"
+        description: "Kirchenbauer/UMD và Aaronson/OpenAI — triển vọng và hạn chế kỹ thuật"
+        detail_level: moderate
+
+  - category: "Phòng ngừa & Giải pháp"
+    fields:
+      - name: thiet_ke_bai_tap
+        label: "Thiết kế bài tập kháng AI"
+        description: >
+          Process-based, oral defense, portfolio, staged submissions, reflective journals —
+          thực tiễn tại Sydney, Stanford, San Diego
+        detail_level: detailed
+
+      - name: chinh_sach_truong_hoc
+        label: "Chính sách trường học"
+        description: >
+          Stanford, Harvard, MIT, NUS — từ cấm hoàn toàn đến tích hợp có disclosure;
+          AIAS 5-tier (Perkins, BUV)
+        detail_level: detailed
+
+      - name: van_hoa_to_chuc
+        label: "Văn hóa tổ chức"
+        description: "Honor code văn hóa (McCabe) vs enforcement-only — cái nào hiệu quả hơn"
+        detail_level: moderate
+
+      - name: ai_literacy
+        label: "AI Literacy"
+        description: >
+          UNESCO Art. 4 EU AI Act: AI literacy bắt buộc; ISTE/CoSN frameworks;
+          dạy học sinh phân biệt AI tool vs AI fraud
+        detail_level: moderate
+
+  - category: "Khung pháp lý & Đạo đức"
+    fields:
+      - name: khung_quoc_te
+        label: "Khung quốc tế"
+        description: "UNESCO 2021/2023, EU AI Act 2024 (Annex III, Art. 50), IEEE EAD, ACM Code"
+        detail_level: detailed
+
+      - name: phap_luat_viet_nam
+        label: "Pháp luật Việt Nam"
+        description: >
+          Nghị định 109/2022/NĐ-CP Điều 20; Luật KH&CN 2025;
+          khoảng trống pháp lý: không đề cập AI tạo sinh
+        detail_level: detailed
+
+      - name: chinh_sach_chau_a
+        label: "Chính sách châu Á - TBD"
+        description: >
+          CUHK (đuổi học vì AI, 2023), NUS (disclosure framework, 2023/2024),
+          NTU (zero marks vì hallucinated citations, 2025)
+        detail_level: moderate
+
+  - category: "Góc nhìn EdTech"
+    fields:
+      - name: ai_tutor_vs_ai_cheater
+        label: "AI as tutor vs AI as cheater"
+        description: >
+          Rose Luckin (UCL) vs Neil Selwyn (Monash): AI democratizes education
+          hay tạo điều kiện gian lận? Framing debate.
+        detail_level: moderate
+
+      - name: edtech_company_policies
+        label: "Chính sách EdTech companies"
+        description: >
+          Khan Academy Khanmigo (Socratic, refuses essays), Coursera (post-submission dialogue),
+          Duolingo (AI in product; banned in exam); FPT/Van Lang (Coursera pilot VN)
+        detail_level: moderate
+
+      - name: de_xuat_nha_nghien_cuu
+        label: "Đề xuất từ góc nhìn nhà nghiên cứu EdTech"
+        description: >
+          Không cấm đơn thuần; thiết kế lại môi trường học tập;
+          AIAS framework; contextual integration; attribution standards mới
+        detail_level: detailed
+
+  - category: "Nguồn tài liệu"
+    fields:
+      - name: bai_bao_khoa_hoc
+        label: "Bài báo khoa học có DOI"
+        description: "Perkins et al. (2023), Newton & Xiromeriti (2023), Liang et al. (2023), Haider et al. (2024)"
+        detail_level: moderate
+
+      - name: sach_tham_khao
+        label: "Sách tham khảo"
+        description: "McCabe (2012), Eaton (2021/2024), Bretag (2016), Gallant (2008)"
+        detail_level: brief
+
+      - name: nguon_viet_nam
+        label: "Nguồn Việt Nam"
+        description: "Nghị định 109/2022, QĐ 1705, VietnamNet, nghiên cứu Springer 1.386 SV VN"
+        detail_level: moderate
+
+uncertain: []

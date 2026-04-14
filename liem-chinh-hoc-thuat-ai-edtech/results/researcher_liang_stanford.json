@@ -1,0 +1,45 @@
+{
+  "_source_file": "outline.yaml",
+  "id": "researcher_liang_stanford",
+  "name": "Weixin Liang et al.",
+  "type": "researcher",
+  "institution": "Stanford University (Weixin Liang, Mert Yuksekgonul, Yining Mao, Eric Wu, James Zou)",
+  "specialty": "AI detector bias against non-native English speakers",
+  "key_work": "Liang et al. (2023) Patterns/Cell Press doi:10.1016/j.patter.2023.100779 — 61.3% false positive on TOEFL essays; arXiv:2304.02819; triggered Vanderbilt disabling Turnitin",
+
+  "dinh_nghia": "AI detector bias refers to the systematic tendency of AI-generated text detection tools (such as Turnitin, GPTZero, Copyleaks) to produce disproportionately high false-positive rates for texts written by non-native English speakers (ESL writers), due to lower lexical diversity, simpler syntactic structures, and higher word-frequency patterns that mimic AI output.",
+  "phan_loai": "Type of harm: false positive (Type I error) in AI detection — legitimate human-written work incorrectly flagged as AI-generated. Subcategory: algorithmic bias / disparate impact on ESL student populations.",
+  "lich_su_khai_niem": "Liang et al. submitted arXiv:2304.02819 in April 2023; published in Patterns (Cell Press) in July 2023 (doi:10.1016/j.patter.2023.100779). This was the first peer-reviewed study documenting systematic ESL bias. The findings directly caused Vanderbilt University to disable Turnitin AI detection in 2023.",
+
+  "ten_truong_hop": "GPT detectors are biased against non-native English writers — Liang, Yuksekgonul, Mao, Wu, Zou (Stanford HAI / Zou Lab, 2023)",
+  "dien_bien": "The team tested 7 popular AI detectors (including GPTZero, Turnitin, Crossplag, Writer, Copyleaks, ZeroGPT, Sapling) on: (1) English essays by Chinese college students (TOEFL test bank), (2) US 8th-grade student writing, (3) ChatGPT-generated essays. Result: 61.3% of legitimate TOEFL essays were flagged as AI-generated; only 1.5% of native-speaker essays were false-positives. Simple prompt interventions ('elevate the writing') made ChatGPT output evade detection at >90% rate.",
+  "ket_qua_xu_ly": "Published in Patterns (Cell Press) — high-impact cross-disciplinary journal. Vanderbilt University disabled Turnitin AI detection citing this study. Northwestern and UT Austin also reconsidered AI detection policies. Turnitin issued a response acknowledging higher false-positive rates on ESL writing but disputed the 61.3% figure for their product specifically.",
+  "con_so_thong_ke": "61.3% false positive rate on TOEFL essays; 1.5% false positive on native-speaker writing; 7 tools tested; >90% evasion rate when ChatGPT output was prompted to 'elevate language'; published July 2023; James Zou lab (Stanford) — ~500+ citations by 2024.",
+
+  "hai_cho_nguoi_hoc": "Non-native English speaking students face disproportionate accusation of AI dishonesty for work they wrote themselves. Consequences include grade penalties (0 marks), academic misconduct proceedings, psychological harm, and chilling effect on language development (students may avoid advanced vocabulary to avoid flags).",
+  "hai_cho_nghien_cuu": "If AI detectors are embedded in peer review or journal submission systems, ESL researchers from non-English-speaking countries face unfair screening. This compounds existing inequity in global academic publishing.",
+  "hai_cho_xa_hoi": "Systemic false accusation of marginalized groups (international students, ESL learners) erodes institutional trust, reinforces xenophobic assumptions, and devalues international education. Institutions that over-rely on AI detection tools risk legal liability.",
+
+  "cong_cu_phat_hien": "Turnitin AI Detection, GPTZero, Copyleaks, Writer AI Detector, ZeroGPT, Sapling, Crossplag — all tested in the study. All showed statistically significant ESL bias. Primary detection methods: perplexity (entropy of token probabilities), burstiness (variance in perplexity), stylometric frequency analysis.",
+  "han_che_cong_cu": "Critical limitation: current AI detectors use statistical proxies (perplexity, burstiness, token frequency) that correlate with both AI generation AND with non-native speaker writing patterns. 61.3% false positive on TOEFL essays (Liang et al. 2023). Simple paraphrasing or style elevation prompts defeat detection. 'Humanizing' tools (Quillbot, Undetectable.ai) explicitly designed to evade. Detectors cannot distinguish ESL human writing from AI output.",
+  "watermarking": "Liang et al.'s work motivates watermarking as a more reliable alternative to stylometric detection — if LLMs embedded provenance signals, false positives against ESL writers could be eliminated. However, no production watermarking exists (2025).",
+
+  "thiet_ke_bai_tap": "Implication for assessment design: AI detection tools cannot be the primary defense. Process-based assessment (staged submissions, oral defense, reflective journals) are equitable across ESL and native speakers and do not produce false positives.",
+  "chinh_sach_truong_hoc": "Vanderbilt (2023): disabled Turnitin AI detection citing Liang et al. Michigan State, Northwestern, UT Austin: suspended or limited AI detection use. Stanford's own policy emphasizes instructor judgment over automated detection. Turnitin updated guidance to warn against sole reliance on AI scores.",
+  "van_hoa_to_chuc": "Over-reliance on detection tools without cultural context creates punitive, inequitable environments. McCabe's honor-code culture model — where students self-regulate — is more effective and equitable than enforcement-by-algorithm.",
+  "ai_literacy": "Educators must understand AI detector limitations including ESL bias before deploying tools. AI literacy curricula should include critical evaluation of detection tool accuracy, not just AI use ethics.",
+
+  "khung_quoc_te": "EU AI Act Annex III flags educational assessment tools as high-risk AI systems, requiring accuracy testing and bias audits — directly relevant to AI detector deployments. UNESCO 2023 guidance warns against automated academic integrity enforcement without human oversight.",
+  "phap_luat_viet_nam": "Vietnam's Decree 109/2022 does not address AI detection tool deployment in academic integrity enforcement. No regulatory requirement to audit AI detection tools for ESL bias in Vietnamese context.",
+  "chinh_sach_chau_a": "NUS (Singapore) explicitly warns against sole reliance on AI detection tools in its AI academic integrity framework (2023/2024). CUHK (Hong Kong) does not detail specific tool restrictions. NTU issued zero marks for AI hallucinated citations (2025) — based on content analysis, not detection tools.",
+
+  "ai_tutor_vs_ai_cheater": "Liang et al.'s work demonstrates that 'AI as cheater' framing disproportionately harms ESL students — reinforcing Neil Selwyn's critique that systemic inequity drives both cheating behavior and disproportionate enforcement. Rose Luckin's democratization argument is undermined if detection tools introduce new forms of discrimination.",
+  "edtech_company_policies": "Turnitin responded to Liang et al. by updating product guidance (not disabling the feature). GPTZero improved false-positive rates in later versions but ESL bias persists. Coursera's post-submission dialogue approach (behavioral) avoids this bias issue. Khan Academy's Khanmigo avoids detection entirely via Socratic design.",
+  "de_xuat_nha_nghien_cuu": "Recommendation: (1) Institutions should immediately audit AI detection tool false-positive rates on ESL student populations before deployment. (2) No disciplinary action should be taken based solely on AI detection scores. (3) Assessment redesign (oral defense, process-based) is more equitable. (4) Advocate for deployed LLM watermarking as a bias-free alternative long-term.",
+
+  "bai_bao_khoa_hoc": "Liang et al. (2023) 'GPT detectors are biased against non-native English writers' Patterns/Cell Press doi:10.1016/j.patter.2023.100779; arXiv:2304.02819. Perkins et al. (2023) 'Chatting and cheating' IETI. Newton & Xiromeriti (2023) Innovations in Education and Teaching International. Haider et al. (2024) Harvard Misinformation Review.",
+  "sach_tham_khao": "Eaton (2024) Second Handbook of Academic Integrity (Springer) — covers AI detection bias. Eaton (2021) Plagiarism in Higher Education — ESL and cultural context chapters.",
+  "nguon_viet_nam": "Springer 2024 study on 1,386 Vietnamese university students (doi:10.1007/s10639-024-12495-4) — discusses detection challenges for ESL Vietnamese writers. Perkins (BUV) — works with Vietnamese ESL students, directly relevant.",
+
+  "uncertain": []
+}

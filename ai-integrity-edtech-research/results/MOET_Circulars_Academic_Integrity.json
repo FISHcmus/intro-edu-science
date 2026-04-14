@@ -1,0 +1,65 @@
+{
+  "name": "MOET Circulars on Academic Integrity & Decree 109/2022/NĐ-CP",
+  "type": "policy",
+  "year": "2022 (Decree 109), 2023 (Circular 26 on lecturers), ongoing",
+  "issuing_authority": "Bộ Giáo dục và Đào tạo (Ministry of Education and Training, MOET) and Chính phủ (Government of Vietnam)",
+  "country_or_region": "Vietnam",
+  "summary": "Nghị định 109/2022/NĐ-CP (December 30, 2022, effective March 1, 2023) is the landmark regulation mandating academic integrity codes in Vietnamese higher education. For the first time, the Vietnamese Government explicitly required all higher education institutions to issue codes of academic integrity (bộ quy tắc liêm chính học thuật). Circular 26 added lecturer professional obligations regarding scientific integrity. The regulation was partially triggered by investigative journalism exposing corruption in university research (profit-taking in scientific activities — 'trục lợi trong nghiên cứu khoa học').",
+
+  "ai_use_policy": "Decree 109/2022 does not explicitly address AI-generated content or ChatGPT — it predates widespread generative AI adoption in Vietnamese universities. However, Article 20 requires institutions to develop tools to prevent 'plagiarism, fraud, and fabrication' which has been interpreted by universities to include AI-assisted fraud. MOET has not issued a specific circular on AI use in academic work as of April 2026; AI policies remain institution-level.",
+  "academic_fraud_definition": "Article 20 of Decree 109/2022 defines violations as: plagiarism (đạo văn — using others' ideas, text, or data without citation), fraud (gian lận — falsification of research processes or results), and fabrication (bịa đặt — inventing data or results). Text similarity thresholds: institutions typically set 15-25% maximum similarity via Turnitin. Universities like HCMUFA penalize at 50% score reduction for detected AI-generated submissions.",
+  "detection_mechanisms": "Turnitin (widely adopted across Vietnamese universities for Vietnamese and English text). Some universities use Turnitin's AI detection module (launched 2023). Manual review by supervisors and examiners. Institutional plagiarism detection requirements are now legally mandated by Decree 109/2022.",
+  "penalties": "According to university regulations: warning (khiển trách), formal reprimand (cảnh cáo), temporary suspension (đình chỉ học tập), or expulsion (buộc thôi học) for serious plagiarism or repeated violations. At HCMUFA (Trường ĐH Ngoại ngữ - Tin học TP.HCM), 2023 case: 50% score deduction for AI-generated essay detected. Hue University QĐ-295/2023: specific penalty schedule for academic misconduct.",
+  "transparency_requirements": "Decree 109/2022 Article 20: institutions must publish their integrity code. Researchers must disclose methods, data sources, and contributions. No specific AI disclosure requirement exists at the national level yet.",
+
+  "vietnamese_law_reference": "Nghị định 109/2022/NĐ-CP Điều 20 (Article 20) — 'Đảm bảo liêm chính học thuật trong hoạt động khoa học và công nghệ'. Thông tư 26 on university lecturer professional standards — includes integrity obligations. Thông tư 09/2009/TT-BGDĐT on postgraduate thesis evaluation (earlier baseline regulation).",
+  "moet_policy": "MOET has issued guidance on AI integration in education (2024-2025) focusing on teaching AI, not on governing student AI use. MOET has not issued a specific thông tư (circular) prohibiting or regulating AI tools in student academic work as of April 2026. AI integrity regulation remains at the institutional level. MOET's 2025 AI curriculum pilot includes AI ethics as a curriculum component.",
+  "documented_vn_cases": "2023, HCMUFA (Trường ĐH Ngoại ngữ - Tin học TP.HCM): student penalized 50% score reduction for AI-generated essay. 2023 academic survey: 1,386 Vietnamese undergraduates — list experiment method revealed AI-cheating prevalence is ~3x higher than self-reported rates (Springer study by Vietnamese researchers). VietnamNet headline 2023: 'Bị nghi dùng ChatGPT viết luận, nửa lớp không thể tốt nghiệp' (Half a class unable to graduate after suspected of using ChatGPT for theses).",
+  "vn_university_responses": "Hue University (Đại học Huế): QĐ 295/2023/QĐ-ĐHH — comprehensive Research Integrity Regulation. Most VNU-affiliated universities and major private universities adopted Turnitin with AI detection module in 2023-2024. Duy Tan University published analysis of ChatGPT usage patterns among students. Universities moving toward oral defenses and process-based assessment to counter AI fraud.",
+
+  "ai_tutor_vs_cheater_framing": "Vietnamese discourse (Thanh Niên, Giáo Dục.net.vn, ZNews) frames AI primarily as a cheating enabler in exam-oriented culture. Some educators advocate reframing AI as learning support tool. Dr. Mike Perkins (British University Vietnam) — a key researcher in Vietnam context — argues for ethical AI integration frameworks rather than outright bans.",
+  "responsible_ai_definition": "Vietnamese institutions have not adopted a formal responsible AI definition for student use. MOET's AI curriculum pilot defines responsible AI use in terms of literacy (understanding AI, ethics, human-centered thinking) rather than academic conduct rules.",
+  "key_researchers": "Dr. Mike Perkins (British University Vietnam, BUV) — published 'Academic Integrity considerations of AI Large Language Models in the post-pandemic era: ChatGPT and beyond' (2023), received Most Influential Research award from Journal of University Teaching and Learning Practice. Dr. Lê Anh Vinh (VNIES — Vietnam Institute of Educational Sciences) — conducted national surveys on AI readiness.",
+  "company_ethics_policy": "[uncertain] — Not directly relevant to this MOET regulation item.",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "[uncertain]",
+  "asia_vs_western_differences": "[uncertain]",
+  "asean_regional_initiatives": "[uncertain]",
+
+  "framework_name": "Decree 109/2022/NĐ-CP Academic Integrity Framework",
+  "framework_principles": "Honesty (trung thực), Responsibility (trách nhiệm), Fairness (công bằng), Transparency (minh bạch) — explicitly stated as the four principles of academic integrity per Article 20. Institutions must align with 'international conventions' (thông lệ quốc tế).",
+  "iste_standards": "[uncertain]",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "[uncertain]",
+
+  "implementation_challenges": "Many Vietnamese universities lack capacity to implement Turnitin AI detection at scale (cost, Vietnamese language support limitations). Faculty resistance to changing assessment methods. Students widely use AI tools and awareness of institutional AI policies is low. Pressure from 'bệnh thành tích' (achievement disease) culture may reduce reporting of AI violations.",
+  "student_perspective": "A 2023 Springer study of 1,386 Vietnamese undergraduates found that AI cheating prevalence is ~3x higher than self-reported rates — students conceal AI use when directly questioned. Thanh Niên 2024 reports show students view AI as a study tool and do not consistently understand boundaries between permitted and prohibited use.",
+  "teacher_perspective": "Teachers report 'there has never been so much cheating' (vietnam.vn). 76% of teachers surveyed in 2024 (n=~35,000) have used AI in teaching — mostly self-taught. Teachers are adapting assessments to require deeper analysis, oral components, and process documentation to counter AI fraud.",
+  "recommendations": "EdTech researchers in Vietnam should: (1) cite Decree 109/2022 Article 20 as the active legal standard for academic integrity; (2) advocate for MOET to issue a specific circular on AI use in academic work; (3) support institutions in developing AI literacy curricula that include integrity components; (4) recommend the AIAS (AI Assessment Scale) framework developed at British University Vietnam as an adaptable model for Vietnamese HEIs.",
+
+  "primary_sources": [
+    "Nghị định 109/2022/NĐ-CP — vanban.chinhphu.vn/?docid=207110",
+    "QĐ 295/2023/QĐ-ĐHH Đại học Huế — qldh.hueuni.edu.vn/data/kyso/2023/3/Quy_dinh_Liem_chinh_khoa_hoc_final_signed11.pdf"
+  ],
+  "academic_sources": [
+    "Unmasking academic cheating behavior in the artificial intelligence era: Evidence from Vietnamese undergraduates — Springer (2024) — link.springer.com/article/10.1007/s10639-024-12495-4",
+    "Perkins et al. (2023) Academic Integrity considerations of AI Large Language Models — Journal of University Teaching and Learning Practice"
+  ],
+  "vietnamese_sources": [
+    "Bộ GD-ĐT yêu cầu giảng viên phải đảm bảo liêm chính khoa học — vietnamnet.vn",
+    "Các cơ sở giáo dục Đại học phải ban hành bộ quy tắc về liêm chính học thuật — tienphong.vn",
+    "Nửa lớp không thể tốt nghiệp vì bị nghi dùng ChatGPT viết luận — vietnamnet.vn",
+    "Khi AI giúp sinh viên gian lận — znews.vn",
+    "Sinh viên sử dụng công cụ AI: Ứng xử của các trường — thanhnien.vn"
+  ],
+  "urls": [
+    "https://vanban.chinhphu.vn/?docid=207110&pageid=27160",
+    "https://tienphong.vn/cac-co-so-giao-duc-dai-hoc-phai-ban-hanh-bo-quy-tac-ve-liem-chinh-hoc-thuat-post1500227.tpo",
+    "https://link.springer.com/article/10.1007/s10639-024-12495-4",
+    "https://vietnamnet.vn/bi-nghi-dung-chatgpt-viet-luan-nua-lop-khong-the-tot-nghiep-2143538.html",
+    "https://qldh.hueuni.edu.vn/data/kyso/2023/3/Quy_dinh_Liem_chinh_khoa_hoc_final_signed11.pdf"
+  ],
+
+  "uncertain": ["company_ethics_policy", "singapore_approach", "australia_approach", "asia_vs_western_differences", "asean_regional_initiatives", "iste_standards", "cosn_guidelines", "unesco_guidelines"]
+}

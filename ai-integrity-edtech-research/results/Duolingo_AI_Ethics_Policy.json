@@ -1,0 +1,59 @@
+{
+  "name": "Duolingo AI Ethics Policy & Integrity Stance",
+  "type": "company_policy",
+  "year": "2023 (v1 published April 2023; updated 2024, 2025)",
+  "issuing_authority": "Duolingo Inc.",
+  "country_or_region": "Global (US-headquartered, worldwide users)",
+  "summary": "Duolingo published its first Responsible AI Standards for the Duolingo English Test (DET) in April 2023, with subsequent updates in 2024 and 2025. Duolingo's business model underwent a major shift in 2023 when it replaced human content contractors with AI (raising ethics concerns about labor). For the DET specifically, Duolingo deployed a sophisticated human-in-the-loop AI proctoring and cheating detection system, including LLM-assisted cheating detection research. Duolingo's integrity approach is notable for its combination of AI detection tools WITH human expert review — not AI alone.",
+
+  "ai_use_policy": "Duolingo's learning platform: AI is deeply integrated into instruction (personalized lessons, hint generation, conversation practice). AI use is the product itself — Duolingo does not restrict AI use in learning. DET exam context: strict prohibitions on AI assistance during the test. The test uses webcam proctoring, behavior analysis, and AI comparison against historical responses to detect cheating.",
+  "academic_fraud_definition": "For the DET: cheating includes using AI tools during the exam to generate written or spoken responses; using scripts, notes, or assistance from other people; sharing test content. Duolingo distinguishes between AI-assisted cheating (using AI during the test) and AI-supported learning (using Duolingo's own AI features to prepare).",
+  "detection_mechanisms": "Four-layer detection: (1) AI/ML algorithms monitoring test-taker behavior for unusual patterns; (2) Proctoring software with webcam recording and screen monitoring; (3) AI comparing writing responses to internet content databases and historical test sessions; (4) Human-in-the-loop expert reviewers evaluating flagged sessions. 2024 paper: 'Detecting LLM-Assisted Cheating on Open-Ended Writing Tasks on Language Proficiency Tests' — presented at EMNLP 2024.",
+  "penalties": "Test score cancellation. Permanent ban from Duolingo English Test for serious violations. Reporting to universities that accepted the DET score.",
+  "transparency_requirements": "Duolingo publishes Responsible AI Standards as a public document (updated annually). Methodology for cheating detection published in academic papers. This level of transparency is notable — most testing organizations do not publish detailed detection methods.",
+
+  "vietnamese_law_reference": "[uncertain] — DET is used by Vietnamese students applying to international universities. No specific Vietnamese law reference.",
+  "moet_policy": "[uncertain]",
+  "documented_vn_cases": "[uncertain] — No specific Vietnam cases documented in available sources.",
+  "vn_university_responses": "DET is accepted by 5,000+ programs globally including some in Vietnam. Vietnamese students take DET as an IELTS/TOEFL alternative. The integrity standards apply regardless of test location.",
+
+  "ai_tutor_vs_cheater_framing": "Duolingo's framing is nuanced: AI IS the product/tutor in their learning platform; AI is the cheater-enabler in their exam context. The company navigates this tension by strictly separating learning (AI-enabled) from testing (AI-prohibited). This dual stance is a practical model for EdTech researchers: AI integration in learning ≠ AI permission in assessment.",
+  "responsible_ai_definition": "Duolingo's four standards: (1) Validity and Reliability — test is suitable for purpose; (2) Fairness — democratization, accessibility, inclusion; (3) Privacy and Security — secure administration, privacy protection, cheating prevention; (4) Accountability and Transparency — documentation and dissemination of AI use. Notably, their responsible AI definition is test-centered, not generically about student AI use.",
+  "key_researchers": "Duolingo Research team — published at EMNLP 2024 on LLM cheating detection. Human-in-the-loop AI proctoring paper (arxiv.org/html/2403.14711v1 — 'Human-in-the-Loop AI for Cheating Ring Detection').",
+  "company_ethics_policy": "Full policy: 'The Duolingo English Test Responsible AI Standards' — publicly available at duolingo-papers.s3.amazonaws.com. Updated versions published annually. The standards include stakeholder consultation requirements and bias testing requirements for AI models used in testing.",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "[uncertain]",
+  "asia_vs_western_differences": "[uncertain]",
+  "asean_regional_initiatives": "[uncertain]",
+
+  "framework_name": "Duolingo English Test Responsible AI Standards",
+  "framework_principles": "Validity and Reliability, Fairness, Privacy and Security, Accountability and Transparency. Each standard has goals and subgoals geared toward implementation. Human-in-the-loop is a core architectural principle — AI flags, humans decide on high-stakes determinations.",
+  "iste_standards": "[uncertain]",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "[uncertain]",
+
+  "implementation_challenges": "The cheating arms race: as AI detection improves, AI cheating tools also improve. 'Can AI detect AI?' blog post (Duolingo, 2024) acknowledges the detection challenge. LLM-assisted writing is difficult to distinguish from strong human writing with certainty. Duolingo chose a probabilistic approach combined with human review rather than binary AI detection.",
+  "student_perspective": "Students attempt to cheat on DET due to high stakes (immigration, university admission). Cheating rings have been documented (human helpers physically assisting test takers). AI cheating adds a new vector. From Vietnamese student perspective: DET is popular partly because it is accessible online — this also makes it a target for cheating.",
+  "teacher_perspective": "Not directly applicable — DET is a standardized test, not classroom assessment. However, Duolingo's model (AI detection + human review) is increasingly cited as a best practice for other EdTech platforms.",
+  "recommendations": "For EdTech researchers: Duolingo's dual framing (AI as learning tool vs. AI as exam integrity threat) is the most practically sophisticated model available. Recommend adopting Duolingo's four-standard framework (Validity, Fairness, Privacy, Accountability) as a template for AI integrity policies in other EdTech contexts. Human-in-the-loop principle should be a core design requirement — no fully automated AI fraud determination without human review.",
+
+  "primary_sources": [
+    "The Duolingo English Test Responsible AI Standards — duolingo-papers.s3.amazonaws.com/other/Duolingo+English+Test+Responsible+AI.pdf",
+    "Human-in-the-Loop AI for Cheating Ring Detection — arxiv.org/html/2403.14711v1",
+    "Can AI detect AI? Tackling the challenge of LLM-assisted cheating — blog.englishtest.duolingo.com"
+  ],
+  "academic_sources": [
+    "Detecting LLM-Assisted Cheating on Open-Ended Writing Tasks on Language Proficiency Tests — EMNLP 2024 (Duolingo Research)",
+    "Responsible AI & Test Equity: Duolingo English Test — emergentmind.com/papers/2409.07476"
+  ],
+  "vietnamese_sources": "[uncertain]",
+  "urls": [
+    "https://duolingo-papers.s3.us-east-1.amazonaws.com/other/Duolingo+English+Test+Responsible+AI.pdf",
+    "https://arxiv.org/html/2403.14711v1",
+    "https://blog.englishtest.duolingo.com/can-ai-detect-ai-tackling-the-challenge-of-llm-assisted-cheating/",
+    "https://blog.duolingo.com/cheating-on-duolingo-english-test/"
+  ],
+
+  "uncertain": ["vietnamese_law_reference", "moet_policy", "documented_vn_cases", "singapore_approach", "australia_approach", "asia_vs_western_differences", "asean_regional_initiatives", "iste_standards", "cosn_guidelines", "unesco_guidelines", "vietnamese_sources"]
+}

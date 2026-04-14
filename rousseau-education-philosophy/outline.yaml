@@ -1,0 +1,102 @@
+topic: Jean-Jacques Rousseau Philosophy in Education
+items:
+  - name: "Émile, ou De l'éducation (1762)"
+    category: Primary Work
+    description: "Rousseau's magnum opus on education; five-book treatise following a fictional boy Émile from birth to adulthood; the most influential education text of the Enlightenment"
+
+  - name: "Natural Education (Éducation naturelle)"
+    category: Core Doctrine
+    description: "Core principle: let nature guide the child's development, not society's conventions; everything is good as it leaves the hands of the Creator, everything degenerates in the hands of man"
+
+  - name: "Negative Education"
+    category: Core Doctrine
+    description: "Rousseau's pedagogical method: protect the child from vice rather than teach virtue directly; delay formal instruction; shield from books until age 12"
+
+  - name: "Stage Theory of Development"
+    category: Core Doctrine
+    description: "Four developmental stages: infancy (0-2), childhood (2-12), pre-adolescence (12-15), adolescence (15-20); each stage has distinct educational needs"
+
+  - name: "Amour de soi vs. Amour-propre"
+    category: Psychological Foundation
+    description: "Distinction between natural self-love (amour de soi, healthy) and comparative self-love inflamed by society (amour-propre, destructive); fundamental to Rousseau's moral psychology of education"
+
+  - name: "Sensory Education"
+    category: Pedagogical Method
+    description: "Learning through direct sensory experience before abstract reasoning; 'the first reason of man is a reason of the senses'; hands-on exploration of the physical world"
+
+  - name: "The Tutor's Role & Invisible Hand Pedagogy"
+    category: Pedagogical Method
+    description: "Tutor as guide who arranges experiences, not lecturer; designs all circumstances so child 'naturally' chooses what tutor intends; paradox of manipulated freedom"
+
+  - name: "Robinson Crusoe as Curriculum"
+    category: Pedagogical Method
+    description: "Rousseau's recommendation of Defoe's novel as the only book for Émile before age 15; self-reliance, practical problem-solving, rejection of classical literary canon"
+
+  - name: "Carpentry & Vocational Training"
+    category: Pedagogical Method
+    description: "Émile must learn a practical craft (carpentry); manual labor ennobles character, teaches value of work, bridges theory and practice"
+
+  - name: "Passion, Sentiment & Emotional Development"
+    category: Psychological Foundation
+    description: "Education progresses from physical → sensory → reason → sentiment (pitié/compassion); emotion completes reason; affective engagement necessary for moral development"
+
+  - name: "Sophie's Education (Book V of Émile)"
+    category: Gender & Critique
+    description: "Rousseau's controversial views on educating women — complementary but unequal to men's education; Sophie trained for domesticity and obedience"
+
+  - name: "Wollstonecraft's Rebuttal (A Vindication, 1792)"
+    category: Gender & Critique
+    description: "Mary Wollstonecraft's direct feminist critique of Rousseau; women's inferiority produced by unequal education, not nature; exposes contradiction in Rousseau's egalitarianism"
+
+  - name: "The Social Contract & Education"
+    category: Political Philosophy
+    description: "How Rousseau's political philosophy (general will, civil liberty) connects to his educational vision; education for citizenship vs. education for individual freedom"
+
+  - name: "Discourse on Inequality & Education"
+    category: Political Philosophy
+    description: "How civilization corrupts natural goodness; education as potential remedy or reinforcer of inequality; noble savage concept"
+
+  - name: "Julie, ou la Nouvelle Héloïse (1761)"
+    category: Alternative Model
+    description: "Epistolary novel presenting alternative to Émile: female protagonist, family-based education, moral judgment through passion and self-limitation"
+
+  - name: "The Savoyard Vicar's Profession of Faith"
+    category: Religious Education
+    description: "Religious education section of Émile; natural religion vs. institutional dogma; the section that caused Émile to be burned in Paris and Geneva"
+
+  - name: "Reception & Banning of Émile (1762)"
+    category: Historical Impact
+    description: "Émile burned in Paris and Geneva; condemned by Catholic Church and Calvinist authorities; Rousseau forced to flee; the book that changed education while being banned"
+
+  - name: "Rousseau's Own Children — The Paradox"
+    category: Biography & Contradiction
+    description: "Rousseau abandoned his five children to foundling homes while writing the greatest treatise on child-rearing; the most devastating internal contradiction"
+
+  - name: "Influence on Pestalozzi, Froebel, Montessori"
+    category: Legacy & Influence
+    description: "Direct pedagogical lineage: Pestalozzi's child-centered pedagogy, Froebel's kindergarten, Montessori's prepared environment; how Rousseau's ideas were transformed in practice"
+
+  - name: "Influence on Dewey & Progressive Education"
+    category: Legacy & Influence
+    description: "John Dewey's experiential learning and democracy in education building on Rousseau; progressive education movement; constructivism"
+
+  - name: "Rousseau vs. Locke on Education"
+    category: Comparative Analysis
+    description: "Locke's tabula rasa and habit-formation vs. Rousseau's innate goodness and freedom; two competing Enlightenment models of childhood"
+
+  - name: "Rousseau vs. Voltaire on Education"
+    category: Comparative Analysis
+    description: "Enlightenment debate: Voltaire's rationalist instruction vs. Rousseau's naturalism; their personal rivalry and philosophical divergence"
+
+  - name: "Legacy in Unschooling & Modern Child-Centered Education"
+    category: Legacy & Influence
+    description: "Rousseau's lasting impact on unschooling (John Holt), democratic free schools, constructivism, homeschooling movement; modern applications of natural education"
+
+  - name: "Comparison with Fukuzawa Yukichi"
+    category: Comparative Analysis
+    description: "Rousseau's romantic naturalism vs. Fukuzawa's pragmatic modernization; both challenged existing education but from opposite directions — Rousseau away from civilization, Fukuzawa toward Western civilization"
+
+execution:
+  batch_size: 10
+  items_per_agent: 2
+  output_dir: ./results

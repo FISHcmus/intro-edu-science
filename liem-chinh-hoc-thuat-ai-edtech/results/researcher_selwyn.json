@@ -1,0 +1,61 @@
+{
+  "id": "researcher_selwyn",
+  "name": "Neil Selwyn",
+  "type": "researcher",
+  "institution": "Monash University — Faculty of Arts (Professor, School of Education)",
+  "specialty": "Critical sociology of EdTech; AI cheating as systemic symptom of credential pressure and inequality; critical limits of AI in education",
+
+  "dinh_nghia": "Selwyn does not offer a conventional academic integrity definition. Instead, he frames cheating as a socially produced behavior — a rational response to institutional pressures (credential demands, inequality, inadequate assessment design) rather than primarily a moral failing. This critical sociological lens reframes 'what is academic misconduct' as 'what structural conditions produce misconduct.'",
+
+  "phan_loai": "Selwyn's work cuts across standard misconduct categories. He argues that distinctions between 'legitimate' AI use and 'cheating' are socially constructed and shaped by power relations. The categories themselves reflect institutional interests and may not align with what constitutes meaningful learning.",
+
+  "lich_su_khai_niem": "Selwyn has worked for 30 years on critical digital education research. His recent work on AI and education (2022-2025) applies his longstanding critical sociological method to AI — examining not just what AI can do but who benefits, who is harmed, and what structural conditions shape AI adoption in education.",
+
+  "ten_truong_hop": "Selwyn (2022): 'The Future of AI and Education: Some Cautionary Notes' — European Journal of Education; Selwyn (2024): 'On the Limits of Artificial Intelligence (AI) in Education' — Monash University publication; multiple Monash University research projects on AI, smartphone bans, digital reading, and educational work.",
+
+  "dien_bien": "Selwyn argues that cheating driven by AI tools is primarily a symptom of deeper structural problems: (1) credential inflation — students need degrees to access work, creating high-stakes pressure; (2) inequality — students from disadvantaged backgrounds face additional pressures and fewer resources; (3) assessment design failure — if an assessment can be passed by ChatGPT, it was not testing genuine competency. Selwyn argues that surveillance-based detection responses ('AI cop') are counterproductive — they create adversarial environments that damage trust and learning culture.",
+
+  "ket_qua_xu_ly": "Selwyn's critical framework has influenced EdTech researchers and policymakers who recognize that technical detection alone cannot solve structurally driven cheating. His 'cautionary notes' on AI have been cited widely as a counterbalance to uncritical techno-optimism.",
+
+  "con_so_thong_ke": "Selwyn's work is qualitative and structural rather than quantitative. His research projects at Monash involve ethnographic and sociological methods. He has published 30+ years of research cited thousands of times in digital education literature.",
+
+  "hai_cho_nguoi_hoc": "Selwyn argues that uncritical AI adoption can harm learners by: reorganizing education around 'machine-readable' metrics that reduce the richness of human learning; perpetuating biases that disadvantage minoritized students; creating dependency on AI tools that atrophies critical thinking. Both AI fraud and naive AI integration harm learners.",
+
+  "hai_cho_nghien_cuu": "Selwyn's work critiques AI systems that perpetuate statistical models of learning — losing the complexity of human cognition and education in favor of data-optimizable metrics. This reductionism harms the integrity of educational research itself.",
+
+  "hai_cho_xa_hoi": "Selwyn identifies ecological costs (data and energy intensity of AI), social costs (perpetuating inequality through unequal AI access), and cultural costs (reorganizing education to serve economic productivity rather than human flourishing) as systemic harms from uncritical AI in education.",
+
+  "cong_cu_phat_hien": "Selwyn is critical of surveillance-based detection as a primary response to AI cheating. He argues that AI detectors create adversarial dynamics, produce false positives that harm innocent students (especially ESL writers), and do not address root causes. Detection may make students more sophisticated at evasion rather than less likely to cheat.",
+
+  "han_che_cong_cu": "Selwyn's sociological critique is one of the strongest arguments against detection-first approaches. He argues detection treats a structural problem as an individual behavior problem — like treating poverty by fining poor people. The arms race between detection and humanization tools produces no durable solution.",
+
+  "watermarking": "[uncertain] Selwyn has not published on LLM watermarking specifically. His critical framework would likely examine watermarking as a surveillance technology with equity and privacy implications.",
+
+  "thiet_ke_bai_tap": "Selwyn supports assessment redesign but frames it sociologically — the goal is not just to design AI-resistant assessments but to design assessments that serve genuine learning and reduce credentialing pressure. He implicitly supports process-based, dialogic, and portfolio assessments.",
+
+  "chinh_sach_truong_hoc": "Selwyn is skeptical of institutional policies that treat AI as primarily a compliance problem. He advocates for policies that address structural drivers: reduce credential pressure, improve equity of access to support, redesign assessment for genuine competency demonstration.",
+
+  "van_hoa_to_chuc": "Selwyn's work strongly supports values-based, trust-oriented institutional culture (aligned with McCabe's honor code research) over enforcement-only approaches. He argues enforcement-only cultures produce adversarial dynamics that make integrity violations more, not less, likely.",
+
+  "ai_literacy": "Selwyn supports critical AI literacy — not just technical understanding of AI, but sociological awareness of AI's power dynamics, biases, and structural effects. He argues students should be equipped to question AI systems, not just use them.",
+
+  "khung_quoc_te": "Selwyn's work engages with OECD, Australian, and European EdTech policy. His cautionary notes are cited in UNESCO and EU discussions alongside more optimistic frameworks. He represents the critical counterpoint in international AI-in-education policy debates.",
+
+  "phap_luat_viet_nam": "[uncertain] Selwyn has not published on Vietnamese educational law or policy. His structural critique of credential pressure is highly relevant to Vietnam's competitive higher education system.",
+
+  "chinh_sach_chau_a": "[uncertain] Limited documented engagement with Asian policy contexts. Selwyn's Monash location (Australia) gives some Asia-Pacific relevance but his work does not focus on Asian policy specifics.",
+
+  "ai_tutor_vs_ai_cheater": "Selwyn occupies the critical counter-position to both Luckin (AI as tutor) and conventional integrity researchers (AI as cheater). He argues that both framings are reductive — the real question is what structural conditions make AI use beneficial or harmful, and who has power to set those conditions. His work is the key 'AI cheating as systemic symptom' analysis in the debate.",
+
+  "edtech_company_policies": "Selwyn is critical of EdTech companies that prioritize commercial interests over pedagogical ones. He examines how companies like Google for Education, Duolingo, and Khan Academy shape educational practices in ways that serve platform growth rather than learner needs. He would critique Khanmigo's 'Socratic AI' as still embedding commercial assumptions about what learning is.",
+
+  "de_xuat_nha_nghien_cuu": "Selwyn recommends: (1) address structural drivers of cheating — reduce credential pressure, improve equity; (2) critically examine who benefits from AI in education (often not students); (3) resist surveillance-based detection as primary response; (4) redesign assessments for genuine competency rather than AI-resistance; (5) build critical AI literacy that includes sociological awareness; (6) examine ecological and social costs of AI deployment before scaling.",
+
+  "bai_bao_khoa_hoc": "Selwyn (2022) European Journal of Education — 'Future of AI and Education: Cautionary Notes'; Selwyn (2024) 'On the Limits of AI in Education'; multiple papers in Learning, Media and Technology; British Journal of Educational Technology; and Journal of Computer Assisted Learning spanning 30 years.",
+
+  "sach_tham_khao": "Selwyn, N. — multiple books including 'Education and Technology' (Continuum); 'Distrusting Educational Technology' (Routledge); research monographs on digital education inequality. His work is the canonical critical EdTech reference.",
+
+  "nguon_viet_nam": "[uncertain] No specific Vietnamese-context publications identified for Selwyn. His structural critique of credential pressure and inequality maps onto Vietnam's highly competitive educational system and the pressures Vietnamese students face.",
+
+  "uncertain": ["watermarking", "phap_luat_viet_nam", "chinh_sach_chau_a", "nguon_viet_nam"]
+}

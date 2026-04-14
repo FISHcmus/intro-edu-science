@@ -1,0 +1,154 @@
+topic: Academic Integrity and AI in Education — Foundational and Recent Works
+description: >
+  Structured research on key books, frameworks, policy documents, and journals
+  covering academic integrity, research ethics, and AI use in education.
+
+execution:
+  output_dir: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/academic-integrity-research/results
+  fields_path: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/academic-integrity-research/fields.yaml
+  items_per_agent: 2
+  batch_size: 4
+
+items:
+  # --- CLASSIC BOOKS ---
+  - name: "The Fundamental Values of Academic Integrity (ICAI)"
+    category: framework
+    description: >
+      ICAI publication defining the 6 core values of academic integrity:
+      honesty, trust, fairness, respect, responsibility, and courage.
+      Originally authored by Gary Pavela and Donald McCabe. First edition 1999,
+      third edition 2021. Research who developed each edition, the 6 values, and
+      how it is used globally in institutions.
+
+  - name: "Cheating in College: Why Students Do It and What We Can Do About It"
+    category: classic_book
+    description: >
+      Book by Donald McCabe, Kenneth Bettie, and Linda Klebe Trevino.
+      Johns Hopkins University Press, 2012. Landmark empirical study on
+      student cheating in US colleges, survey of 70,000+ students.
+      Find ISBN, key findings, and legacy impact.
+
+  - name: "Academic Integrity in the Twenty-First Century: A Teaching and Learning Imperative"
+    category: recent_book
+    description: >
+      Book by Tricia Bertram Gallant. Published by Jossey-Bass / Wiley, 2008
+      (ASHE Higher Education Report series). Reframed academic integrity as
+      a teaching and learning issue rather than enforcement. Find exact details,
+      ISBN, key argument.
+
+  - name: "Academic Integrity: A System Approach — Sarah Elaine Eaton"
+    category: recent_book
+    description: >
+      Sarah Elaine Eaton, University of Calgary. Key books and papers 2020-2026.
+      Research: (1) "Academic Integrity in Canada" edited volume (2023, Springer),
+      (2) "Plagiarism in Higher Education" (2021, ABC-CLIO),
+      (3) Her work on contract cheating and AI integrity.
+      Find exact titles, ISBNs, co-authors, and key frameworks she proposed.
+
+  # --- FRAMEWORKS / RESEARCHERS ---
+  - name: "Thomas Lancaster — Contract Cheating Research"
+    category: framework
+    description: >
+      Thomas Lancaster (Imperial College London / Birmingham City University).
+      Pioneer in contract cheating research. Key works: "Contract Cheating:
+      The Outsourcing of Assessed Student Work" (2005 paper with Robert Clarke),
+      and subsequent work on essay mills, ghostwriting, and AI contract cheating.
+      Find key papers, years, journals, DOIs.
+
+  - name: "Tracey Bretag — Comprehensive Academic Integrity Model (Australia)"
+    category: framework
+    description: >
+      Tracey Bretag (University of South Australia / UniSA). Developed the
+      "Comprehensive Academic Integrity" model. Key works: "Handbook of Academic
+      Integrity" (Springer, 2016, edited volume). Research her model, key papers,
+      institutional impact, and contributions to Australian academic integrity policy.
+
+  - name: "Phil Newton — Ghost-Writing and AI Essay Mills Research"
+    category: framework
+    description: >
+      Phil Newton (Swansea University). Research on essay mills, ghost-writing,
+      and AI-generated academic work. Key paper: "How Common Is Contract Cheating?"
+      (2018, Frontiers in Education). Also research his 2023/2024 work on
+      ChatGPT and AI in academic integrity. Find DOIs, journals, key findings.
+
+  - name: "Gary Pavela — Academic Integrity Policy Frameworks"
+    category: framework
+    description: >
+      Gary Pavela, co-founder of ICAI. Legal scholar and academic integrity
+      pioneer. Key contributions to honor codes, academic integrity policies,
+      and the evolution from punitive to educational approaches.
+      Find key publications, institutional roles, contributions to ICAI.
+
+  # --- UNESCO / INTERNATIONAL BODIES ---
+  - name: "UNESCO Recommendation on the Ethics of Artificial Intelligence (2021)"
+    category: policy_document
+    description: >
+      UNESCO, November 2021. First global normative framework on AI ethics,
+      adopted by 193 member states. Research specific articles and sections
+      relevant to education, academic integrity, and EdTech.
+      Find document URL, key articles/sections on education and ethics.
+
+  - name: "UNESCO Guidance on Generative AI in Education and Research (2023)"
+    category: policy_document
+    description: >
+      UNESCO, 2023. Specific guidance document on generative AI use in education.
+      Title: "Guidance for generative AI in education and research".
+      Research key recommendations, sections on academic integrity,
+      teacher guidance, and student use policies.
+
+  - name: "IEEE Ethically Aligned Design (EAD) — AI Ethics Framework"
+    category: policy_document
+    description: >
+      IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems.
+      "Ethically Aligned Design: A Vision for Prioritizing Human Well-being
+      with Autonomous and Intelligent Systems" (First Edition, 2019).
+      Research sections relevant to education, transparency, accountability.
+      Find URL, key principles applicable to academic integrity.
+
+  - name: "ACM Code of Ethics and Professional Conduct (2018)"
+    category: policy_document
+    description: >
+      Association for Computing Machinery. Updated 2018 Code of Ethics.
+      Research sections on honesty, avoiding harm, and responsible AI use
+      that apply to academic integrity and EdTech contexts.
+      URL: https://www.acm.org/code-of-ethics
+
+  # --- EU AI ACT ---
+  - name: "EU AI Act (2024) — Education and High-Risk AI Systems"
+    category: policy_document
+    description: >
+      European Union Artificial Intelligence Act, adopted 2024.
+      Regulation (EU) 2024/1689. Research: (1) how education AI systems are
+      classified (Annex III high-risk list), (2) requirements for transparency
+      and human oversight in educational AI, (3) specific articles about
+      AI-generated content disclosure. Find exact article numbers and annexes.
+
+  # --- JOURNALS ---
+  - name: "Journal of Academic Ethics (Springer)"
+    category: journal
+    description: >
+      Springer journal. Research: full name, ISSN, impact factor, scope,
+      founding year, editor-in-chief, typical topics published.
+      Key paper examples on AI and academic integrity published 2022-2024.
+
+  - name: "Ethics and Information Technology (Springer)"
+    category: journal
+    description: >
+      Springer journal on ethics and IT/AI. Research: ISSN, impact factor,
+      scope, founding year. Key papers on AI, plagiarism detection, and
+      academic ethics published 2022-2024.
+
+  - name: "International Journal for Educational Integrity (IJEI)"
+    category: journal
+    description: >
+      Open-access journal specifically focused on academic integrity.
+      Published by Springer. Research: ISSN, founding year, scope,
+      notable papers on AI and academic integrity 2022-2025.
+      URL: https://edintegrity.biomedcentral.com/
+
+  - name: "Computers and Education (Elsevier)"
+    category: journal
+    description: >
+      Elsevier journal on technology in education. Research: ISSN,
+      impact factor (2023-2024), scope, key special issues or papers
+      on AI, academic integrity, and cheating detection 2021-2024.

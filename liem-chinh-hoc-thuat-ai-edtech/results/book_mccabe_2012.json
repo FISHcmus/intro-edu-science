@@ -1,0 +1,47 @@
+{
+  "_source_file": "outline.yaml",
+  "id": "book_mccabe_2012",
+  "name": "Cheating in College",
+  "type": "book",
+  "author": "Donald L. McCabe, Kenneth D. Butterfield, Linda K. Treviño",
+  "publisher": "Johns Hopkins University Press",
+  "year": 2012,
+  "isbn": "978-1-4214-0716-6",
+  "key_argument": "Surveyed 70,000 US college students; 2/3 self-report cheating; honor code culture most effective; business school culture most dishonest",
+
+  "dinh_nghia": "Academic dishonesty (as defined in this work) encompasses cheating on exams, plagiarism, unauthorized collaboration, fabrication, and facilitation — operationalized through large-scale self-report surveys across US higher education institutions.",
+  "phan_loai": "McCabe, Butterfield & Treviño categorize violations as: (1) exam cheating (copying, smuggling notes, impersonation); (2) written assignment fraud (plagiarism, contract cheating, fabrication); (3) unauthorized collaboration; (4) facilitation (helping others cheat). Severity and norms differ by academic field.",
+  "lich_su_khai_niem": "McCabe began survey research on academic dishonesty in 1990 at Rutgers. This 2012 book synthesizes 20+ years of data (1990–2010). It predates the AI era but establishes the empirical baseline. McCabe also co-founded the International Center for Academic Integrity (ICAI) in 1992 with Gary Pavela.",
+
+  "ten_truong_hop": "Survey of 70,000+ US college students across multiple institutions — McCabe's longitudinal dataset (1990–2010)",
+  "dien_bien": "Largest empirical study of academic dishonesty in US higher education. Self-report surveys administered to students at 100+ colleges and universities. Students reported on their own cheating behavior across multiple violation types. Key finding: approximately 2/3 of students self-reported at least one instance of cheating during their academic career.",
+  "ket_qua_xu_ly": "The book does not report disciplinary outcomes; it is descriptive/analytical. Key policy implication: institutions with strong honor code cultures (where students pledge and self-police) showed significantly lower rates of academic dishonesty. Business schools showed the highest rates of cheating.",
+  "con_so_thong_ke": "~70,000 students surveyed; ~2/3 (approximately 67%) self-reported cheating; honor code institutions: ~25% lower cheating rates than non-honor code institutions; business students: highest cheating rates across disciplines; medical/nursing: lower rates but high-stakes violations.",
+
+  "hai_cho_nguoi_hoc": "Students who cheat fail to develop critical thinking, writing, and analytical skills that constitute the actual value of higher education. Cheating creates credential inflation where degrees signal less than they claim to.",
+  "hai_cho_nghien_cuu": "McCabe's work demonstrates that academic dishonesty in research contexts produces unreliable scholarship. In a 2012 context, this primarily concerned plagiarism; in the post-ChatGPT era the same mechanisms apply to AI-assisted fraud.",
+  "hai_cho_xa_hoi": "When 2/3 of college students cheat, credential devaluation affects hiring decisions, public trust in institutions, and the integrity of professional gatekeeping across law, medicine, and business.",
+
+  "cong_cu_phat_hien": "McCabe's era (pre-AI): Turnitin for plagiarism detection, instructor vigilance, honor board processes. The book does not address AI detection as it predates ChatGPT by a decade.",
+  "han_che_cong_cu": "The 2012 book does not address AI detection limitations. However, McCabe's broader finding — that punitive enforcement alone is ineffective — applies directly to AI detection tool debates in the 2020s.",
+  "watermarking": "Not applicable to this 2012 work. However, McCabe's research underpins why watermarking alone (a detection/enforcement tool) would be insufficient without accompanying cultural change.",
+
+  "thiet_ke_bai_tap": "McCabe's research does not specifically address assessment redesign, but implicitly supports process-based and formative assessment as ways to reduce cheating opportunity.",
+  "chinh_sach_truong_hoc": "Core policy finding: honor code culture (rather than legalistic enforcement) is the most effective institutional response. Stanford and Princeton honor codes are referenced as models. The difference between 'modified honor code' (pledge only) and 'full honor code' (unproctored exams, peer reporting) is significant.",
+  "van_hoa_to_chuc": "Central thesis: cheating is a product of institutional culture, not individual moral failure. When academic integrity is modeled and valued by faculty, administration, and peers, cheating rates drop substantially. This contradicts purely punitive or detection-focused approaches.",
+  "ai_literacy": "Not addressed (2012 predates AI era). However, McCabe's framework translates: AI literacy and ethical AI use should be embedded in institutional culture, not just policy enforcement.",
+
+  "khung_quoc_te": "McCabe's work is cited by ICAI (which he co-founded) and informs international academic integrity frameworks. The 6 Core Values of Academic Integrity (ICAI, 1999/2014/2021) emerged from McCabe and Pavela's institutional work.",
+  "phap_luat_viet_nam": "Vietnam's Decree 109/2022/NĐ-CP Điều 20 mandates institutional academic integrity codes — structurally aligned with McCabe's finding that institutional culture (not just law) determines outcomes.",
+  "chinh_sach_chau_a": "McCabe's honor code research influenced policy discussions at NUS, NTU, and CUHK. Asian university contexts differ (collectivism, face culture, grade competition) but the core institutional culture finding transfers.",
+
+  "ai_tutor_vs_ai_cheater": "McCabe's framing positions cheating as institutional failure, not individual pathology — aligning with Neil Selwyn's sociological critique. The question is not whether AI 'causes' cheating but what institutional conditions make cheating attractive or normalized.",
+  "edtech_company_policies": "Not directly addressed. Khan Academy's Khanmigo design philosophy (Socratic, no essay completion) parallels McCabe's finding that environment shapes behavior — design can reduce cheating opportunity.",
+  "de_xuat_nha_nghien_cuu": "From an EdTech researcher perspective: McCabe's foundational work remains highly relevant. Key application: AI policy should build honor-code culture (values-based), not just deploy detection tools (enforcement-based). Design learning environments where using AI appropriately is the norm, and misuse is socially as well as technically discouraged.",
+
+  "bai_bao_khoa_hoc": "McCabe, D.L. & Treviño, L.K. (1993) 'Academic dishonesty: Honor codes and other contextual influences' Journal of Higher Education 64(5). McCabe, D.L., Treviño, L.K., & Butterfield, K.D. (2001) 'Cheating in academic institutions' Ethics & Behavior 11(3).",
+  "sach_tham_khao": "McCabe, Butterfield & Treviño (2012) Cheating in College, Johns Hopkins UP, ISBN 978-1-4214-0716-6. Gallant (2008) Academic Integrity in the Twenty-First Century. Bretag (2016) Handbook of Academic Integrity.",
+  "nguon_viet_nam": "Vietnam Springer 2024 study (1,386 students) builds on McCabe's self-report methodology but finds actual rates ~3x higher than self-report due to social desirability bias — extends McCabe's findings to Vietnamese HE context.",
+
+  "uncertain": []
+}

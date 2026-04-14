@@ -1,0 +1,62 @@
+{
+  "id": "case_texas_am_2023",
+  "name": "Texas A&M — Instructor fails entire class (May 2023)",
+  "type": "real_case",
+  "category": "false_positive",
+  "institution": "Texas A&M University (College Station, TX, USA)",
+  "year": 2023,
+
+  "dinh_nghia": "A false positive in AI detection occurs when an AI detection tool incorrectly classifies human-written text as AI-generated. This case is among the first widely documented mass false-accusation incidents in higher education involving AI detection tools.",
+
+  "phan_loai": "False positive AI detection (erroneous accusation of AI-assisted dishonesty). No actual academic fraud was committed by students; the violation of academic integrity norms was by the instructor's misuse of an unreliable detection method (asking ChatGPT itself whether it wrote the papers).",
+
+  "lich_su_khai_niem": "The incident occurred in May 2023, shortly after ChatGPT's public release (November 2022). It became a landmark case illustrating the dangers of AI detector misuse in educational settings and was widely cited in subsequent policy debates about AI tools in academia.",
+
+  "ten_truong_hop": "Texas A&M University — Instructor Jared Mumm, Agricultural Sciences and Natural Resources, threatens to fail entire graduating class based on ChatGPT self-claims (May 2023).",
+
+  "dien_bien": "Instructor Jared Mumm used ChatGPT itself (not a dedicated AI detector) to evaluate student final assignments by asking the chatbot whether it had written each paper. ChatGPT claimed to have written every single submission. Mumm then told students they would receive an 'X' (incomplete) grade, threatening their graduation. Students protested and provided exonerating evidence — timestamps from Google Documents showing the writing process. Mumm initially ignored this evidence. The case went viral on Reddit and was covered by Rolling Stone, Washington Post, NBC News, and Inside Higher Ed.",
+
+  "ket_qua_xu_ly": "No students ultimately failed or were prevented from graduating. Dr. Mumm worked individually with students to resolve the final assignments. The university noted publicly that ChatGPT is not a reliable AI detector and cannot accurately identify its own output. The case triggered widespread discussion about institutional policies on AI detection tool use. No formal disciplinary action against Mumm was publicly reported, but the reputational damage and media scrutiny were significant. Key lesson: using generative AI tools as detectors of their own output is methodologically invalid.",
+
+  "con_so_thong_ke": "All students in the class (exact number not publicly disclosed) were falsely accused. 0 students ultimately penalized. ChatGPT incorrectly claimed authorship of 100% of submitted papers when asked.",
+
+  "hai_cho_nguoi_hoc": "Students faced extreme stress, uncertainty about graduation, and unfair accusations without due process. The incident demonstrated the psychological and academic harm that false AI-detection accusations can cause, particularly for graduating seniors.",
+
+  "hai_cho_nghien_cuu": "The case exposed the methodological flaw of using generative AI as a self-detector. It contributed to growing literature on the unreliability of AI detection tools and set the stage for Stanford's 2023 study (Liang et al.) showing 61.3% false positive rates for ESL writers.",
+
+  "hai_cho_xa_hoi": "Erodes student trust in faculty and institutional fairness. Raises due process concerns in academic integrity proceedings. Demonstrates how premature deployment of unvalidated AI tools can cause mass harm. Contributed to public skepticism about instructor competence in the AI era.",
+
+  "cong_cu_phat_hien": "Instructor used ChatGPT itself (not a dedicated detector like Turnitin AI or GPTZero) by prompting it to claim authorship of student papers. ChatGPT is a generative model, not a detector, and readily falsely claims authorship of any text with minimal prompting. This misuse was a critical methodological error.",
+
+  "han_che_cong_cu": "ChatGPT cannot reliably detect whether text was AI-generated — it has no memory of outputs and will claim authorship of arbitrary text. Even legitimate AI detectors (Turnitin, GPTZero, Copyleaks) have documented false positive rates. Liang et al. (Stanford, 2023) found 61.3% false positive rates for ESL writers. This case predates the Stanford study but validates its findings empirically.",
+
+  "watermarking": "No LLM watermarking was involved or available in May 2023. Watermarking research (Kirchenbauer/UMD, Aaronson/OpenAI) was still in early stages. This case illustrates the vacuum that watermarking is intended to fill — reliable, verifiable provenance of AI-generated text.",
+
+  "thiet_ke_bai_tap": "The case catalyzed educator discussions about assignment design. Process-based submissions (timestamped drafts, in-class writing, oral defenses) were proposed as more reliable than retrospective AI detection. If students had been required to submit drafts with timestamps, the dispute would not have arisen.",
+
+  "chinh_sach_truong_hoc": "Texas A&M did not have a clear institutional policy on AI detection tool use at the time. Post-incident, Texas A&M published AI detection guidance (ai.tamu.edu/teach-with-ai/detection.html) warning against using AI tools as detectors and recommending against making accusations based solely on AI detection scores.",
+
+  "van_hoa_to_chuc": "The case illustrates the danger of enforcement-only culture without procedural safeguards. McCabe's honor code research suggests that punitive-only approaches without trust-building backfire. The instructor acted unilaterally without institutional review, demonstrating the need for honor code procedures that protect student rights.",
+
+  "ai_literacy": "The case highlighted a significant gap in AI literacy among instructors — specifically, the misunderstanding of what ChatGPT is and is not capable of detecting. Faculty AI literacy is as critical as student AI literacy. UNESCO and ISTE frameworks emphasize that educators need training on AI capabilities and limitations before deploying AI tools in assessment contexts.",
+
+  "khung_quoc_te": "The incident preceded formal international frameworks for AI in education. It informed subsequent UNESCO (2023) guidance on AI in education and contributed to discourse around EU AI Act provisions for high-stakes AI-assisted decisions in educational settings (Annex III, Art. 50).",
+
+  "phap_luat_viet_nam": "Vietnam's regulatory framework (Nghị định 109/2022/NĐ-CP, Điều 20) does not specifically address false accusation scenarios from AI detection. The case is relevant as a cautionary example for Vietnamese institutions developing AI integrity policies.",
+
+  "chinh_sach_chau_a": "Asian institutions drew lessons from this case. NUS (Singapore) developed disclosure-based frameworks rather than detection-based enforcement. NTU cases (2025) of students receiving zero marks for hallucinated citations show the continuing tension between detection and due process.",
+
+  "ai_tutor_vs_ai_cheater": "This case sits at the intersection: AI tools intended to catch cheating can themselves become instruments of harm when misused. Rose Luckin (UCL) and Neil Selwyn (Monash) debates about AI in education must include AI detection tools, not just AI writing tools.",
+
+  "edtech_company_policies": "The case spurred EdTech companies to clarify the limitations of their detection products. Turnitin and GPTZero publicly noted that their tools provide probability scores, not definitive proof. No EdTech company recommends using ChatGPT itself as a plagiarism detector.",
+
+  "de_xuat_nha_nghien_cuu": "From an EdTech researcher perspective: (1) Never use generative AI as an AI detector; (2) AI detection scores alone cannot be used as evidence of misconduct — due process requires corroborating evidence; (3) Institutions need clear faculty training programs on AI detection tool limitations; (4) Assign process-based work (drafts, oral defenses) to reduce reliance on detection entirely; (5) Implement institutional review procedures before any mass accusation.",
+
+  "bai_bao_khoa_hoc": "Liang et al. (2023) 'GPT detectors are biased against non-native English writers' (Stanford, arXiv). Perkins et al. (2023) on AI detection accuracy. Digital Trends, Washington Post, Rolling Stone (May 2023) news coverage. Inside Higher Ed (May 19, 2023).",
+
+  "sach_tham_khao": "McCabe, D.L., Butterfield, K.D., & Treviño, L.K. (2012). Cheating in College. Johns Hopkins UP. — honor code and due process frameworks. Eaton, S.E. (2024). Second Handbook of Academic Integrity. Springer.",
+
+  "nguon_viet_nam": "No direct Vietnamese sources on this case. The case is internationally documented and cited as a cautionary example in global EdTech literature. Relevant to Vietnamese institutional discussions under Nghị định 109/2022.",
+
+  "uncertain": ["con_so_thong_ke (exact class size not publicly disclosed)", "ket_qua_xu_ly (no official disciplinary outcome for instructor was published)"]
+}

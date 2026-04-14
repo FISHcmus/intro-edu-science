@@ -1,0 +1,168 @@
+categories:
+  basic_info:
+    display_name: "Basic Info"
+    fields:
+      - name: name
+        description: "Full name of the concept/work/person"
+        detail_level: brief
+      - name: original_language_title
+        description: "Original French title (if applicable)"
+        detail_level: brief
+      - name: year
+        description: "Year of publication/origin"
+        detail_level: brief
+      - name: type
+        description: "Type: book, concept, person, event, movement"
+        detail_level: brief
+      - name: primary_source_text
+        description: "The primary text where this concept appears or is discussed"
+        detail_level: brief
+      - name: summary
+        description: "One-paragraph summary of the item"
+        detail_level: moderate
+
+  philosophical_foundation:
+    display_name: "Philosophical Foundation"
+    fields:
+      - name: core_claim
+        description: "The central philosophical claim or thesis"
+        detail_level: moderate
+      - name: epistemological_basis
+        description: "How knowledge is acquired according to this concept — sensory, rational, experiential"
+        detail_level: moderate
+      - name: view_of_human_nature
+        description: "Rousseau's view of human nature as it relates to this item — innate goodness, corruption by society"
+        detail_level: moderate
+      - name: relationship_to_enlightenment
+        description: "How this item relates to Enlightenment thought — aligned, divergent, or counter-Enlightenment"
+        detail_level: moderate
+
+  educational_principles:
+    display_name: "Educational Principles"
+    fields:
+      - name: pedagogy_method
+        description: "The specific pedagogical approach or method"
+        detail_level: detailed
+      - name: role_of_teacher
+        description: "What the teacher/tutor should do and not do"
+        detail_level: moderate
+      - name: role_of_student
+        description: "What the student/child is expected to do — active explorer, passive receiver, etc."
+        detail_level: moderate
+      - name: curriculum_approach
+        description: "What should be taught, when, and how — or why formal curriculum is rejected"
+        detail_level: detailed
+      - name: assessment_method
+        description: "How learning is evaluated — if at all; Rousseau's stance on testing and measurement"
+        detail_level: moderate
+
+  developmental_theory:
+    display_name: "Developmental Theory"
+    fields:
+      - name: target_age_range
+        description: "The age range this concept primarily applies to"
+        detail_level: brief
+      - name: stage_model
+        description: "Which developmental stage(s) this maps to in Rousseau's four-stage theory"
+        detail_level: moderate
+      - name: key_milestones
+        description: "Educational milestones or transitions at this stage"
+        detail_level: moderate
+      - name: sensory_vs_abstract_balance
+        description: "The balance between sensory/physical learning and abstract/intellectual learning"
+        detail_level: moderate
+
+  historical_context:
+    display_name: "Historical Context"
+    fields:
+      - name: political_context
+        description: "Political conditions in France/Europe that shaped this concept"
+        detail_level: moderate
+      - name: religious_context
+        description: "Role of Catholic Church, Calvinism, and religious institutions"
+        detail_level: moderate
+      - name: intellectual_rivals
+        description: "Thinkers who opposed or debated this concept — Voltaire, d'Alembert, etc."
+        detail_level: moderate
+      - name: immediate_reception
+        description: "How this concept was received when first published/proposed"
+        detail_level: detailed
+
+  influence_and_legacy:
+    display_name: "Influence & Legacy"
+    fields:
+      - name: influenced_thinkers
+        description: "Specific thinkers directly influenced — Pestalozzi, Froebel, Montessori, Dewey, etc."
+        detail_level: detailed
+      - name: influenced_movements
+        description: "Educational movements that trace lineage to this concept"
+        detail_level: moderate
+      - name: modern_applications
+        description: "How this concept manifests in 21st-century education"
+        detail_level: detailed
+      - name: countries_most_affected
+        description: "Countries where this concept had the most lasting impact"
+        detail_level: moderate
+
+  critiques_and_controversies:
+    display_name: "Critiques & Controversies"
+    fields:
+      - name: feminist_critiques
+        description: "Feminist critiques, especially Wollstonecraft's rebuttal of gendered education"
+        detail_level: detailed
+      - name: practical_feasibility
+        description: "Can this actually be implemented? Critiques of impracticality"
+        detail_level: moderate
+      - name: internal_contradictions
+        description: "Contradictions within Rousseau's own philosophy — e.g., freedom vs. manipulation, abandoning own children"
+        detail_level: detailed
+      - name: historical_criticism
+        description: "Major historical critics and their arguments"
+        detail_level: moderate
+
+  comparative_analysis:
+    display_name: "Comparative Analysis"
+    fields:
+      - name: comparison_with_locke
+        description: "How this compares with Locke's educational philosophy — tabula rasa vs. innate goodness"
+        detail_level: detailed
+      - name: comparison_with_voltaire
+        description: "How this compares with Voltaire's rationalist approach to education"
+        detail_level: moderate
+      - name: comparison_with_confucian_education
+        description: "Parallels and divergences with Confucian educational tradition"
+        detail_level: moderate
+      - name: comparison_with_fukuzawa
+        description: "Comparison with Fukuzawa Yukichi's pragmatic modernization approach to education"
+        detail_level: detailed
+
+  key_quotes:
+    display_name: "Key Quotes"
+    fields:
+      - name: original_french
+        description: "Key quote in original French"
+        detail_level: moderate
+      - name: english_translation
+        description: "English translation of the key quote"
+        detail_level: moderate
+      - name: vietnamese_translation
+        description: "Vietnamese translation of the key quote"
+        detail_level: moderate
+      - name: context_explanation
+        description: "Explanation of the quote's context and significance"
+        detail_level: detailed
+
+  vietnamese_relevance:
+    display_name: "Vietnamese Relevance"
+    fields:
+      - name: connections_to_vietnamese_education
+        description: "How this concept connects to Vietnamese educational tradition and practice"
+        detail_level: detailed
+      - name: parallels_with_luat_gd_2019
+        description: "Parallels with Luật Giáo dục 2019 (Vietnam Education Law 2019)"
+        detail_level: detailed
+      - name: relevance_to_chien_luoc_2030
+        description: "Relevance to Chiến lược phát triển GD đến 2030 (Education Development Strategy to 2030)"
+        detail_level: detailed
+
+uncertain: []

@@ -1,0 +1,98 @@
+topic: Comenius (Comenxki) Philosophy on Education
+items:
+  - name: "Didactica Magna (The Great Didactic, 1657)"
+    category: Primary Work
+    description: "Comenius's masterwork; comprehensive treatise on universal education methodology; lays out principles for teaching all subjects to all people"
+
+  - name: "Orbis Sensualium Pictus (The Visible World in Pictures, 1658)"
+    category: Primary Work
+    description: "First illustrated textbook for children; revolutionary visual pedagogy combining images with text in Latin and vernacular"
+
+  - name: "Janua Linguarum Reserata (The Gate of Languages Unlocked, 1631)"
+    category: Primary Work
+    description: "Textbook that made Comenius famous across Europe; translated into 16+ languages; language teaching through real-world knowledge"
+
+  - name: "Pansophia (Universal Knowledge)"
+    category: Core Doctrine
+    description: "Comenius's grand vision of organizing all human knowledge into a unified system accessible to all; the philosophical foundation of his pedagogy"
+
+  - name: "Universal Education (Omnes, Omnia, Omnino)"
+    category: Core Doctrine
+    description: "Core principle: teach everything to everyone, thoroughly — regardless of sex, class, or nationality; radical egalitarianism for the 17th century"
+
+  - name: "Nature as Model for Teaching"
+    category: Core Doctrine
+    description: "Pedagogy should follow natural order: seasonal metaphors, developmental stages, organic growth; nature as the master teacher"
+
+  - name: "Sensory Realism in Education"
+    category: Pedagogical Method
+    description: "Learning through senses first; 'nothing is in the intellect that was not first in the senses'; concrete before abstract"
+
+  - name: "Graded School System"
+    category: Core Doctrine
+    description: "Four-stage school system: Mother's School (0-6), Vernacular School (6-12), Latin School (12-18), University (18-24); each stage with specific curriculum"
+
+  - name: "The Role of the Teacher in Comenius"
+    category: Pedagogical Method
+    description: "Teacher as gardener/guide, not tyrant; gentle methods over corporal punishment; arranging conditions for natural learning"
+
+  - name: "Vernacular Language Education"
+    category: Pedagogical Method
+    description: "Teaching in the mother tongue first, not Latin; democratization of knowledge; making education accessible to common people"
+
+  - name: "Play and Joy in Learning (Schola Ludus)"
+    category: Pedagogical Method
+    description: "Schola Ludus (School as Play); education should be pleasant, not painful; dramatic performance and games as teaching tools"
+
+  - name: "Moral and Religious Education (Eruditio, Virtus, Pietas)"
+    category: Philosophical Foundation
+    description: "Education's ultimate triple goal: knowledge (eruditio), virtue (virtus), and piety (pietas); theological grounding of all pedagogy"
+
+  - name: "Comenius and Women's Education"
+    category: Gender & Equity
+    description: "Radical for his era: women deserve equal education; both sexes have equal intellectual capacity; universal means truly universal"
+
+  - name: "The Labyrinth of the World and Paradise of the Heart (1623)"
+    category: Literary Work
+    description: "Allegorical work reflecting Comenius's worldview; disillusionment with corrupt society, hope through inner faith and education"
+
+  - name: "Comenius's Life and the Thirty Years' War"
+    category: Biography & Context
+    description: "Persecution of Czech Brethren, Battle of White Mountain (1620), exile, loss of manuscripts in Leszno fire (1656); how suffering shaped his educational vision"
+
+  - name: "Pampaedia (Universal Education Across the Lifespan)"
+    category: Core Doctrine
+    description: "Part of General Consultation; lifelong learning from cradle to grave; seven life stages each with educational goals"
+
+  - name: "Influence on Pestalozzi, Froebel, and Modern Pedagogy"
+    category: Legacy & Influence
+    description: "Direct pedagogical lineage: Pestalozzi's object lessons, Froebel's kindergarten, Montessori's sensory materials; how Comenius's ideas were transformed in practice"
+
+  - name: "Comenius vs. Rousseau on Education"
+    category: Comparative Analysis
+    description: "Structured universal schooling vs. natural individual education; institutional approach vs. private tutoring; two competing models of reform"
+
+  - name: "Comenius and UNESCO — Teacher of Nations"
+    category: Legacy & Influence
+    description: "UNESCO's adoption of Comenius's ideals; the Comenius Medal (1956); designation as 'Teacher of Nations'; international recognition"
+
+  - name: "Vietnamese Relevance — Connections to Luật Giáo dục 2019"
+    category: Vietnamese Relevance
+    description: "Parallels between Comenius's universal education and Vietnam's education law; compulsory schooling, mother tongue instruction, graded system"
+
+  - name: "Panorthosia (Universal Reform)"
+    category: Political Philosophy
+    description: "Comenius's comprehensive vision for reforming society through education, politics, and religion; universal institutions for peace and knowledge"
+
+  - name: "Descartes vs. Comenius — Epistemological Conflict"
+    category: Comparative Analysis
+    description: "1639 exchange: Descartes's critique of Comenius's Pansophiae Prodromus; rationalism vs. pansophic encyclopedism; competing approaches to knowledge"
+
+  - name: "Peace Education Through Universal Knowledge"
+    category: Core Doctrine
+    description: "Comenius's theory that shared universal knowledge prevents conflict; ecumenical dialogue; education as the path to lasting peace among nations"
+
+execution:
+  batch_size: 12
+  items_per_agent: 2
+  output_dir: ./results

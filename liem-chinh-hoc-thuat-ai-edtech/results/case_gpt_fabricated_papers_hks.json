@@ -1,0 +1,62 @@
+{
+  "id": "case_gpt_fabricated_papers_hks",
+  "name": "GPT-fabricated papers on Google Scholar (Haider et al., Harvard KSG, 2024)",
+  "type": "real_case",
+  "category": "research_fraud",
+  "institution": "Harvard Kennedy School Misinformation Review (publication venue); researchers from Sweden (Jutta Haider et al.)",
+  "year": 2024,
+
+  "dinh_nghia": "GPT-fabricated scientific papers are manuscripts generated primarily or entirely by large language models, published in academic venues (indexed journals, non-indexed journals, preprint servers, student repositories) without adequate disclosure of AI generation. Distinct from AI-assisted writing: these papers are fabricated wholesale by AI, often containing hallucinated facts, fake citations, and no genuine intellectual contribution from the listed authors.",
+
+  "phan_loai": "Research fraud via fabrication and deceptive AI use. Subcategories: bịa đặt (fabrication — AI-generated false scientific content), gian lận AI (deceptive AI use — 62% of identified papers declared no AI use), and đạo văn (potential plagiarism if AI-generated content reproduces training data). Most papers focused on policy-relevant topics — health and environment — raising risk of weaponized disinformation.",
+
+  "lich_su_khai_niem": "GPT-fabricated scientific papers emerged as a distinct phenomenon after ChatGPT's public release (November 2022). The Haider et al. study (September 2024) was among the first systematic empirical investigations documenting their prevalence, distribution, and spread in academic databases. Published in Harvard Kennedy School Misinformation Review, a peer-reviewed journal focused on mis/disinformation.",
+
+  "ten_truong_hop": "Haider, J. et al. (2024). 'GPT-fabricated scientific papers on Google Scholar: Key features, spread, and implications for preempting evidence manipulation.' Harvard Kennedy School Misinformation Review. DOI: https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/",
+
+  "dien_bien": "Jutta Haider and colleagues (Swedish researchers) conducted a systematic study identifying GPT-fabricated papers indexed in Google Scholar. Using Google Scholar searches for characteristic LLM phrases combined with manual verification, they identified 139 papers with suspected deceptive GPT use. Distribution: 19 papers in indexed (reputable) journals; 89 papers in non-indexed journals; 19 papers in student/university databases; 12 preprints (mostly in preprint servers). Health and environment policy topics made up approximately 34% of the sample. Approximately 62% of identified papers declared no AI use. 57% of GPT-fabricated papers concerned policy-relevant subject areas. The papers exhibited characteristic features: repetitive sentence structures, generic claim-making, absence of original data or methodology, hallucinated citations, and LLM artifact phrases. The researchers noted that due to the large number of archives, mirror sites, repositories, and shadow libraries, retracted papers continue to circulate and reach audiences after retraction.",
+
+  "ket_qua_xu_ly": "The study was published September 2024 in HKS Misinformation Review and received wide media coverage (Newsweek, Science News, AI-fabricated junk science headlines). No mass coordinated removal of identified papers was possible. Google Scholar does not currently have a retraction flagging system equivalent to Retraction Watch. The study highlighted the vulnerability of preprint servers and non-indexed repositories as vectors for spreading fabricated scientific content. Implications for policy: fabricated papers on health and environment policy topics can be cited in regulatory submissions, legislative testimony, and public health guidance.",
+
+  "con_so_thong_ke": "139 total papers identified with suspected deceptive GPT use. 19 in indexed journals (12.7%). 89 in non-indexed journals (64.0%). 19 in student/university databases (13.7%). 12 preprints (~8.6%). ~34% focused on health and environment topics. ~62% did not declare AI use. ~57% covered policy-relevant subject areas.",
+
+  "hai_cho_nguoi_hoc": "Students and researchers using Google Scholar as a primary literature discovery tool are exposed to GPT-fabricated papers that appear legitimate in search results. These papers may be cited in student theses, policy papers, and secondary research, propagating fabricated scientific claims. The presence in university student databases (19 papers) means fabricated content has reached educational assessment contexts.",
+
+  "hai_cho_nghien_cuu": "GPT-fabricated papers on policy-relevant topics (health, environment) can corrupt the evidence base used in systematic reviews and meta-analyses. Google Scholar's indexing of preprints and non-indexed journals without integrity verification creates a low-barrier entry point for fabricated content. Once indexed and cited, fabricated papers persist through citation networks even after retraction.",
+
+  "hai_cho_xa_hoi": "57% of GPT-fabricated papers concerned policy-relevant topics — health interventions, environmental regulations, social policy. These can be cited in legislative processes, regulatory submissions, and public health guidance, potentially influencing real-world decisions based on fabricated scientific evidence. This represents a weaponizable information infrastructure — bad actors can manufacture scientific consensus using LLMs.",
+
+  "cong_cu_phat_hien": "Primary method: Google Scholar keyword search for LLM artifact phrases combined with manual verification. Haider et al. developed a systematic identification protocol. Secondary: structural analysis for LLM-typical writing patterns (repetition, generic claims, absence of specific data). GPTZero and Turnitin AI detection were referenced as complementary but not used as primary tools in this study.",
+
+  "han_che_cong_cu": "Google Scholar indexes without integrity verification. Phrase-based detection only catches unsophisticated fabrications — edited AI content evades phrase search. 139 papers represents a lower bound; sophisticated GPT-fabricated papers with edited content are undetectable by current methods. Non-indexed journals typically have no systematic integrity review. Retraction systems do not effectively reach preprint servers and shadow libraries.",
+
+  "watermarking": "Mandatory LLM watermarking would be a significant technical countermeasure against GPT-fabricated papers. If LLM providers (OpenAI, Anthropic, Google) implemented watermarks, fabricated manuscripts could be verified as LLM-generated regardless of editing. The Haider et al. study cited the absence of such mechanisms as a key gap.",
+
+  "thiet_ke_bai_tap": "For academic submissions: Google Scholar and preprint servers should implement automated AI-content screening with mandatory disclosure. For student assignments: prohibit submission to public preprint servers without instructor review. For policy evidence: evidence synthesis processes (systematic reviews, Cochrane protocols) need explicit quality filters that flag AI-generated content.",
+
+  "chinh_sach_truong_hoc": "The study revealed that 19 papers appeared in student/university databases — suggesting some institutions accepted or facilitated AI-fabricated submissions. Universities need explicit policies prohibiting GPT-fabricated submissions in all assessment contexts, not just course assignments. Institutional repositories need integrity verification before accepting deposits.",
+
+  "van_hoa_to_chuc": "The concentration in non-indexed, low-oversight venues reflects a systemic gap: journals with minimal review infrastructure become vectors for fabricated content. Building cultures of integrity in lower-prestige venues requires different mechanisms than top-tier journals. The honor code model (McCabe) must extend beyond elite institutions.",
+
+  "ai_literacy": "The study demonstrates that many authors (62% non-disclosers) either did not understand disclosure obligations or deliberately concealed AI use. AI literacy must include: understanding what constitutes GPT-fabricated vs. AI-assisted content, disclosure norms, and the consequences of evidence manipulation in policy contexts.",
+
+  "khung_quoc_te": "The study directly implicates UNESCO (2023) AI in Education guidance and EU AI Act (2024) Article 50 on AI-generated content disclosure. The policy manipulation risk — 57% policy-relevant papers — is relevant to EU regulatory processes that rely on scientific evidence. IEEE EAD and ACM Code of Ethics prohibit misrepresentation; GPT-fabrication violates both.",
+
+  "phap_luat_viet_nam": "Nghị định 109/2022/NĐ-CP Điều 20 applies to Vietnamese researchers engaged in fabrication. The policy manipulation risk is particularly relevant: Vietnamese science policy (QĐ 1705/QĐ-TTg) relies on domestic research evidence. GPT-fabricated papers on Vietnamese educational topics could contaminate this evidence base.",
+
+  "chinh_sach_chau_a": "The study did not focus specifically on Asian institutions, but non-indexed journals (89 papers) include many from Asian publishing contexts. NUS (Singapore), NTU, and CUHK all reference this type of research in their integrity policy updates. The spread to shadow libraries (sci-hub, etc.) is particularly relevant for Asian academic communities with limited journal access.",
+
+  "ai_tutor_vs_ai_cheater": "The 57% policy-relevant topic concentration is the strongest evidence for AI-as-cheater concerns: LLMs are being weaponized to manufacture scientific consensus on contested policy topics (health, environment). This goes beyond individual academic dishonesty to potential societal harm — evidence manipulation at scale.",
+
+  "edtech_company_policies": "Google Scholar's failure to flag AI-fabricated papers is a significant EdTech policy gap. Google has not announced specific AI-content integrity measures for Scholar. Elicit, Consensus, and other AI research tools that use Google Scholar as a data source may inadvertently surface fabricated papers in research summaries.",
+
+  "de_xuat_nha_nghien_cuu": "From an EdTech/research integrity perspective: (1) Google Scholar must implement retraction flagging and AI-content disclosure indicators; (2) Policy-making processes must include provenance verification for cited evidence — systematic reviews citing Google Scholar results need integrity audits; (3) Preprint servers (arXiv, bioRxiv, SSRN) need LLM-content disclosure requirements and automated screening; (4) The 'spread' problem (shadow libraries, mirrors) requires international coordination — retraction alone is insufficient; (5) An open database of identified GPT-fabricated papers should be maintained analogous to Retraction Watch.",
+
+  "bai_bao_khoa_hoc": "Haider, J. et al. (2024). 'GPT-fabricated scientific papers on Google Scholar: Key features, spread, and implications for preempting evidence manipulation.' HKS Misinformation Review. DOI: https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/. Newsweek (2024): 'AI-Generated Junk Science Is Flooding Google Scholar.' Sci.News (2024). InfoDOCKET (September 3, 2024).",
+
+  "sach_tham_khao": "Eaton, S.E. (2024). Second Handbook of Academic Integrity. Springer. McCabe, D.L. et al. (2012). Cheating in College. Johns Hopkins UP.",
+
+  "nguon_viet_nam": "No Vietnamese-language source directly on this study. Relevant to Vietnamese research community via QĐ 1705 evidence base and Nghị định 109/2022. Vietnamese researchers should be aware that Google Scholar (used widely in Vietnam) contains GPT-fabricated papers.",
+
+  "uncertain": ["ket_qua_xu_ly (no confirmed removals of the 139 papers from Google Scholar — resolution status [uncertain])", "phan_loai (19 student database papers — whether these were submitted as assessments or deposited by authors is [uncertain])"]
+}

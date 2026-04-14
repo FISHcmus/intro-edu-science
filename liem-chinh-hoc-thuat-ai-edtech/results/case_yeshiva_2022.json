@@ -1,0 +1,62 @@
+{
+  "id": "case_yeshiva_2022",
+  "name": "Multiple students — Yeshiva University (December 2022)",
+  "type": "real_case",
+  "category": "student_disciplinary",
+  "institution": "Yeshiva University",
+  "year": 2022,
+
+  "dinh_nghia": "The earliest documented mass disciplinary event following ChatGPT's public release (November 30, 2022). Students submitted AI-generated responses on take-home final exams, constituting intentional misrepresentation under Yeshiva University's academic integrity policy — defined as using 'someone/something else's language' without authorization.",
+
+  "phan_loai": "AI-assisted dishonesty (gian lận AI): use of ChatGPT to complete take-home final exam questions. Classification as intentional misrepresentation per Yeshiva University's academic integrity policy. No contract cheating (no third party involved). No plagiarism from human sources — novel category that required policy update.",
+
+  "lich_su_khai_niem": "ChatGPT launched publicly November 30, 2022. The Yeshiva University incident occurred within the same month — December 2022 — making it among the first documented institutional responses to ChatGPT-facilitated cheating. The incident directly triggered revision of Yeshiva University's academic integrity policy and is frequently cited as the inaugural mass AI-cheating disciplinary case in higher education.",
+
+  "ten_truong_hop": "Multiple unnamed students in Professor Paula Geyh's 'Books on Books / Films on Films' course(s) at Yeshiva College, Yeshiva University, New York City. December 2022 take-home final exam. Exact number of students undisclosed publicly.",
+
+  "dien_bien": "In December 2022, students in Professor Paula Geyh's undergraduate English course(s) at Yeshiva College submitted take-home final exam responses. Geyh detected suspicious submissions using AI detection programs and compared student responses with ChatGPT outputs. The anomalies — uncharacteristic sophistication, atypical phrasing, and content matching AI generation patterns — led her to refer cases to Yeshiva University's undergraduate Academic Integrity Committee. Students were summoned to the committee. This became one of the first formal institutional disciplinary proceedings triggered by ChatGPT use, occurring within two weeks of ChatGPT's public launch.",
+
+  "ket_qua_xu_ly": "Students were referred to the Academic Integrity Committee. Penalties under YU policy include: lowered grades, failure of assignment or course, suspension, notations on personal records, and expulsion. Specific individual outcomes were not publicly disclosed. Institutional outcome: Yeshiva University revised its undergraduate academic integrity policy to add 'generator' to the list of examples of intentional misrepresentation — explicitly covering AI text generators.",
+
+  "con_so_thong_ke": "Multiple students across two course sections; exact number undisclosed. Timeline: ChatGPT launched November 30, 2022; cheating occurred December 2022; disciplinary referral December 2022 — within ~2 weeks of ChatGPT's public availability. Policy update: academic integrity policy revised January 2023.",
+
+  "hai_cho_nguoi_hoc": "Students who used ChatGPT on the final exam gained no genuine understanding of course material. The take-home exam format — designed to allow reflection and independent synthesis — was circumvented, depriving students of the learning outcome. Long-term: academic integrity notations can affect graduate school applications and careers.",
+
+  "hai_cho_nghien_cuu": "In a humanities course context, authentic literary analysis and critical thinking are the core learning objectives. AI substitution bypasses the cognitive process that constitutes the educational purpose. At scale, this degrades the quality of humanities graduates.",
+
+  "hai_cho_xa_hoi": "The incident generated widespread media attention and policy panic across US higher education in January 2023. It accelerated rushed AI bans at many institutions (New York City public schools banned ChatGPT days later), some of which were later reversed — demonstrating the societal disruption caused by underprepared institutional responses.",
+
+  "cong_cu_phat_hien": "AI detection programs (likely GPTZero or similar, exact tool unspecified in public reports) used by Professor Geyh, combined with faculty expert judgment. Take-home exam format with prior writing samples for comparison enabled detection. This is an early example of the human-AI hybrid detection approach.",
+
+  "han_che_cong_cu": "In December 2022, AI detection tools were in their earliest versions — GPTZero was developed by Edward Tian as a Princeton student project, also in late 2022. Turnitin had not yet released AI detection. The tools used by Geyh were rudimentary by later standards. False positive risk was not yet systematically studied; Liang et al.'s Stanford research (2023, 61.3% FP on TOEFL) came later.",
+
+  "watermarking": "LLM watermarking did not exist in any form in December 2022 — ChatGPT had launched only days before the incident. The case pre-dates all watermarking research (Kirchenbauer et al., UMD, 2023; Aaronson/OpenAI, 2022-2023).",
+
+  "thiet_ke_bai_tap": "The Yeshiva case prompted discussion of replacing take-home exams with in-class written exams, oral defenses, or process-based assessments (e.g., requiring draft submissions, annotated bibliographies) to authenticate student work. The University of Sydney subsequently developed AI-resistant assessment frameworks.",
+
+  "chinh_sach_truong_hoc": "Pre-incident: Yeshiva University's policy covered intentional misrepresentation via 'someone/something else's language.' Post-incident: policy explicitly added 'generator' to cover AI text generators (January 2023). This was among the first documented university policy updates specifically triggered by a ChatGPT cheating incident.",
+
+  "van_hoa_to_chuc": "The rapid detection by Professor Geyh — who proactively used detection tools within days of ChatGPT's launch — reflects individual faculty vigilance. Institutional response (policy update) demonstrates reactive adaptation. McCabe's research suggests that proactive honor code culture with education would have been more effective than post-hoc enforcement.",
+
+  "ai_literacy": "The December 2022 timing is critical: students had essentially zero AI literacy regarding academic integrity norms for ChatGPT — the tool had been public for days. The incident highlights the need for proactive AI literacy education rather than assuming students understand new-technology boundaries.",
+
+  "khung_quoc_te": "ICAI's definition of academic integrity includes honesty, trust, fairness, respect, and responsibility. The Yeshiva case violates the honesty and responsibility dimensions. UNESCO's 2023 guidance on generative AI in education directly references the need for updated institutional policies — this case was among the triggers for that guidance.",
+
+  "phap_luat_viet_nam": "Nghị định 109/2022/NĐ-CP was issued in the same month as the Yeshiva incident (December 2022) — its provisions on scientific research integrity do not yet mention AI-generated content. The Yeshiva case illustrates the same regulatory gap present in Vietnamese law.",
+
+  "chinh_sach_chau_a": "The Yeshiva University case accelerated AI policy development globally. In Asia, CUHK issued its expulsion-level AI policy in early 2023 shortly after the Yeshiva incident gained international coverage. NUS and NTU also responded in 2023.",
+
+  "ai_tutor_vs_ai_cheater": "The December 2022 Yeshiva case is paradigmatic AI-as-cheater use: students used ChatGPT as a substitute for their own intellectual work on a graded assessment, not as a learning scaffold. The context — humanities literary analysis — is precisely the domain where AI-generated output lacks authentic student interpretation.",
+
+  "edtech_company_policies": "OpenAI had launched ChatGPT as a research preview on November 30, 2022 with no education-specific usage policies. The Yeshiva incident occurred before any EdTech platform or university had formulated ChatGPT-specific academic integrity rules — underscoring the policy vacuum that followed ChatGPT's release.",
+
+  "de_xuat_nha_nghien_cuu": "Key lesson from Yeshiva 2022: (1) universities must develop AI integrity policies proactively, not reactively; (2) assessment design must anticipate AI capabilities; (3) student orientation on AI ethical use should precede tool availability; (4) faculty should be equipped with detection literacy before AI tools become accessible; (5) graduated sanctions — rather than binary pass/fail — better reflect the novelty of the violation for students who had never encountered an AI policy.",
+
+  "bai_bao_khoa_hoc": "Perkins, M., et al. (2023). Academic Integrity Considerations of AI Large Language Models in the Post-ChatGPT Era. Journal of University Teaching & Learning Practice, 20(2). Liang, W., et al. (2023). GPT detectors are biased against non-native English writers. Patterns, 4(7). DOI: 10.1016/j.patter.2023.100779.",
+
+  "sach_tham_khao": "McCabe, D.L., Butterfield, K.D., & Treviño, L.K. (2012). Cheating in College. Johns Hopkins University Press. Gallant, T.B. (2008). Academic Integrity in the Twenty-First Century. ASHE Higher Education Report.",
+
+  "nguon_viet_nam": "Nghị định 109/2022/NĐ-CP (December 2022) on scientific research integrity — concurrent with Yeshiva incident; does not address AI. VietnamNet reporting on ChatGPT in Vietnamese education (2023).",
+
+  "uncertain": ["con_so_thong_ke (exact number of students disciplined not publicly disclosed)", "cong_cu_phat_hien (specific AI detection tool used by Prof. Geyh not confirmed in public reports)"]
+}

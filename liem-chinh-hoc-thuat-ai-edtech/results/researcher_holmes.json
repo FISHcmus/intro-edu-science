@@ -1,0 +1,61 @@
+{
+  "id": "researcher_holmes",
+  "name": "Wayne Holmes",
+  "type": "researcher",
+  "institution": "UCL (University College London), IOE — UCL Knowledge Lab; UNESCO — Consultant, Technology and AI in Education unit",
+  "specialty": "AI in education ethics; unintended consequences of AI in education; co-author of Intelligence Unleashed with Luckin",
+
+  "dinh_nghia": "Holmes defines ethical AI in education as requiring attention to both 'doing ethical things' (choosing ethically appropriate AI applications) and 'doing things ethically' (implementing AI in ways that respect learner rights and dignity). He emphasizes the distinction between intended benefits and unintended consequences — a core conceptual contribution.",
+
+  "phan_loai": "Holmes' framework categorizes AI-in-education harms as: (1) direct harms — bias, privacy violations, manipulation; (2) indirect harms — reducing teacher agency, perpetuating inequalities; (3) unintended consequences — unforeseen effects on learning, assessment, and institutional culture. AI cheating is one manifestation of category (3).",
+
+  "lich_su_khai_niem": "Holmes co-authored Intelligence Unleashed (2016) with Luckin, which was optimistic about AI in education. His subsequent work shifted emphasis to the ethical challenges and unintended consequences that optimistic early framings underweighted. His 2023 Education International publication 'The Unintended Consequences of Artificial Intelligence and Education' represents this maturation of thinking.",
+
+  "ten_truong_hop": "Holmes & Luckin et al. (2016): Intelligence Unleashed (Pearson); Holmes & Porayska-Pomsta (eds.) (2022/2023): 'The Ethics of Artificial Intelligence in Education' (Routledge); Holmes (2023): 'The Unintended Consequences of Artificial Intelligence and Education' (Education International, Brussels); Holmes et al. (2021): 'Ethics of AI in Education: Towards a Community-Wide Framework' — International Journal of Artificial Intelligence in Education.",
+
+  "dien_bien": "Holmes' career arc illustrates the evolution of AIEd thinking: from the optimistic democratization vision of Intelligence Unleashed (2016), to systematic ethics frameworks (2021 IJAIED community framework), to the 2023 unintended consequences work. His UNESCO consultancy work has contributed to practical guidance for policymakers globally. His Routledge edited volume with Porayska-Pomsta is the most comprehensive academic treatment of AIEd ethics.",
+
+  "ket_qua_xu_ly": "Holmes' UNESCO work produced 'AI and Education: Guidance for Policy-makers' and 'Guidance for Generative AI in Education and Research' — widely cited policy documents. His community-wide ethics framework (2021) has been adopted as a reference by AIEd researchers globally. His unintended consequences framing is now standard in responsible AI in education discourse.",
+
+  "con_so_thong_ke": "Holmes is Full Professor of Critical Studies of AI and Education at UCL. Intelligence Unleashed has been downloaded thousands of times from UCL Discovery and Pearson. His 2021 ethics framework paper has hundreds of citations. UNESCO AI in education guidance documents reach millions through UNESCO's global network.",
+
+  "hai_cho_nguoi_hoc": "Holmes' unintended consequences framework identifies: AI systems that misclassify students based on biased data; over-reliance on AI tutors reducing development of self-regulation; AI assessment tools that advantage students with AI access; reduction of teacher-student relationships that are intrinsically valuable for learner wellbeing.",
+
+  "hai_cho_nghien_cuu": "Holmes documents how AI tools in research and education can introduce systematic biases, create false precision in measurement, and displace richer qualitative understandings of learning with narrow quantifiable metrics — harming the epistemic quality of educational research.",
+
+  "hai_cho_xa_hoi": "Holmes identifies ecological costs of AI (energy, hardware extraction), social inequality from differential AI access, loss of teacher autonomy as systemic societal harms. His 2023 unintended consequences work addresses these at institutional and societal scale.",
+
+  "cong_cu_phat_hien": "Holmes' work on AI ethics engages with detection tools primarily as examples of surveillance AI that require ethical scrutiny. He supports transparency requirements and human oversight of automated detection systems. He is not an advocate of detection-first approaches.",
+
+  "han_che_cong_cu": "Holmes' ethics framework highlights that automated detection tools carry risks of false positives, bias (especially against ESL writers), and surveillance dynamics that undermine trust. His requirement for human oversight of AI decisions applies directly to detection tool outputs.",
+
+  "watermarking": "[uncertain] Holmes has discussed the ethical dimensions of AI surveillance and monitoring in education broadly, but has not published specifically on LLM watermarking. His ethics framework would require watermarking systems to be subject to transparency and human oversight principles.",
+
+  "thiet_ke_bai_tap": "Holmes supports assessment designs that reflect genuine learning goals rather than being primarily optimized for AI-resistance or AI-detection compatibility. He emphasizes the pedagogical dimension — assessments should develop learners' capacity to engage critically with AI, not just avoid it.",
+
+  "chinh_sach_truong_hoc": "Through UNESCO consultancy, Holmes has contributed to national-level policy frameworks for AI in education. He advocates for policies that include: transparency about AI use, human oversight of AI decisions, equity impact assessments, and ongoing monitoring for unintended consequences.",
+
+  "van_hoa_to_chuc": "Holmes supports institutional cultures grounded in ethical AI principles — transparency, accountability, human dignity — rather than pure performance optimization. His 'doing things ethically' principle applies to institutional culture as much as to individual AI deployments.",
+
+  "ai_literacy": "Holmes has contributed to UNESCO's AI literacy frameworks. He argues that AI literacy must include ethical and critical dimensions — understanding not just how AI works but what values it embeds, who it serves, and what harms it can cause. This is essential for both educators and students.",
+
+  "khung_quoc_te": "Holmes has made major contributions to international AI in education governance: IEEE EAD engagement, UNESCO AI guidance, Council of Europe consultancy, European AI Act discourse. His 2021 community ethics framework is the most influential international consensus statement on AIEd ethics.",
+
+  "phap_luat_viet_nam": "[uncertain] Holmes has not published on Vietnamese educational law. His UNESCO work has global reach and his guidance documents are available to Vietnamese policymakers, but no specific Vietnam-focused publications identified.",
+
+  "chinh_sach_chau_a": "[uncertain] Holmes' UNESCO role gives global reach including Asia, but no specific Asian policy case studies documented in his major publications. His frameworks are cited in Singapore and Hong Kong AIEd discussions.",
+
+  "ai_tutor_vs_ai_cheater": "Holmes co-created the foundational AI-as-tutor argument in Intelligence Unleashed (2016), but his subsequent work adds the crucial corrective: unintended consequences of AI in education require that the tutor vision be implemented ethically, with attention to equity, privacy, and human dignity. He bridges the optimist (Luckin) and critical (Selwyn) positions.",
+
+  "edtech_company_policies": "Holmes' ethics framework applies directly to EdTech company behavior. He has critiqued companies that deploy AI in education without adequate ethical review, transparency, or equity assessment. His UNESCO work includes guidelines for how EdTech companies should operate ethically in educational contexts.",
+
+  "de_xuat_nha_nghien_cuu": "Holmes recommends: (1) develop community-wide ethics frameworks for AI in education (done — 2021); (2) produce accessible policy guidance for governments and institutions (done — UNESCO 2021/2023); (3) systematically document and monitor unintended consequences of AI deployments; (4) require transparency, human oversight, and equity impact assessment for all educational AI; (5) include AI ethics in educator professional development and student AI literacy curricula.",
+
+  "bai_bao_khoa_hoc": "Holmes et al. (2021) International Journal of Artificial Intelligence in Education — 'Ethics of AI in Education: Towards a Community-Wide Framework'; Holmes (2023) Education International — 'The Unintended Consequences of Artificial Intelligence and Education'; Holmes, W., Porayska-Pomsta, K. (eds.) (2022) 'The Ethics of Artificial Intelligence in Education' — Routledge; Intelligence Unleashed (2016) co-authored with Luckin et al.",
+
+  "sach_tham_khao": "Holmes, W. & Porayska-Pomsta, K. (eds.) (2022). The Ethics of Artificial Intelligence in Education: Practices, Challenges, and Debates. Routledge. Holmes, W. et al. (2016). Intelligence Unleashed. Pearson. UNESCO AI and Education: Guidance for Policy-makers (Holmes contributing author).",
+
+  "nguon_viet_nam": "[uncertain] No specific Vietnamese-context publications. Holmes' UNESCO guidance documents are available to Vietnamese education authorities and relevant to Vietnam's AI in education strategy.",
+
+  "uncertain": ["watermarking", "phap_luat_viet_nam", "chinh_sach_chau_a", "nguon_viet_nam"]
+}

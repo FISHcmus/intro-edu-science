@@ -1,0 +1,61 @@
+{
+  "id": "researcher_bretag",
+  "name": "Tracey Bretag",
+  "type": "researcher",
+  "institution": "University of South Australia (UniSA)",
+  "specialty": "Academic integrity policy frameworks; 5 core elements of exemplary policy; Handbook of Academic Integrity editor",
+
+  "dinh_nghia": "Bretag defines academic integrity as a set of values, behaviors, and institutional practices that ensure the honest and responsible conduct of scholarship. Her 5-core-elements framework (Access, Approach, Responsibility, Detail, Support) provides an operational definition of what exemplary policy looks like in practice.",
+
+  "phan_loai": "Bretag's policy framework addresses plagiarism, contract cheating, collusion, fabrication, and — in later work — AI-assisted misconduct. The Handbook of Academic Integrity (2016) provides a comprehensive taxonomy across these categories.",
+
+  "lich_su_khai_niem": "Bretag led the Academic Integrity Standards Project (AISP, 2010-2012) and the Exemplary Academic Integrity Project (EAIP, 2013), which analyzed 39 Australian university policies and synthesized the 5 core elements. Her work helped shift institutional discourse from punitive enforcement to educational, values-based approaches.",
+
+  "ten_truong_hop": "Academic Integrity Standards Project (AISP 2010-2012): analysis of 40 Australian HE institutions' policies; Exemplary Academic Integrity Project (EAIP 2013); Springer Handbook of Academic Integrity (2016, editor Bretag); IJEI (2011) 5 core elements paper.",
+
+  "dien_bien": "Through systematic analysis of Australian university policies, Bretag and colleagues identified that most institutions' policies were incomplete — lacking one or more of the 5 core elements. The EAIP then developed implementation frameworks and plain-English definitions to help universities improve their policies. Her 2016 Handbook synthesized global research into a landmark reference work.",
+
+  "ket_qua_xu_ly": "Bretag's frameworks have been adopted by universities across Australia, New Zealand, and internationally. The 5 core elements became a benchmark for policy evaluation in the sector. Her work is cited in regulatory guidance from TEQSA (Australia) and equivalent bodies.",
+
+  "con_so_thong_ke": "AISP analyzed policies at all 39 Australian universities (at time of study). The Handbook of Academic Integrity (Springer 2016) includes contributions from over 100 international scholars across 50+ chapters. Bretag's publications have thousands of citations.",
+
+  "hai_cho_nguoi_hoc": "Bretag's framework emphasizes that students who engage in academic misconduct do not develop genuine competencies. Poor institutional support (insufficient 'Support' element) leaves students vulnerable to unintentional misconduct due to inadequate guidance.",
+
+  "hai_cho_nghien_cuu": "Institutional failure to maintain rigorous integrity standards allows fabricated or plagiarized work to enter the academic record, degrading the quality of knowledge production. Bretag's 'Approach' element addresses the importance of proactive education vs. reactive detection.",
+
+  "hai_cho_xa_hoi": "Systemic academic integrity failures undermine public trust in higher education credentials and professional competency. Bretag frames academic integrity as an ethical foundation for civil society and professional practice.",
+
+  "cong_cu_phat_hien": "Bretag's work focuses more on policy and culture than on specific detection tools. She positions detection tools (plagiarism checkers, AI detectors) as one component of the 'Detail' element — part of a comprehensive policy — but insufficient on their own.",
+
+  "han_che_cong_cu": "Bretag emphasizes that overreliance on detection technology without educational and cultural support (the 'Support' and 'Approach' elements) creates adversarial student-institution relationships and fails to address root causes of misconduct.",
+
+  "watermarking": "[uncertain] Bretag has not published specifically on LLM watermarking; her work predates the widespread GenAI era, though her policy frameworks are applicable to GenAI governance.",
+
+  "thiet_ke_bai_tap": "Bretag's 'Approach' element calls for assessment design that makes misconduct difficult — authentic, contextual, process-based assessments that require genuine student engagement rather than easily outsourceable tasks.",
+
+  "chinh_sach_truong_hoc": "The 5 core elements (Access, Approach, Responsibility, Detail, Support) are Bretag's primary policy contribution. 'Access' means policy is visible and available; 'Approach' means proactive education; 'Responsibility' assigns clear accountability; 'Detail' means comprehensive rules; 'Support' means resources for students and staff.",
+
+  "van_hoa_to_chuc": "Bretag strongly advocates for values-based institutional culture over enforcement-only approaches. She argues that students internalize integrity norms when institutions model them through transparent, fair, and supportive practices.",
+
+  "ai_literacy": "Bretag's framework implicitly supports AI literacy through the 'Access' and 'Approach' elements — students need clear, accessible information about what AI tools may and may not be used for, and proactive education to understand why.",
+
+  "khung_quoc_te": "Bretag's work is aligned with ICAI's Fundamental Values of Academic Integrity (honesty, trust, fairness, respect, responsibility, courage). The Handbook of Academic Integrity (2016) is the most comprehensive international reference on the subject.",
+
+  "phap_luat_viet_nam": "[uncertain] Bretag has not published on Vietnamese academic integrity law, but her frameworks are globally applicable and her Handbook includes chapters on policy across diverse national contexts.",
+
+  "chinh_sach_chau_a": "[uncertain] The Handbook of Academic Integrity includes some Asia-Pacific perspectives, but Bretag's primary focus is Australia. Her frameworks have been applied in Hong Kong, Singapore, and New Zealand.",
+
+  "ai_tutor_vs_ai_cheater": "Bretag's framework is policy-neutral on AI tools per se — her 'Approach' element calls for proactive, context-specific education about how AI may be used legitimately or illegitimately, depending on the task and institutional guidance.",
+
+  "edtech_company_policies": "[uncertain] Bretag has not published specifically on EdTech company policies (Khan Academy, Coursera, etc.), but her 5-element framework is relevant to evaluating EdTech platform integrity policies.",
+
+  "de_xuat_nha_nghien_cuu": "Bretag recommends that institutions: (1) ensure all 5 core elements are present in their integrity policies; (2) adopt proactive educational approaches (not just punitive detection); (3) assign clear responsibility at all levels; (4) provide genuine support to students navigating integrity challenges; (5) extend these frameworks explicitly to cover GenAI.",
+
+  "bai_bao_khoa_hoc": "Bretag et al. (2011) International Journal for Educational Integrity — 5 core elements; Bretag (2013) EAIP implementation framework; multiple chapters in Bretag (ed.) Handbook of Academic Integrity (Springer 2016); interview in Educational Philosophy and Theory (2018).",
+
+  "sach_tham_khao": "Bretag, T. (ed.) (2016). Handbook of Academic Integrity. Singapore: Springer. This is the landmark global reference work on academic integrity policy, practice, and research.",
+
+  "nguon_viet_nam": "[uncertain] No specific Vietnamese-context publications identified for Bretag. Her Handbook includes some Southeast Asian perspectives but not Vietnam-specific research.",
+
+  "uncertain": ["watermarking", "phap_luat_viet_nam", "chinh_sach_chau_a", "edtech_company_policies", "nguon_viet_nam"]
+}

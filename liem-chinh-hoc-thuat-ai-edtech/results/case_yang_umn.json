@@ -1,0 +1,62 @@
+{
+  "id": "case_yang_umn",
+  "name": "Haishan Yang — University of Minnesota (2024–2026)",
+  "type": "real_case",
+  "category": "student_disciplinary",
+  "institution": "University of Minnesota",
+  "year": 2024,
+
+  "dinh_nghia": "Academic integrity violation involving unauthorized use of AI tools during a restricted examination. The University of Minnesota defines scholastic dishonesty as using AI-generated content in assessments where such use is explicitly prohibited, equivalent to plagiarism under its Office for Community Standards (OCS) policy.",
+
+  "phan_loai": "AI-assisted dishonesty (gian lận AI): use of AI language model (ChatGPT) during an open-book qualifying exam that explicitly prohibited AI. Secondary classification: fabrication / evidence alteration alleged by student (claim that faculty edited ChatGPT outputs to match his answers — contested).",
+
+  "lich_su_khai_niem": "The concept of AI-assisted academic dishonesty emerged after ChatGPT's public release in November 2022. By 2023-24, universities began codifying AI misuse explicitly in academic integrity policies. The Yang case (2024-2026) represents one of the first cases to be litigated through full federal and state appellate processes.",
+
+  "ten_truong_hop": "Haishan Yang v. University of Minnesota et al. — PhD student (Health Services Research, Policy, and Administration program) expelled August 2024 after eight-hour open-book qualifying exam; lawsuits filed January 2025; federal dismissal October 2025; state appellate court upheld expulsion February 2026.",
+
+  "dien_bien": "In August 2024, Haishan Yang took an eight-hour open-book qualifying exam for the Health Services Research, Policy, and Administration PhD program. The exam explicitly prohibited AI use. A faculty grading committee led by Dr. Hannah Neprash found Yang's answers inconsistent with his prior writing, containing ideas not covered in class, and matched near-identically with ChatGPT outputs — including exact phrasing. The case was referred to UMN's Office for Community Standards. Yang submitted a 35-page written defense and participated in a formal hearing before the Campus Committee on Student Behavior with an advocate. The panel unanimously found him responsible. Yang then filed state and federal lawsuits in January 2025, alleging Dr. Neprash had altered ChatGPT outputs to match his answers and that due process was violated. He sought $4 million in damages.",
+
+  "ket_qua_xu_ly": "Outcome: Expelled from University of Minnesota (August 2024). Federal lawsuit dismissed October 2025 — court found due process rights were not violated. State appellate court upheld expulsion February 2026. Yang's $4 million lawsuit failed at both federal and state appellate levels. Case establishes precedent that universities have broad discretion in AI-cheating disciplinary proceedings.",
+
+  "con_so_thong_ke": "1 student expelled; $4 million lawsuit sought; federal dismissal October 2025; appellate decision February 2026. UMN context: AI cases comprised ~50% of all confirmed academic dishonesty on Twin Cities campus in 2023-24.",
+
+  "hai_cho_nguoi_hoc": "Yang's case illustrates catastrophic personal cost: loss of doctoral degree trajectory, years of academic work voided, reputational damage, and high legal costs. Even if innocent, AI detection ambiguity creates permanent career disruption. Dependency on AI in exam contexts prevents genuine skill development in research methodology.",
+
+  "hai_cho_nghien_cuu": "Use of AI in qualifying exams undermines the quality-gatekeeping function of doctoral programs. If AI-generated knowledge passes credentialing hurdles, PhD graduates may lack authentic expertise required for original research, weakening the scientific workforce.",
+
+  "hai_cho_xa_hoi": "High-profile cases create chilling effects: legitimate AI tool users self-censor; students distrust professors; trust in credentialing erodes. Sets adversarial dynamic between students and institutions on AI use.",
+
+  "cong_cu_phat_hien": "Detection in Yang's case was human-initiated: faculty compared student responses with ChatGPT outputs manually, identifying near-identical phrasing and ideas not covered in coursework. No automated AI detector (Turnitin, GPTZero) was cited as primary evidence. Human expert comparison remains the most legally defensible detection method.",
+
+  "han_che_cong_cu": "The Yang case highlights the risk of false accusations based on stylistic similarity. Yang claimed faculty may have biased the comparison by editing ChatGPT outputs. Automated tools (Turnitin AI, GPTZero) face additional reliability challenges: Liang et al. (Stanford, 2023) found 61.3% false positive rate on TOEFL essays; Turnitin reports 4% sentence-level FP rate. Human expert comparison is more defensible but still contested.",
+
+  "watermarking": "LLM watermarking (Kirchenbauer et al., UMD; Aaronson/OpenAI) would allow cryptographic embedding of AI-origin signals in generated text, potentially providing stronger forensic evidence in cases like Yang's. However, as of 2024-2025, no production watermarking was deployed in OpenAI's ChatGPT, making forensic proof reliant on textual similarity analysis.",
+
+  "thiet_ke_bai_tap": "Yang's case suggests that oral defense and in-person examination components should complement open-book written exams to reduce AI substitution risk. Staged submissions and process documentation (drafts, notes) can provide corroborating evidence of authentic student work.",
+
+  "chinh_sach_truong_hoc": "UMN policy: explicit AI prohibition in the qualifying exam instructions. The university's Office for Community Standards handles investigations with formal hearing processes. Post-case, UMN's policy remained consistent — AI use in prohibited contexts constitutes scholastic dishonesty equivalent to plagiarism.",
+
+  "van_hoa_to_chuc": "The UMN case reflects an enforcement-first culture. No disclosure framework or graduated response — direct referral to OCS upon suspected violation. McCabe's research suggests honor-code cultures with education and dialogue reduce violations more effectively than enforcement-only models.",
+
+  "ai_literacy": "Yang's case underscores the need for explicit AI literacy education at doctoral level: clear communication of what AI use is/is not permitted, training on the risks of AI reliance, and understanding of detection methods and their limitations.",
+
+  "khung_quoc_te": "UNESCO 2023 guidelines on AI in education recognize the need for transparent policies. EU AI Act 2024 (Art. 50) requires disclosure when AI-generated content is produced. IEEE EAD and ACM Code of Ethics both require honest attribution of AI contributions in academic work.",
+
+  "phap_luat_viet_nam": "Nghị định 109/2022/NĐ-CP Điều 20 prohibits fabrication and fraud in scientific research. However, Vietnamese regulations do not explicitly address AI-generated exam submissions — a legal gap mirroring international norms in 2024-2025.",
+
+  "chinh_sach_chau_a": "CUHK (2023) declared explicit expulsion-level AI policy. NUS (2023/2024) adopted a disclosure framework. The UMN Yang case, though US-based, informs Asian university policy discussions on proportional sanctions and due process requirements.",
+
+  "ai_tutor_vs_ai_cheater": "Yang's case typifies the AI-as-cheater framing. The exam context — doctoral qualifying, open-book but AI-prohibited — represents a legitimate boundary where AI substitutes for the cognitive performance the credential certifies. Rose Luckin (UCL) would distinguish between AI as scaffolding for learning versus AI as replacement for assessed performance.",
+
+  "edtech_company_policies": "OpenAI's ChatGPT was the alleged tool used. OpenAI's terms of service prohibit use in ways that violate academic policies, but enforcement is left entirely to institutions. EdTech platforms like Coursera and Khan Academy impose their own AI-use rules per assessment type.",
+
+  "de_xuat_nha_nghien_cuu": "From an EdTech research perspective: (1) qualifying exams should require in-person oral defense components; (2) AI policy must be explicit in all exam instructions; (3) detection should rely on multi-modal evidence (process artifacts, oral follow-up), not text similarity alone; (4) institutions should establish graduated sanctions rather than immediate expulsion for first-time ambiguous cases.",
+
+  "bai_bao_khoa_hoc": "Liang, W., et al. (2023). GPT detectors are biased against non-native English writers. Patterns (Cell Press). DOI: 10.1016/j.patter.2023.100779. Perkins, M., et al. (2023). Academic Integrity Considerations of AI Large Language Models in the Post-ChatGPT Era. Journal of University Teaching & Learning Practice.",
+
+  "sach_tham_khao": "McCabe, D.L., Butterfield, K.D., & Treviño, L.K. (2012). Cheating in College. Johns Hopkins University Press. Eaton, S.E. (2021). Plagiarism in Higher Education. ABC-CLIO.",
+
+  "nguon_viet_nam": "No direct Vietnamese source for this specific case. Broader context: Nghị định 109/2022/NĐ-CP on scientific research integrity; QĐ 1705/QĐ-TTg on education strategy to 2030.",
+
+  "uncertain": ["con_so_thong_ke (exact figure of $4M lawsuit amount confirmed; 188-student UMN figure is system-wide, not specific to Yang case)"]
+}

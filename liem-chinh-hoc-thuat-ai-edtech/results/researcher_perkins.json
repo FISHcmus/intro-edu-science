@@ -1,0 +1,61 @@
+{
+  "id": "researcher_perkins",
+  "name": "Mike Perkins",
+  "type": "researcher",
+  "institution": "British University Vietnam (BUV), Hanoi — Head of Quality and Academic Development / Centre for Research & Innovation",
+  "specialty": "AI detection in higher education; AIAS 5-tier framework; GenAI ethical integration; most directly relevant to Vietnamese HE context",
+
+  "dinh_nghia": "Perkins defines the AI integration challenge not primarily as a cheating problem but as an assessment design problem. His AIAS framework provides a 5-level operational definition of appropriate AI use — from 'no AI' to 'full AI integration' — allowing educators to communicate clear, context-specific expectations.",
+
+  "phan_loai": "Perkins distinguishes between: AI fraud (submitting fully AI-generated work without disclosure), AI-assisted misconduct (using AI in violation of task-specific rules), and legitimate AI use (transparent, disclosed, appropriately bounded AI assistance). His AIAS framework maps these distinctions onto a practical 5-tier scale.",
+
+  "lich_su_khai_niem": "Perkins' 'Chatting and Cheating' paper (IETI 2023) was among the first peer-reviewed studies to empirically examine ChatGPT's impact on academic integrity in higher education. The AIAS framework (introduced 2023, updated v2 2024) emerged as a positive, forward-looking response: instead of banning AI, design assessments with explicit AI-use levels.",
+
+  "ten_truong_hop": "Perkins et al. (2023): 'Chatting and Cheating: Ensuring Academic Integrity in the Era of ChatGPT' — Innovations in Education and Teaching International (IETI), doi:10.1080/14703297.2023.2190148; Perkins et al. (2024): Detection of GPT-4 in academic writing — Journal of Academic Ethics; AIAS Framework (2023/2024); pilot implementation study in Australasian Journal of Educational Technology.",
+
+  "dien_bien": "Perkins' 2023 IETI paper analyzed how ChatGPT could be used to generate plausible academic submissions and what this means for institutional integrity. His team at BUV developed the AIAS (Artificial Intelligence Assessment Scale) as a practical tool for educators to classify assignments by permitted AI use level. The AIAS pilot showed significant reduction in AI-related misconduct cases. By 2024, the AIAS had been adopted by hundreds of institutions worldwide, translated into 30+ languages, and recognized by TEQSA (Australia).",
+
+  "ket_qua_xu_ly": "The AIAS framework has become an internationally recognized standard. TEQSA cited it in 2024 as an option for implementing GenAI in assessment. BUV's pilot found reduced misconduct cases and improved student engagement with AI tools. Perkins' work demonstrates that constructive frameworks outperform prohibition strategies.",
+
+  "con_so_thong_ke": "AIAS adopted by hundreds of institutions globally; translated into 30+ languages; recognized by TEQSA 2024. Perkins' 'Chatting and Cheating' paper is among the most-cited early papers on ChatGPT and academic integrity (2023). BUV pilot: measurable reduction in GenAI-related misconduct cases.",
+
+  "hai_cho_nguoi_hoc": "Perkins frames AI fraud as harmful because it deprives students of genuine learning. His AIAS solution addresses this positively — by designing assessments where AI use is bounded and transparent, students develop both subject competency and AI literacy simultaneously.",
+
+  "hai_cho_nghien_cuu": "Perkins' detection research shows that undetected AI submissions corrupt assessment data, undermining evidence-based pedagogy. His work on GPT-4 detection (2024) documents the reliability limits of current AI detectors.",
+
+  "hai_cho_xa_hoi": "Perkins notes that in the Vietnamese and Southeast Asian context, international credentialing pressure creates particular vulnerability to AI fraud — students seeking to signal competency for global employers may be tempted to use AI dishonestly when assessment design does not clearly permit or prohibit it.",
+
+  "cong_cu_phat_hien": "Perkins' 2024 paper examines the detection of GPT-4-generated text in academic writing, evaluating tools including Turnitin AI Detection, GPTZero, and Copyleaks. He finds that detection accuracy is imperfect, with meaningful false-positive rates, and argues that detection should complement — not replace — assessment redesign.",
+
+  "han_che_cong_cu": "Perkins documents that AI detectors fail on: (1) paraphrased/humanized AI text; (2) non-native English writers (elevated false positive rates); (3) GPT-4 compared to GPT-3.5. His work supports Liang et al. (Stanford 2023) findings on ESL false positives. He concludes detection tools are unreliable as sole integrity mechanisms.",
+
+  "watermarking": "[uncertain] Perkins has not published specifically on LLM watermarking, but his detection research engages with the technical limits that watermarking aims to address.",
+
+  "thiet_ke_bai_tap": "The AIAS framework is fundamentally a tool for assessment redesign. Level 1 (No AI) requires complete human work; Level 5 (Full AI Integration) allows AI throughout with human oversight and attribution. The framework enables educators to design assessments appropriate to their learning objectives while being transparent with students.",
+
+  "chinh_sach_truong_hoc": "Perkins' AIAS is the most actionable institutional policy framework in the current literature. It has been adopted by institutions in Australia, Vietnam, UK, and dozens of other countries. BUV's implementation demonstrates the framework's effectiveness in a Vietnamese HE context — making it uniquely relevant for Vietnamese institutions.",
+
+  "van_hoa_to_chuc": "Perkins argues for a culture of transparent AI use with clear attribution standards, rather than prohibition or adversarial detection. His AIAS promotes institutional trust by giving students clear guidance rather than ambiguous rules.",
+
+  "ai_literacy": "Perkins' AIAS framework explicitly builds AI literacy by requiring students to understand and attribute AI contributions. His work aligns with UNESCO's AI literacy mandates and provides a practical curriculum-level implementation pathway.",
+
+  "khung_quoc_te": "Perkins engages with TEQSA (Australia), UNESCO AI in Education guidance, and international EdTech policy. His AIAS framework is recognized across multiple national regulatory contexts. The 30+ language translations reflect global adoption.",
+
+  "phap_luat_viet_nam": "Perkins works at BUV in Hanoi, making his research directly relevant to Vietnam. While not focused on Nghị định 109/2022 or Luật KH&CN 2025, his AIAS framework addresses the exact gap in Vietnamese law — no explicit governance of AI-generated content in academic submissions. BUV's pilot provides a local evidence base for Vietnamese institutions considering AIAS adoption.",
+
+  "chinh_sach_chau_a": "Perkins' BUV context (Hanoi, Vietnam) provides direct Southeast Asian application. His AIAS framework has been adopted by Asian universities and is more operationally specific than CUHK or NUS policy frameworks. The BUV pilot is a documented Asian case study of constructive AI integration.",
+
+  "ai_tutor_vs_ai_cheater": "Perkins occupies a middle position in the Luckin vs. Selwyn debate — he acknowledges both AI's tutoring potential and its fraud risk, and argues the solution is not to choose sides but to design clear boundaries (AIAS) that enable AI as a learning tool while preventing fraud.",
+
+  "edtech_company_policies": "Perkins' AIAS framework is being evaluated for integration with EdTech platforms. His BUV context involves working with Coursera and similar platforms. The framework provides a common language for EdTech companies to communicate their AI integration policies to educators.",
+
+  "de_xuat_nha_nghien_cuu": "Perkins recommends: (1) adopt the AIAS framework institutionally rather than blanket AI bans; (2) design assessments that explicitly state permitted AI use level; (3) require attribution for all AI contributions; (4) use detection tools as one layer in a multi-pronged approach; (5) build AI literacy into curricula; (6) establish clear institutional policies before students encounter AI in assessments. Especially relevant: implement AIAS at Vietnamese universities to address the governance gap in current Vietnamese law.",
+
+  "bai_bao_khoa_hoc": "Perkins et al. (2023) IETI doi:10.1080/14703297.2023.2190148 — 'Chatting and Cheating'; Perkins et al. (2024) Journal of Academic Ethics — Detection of GPT-4; AIAS framework paper in Journal of University Teaching and Learning Practice; pilot study in Australasian Journal of Educational Technology (AJET).",
+
+  "sach_tham_khao": "AIAS Framework documentation (aiassessmentscale.com); Perkins' research profile at ResearchGate (British University Vietnam); contributions to Springer literature on AI in higher education.",
+
+  "nguon_viet_nam": "Perkins' research is directly conducted at British University Vietnam (BUV), Hanoi. BUV's AIAS pilot represents one of the few documented empirical studies of AI integrity intervention conducted in a Vietnamese educational institution. This makes his work uniquely valuable for Vietnamese EdTech research.",
+
+  "uncertain": ["watermarking"]
+}

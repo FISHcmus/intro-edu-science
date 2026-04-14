@@ -1,0 +1,46 @@
+{
+  "_source_file": "outline.yaml",
+  "id": "book_gallant_2008",
+  "name": "Academic Integrity in the Twenty-First Century",
+  "type": "book",
+  "author": "Tricia Bertram Gallant",
+  "publisher": "Jossey-Bass / ASHE Higher Education Report (Vol.33 No.5)",
+  "year": 2008,
+  "key_argument": "Cheating as symptom of institutional failure in curriculum design and assessment; solutions must be pedagogical not punitive",
+
+  "dinh_nghia": "Gallant (2008) defines academic integrity as an institutional responsibility — not merely an individual moral obligation. Academic dishonesty is a systemic symptom of poorly designed academic environments (excessive grade pressure, irrelevant assignments, punitive culture) rather than evidence of individual moral failure.",
+  "phan_loai": "The monograph addresses: (1) cheating behavior types (exam fraud, plagiarism, fabrication); (2) institutional failure modes (poorly designed assessments, unclear expectations, competitive grading); (3) systemic drivers (credential economy, grade inflation, student pressure); (4) faculty complicity (designed-to-cheat assignments, ignored violations); (5) cultural context (honor codes vs. deterrence models).",
+  "lich_su_khai_niem": "Published 2008 as Vol. 33 No. 5 of the ASHE Higher Education Report series (Jossey-Bass). Gallant's contribution shifted the field's focus from individual cheaters to institutional systems. She was then at University of California San Diego, where she was Academic Integrity Coordinator. This systems-thinking approach prefigures current EdTech debates about AI and assessment design.",
+
+  "ten_truong_hop": "Not a case study volume. Gallant synthesizes empirical literature from McCabe's survey work, Boyer Commission reports, and institutional policy analyses to argue that the higher education system itself creates conditions for cheating.",
+  "dien_bien": "The monograph proceeds: (1) Review of prevalence data (McCabe et al. surveys showing 2/3 cheating rates); (2) Analysis of institutional factors — grade pressure, irrelevant high-stakes exams, anonymous mass testing, lack of faculty engagement; (3) Documentation of faculty's reluctance to report violations (too time-consuming, doubt detection, fear of student appeals); (4) Assessment design failures — multiple-choice exams with answer keys easily shared; (5) Policy failures — punitive deterrence without addressing root causes.",
+  "ket_qua_xu_ly": "Highly influential in reforming how institutions approach academic integrity: from punitive enforcement to pedagogical redesign. Gallant's 'academic integrity as a teaching and learning issue' framing is now mainstream in HE literature. UCSD's academic integrity program under her leadership became a model cited by NUS, University of Sydney, and others.",
+  "con_so_thong_ke": "ASHE Higher Education Report series Vol. 33 No. 5; published 2008; Jossey-Bass imprint; approximately 100 pages (monograph format characteristic of ASHE series); Gallant later published 'Creating the Ethical Academy' (2011, Routledge) as follow-up.",
+
+  "hai_cho_nguoi_hoc": "Gallant's core argument: poorly designed assessments harm all students — those who cheat (no learning) and those who don't (unfair competition, credential devaluation). The immediate harm is bypassed learning; the long-term harm is professional incompetence.",
+  "hai_cho_nghien_cuu": "Gallant's institutional failure argument extends to research contexts: when research culture rewards publication over rigor, fabrication and falsification follow. This directly connects to the 2023-2025 AI-generated paper retraction crisis.",
+  "hai_cho_xa_hoi": "When cheating is institutionally tolerated or structurally incentivized, credentials lose their social signaling function. Employers, licensing bodies, and the public lose the ability to trust that degrees represent actual competence.",
+
+  "cong_cu_phat_hien": "Gallant (2008) is skeptical of detection-only approaches: her research shows faculty frequently do not report detected violations because the process is burdensome. Detection tools (Turnitin circa 2008) do not address the root cause — assessment design.",
+  "han_che_cong_cu": "Central argument: detection tools address symptoms, not causes. An institution that redesigns assessments to be authentic, personalized, and process-based eliminates most cheating opportunity before detection is needed.",
+  "watermarking": "Not applicable (2008 predates LLM research). However, Gallant's institutional systems argument implies that watermarking — as another detection tool — would face the same faculty non-enforcement problem unless institutional culture changes.",
+
+  "thiet_ke_bai_tap": "Gallant's primary contribution to assessment redesign: authentic assessment (real-world tasks that cannot be meaningfully outsourced), incremental/process-based submission, oral examination, and replacing high-stakes single-point tests with portfolios. These recommendations are directly applied in post-ChatGPT assessment redesign guidance.",
+  "chinh_sach_truong_hoc": "Gallant argues against purely reactive policy (disciplinary committees, detection tools) and for proactive policy: mandatory academic integrity education for students, faculty development on assessment design, visible institutional commitment from leadership.",
+  "van_hoa_to_chuc": "Gallant aligns with McCabe: punitive deterrence without cultural change is ineffective. Faculty must model integrity values and design assessments that make cheating both difficult and pointless.",
+  "ai_literacy": "Not addressed (2008). However, Gallant's 'make irrelevant assignments irrelevant to cheat on' argument translates directly: if AI can trivially complete an assignment, the assignment was not testing a meaningful competency. AI literacy for assessment designers means asking: 'What can AI not do here?'",
+
+  "khung_quoc_te": "Gallant's work informs ICAI institutional frameworks and UNESCO guidance on assessment integrity. The ASHE series gives this work significant reach in US HE policy circles.",
+  "phap_luat_viet_nam": "Vietnam's Ministry of Education and Training faces precisely the institutional failures Gallant describes: grade-pressure culture, high-stakes standardized testing, faculty reluctance to report, assessment designs vulnerable to AI. Decree 109/2022 creates structural requirements but does not address pedagogical root causes.",
+  "chinh_sach_chau_a": "Asian HE systems (Vietnam, China, South Korea) face intensified versions of Gallant's institutional failures: extreme grade competition (Gaokao, Vietnam THPT), credential economy pressures, high student-to-faculty ratios reducing individualized assessment. Gallant's systemic analysis is highly applicable.",
+
+  "ai_tutor_vs_ai_cheater": "Gallant's framework resolves the tutor/cheater debate: it depends on assessment design. If an assignment requires only information recall or generic essay writing (AI can do this), AI use is cheating by design. If assessment requires personal reflection, authentic problem-solving, or demonstrable process, AI cannot substitute for learning.",
+  "edtech_company_policies": "Not addressed (2008). However, Khan Academy's Khanmigo design philosophy (Socratic, refuses to complete work) directly implements Gallant's principle: design the environment to make cheating structurally impossible, not just punitively punished.",
+  "de_xuat_nha_nghien_cuu": "Gallant's framework is the most powerful for EdTech researcher recommendations: (1) Diagnose institutional failures before prescribing AI detection tools; (2) Redesign assessments so AI cannot trivially complete them (authentic, personalized, process-based); (3) Faculty development on AI-resistant assessment design; (4) Reframe academic integrity from compliance to pedagogical quality; (5) Institutional commitment from leadership — not just policy documents.",
+
+  "bai_bao_khoa_hoc": "Gallant, T.B. (2008) Academic Integrity in the Twenty-First Century, ASHE Higher Education Report Vol.33 No.5. Gallant, T.B. (2011) Creating the Ethical Academy (Routledge). Gallant, T.B. & Drinan, P. (2008) 'Institutionalizing academic integrity' Journal of Higher Education.",
+  "sach_tham_khao": "Gallant (2008) ASHE report. McCabe et al. (2012) Cheating in College. Bretag (2016) Handbook of Academic Integrity. Eaton (2021) Plagiarism in Higher Education.",
+  "nguon_viet_nam": "Vietnam HE system exhibits many of the institutional failures Gallant identifies: high grade pressure, anonymous mass testing (THPT), faculty reluctance to report violations. The Springer 2024 study (1,386 Vietnamese students) finding that actual AI fraud is ~3x self-reported rate is consistent with Gallant's under-reporting/under-enforcement thesis.",
+
+  "uncertain": ["con_so_thong_ke_page_count"]
+}

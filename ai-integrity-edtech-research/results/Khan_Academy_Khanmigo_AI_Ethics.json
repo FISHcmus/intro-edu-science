@@ -1,0 +1,58 @@
+{
+  "name": "Khan Academy Khanmigo AI Ethics Policy",
+  "type": "company_policy",
+  "year": "2023 (Khanmigo launched March 2023; policy published 2023-2024)",
+  "issuing_authority": "Khan Academy (nonprofit)",
+  "country_or_region": "Global (primary market: US, widely used internationally)",
+  "summary": "Khan Academy launched Khanmigo in March 2023 as an AI-powered tutor built on GPT-4. Khanmigo is the most prominent example of the 'AI as tutor, not cheater' design philosophy. Khan Academy's founder Sal Khan framed this publicly as the answer to ChatGPT cheating concerns: design the AI to be incapable of doing homework for students. Khanmigo uses a Socratic method — it asks questions instead of providing answers. The system is structurally designed to prevent academic dishonesty while maximizing learning support. Sal Khan's TED Talk and book 'Brave New Words' (2023) present this framing as the EdTech industry's model response to AI integrity concerns.",
+
+  "ai_use_policy": "Khanmigo is built on a 'Socratic AI' design: the system asks questions, gives hints, and provides guidance rather than generating solutions or writing essays. Explicit design constraints: Khanmigo will not write essays or assignments for students. If a student pastes text asking Khanmigo to complete it, the system refuses and redirects. Educators can see a log of student-AI interactions for transparency.",
+  "academic_fraud_definition": "Khan Academy's implicit definition: academic fraud = asking AI to produce work that the student submits as their own thinking. The countermeasure is architectural — make the AI incapable of producing submittable content. Khanmigo cannot write a complete essay; it can only help a student develop their own essay through guided questions.",
+  "detection_mechanisms": "Not applicable in the traditional sense — Khanmigo's integrity protection is preventive (design-based) rather than detective. Educator dashboard allows teachers to review AI-student conversation logs to verify the student did the thinking, not the AI.",
+  "penalties": "Not applicable — Khan Academy is a learning platform, not an assessment authority.",
+  "transparency_requirements": "Educator logs: all Khanmigo conversations are accessible to teachers for review. This transparency is built into the product as an accountability mechanism. Student users are aware their conversations are visible to educators.",
+
+  "vietnamese_law_reference": "[uncertain]",
+  "moet_policy": "[uncertain] — Khan Academy is available in Vietnam but not specifically integrated into MOET's official curriculum.",
+  "documented_vn_cases": "[uncertain]",
+  "vn_university_responses": "[uncertain]",
+
+  "ai_tutor_vs_cheater_framing": "Sal Khan is arguably the most prominent global voice framing this debate. His framing (from TED Talk 2023 and 'Brave New Words' 2023): 'Every student can have a Socratic AI tutor. The question is whether we use AI to cheat, or whether we design AI that makes cheating impossible while maximizing learning.' The three design principles Khan Academy applied to Khanmigo: 'This cannot be a cheating tool, it must be Socratic, it needs to be transparent for educators.' This framing positions AI integrity as a design problem, not just a policy problem.",
+  "responsible_ai_definition": "Khan Academy's responsible AI use framework for education: (1) AI must be Socratic — it guides thinking rather than replacing it; (2) AI must be transparent — educators can audit interactions; (3) AI must be honest — it does not hallucinate or misrepresent information; (4) AI must support equity — free access for all students, not just those who can pay for tutors.",
+  "key_researchers": "Sal Khan (Founder, Khan Academy) — primary theorist of 'AI as personal tutor' model. Not an academic researcher but the most influential practitioner voice in EdTech AI integrity. Khan Academy's AI team (internal).",
+  "company_ethics_policy": "Khan Academy's approach to responsible AI development: published at support.khanacademy.org/hc/en-us/articles/13965308352781. The policy covers: data privacy for minors, content safety filtering, human oversight of AI responses, commitment to nonprofit mission (not optimizing for engagement at cost of learning outcomes).",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "[uncertain]",
+  "asia_vs_western_differences": "[uncertain]",
+  "asean_regional_initiatives": "[uncertain]",
+
+  "framework_name": "Khanmigo Socratic AI Design Framework",
+  "framework_principles": "Three core design principles: (1) Cannot be a cheating tool — refuses to complete assignments; (2) Must be Socratic — asks questions to guide thinking; (3) Must be transparent — educator logs all conversations. Writing Coach module: guides through outline creation and draft feedback, flags text pasted from outside sources (15+ words triggers review flag).",
+  "iste_standards": "[uncertain]",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "[uncertain]",
+
+  "implementation_challenges": "Design constraints mean Khanmigo is sometimes perceived as less useful than unrestricted ChatGPT — students may abandon it for less restricted tools. The Socratic approach requires students to engage, not just consume — less effective for students habituated to passive learning. Currently English-first; limited Vietnamese content on Khan Academy, limiting direct applicability in Vietnam.",
+  "student_perspective": "Students who engage with Khanmigo's Socratic approach report deeper understanding. However, students seeking quick answers may find it frustrating compared to ChatGPT. The design intentionally creates productive friction.",
+  "teacher_perspective": "Teachers appreciate the educator dashboard transparency. Khanmigo is seen as an AI tool teachers can recommend without integrity concerns, unlike ChatGPT. Growing adoption in US schools; slower international uptake due to English-language focus.",
+  "recommendations": "Khanmigo's design-based integrity approach should be recommended as a model for EdTech developers. For Vietnamese context: the Socratic design principle can be applied even in Vietnamese-language AI tutoring tools. EdTech researchers should cite Sal Khan's framework alongside UNESCO and ISTE standards to show industry alignment. The educator transparency log is a concrete feature recommendation for any AI-integrated learning platform.",
+
+  "primary_sources": [
+    "What is Khan Academy's approach to responsible AI development? — support.khanacademy.org/hc/en-us/articles/13965308352781",
+    "Meet Khanmigo — khanmigo.ai",
+    "Sal Khan TED Talk 2023: How AI Could Save (Not Destroy) Education"
+  ],
+  "academic_sources": [
+    "Sal Khan, 'Brave New Words: How AI Will Save Our Schools' (2023) — Viking Press",
+    "Kidsaitools.com review of Khanmigo — kidsaitools.com/en/articles/review-khan-academy-khanmigo"
+  ],
+  "vietnamese_sources": "[uncertain]",
+  "urls": [
+    "https://support.khanacademy.org/hc/en-us/articles/13965308352781-What-is-Khan-Academy-s-approach-to-responsible-AI-development",
+    "https://www.khanmigo.ai",
+    "https://www.freethink.com/consumer-tech/khanmigo-ai-tutor"
+  ],
+
+  "uncertain": ["vietnamese_law_reference", "moet_policy", "documented_vn_cases", "vn_university_responses", "singapore_approach", "australia_approach", "asia_vs_western_differences", "asean_regional_initiatives", "iste_standards", "cosn_guidelines", "unesco_guidelines", "vietnamese_sources"]
+}

@@ -1,0 +1,223 @@
+topic: "Vietnam Education - The Good, The Bad, and The Ugly"
+
+fields:
+  basic_info:
+    - name: name
+      description: "Name of the item/phenomenon/policy"
+      detail_level: brief
+
+    - name: period
+      description: "Time period or date range"
+      detail_level: brief
+
+    - name: key_figures
+      description: "Key people, institutions, or organizations involved"
+      detail_level: moderate
+
+    - name: legal_basis
+      description: "Laws, resolutions, decrees that govern or established this"
+      detail_level: moderate
+
+  historical_context:
+    - name: political_backdrop
+      description: "Political situation that shaped this (colonial, wartime, reform, etc.)"
+      detail_level: moderate
+
+    - name: economic_conditions
+      description: "Economic context — GDP, development stage, market transitions"
+      detail_level: moderate
+
+    - name: international_influences
+      description: "Foreign models, UNESCO, World Bank, bilateral influences"
+      detail_level: moderate
+
+    - name: path_dependencies
+      description: "How Confucian/colonial/socialist legacies shaped current structures"
+      detail_level: detailed
+
+  structure_and_policy:
+    - name: system_design
+      description: "How the system/policy is structured — levels, branches, governance"
+      detail_level: detailed
+
+    - name: governance
+      description: "Who controls, funds, regulates — centralization vs autonomy"
+      detail_level: moderate
+
+    - name: funding_model
+      description: "Public spending, household contribution, private sector role"
+      detail_level: moderate
+
+    - name: curriculum_approach
+      description: "Knowledge-based vs competency-based, ideological content, pedagogy"
+      detail_level: detailed
+
+  quantitative_outcomes:
+    - name: literacy_rates
+      description: "Literacy statistics over time"
+      detail_level: moderate
+
+    - name: enrollment_stats
+      description: "Enrollment, completion, dropout rates by level and demographic"
+      detail_level: detailed
+
+    - name: international_rankings
+      description: "PISA scores, QS/THE university rankings, IMO medals"
+      detail_level: moderate
+
+    - name: employment_outcomes
+      description: "Graduate employment, skills match, labor market relevance"
+      detail_level: moderate
+
+  critique:
+    - name: strengths
+      description: "What works well — achievements, innovations, successes"
+      detail_level: detailed
+
+    - name: weaknesses
+      description: "Structural problems, systemic failures, persistent issues"
+      detail_level: detailed
+
+    - name: controversies
+      description: "Scandals, debates, public outrage, policy disputes"
+      detail_level: detailed
+
+    - name: unintended_consequences
+      description: "Shadow education, brain drain, inequality created by reforms"
+      detail_level: detailed
+
+  equity_and_inequality:
+    - name: urban_rural_gap
+      description: "Resource, access, quality differences between urban and rural"
+      detail_level: detailed
+
+    - name: ethnic_minority_access
+      description: "Kinh vs non-Kinh completion, enrollment, language barriers"
+      detail_level: detailed
+
+    - name: gender_disparities
+      description: "Girls' education access, TVET gender balance, barriers"
+      detail_level: moderate
+
+    - name: disability_inclusion
+      description: "Inclusive education policy vs reality, three-model system"
+      detail_level: moderate
+
+    - name: socioeconomic_stratification
+      description: "Public vs private/international schools, tutoring access"
+      detail_level: moderate
+
+  comparative:
+    - name: vs_asean_peers
+      description: "Compared to Thailand, Indonesia, Philippines, Malaysia"
+      detail_level: moderate
+
+    - name: vs_aspirational_models
+      description: "Compared to Korea, Finland, Singapore, Japan"
+      detail_level: moderate
+
+    - name: unesco_framework
+      description: "How Vietnam maps to UNESCO's 7-level classification (ISCED)"
+      detail_level: brief
+
+  ideological_framework:
+    - name: communist_party_goals
+      description: "Party resolutions, 'red and expert' tension, patriotism emphasis"
+      detail_level: detailed
+
+    - name: confucian_legacy
+      description: "Exam culture, teacher respect, family education values"
+      detail_level: moderate
+
+    - name: modernization_ideology
+      description: "Khai dân trí, Đông Kinh Nghĩa Thục spirit, Phan Châu Trinh"
+      detail_level: moderate
+
+  reform_trajectory:
+    - name: past_reforms
+      description: "What was tried before, what worked/failed"
+      detail_level: moderate
+
+    - name: current_initiatives
+      description: "Active reforms: GDPT 2018, Resolution 71, English mandate, STEM"
+      detail_level: detailed
+
+    - name: future_vision
+      description: "2030/2045 goals, EdTech potential, digital transformation"
+      detail_level: detailed
+
+    - name: implementation_fidelity
+      description: "Gap between policy intent and classroom practice"
+      detail_level: detailed
+
+  human_dimension:
+    - name: teacher_experience
+      description: "Salary, moonlighting, professional development, agency"
+      detail_level: detailed
+
+    - name: student_experience
+      description: "Mental health, exam pressure, learning quality, aspirations"
+      detail_level: detailed
+
+    - name: parent_perspective
+      description: "Family investment, tutoring decisions, expectations"
+      detail_level: moderate
+
+    - name: cultural_attitudes
+      description: "Society's relationship with education — reverence, pressure, pragmatism"
+      detail_level: moderate
+
+  economic_dimensions:
+    - name: public_spending
+      description: "Government budget allocation for education (% GDP, absolute)"
+      detail_level: moderate
+
+    - name: household_spending
+      description: "Family out-of-pocket costs, tutoring market size"
+      detail_level: moderate
+
+    - name: teacher_compensation
+      description: "Salary levels, comparisons, moonlighting economics"
+      detail_level: moderate
+
+    - name: edtech_market
+      description: "Startup ecosystem, investment, market size, growth rate"
+      detail_level: moderate
+
+  shadow_education:
+    - name: tutoring_market
+      description: "Dạy thêm/học thêm scale, economics, teacher conflicts"
+      detail_level: detailed
+
+    - name: test_prep_industry
+      description: "Commercial exam preparation, cram schools"
+      detail_level: moderate
+
+    - name: international_school_tier
+      description: "IB/AP schools, 21 IB World Schools, elite stratification"
+      detail_level: moderate
+
+uncertain:
+  - employment_outcomes
+  - edtech_market
+  - test_prep_industry
+  - parent_perspective
+
+sources:
+  - "Confucian court examination system - Wikipedia"
+  - "PISA 2022 Results - OECD"
+  - "Vietnam's Extraordinary Performance in PISA - IZA"
+  - "Resolution 71-NQ/TW - Vietnam News"
+  - "Bình Dân Học Vụ - Saigoneer"
+  - "Teacher moonlighting in Vietnam - MSJ"
+  - "Fake Diplomas - Saigoneer"
+  - "Depression, anxiety, suicidal ideation - PMC"
+  - "Education inequality in Vietnam - King's Think Tank"
+  - "Vietnam EdTech Sector - SOSPG"
+  - "Decree 222/2025/ND-CP - Xepra"
+  - "STEM workforce 2025-2035 - Bao Chinh Phu"
+  - "Inclusive Education in Vietnam - ERIC"
+  - "Gender Equality - UNESCO"
+  - "Corruption in Higher Education - ResearchGate"
+  - "Franco-Vietnamese Educational Culture - Russian Journal"
+  - "Politics of Education in Vietnam - RISE Programme"

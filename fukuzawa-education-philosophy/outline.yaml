@@ -1,0 +1,83 @@
+topic: "The Philosophy of Fukuzawa Yukichi on Education"
+items:
+  # Core Philosophical Concepts
+  - id: 1
+    name: "Jitsugaku (実学 — Practical Learning)"
+    description: "Reject classical Chinese learning, embrace sciences, economics, law — knowledge with real-world application"
+
+  - id: 2
+    name: "Dokuritsujison (独立自尊 — Independence and Self-Respect)"
+    description: "The individual must think independently before a nation can be independent"
+
+  - id: 3
+    name: "Equality Through Learning"
+    description: "Birth status irrelevant; difference between rich/poor comes only from whether one studies or not"
+
+  - id: 4
+    name: "National Independence Through Individual Independence (一身独立して一国独立す)"
+    description: "A nation's sovereignty depends on the intellectual independence of its citizens"
+
+  # Major Works
+  - id: 5
+    name: "Gakumon no Susume (学問のすゝめ, 1872–1876)"
+    description: "17-volume manifesto: education as the great equalizer, 3.4M copies sold"
+
+  - id: 6
+    name: "Bunmeiron no Gairyaku (文明論之概略, 1875)"
+    description: "Civilization theory: societies progress through stages, education is the engine"
+
+  - id: 7
+    name: "Seiyō Jijō (西洋事情, 1866–1870)"
+    description: "Multi-volume account of Western society based on direct observation during overseas missions"
+
+  # Educational Methods & Institutions
+  - id: 8
+    name: "Anti-Confucian Education Critique"
+    description: "Attacked rote memorization of Chinese classics; called traditional scholars 'rice-eating dictionaries'"
+
+  - id: 9
+    name: "Keio Gijuku as Educational Experiment"
+    description: "Founded 1858, private and independent from government — education must be free from state control"
+
+  - id: 10
+    name: "Speech and Public Discourse (Enzetsu 演説)"
+    description: "Coined the word, built Japan's first speech hall, introduced debate as educational and democratic method"
+
+  - id: 11
+    name: "Western Learning as Method, Not Worship"
+    description: "Extract useful Western methods without becoming Western; critiqued blind imitation"
+
+  - id: 12
+    name: "Rejection of Government Dependence"
+    description: "Refused government posts, kept Keio private, citizens must not rely on the state"
+
+  # Social Dimensions
+  - id: 13
+    name: "Women's Education and Gender Paradox"
+    description: "Public advocacy for women's education contrasted with private patriarchal practice; feminist rhetoric vs genuine commitment debate"
+
+  - id: 14
+    name: "Rationalist Critique of Superstition"
+    description: "Attacked religious superstitions and folk beliefs as obstacles to modernization; education as tool against irrationality"
+
+  - id: 15
+    name: "Linguistic and Semantic Innovation"
+    description: "Coined Japanese neologisms (演説, 競争), translated Western concepts — linguistic modernization as prerequisite for conceptual modernization"
+
+  # Transnational Influence
+  - id: 16
+    name: "Dong Kinh Nghia Thuc (東京義塾, Vietnam 1907)"
+    description: "Direct replication of Keio model by Phan Bội Châu — transnational adoption of Fukuzawa's educational system in Vietnam"
+
+  - id: 17
+    name: "Empirical Learning Through Observation and Verification"
+    description: "Reject dogma, observe directly, test through practice — inspired by diplomatic missions and Western scientific method"
+
+  - id: 18
+    name: "Constitutional Government and Democratic Citizenship"
+    description: "Education of citizens necessary for meaningful constitutional participation; linked educational philosophy to democratic theory"
+
+execution:
+  batch_size: 8
+  items_per_agent: 2
+  output_dir: ./results

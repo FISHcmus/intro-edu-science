@@ -1,0 +1,62 @@
+{
+  "id": "case_springer_nature_2024",
+  "name": "Springer Nature — 2,923 papers retracted in 2024",
+  "type": "real_case",
+  "category": "research_fraud",
+  "institution": "Springer Nature (global scientific publisher, 3,000+ journals)",
+  "year": 2024,
+
+  "dinh_nghia": "A paper retraction is a formal withdrawal of a published article from the scientific record, typically due to errors, misconduct, or integrity violations. In the context of AI-era research fraud, retractions increasingly involve AI-generated content, manipulated images, paper mill submissions, and citation fabrication. Springer Nature's 2024 retraction record represents the highest single-publisher annual retraction count in history.",
+
+  "phan_loai": "Multiple integrity violation types contributing to the 2024 retraction record: (1) Paper mill submissions (AI-generated content, fake authorship); (2) Data fabrication/falsification; (3) Plagiarism; (4) Undisclosed AI-generated text (post-2023 surge); (5) Peer review manipulation. The Neurosurgical Review sub-case is specifically attributable to AI-generated manuscripts flooding a specialized journal.",
+
+  "lich_su_khai_niem": "Springer Nature's retraction rate increased dramatically post-2022, driven by: (1) Improved detection methods (AI-content detection, image forensics); (2) Surge in paper mill activity using AI tools; (3) Post-Hindawi/Wiley heightened scrutiny of open-access publishing; (4) AI-generated manuscripts flooding specialized journals (Neurosurgical Review). The 2024 record was reported by Retraction Watch (February 17, 2025).",
+
+  "ten_truong_hop": "Springer Nature — 2,923 articles retracted in 2024 (record high). Sub-case: Neurosurgical Review journal flooded with AI-generated manuscripts, resulting in retraction of 129+ papers and suspension of letter/commentary acceptance.",
+
+  "dien_bien": "Springer Nature's 3,000+ journals published approximately 482,000 articles in 2024, of which 2,923 were retracted — a record for any single publisher in a single year. Of the 2,923 retractions: 61.5% (1,797) were for papers originally published before January 2023; 38.5% (1,126) were for papers published after January 2023 (the post-ChatGPT period). Neurosurgical Review (a Springer Nature journal) was specifically overwhelmed by AI-generated submissions: commentaries and letters to the editor were flooded with LLM-generated manuscripts. The journal paused acceptance of letters and commentaries after detecting the pattern. By early 2025, Neurosurgical Review had retracted 129 papers, with Saveetha University (Chennai, India) appearing prominently in the affiliation list — an institution known for aggressive publication incentive practices and self-citation. The broader Springer Nature retractions were identified through a combination of editorial team reviews, reader/author complaints, integrity tool screening, and the general heightened scrutiny following the Hindawi crisis.",
+
+  "ket_qua_xu_ly": "2,923 papers formally retracted in 2024. Neurosurgical Review paused acceptance of commentary/letter submissions pending system review. Springer Nature published public statements on research integrity. The publisher accelerated deployment of integrity-screening tools at submission stage. Post-publication alerts (retraction notices) were added to affected papers. Saveetha University's papers are under continued institutional and editorial scrutiny. Retraction Watch reported the record numbers as evidence of both improved detection (positive) and increased fraud (concerning).",
+
+  "con_so_thong_ke": "2,923 Springer Nature retractions in 2024 (record). 482,000 total articles published in 2024. Retraction rate: ~0.6%. 1,797 retractions (61.5%) for pre-2023 papers. 1,126 retractions (38.5%) for post-2023 papers. 129+ Neurosurgical Review retractions (as of early 2025). 3 journals in Springer Nature portfolio specifically cited as heavily affected.",
+
+  "hai_cho_nguoi_hoc": "Graduate students and researchers using Springer Nature journals (among the most prestigious in science) may cite retracted papers unknowingly. Springer Nature's retracted papers — spanning fields from neurosurgery to materials science — affect training in multiple disciplines. Institutional subscriptions give students access to papers that may still show as 'published' before retraction notices propagate through citation managers.",
+
+  "hai_cho_nghien_cuu": "2,923 retractions from a top publisher contaminate the scientific record across thousands of citations. Downstream papers citing retracted Springer Nature articles inherit the contamination. The Neurosurgical Review case specifically harms clinical neuroscience literature — clinicians making treatment decisions may have been exposed to AI-fabricated case commentaries.",
+
+  "hai_cho_xa_hoi": "Record retractions from a globally trusted publisher erode public confidence in peer review and scientific publishing. The concentration of AI-generated papers in clinical/medical journals (Neurosurgical Review) poses patient safety risks. The financial cost to Springer Nature (reduced impact factors, subscription concerns) may affect open access funding models.",
+
+  "cong_cu_phat_hien": "Detection methods contributing to the 2024 retraction surge: (1) AI-text detection tools (Turnitin AI, GPTZero, iThenticate) integrated into editorial workflows; (2) Image manipulation detection; (3) Citation pattern analysis; (4) Reader/researcher reports to editorial offices; (5) Retraction Watch's public database incentivizing editors to act on flagged papers; (6) Post-publication investigation by integrity teams.",
+
+  "han_che_cong_cu": "Despite 2,923 retractions, the 38.5% rate for post-2023 papers suggests many AI-era fraudulent papers remain undetected. AI-content detection tools cannot catch well-edited AI text. The high volume of submissions makes pre-publication screening resource-intensive. Saveetha University papers passed initial peer review — demonstrating that institutional gaming of publication metrics can evade detection.",
+
+  "watermarking": "LLM watermarking (Kirchenbauer/UMD, Aaronson/OpenAI) would enable Springer Nature's submission system to detect AI-generated manuscripts at intake, before peer review. The Neurosurgical Review flooding — hundreds of AI-generated submissions overwhelming a specialized journal — is exactly the use case watermarking is designed to prevent.",
+
+  "thiet_ke_bai_tap": "For manuscript submission: mandatory AI-use disclosure forms, automated AI-content screening at intake, ORCID identity verification, institutional affiliation confirmation. For academic training: graduate programs should incorporate retraction literacy — understanding why papers are retracted and how to check retraction status before citing.",
+
+  "chinh_sach_truong_hoc": "Springer Nature updated its AI disclosure policy post-2023: authors must declare AI use in manuscript preparation. The Neurosurgical Review experience is being used by Springer Nature to develop journal-specific submission restrictions. Impact factor concerns for journals with high retraction rates are creating incentives for tighter pre-publication screening.",
+
+  "van_hoa_to_chuc": "The high rate of pre-2023 paper retractions (61.5%) shows that improved detection is uncovering historical fraud — not just new AI-era misconduct. McCabe's research suggests enforcement alone is insufficient without culture change. Springer Nature's retraction transparency (publishing detailed retraction notices) contributes to a culture of accountability.",
+
+  "ai_literacy": "The Neurosurgical Review flooding demonstrates that some authors do not understand that AI-generated submissions to specialized clinical journals are: (1) detectable; (2) a serious integrity violation; (3) potentially dangerous to patient care. Clinical researchers need specific AI literacy training for manuscript preparation.",
+
+  "khung_quoc_te": "Record retractions by Springer Nature directly implicate: EU AI Act (2024) Art. 50 on disclosure; COPE (Committee on Publication Ethics) guidelines on AI in publications; ICMJE authorship criteria (AI cannot be an author); UNESCO 2023 AI recommendations. Springer Nature's response is being monitored by the Committee on Publication Ethics as a policy model.",
+
+  "phap_luat_viet_nam": "Vietnamese researchers publishing in Springer Nature journals are subject to the journal's AI disclosure requirements, regardless of domestic law. The 2024 retraction wave affected Vietnamese-affiliated papers [uncertain — no confirmed count]. Nghị định 109/2022/NĐ-CP requires research integrity; Springer Nature retractions of Vietnamese papers would trigger domestic institutional review.",
+
+  "chinh_sach_chau_a": "Saveetha University (India) retractions are the most documented Asian institutional case. NTU (Singapore) zero-marks policy for AI-generated work reflects similar pressures. Chinese institutions have also appeared in Springer Nature retraction notices. The Asian 'publish or perish' culture in rapidly expanding research university systems creates structural demand for paper mills.",
+
+  "ai_tutor_vs_ai_cheater": "The Neurosurgical Review case — AI manuscripts flooding a clinical journal — represents a pure AI-as-cheater scenario with patient safety implications. The broader 2,923 retraction figure reflects both improved AI-assisted fraud detection (AI as tool against cheating) and AI-enabled fraud (AI as cheating tool). This dual role of AI is the central tension in EdTech and research integrity discourse.",
+
+  "edtech_company_policies": "Springer Nature invested in integrity screening tools and worked with iThenticate and other vendors to enhance pre-publication detection. Research management platforms (Researcher.Life, Manuscript.io) began offering 'integrity pre-checks' as a service. Turnitin's academic integrity products expanded into research manuscript context.",
+
+  "de_xuat_nha_nghien_cuu": "From an EdTech/research integrity perspective: (1) Publisher submission systems must include mandatory AI-use disclosure with digital signatures — voluntary declaration is insufficient given the 62% non-disclosure rate found in other studies; (2) Specialized journals in clinical fields (medicine, surgery) need enhanced screening given patient safety stakes; (3) Institutional-level publication audit systems should monitor retraction rates for affiliated researchers; (4) The 61.5% pre-2023 retraction rate shows detection systems are improving — continued investment in retrospective detection is warranted; (5) Retractions should be more visible in citation managers and databases — many researchers still cite retracted papers unknowingly.",
+
+  "bai_bao_khoa_hoc": "Retraction Watch (February 17, 2025): 'Springer Nature retracted 2,923 papers last year.' Retraction Watch (February 10, 2025): 'As Springer Nature journal clears AI papers, one university's retractions rise drastically.' Inside Higher Ed (October 16, 2024): 'Springer journal retracted over 200 papers since Sept. 1.' ScholarlyWorld (2025): 'AI-Generated Papers Lead to Retractions in Neurosurgical Review.' Springer Nature (2024): 'Artificial intelligence and retracted science' (AI & SOCIETY journal).",
+
+  "sach_tham_khao": "Eaton, S.E. (2024). Second Handbook of Academic Integrity. Springer (1991pp). McCabe, D.L. et al. (2012). Cheating in College. Johns Hopkins UP. Bretag, T. (2016). Handbook of Academic Integrity. Springer.",
+
+  "nguon_viet_nam": "No specific Vietnamese sources on Springer Nature 2024 retractions. Relevant to Vietnamese researchers publishing internationally under Nghị định 109/2022. QĐ 1705/QĐ-TTg's goal of Vietnamese research integration with global science requires awareness of international integrity standards.",
+
+  "uncertain": ["con_so_thong_ke (exact number of Vietnamese-affiliated papers among 2,923 retractions not confirmed — [uncertain])", "ket_qua_xu_ly (final resolution of Neurosurgical Review retraction count — 129 as of early 2025 but ongoing)"]
+}

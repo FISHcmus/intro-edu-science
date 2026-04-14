@@ -1,0 +1,47 @@
+{
+  "_source_file": "outline.yaml",
+  "id": "book_bretag_2016",
+  "name": "Handbook of Academic Integrity",
+  "type": "book",
+  "author": "Tracey Bretag (editor)",
+  "publisher": "Springer Singapore",
+  "year": 2016,
+  "url": "https://link.springer.com/referencework/10.1007/978-981-287-098-8",
+  "key_argument": "First global reference work on academic integrity; foundational handbook before AI era",
+
+  "dinh_nghia": "Bretag (2016) defines academic integrity as 'a commitment to fundamental values' and as 'a positive and proactive concept' rather than merely the absence of misconduct. The handbook draws on Bretag's own 2011 framework of 5 core elements of 'exemplary' academic integrity policy: Access, Approach, Responsibility, Detail, and Support.",
+  "phan_loai": "The handbook addresses: (1) conceptual foundations of academic integrity; (2) plagiarism and its cultural dimensions; (3) contract cheating (Lancaster coined the term 2006, contributed chapters here); (4) fabrication and falsification in research; (5) institutional policy frameworks; (6) technology-mediated integrity issues (pre-AI: paraphrase tools, Turnitin). No chapters on generative AI (ChatGPT did not exist).",
+  "lich_su_khai_niem": "Published 2016 as the first comprehensive global reference on academic integrity in higher education. Bretag established the International Centre for Academic Integrity Australia and published foundational policy frameworks (2011). The handbook consolidates global scholarship from Australia, UK, USA, Canada, and Asia.",
+
+  "ten_truong_hop": "Not a case study volume; a reference handbook. Thomas Lancaster's chapter on contract cheating (essay mills) and Bretag's own policy framework chapters are most cited. Features institutional policy analyses from University of South Australia, Macquarie, and international comparators.",
+  "dien_bien": "Multi-author global reference covering: historical origins of plagiarism concept in Western academia, cultural differences in citation norms (Eastern vs. Western HE), honor code traditions, contract cheating markets (pre-AI), institutional policy design, detection tools circa 2016 (Turnitin as primary), and legal frameworks. First synthesis to treat academic integrity as a global field of study.",
+  "ket_qua_xu_ly": "Became the canonical reference for academic integrity researchers and policy-makers for ~8 years until replaced by Eaton (2024). Cited in government policy documents in Australia, UK, and Canada. Bretag's 5-element policy framework became a standard benchmarking tool for institutional policy audit.",
+  "con_so_thong_ke": "Approximately 1,200 pages [uncertain]; ISBN: no print ISBN in item metadata (online: 978-981-287-098-8); Springer Singapore; published 2016. Approximately 40+ chapters; contributors from 15+ countries.",
+
+  "hai_cho_nguoi_hoc": "The handbook establishes empirically that academic dishonesty deprives students of genuine learning and creates credential inflation — foundational arguments later applied to AI fraud.",
+  "hai_cho_nghien_cuu": "Pre-AI focus on fabrication, falsification, and plagiarism in research outputs. Lancaster's contract cheating chapter directly applies to paper mills, which have since incorporated AI generation.",
+  "hai_cho_xa_hoi": "Bretag documents societal consequences: devalued qualifications, erosion of public trust in HE, international student recruitment practices that create academic integrity risks, and commercialization of HE incentives.",
+
+  "cong_cu_phat_hien": "Turnitin was the primary tool discussed (2016). The handbook provides detailed analysis of Turnitin's capabilities and limitations (similarity index, database coverage, paraphrase detection gap). Contract cheating detection methods (custom essay detection) also covered.",
+  "han_che_cong_cu": "2016 limitations: Turnitin cannot detect fully paraphrased or contract-written essays. Lancaster's chapter anticipates that technology-driven detection will always lag behind evasion methods. In retrospect, this forecast was correct for AI detection.",
+  "watermarking": "Not addressed (predates LLM watermarking research by 7 years). However, Bretag's emphasis on institutional policy and culture over technological detection anticipates why watermarking alone would be insufficient.",
+
+  "thiet_ke_bai_tap": "Chapters on assessment design advocate for authentic tasks, portfolio assessment, and oral defense — assessment approaches that reduce plagiarism opportunity. These recommendations directly apply to AI-resistant assessment design.",
+  "chinh_sach_truong_hoc": "Bretag's 5-element framework for exemplary AI policy: (1) Access — make policy clear and visible; (2) Approach — positive, values-based framing; (3) Responsibility — shared across institution; (4) Detail — specific and actionable; (5) Support — resources for compliance. This framework benchmarks institutional policies across Australia, UK, Canada, USA.",
+  "van_hoa_to_chuc": "Consistent with McCabe: Bretag argues that punitive enforcement without cultural change produces compliance theater, not genuine integrity. The 5-element framework prioritizes institutional culture-building.",
+  "ai_literacy": "Not explicitly addressed (2016 predates AI literacy as a concept). However, Bretag's 'Access' element (making policy clear and visible) implies the need for education about what is and is not permitted — which in 2024 includes AI literacy.",
+
+  "khung_quoc_te": "The handbook established the global academic integrity field. UNESCO, EU, and national HE bodies cite Bretag as foundational. ICAI 6-value framework (McCabe/Pavela) is analyzed and compared with Bretag's institutional approach.",
+  "phap_luat_viet_nam": "Vietnam's Decree 109/2022 Điều 20 (institutional integrity code requirement) reflects Bretag's 'Responsibility' element. The gap: Vietnam adopted the structural requirement but not the accompanying cultural and support infrastructure.",
+  "chinh_sach_chau_a": "The handbook includes Asia-Pacific chapters on academic integrity in China, Singapore, Australia. CUHK, NUS, and NTU policy developments in the post-2022 AI era build on the 2016 framework.",
+
+  "ai_tutor_vs_ai_cheater": "Not applicable (2016 predates generative AI). However, Bretag's framing that academic integrity is a positive value (not just prohibition of misconduct) is foundational to the 'AI as tutor' / responsible AI use discourse.",
+  "edtech_company_policies": "Not addressed (EdTech AI policy landscape did not exist in 2016). The Turnitin analysis in the handbook provides historical context for current debates about AI detection tools.",
+  "de_xuat_nha_nghien_cuu": "Bretag's 5-element framework remains actionable for EdTech researcher recommendations: apply it to AI policy design — Access (communicate AI rules clearly), Approach (values-based, not punitive), Responsibility (institutional + student shared), Detail (specific AI use scenarios defined), Support (AI literacy education provided).",
+
+  "bai_bao_khoa_hoc": "Bretag, T. (2011) 'Defining and developing an institutional academic integrity policy' IJEI. Lancaster, T. & Clarke, R. (2006) 'Contract cheating: the involvement of teaching staff' IJEI. Bretag et al. (2019) 'Defining contract cheating' Studies in Higher Education.",
+  "sach_tham_khao": "Bretag (2016) Handbook of Academic Integrity, Springer Singapore, doi:10.1007/978-981-287-098-8. Succeeded by Eaton (2024) Second Handbook. McCabe et al. (2012) Cheating in College.",
+  "nguon_viet_nam": "Vietnam not specifically featured in 2016 handbook. Post-publication, Decree 109/2022 is the closest Vietnamese equivalent to Bretag's policy recommendations.",
+
+  "uncertain": ["con_so_thong_ke_page_count"]
+}

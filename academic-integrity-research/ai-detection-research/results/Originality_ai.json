@@ -1,0 +1,26 @@
+{
+  "item_name": "Originality.ai",
+  "category": "ai_detection_tool",
+  "creators_or_institution": "Jon Gillham (founder and CEO); Originality.ai Inc. (founded 2022, Toronto, Canada)",
+  "year_launched_or_published": 2022,
+  "background_story": "Originality.ai was founded in late 2022 by Jon Gillham, a content marketing entrepreneur, as one of the first paid AI detection tools targeting content publishers, SEO agencies, and online content businesses. Unlike GPTZero (academic focus) or Turnitin (institutional), Originality.ai originally targeted web content quality teams who needed to verify that freelance writers were not submitting AI-generated articles. It expanded to educational markets in 2023 after ChatGPT's rise created demand.",
+  "how_it_works": "Originality.ai uses a multi-model detection approach that tests submitted text against patterns from GPT-2, GPT-3, GPT-3.5, GPT-4, and other major AI models. It produces a percentage score for AI content probability and also integrates plagiarism checking. The tool offers a Chrome extension and API. It claims to use 'classifier-based' detection that was among the first to be regularly updated as new AI models were released. It also offers 'readability scoring' and plagiarism checking as bundled features.",
+  "accuracy_or_effectiveness": "Originality.ai claims 95%+ accuracy. Independent evaluation by Scribbr gave it the highest score of publicly benchmarked tools at 76% — still indicating significant misses. In 2025 testing, Originality.ai catches only 7.3% of GPT-5-mini output and 31.7% of GPT-5 output — demonstrating severe accuracy degradation against the latest models. The Originality.ai team has published a meta-analysis of 14 independent studies: https://originality.ai/blog/ai-detection-studies-round-up. In the overall 2026 accuracy hierarchy, it ranks below GPTZero but above ZeroGPT.",
+  "limitations_and_criticisms": "Key limitations: (1) Subscription-only (not free) — limits accessibility for individual educators and smaller institutions. (2) Accuracy degrades sharply against newest AI models (GPT-5, Claude 3.7+). (3) Self-published accuracy claims (95%+) significantly exceed independent benchmark results (76% Scribbr). (4) Original design focused on web content, not student academic writing — training data may not reflect academic writing patterns well. (5) Like all detectors, vulnerable to humanization tools. (6) Published meta-analysis of 14 studies is self-authored and may have selection bias.",
+  "false_positive_rate": "Not independently measured at a consistent rate across studies. Originality.ai positions itself as having lower false positive rates than competitors, but independent data specific to false positive rates is limited. One comparison test found it misclassifies some human-written content, but exact rate not consistently reported.",
+  "notable_cases_or_examples": [
+    "Founded before ChatGPT (late 2022) — rare example of AI detection tool predating the ChatGPT explosion",
+    "Scribbr independent evaluation (2023) gave Originality.ai the highest accuracy score (76%) among publicly tested tools",
+    "Published meta-analysis of 14 independent accuracy studies: https://originality.ai/blog/ai-detection-studies-round-up",
+    "2025 testing shows only 7.3% detection rate for GPT-5-mini and 31.7% for GPT-5 output — illustrating how rapidly accuracy degrades against newer models",
+    "Used by major SEO agencies and content publishers including sites in the HubSpot, Semrush, and Ahrefs ecosystem"
+  ],
+  "key_publications_or_sources": [
+    "Originality.ai official site: https://originality.ai/",
+    "Originality.ai meta-analysis blog: 'AI Detection Accuracy Studies — Meta-Analysis of 14 Studies' — https://originality.ai/blog/ai-detection-studies-round-up",
+    "GPTZero blog comparison: 'GPTZero vs Copyleaks vs Originality: AI Detector Accuracy' — https://gptzero.me/news/gptzero-vs-copyleaks-vs-originality/",
+    "Panda Copy evaluation: 'How Accurate Are AI Detectors? Originality.ai vs Copyleaks vs ZeroGPT' — https://www.pandacopy.com/how-accurate-are-ai-detectors-originality-ai-vs-copyleaks-vs-zerogpt"
+  ],
+  "current_status_2024_2026": "Originality.ai continues to operate as a subscription service for content publishers and educational institutions. It regularly updates its model against new AI releases. However, its accuracy against the latest generation of AI models (GPT-5, Claude 3.7 Sonnet, Gemini 2) has dropped substantially in 2025-2026 testing. It remains a commercially viable tool but the entire AI detection market faces a fundamental arms race problem: detectors trained on one generation of AI models become less effective as models improve.",
+  "uncertain": ["exact false positive rate from independent academic studies"]
+}

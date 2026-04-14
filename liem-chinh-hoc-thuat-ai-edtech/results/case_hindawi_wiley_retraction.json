@@ -1,0 +1,62 @@
+{
+  "id": "case_hindawi_wiley_retraction",
+  "name": "Hindawi/Wiley — 8,000+ papers retracted (2023–2024)",
+  "type": "real_case",
+  "category": "research_fraud",
+  "institution": "Hindawi (Wiley subsidiary), open-access publisher",
+  "year": 2023,
+
+  "dinh_nghia": "Paper mills are unofficial commercial operations that generate fabricated or low-quality manuscripts — often using AI-generated content — and sell authorship slots to researchers seeking publications for career advancement. This constitutes multiple forms of research fraud: fabrication, contract cheating (ghostwriting at scale), and manipulation of peer review.",
+
+  "phan_loai": "Large-scale research fraud via paper mills: AI-generated content fabrication, manipulated peer review (guest editor exploitation), contract authorship fraud, and systematic corruption of scientific publishing infrastructure. Category: research_fraud at industrial scale.",
+
+  "lich_su_khai_niem": "Paper mills have existed since the early 2000s but scaled dramatically with AI text generation tools after 2022. Hindawi (founded 1997, acquired by Wiley 2021) expanded rapidly through open-access special issues managed by guest editors — a model that proved vulnerable to paper mill exploitation. The 2023 retraction wave was the largest in publishing history.",
+
+  "ten_truong_hop": "Hindawi (Wiley) Mass Retraction — 8,000+ articles retracted from special issues, 2023. Wiley shut 19 journals (May 2024). Total Wiley retractions: ~11,000. Financial damage: $35-40 million.",
+
+  "dien_bien": "Paper mills identified Hindawi's special issues model as exploitable: guest editors (often from developing countries) managed special issues and accepted manuscripts from colleagues, friends, or paper mill clients with minimal review. Paper mills used AI tools to fabricate manuscripts that superficially resembled genuine research. Wiley acquired Hindawi in 2021 and inherited these vulnerabilities. By mid-2023, research integrity investigators (including Dr. Jennifer Byrne, Elisabeth Bik) had flagged thousands of suspicious papers. Hindawi initiated mass retractions. Wiley retracted 8,000+ Hindawi articles in 2023 — representing approximately 80% of all global retractions in that year. Wiley closed 4 journals in May 2023, then 19 more in May 2024. Total across Wiley: approximately 11,000 retractions as of 2024.",
+
+  "ket_qua_xu_ly": "Hindawi effectively ceased to function as an independent publishing brand. Wiley absorbed or closed its journals. Financial losses of $35-40 million were reported. Wiley published a whitepaper on detecting paper mill fraud. Multiple authors faced institutional investigations in their home countries. The case contributed to global discussion about open-access publishing vulnerabilities and the need for AI-assisted fraud detection at the submission stage. Crossref and other bibliographic services began flagging retracted papers more prominently.",
+
+  "con_so_thong_ke": "8,000+ articles retracted by Hindawi in 2023. 11,000 total Wiley retractions. ~80% of all global retractions in 2023 came from Hindawi. 23 journals closed total (4 in May 2023, 19 in May 2024). Financial damage: $35-40 million. 10,000+ total papers retracted globally in 2023 — breaking previous annual records.",
+
+  "hai_cho_nguoi_hoc": "Thousands of papers — many on health, environmental science, and engineering topics — contaminated the literature that students and practitioners rely on. Graduate students who cited these papers in theses and dissertations may have unknowingly built work on fabricated research. The Hindawi brand (once associated with legitimate open-access publishing) lost credibility.",
+
+  "hai_cho_nghien_cuu": "Mass retraction of 8,000+ papers represents a catastrophic knowledge contamination event. Papers about medical treatments, materials science, and environmental policy — some already cited by other researchers — had to be traced and their citations invalidated. The peer review system's failure was exposed: guest editor models with inadequate oversight cannot catch systematic fraud. Research integrity databases (Retraction Watch) became critical infrastructure.",
+
+  "hai_cho_xa_hoi": "Open-access publishing model (democratizing knowledge) was weaponized by paper mills. Developing-world researchers facing 'publish or perish' pressures were both perpetrators and victims of this system. Public trust in open-access science declined. Academic qualifications obtained through paper mill publications (common in some career advancement systems) were called into question.",
+
+  "cong_cu_phat_hien": "Multiple detection methods: (1) AI-text detection identifying LLM-generated content in manuscripts; (2) Image manipulation detection (Elisabeth Bik's methods for duplicated figures); (3) Similarity analysis for templated paper mill manuscripts; (4) Network analysis identifying suspicious author-reviewer relationships; (5) Citation network analysis flagging self-citation rings; (6) Wiley developed its own integrity verification platform using AI tools.",
+
+  "han_che_cong_cu": "AI-text detection tools failed to catch sophisticated paper mill output that blended AI-generated text with human editing. The scale of the problem (thousands of papers) overwhelmed manual review. Guest editors with conflicts of interest could approve flagged papers anyway. The arms race between paper mills and detection tools continues: mills adapted to avoid detectable AI phrases.",
+
+  "watermarking": "LLM watermarking was not available or deployed during the Hindawi crisis. Retroactive detection had to rely on linguistic patterns and metadata. If OpenAI or Anthropic watermarking were standard in 2022-2023, provenance of AI-generated manuscripts could have been established. The Hindawi case is frequently cited as motivation for deploying watermarking in academic publishing workflows.",
+
+  "thiet_ke_bai_tap": "For academic integrity in publication: submission systems need AI-content detection at intake. Double-blind review with real reviewer identity verification. Limiting guest editor discretion. Mandatory author identity verification (ORCID) and institutional affiliation confirmation.",
+
+  "chinh_sach_truong_hoc": "Hindawi/Wiley case influenced major publishers' policies: Springer Nature, Elsevier, and Taylor & Francis all tightened AI-use disclosure requirements post-2023. COPE (Committee on Publication Ethics) updated guidelines for handling paper mill submissions. Many universities updated their policies to prohibit purchasing authorship from paper mills explicitly.",
+
+  "van_hoa_to_chuc": "The case reveals how 'publish or perish' incentive structures — particularly in systems where promotion requires journal publications — drive researchers toward paper mills. McCabe's research on honor code culture vs. enforcement is directly relevant: structural incentives must change, not just detection.",
+
+  "ai_literacy": "Paper mill use requires minimal AI literacy — mill clients simply purchase manuscripts. However, educating researchers about how AI-generated papers are detected and the career consequences of retraction is critical. AI literacy must include understanding that AI can generate plausible-looking but fraudulent scientific content.",
+
+  "khung_quoc_te": "The Hindawi case prompted: COPE updated guidelines (2023); ICMJE disclosure recommendations updated; CrossRef retraction notification improvements; EU discussions about open-access funding conditionality on integrity. The case is cited in EU AI Act discussions about AI-generated academic content.",
+
+  "phap_luat_viet_nam": "Vietnam's Nghị định 109/2022/NĐ-CP (Điều 20) prohibits fabrication in scientific research and requires honest reporting. Vietnamese researchers publishing in Hindawi journals were among those affected. The Ministry of Education and Training (MOET) has cited paper mill risks in guidance documents, though specific AI-content fabrication is not yet explicitly addressed.",
+
+  "chinh_sach_chau_a": "Multiple retracted Hindawi papers had authors from Chinese, Indian, and Middle Eastern universities. Saveetha University (India) appeared frequently in retraction lists. Some Asian universities' promotion criteria that counted Hindawi publications had to revise their journal whitelists.",
+
+  "ai_tutor_vs_ai_cheater": "The Hindawi case is a clear AI-as-cheater scenario at industrial scale. Paper mills used AI not as a learning or discovery tool but purely as a fraud mechanism. Rose Luckin's optimistic framing of AI as democratic educator is challenged by this case — AI can also democratize academic fraud.",
+
+  "edtech_company_policies": "Publishing technology companies (Clarivate, CrossRef, iThenticate/Turnitin) accelerated development of paper mill detection features. iThenticate updated its system to detect templated paper mill manuscripts. The case drove investment in submission integrity verification as a commercial service.",
+
+  "de_xuat_nha_nghien_cuu": "From an EdTech/research integrity perspective: (1) Publisher submission systems must integrate AI-content detection, image forensics, and citation network analysis at intake — not post-publication; (2) Guest editor models need mandatory editorial oversight and conflict-of-interest screening; (3) Open-access APCs (article processing charges) should not be collected until integrity checks pass; (4) ORCID and institutional affiliation verification must be mandatory; (5) Publishing incentive structures (publish or perish) must reform to reduce demand for paper mills.",
+
+  "bai_bao_khoa_hoc": "Retraction Watch (December 19, 2023): 'Hindawi reveals process for retracting more than 8,000 paper mill articles.' The Register (May 16, 2024): 'Wiley shuts 19 scholarly journals amid AI paper mill problem.' IFLScience (2023): '10,000 Research Papers Were Retracted In 2023.' Chemistry World (2024) on AI tools combating paper mill fraud.",
+
+  "sach_tham_khao": "Eaton, S.E. (2024). Second Handbook of Academic Integrity. Springer. Bretag, T. (2016). Handbook of Academic Integrity. Springer. McCabe, D.L. et al. (2012). Cheating in College. Johns Hopkins UP.",
+
+  "nguon_viet_nam": "No specific Vietnamese source on this case. However, VietnamNet and Tuổi Trẻ covered the broader paper retraction wave. Some Vietnamese researchers have published in Hindawi journals. Nghị định 109/2022 is the relevant domestic regulatory framework.",
+
+  "uncertain": ["con_so_thong_ke (total Wiley retraction count fluctuates as new retractions are processed — '11,000' is an approximation as of 2024)", "hai_cho_nghien_cuu (downstream citation contamination scale not fully quantified)"]
+}

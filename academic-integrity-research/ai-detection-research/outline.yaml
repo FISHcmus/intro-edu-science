@@ -1,0 +1,132 @@
+topic: AI Detection Tools and Academic Integrity Methods (2022-2026)
+
+description: >
+  Comprehensive research on AI detection tools, technical detection methods, assessment
+  redesign approaches, and controversies related to preventing AI-assisted academic
+  fraud in educational settings (2022-2026).
+
+execution:
+  output_dir: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/academic-integrity-research/ai-detection-research/results
+  fields_path: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/academic-integrity-research/ai-detection-research/fields.yaml
+  items_per_agent: 1
+  batch_size: 4
+
+items:
+  # --- AI Detection Tools ---
+  - name: Turnitin AI Detection
+    category: ai_detection_tool
+    description: >
+      Turnitin's built-in AI writing detection feature launched April 2023.
+      Widely adopted by universities worldwide. Research its accuracy rates,
+      how it flags AI text, institutional adoption scale, limitations,
+      controversies including false positives, lawsuits, and educator pushback.
+
+  - name: GPTZero
+    category: ai_detection_tool
+    description: >
+      GPTZero created by Edward Tian (Princeton student) in January 2023.
+      One of the first widely-used public AI detectors. Research the origin story
+      (built over winter break), how perplexity and burstiness metrics work for
+      detection, accuracy data from independent tests, false positive rates,
+      and business development since launch.
+
+  - name: Copyleaks AI Content Detector
+    category: ai_detection_tool
+    description: >
+      Copyleaks AI content detection tool integrated into their plagiarism platform.
+      Research technical approach, accuracy claims from independent evaluations,
+      integration with LMS platforms (Canvas, Moodle, Blackboard), and documented
+      limitations or failure cases from 2023-2026.
+
+  - name: ZeroGPT
+    category: ai_detection_tool
+    description: >
+      ZeroGPT free online AI detection tool. Research founding, methodology,
+      claimed accuracy rates, comparison to paid tools in independent benchmarks,
+      documented false positive rates, and why it became popular despite being free.
+
+  - name: Originality.ai
+    category: ai_detection_tool
+    description: >
+      Originality.ai detection tool launched 2022, marketed to content publishers
+      and educators. Research technical approach, claimed accuracy (they claim 95%+),
+      independent evaluations of accuracy, pricing model, and comparison to competitors
+      in systematic benchmarks.
+
+  # --- Technical Methods ---
+  - name: LLM Watermarking Research (Aaronson and Kirchenbauer)
+    category: technical_method
+    description: >
+      Cryptographic and statistical watermarking of LLM text outputs.
+      Research: (1) Scott Aaronson's work at UT Austin / OpenAI on watermarking
+      (2022-2023), (2) John Kirchenbauer et al. University of Maryland paper
+      "A Watermark for Large Language Models" (2023, ICML), (3) how green/red
+      token lists work technically, (4) OpenAI's decision on deploying watermarking,
+      (5) current state of watermarking standardization efforts.
+
+  - name: Perplexity and Burstiness Detection Methods
+    category: technical_method
+    description: >
+      Statistical NLP methods used in AI detection: perplexity (how predictable/
+      surprising each token is given context — AI text has low perplexity) and
+      burstiness (variation in sentence length/complexity — humans vary more).
+      Research the theoretical basis from information theory, why these metrics
+      correlate with AI text, their fundamental failure modes, and research papers
+      showing their limitations as detectors become more sophisticated.
+
+  - name: False Positives on Non-Native English Speakers (Liang et al. Stanford 2023)
+    category: technical_method
+    description: >
+      Research by Weixin Liang, Mert Yuksekgonul, Yining Mao, Eric Wu, James Zou
+      at Stanford University (2023): "GPT Detectors Are Biased Against Non-Native
+      English Writers". Published in Patterns (Cell Press) 2023. Research the
+      full methodology, which detectors were tested, the false positive rates for
+      TOEFL essays vs GPT-generated text, equity implications, and academic/policy
+      response to the paper.
+
+  # --- Assessment Redesign ---
+  - name: Process-Based and Portfolio Assessment Post-ChatGPT
+    category: assessment_redesign
+    description: >
+      Universities shifting from product-only to process-based and portfolio
+      assessment after ChatGPT launch (2022-2026). Includes drafts with version
+      history, reflective journals, annotated bibliographies showing research
+      process, peer review cycles. Research specific institutional examples,
+      pedagogical frameworks proposed, and evidence of effectiveness.
+
+  - name: Oral Defense and Viva Voce Assessment Models Post-AI
+    category: assessment_redesign
+    description: >
+      Oral examination and defense components added or expanded post-ChatGPT to
+      verify genuine student understanding. Research which universities mandated
+      oral components for written assignments, how these work logistically at scale,
+      cost and accessibility concerns, and evidence of effectiveness.
+
+  - name: Stanford Harvard MIT NUS AI Academic Policies
+    category: assessment_redesign
+    description: >
+      Specific AI use policies from Stanford University, Harvard University,
+      MIT, and National University of Singapore (NUS) enacted 2022-2025.
+      Research exact policy names/dates, permitted vs prohibited AI uses,
+      disclosure requirements, assignment redesign mandates, honor code updates,
+      and how these policies have evolved. Include direct URLs to official policies.
+
+  # --- Controversies ---
+  - name: False Accusation Cases from AI Detectors Wrongly Flagging Students
+    category: controversy
+    description: >
+      Documented cases where AI detectors wrongly accused real human students of
+      using AI. Research specific cases: the UC Davis student case, cases reported
+      by AP/Reuters/Washington Post, any students who faced academic discipline
+      based on AI detection false positives, institutional policy responses,
+      and whether any schools have stopped using AI detectors as a result.
+
+  - name: Banning vs Integrating AI Debate in Higher Education
+    category: controversy
+    description: >
+      The major academic and policy debate on banning AI tools vs integrating
+      them as learning tools post-ChatGPT (2022-2026). Research: major institutional
+      positions (who banned vs who integrated), UNESCO/OECD statements,
+      faculty surveys on AI use policies, student perspectives, key op-eds and
+      debates in Times Higher Education / Chronicle of Higher Education,
+      and how the consensus has shifted over time.

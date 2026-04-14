@@ -1,0 +1,61 @@
+{
+  "id": "researcher_luckin",
+  "name": "Rose Luckin",
+  "type": "researcher",
+  "institution": "University College London (UCL), Institute of Education — Professor Emerita; Founder and CEO, Educate Ventures Research (EVR)",
+  "specialty": "AI as personal tutor; intelligence augmentation; democratizing education through AI; foundational EdTech optimist",
+
+  "dinh_nghia": "Luckin defines AI in education (AIEd) as the application of AI techniques — including machine learning, natural language processing, and adaptive systems — to support learning. Central to her framework is 'intelligence augmentation': AI should enhance and extend human intelligence rather than replace it.",
+
+  "phan_loai": "Luckin's work is not primarily focused on misconduct classification. She frames AI in terms of use modes: AI as personal tutor (one-on-one adaptive instruction), AI as learning partner (collaborative problem-solving), and AI as intelligence augmentation (metacognitive support). Misuse of AI represents a failure of AI literacy and institutional design, not a fundamental property of the technology.",
+
+  "lich_su_khai_niem": "Luckin has been developing and writing about AIEd for over 30 years. 'Intelligence Unleashed' (2016, Pearson/UCL Knowledge Lab), co-authored with Holmes, Griffiths, and Corcier, became the foundational optimist text in EdTech — arguing AI could democratize access to personalized, expert-quality tutoring at global scale.",
+
+  "ten_truong_hop": "Intelligence Unleashed (Pearson 2016): AI as one-on-one tutor; UCL Knowledge Lab AIEd research (ongoing); Educate Ventures Research (EVR) — consultancy applying AIEd ethically; Luckin's keynote and policy contributions worldwide including UNESCO AI in Education consultations.",
+
+  "dien_bien": "Luckin argues that quality education has historically been constrained by teacher-student ratios — only wealthy students could access personalized one-on-one tutoring (the 'two sigma problem' identified by Bloom). AI tutors could provide this personalized instruction at scale, democratizing access for all students regardless of economic background. Intelligence Unleashed set out the vision and early technical possibilities. Subsequent work refined this around ethical AI deployment and teacher empowerment.",
+
+  "ket_qua_xu_ly": "Luckin's work influenced UNESCO AI in Education policy, UK government EdTech strategies, and hundreds of EdTech startups. EVR provides practical consultancy helping educational institutions leverage AI ethically. Her research has shaped the pedagogically optimistic strand of AIEd discourse globally.",
+
+  "con_so_thong_ke": "Luckin has over 30 years of research in AIEd. Intelligence Unleashed (2016) was downloaded and cited thousands of times and is one of the most influential AIEd policy documents. Google Scholar shows hundreds of citations for her key papers. EVR works with institutions across multiple continents.",
+
+  "hai_cho_nguoi_hoc": "From Luckin's optimist perspective, the harm to learners comes not from AI itself but from misuse or exclusion. Students who lack access to AI tutoring are disadvantaged; students who misuse AI for fraud deprive themselves of genuine learning. Her framing emphasizes AI's capacity to support metacognition and self-regulated learning.",
+
+  "hai_cho_nghien_cuu": "Luckin acknowledges that AI systems trained on biased data can perpetuate educational inequalities. Poor AIEd implementations can create false signals about student competency. Her ethical AI framework addresses these risks proactively.",
+
+  "hai_cho_xa_hoi": "Luckin warns that without equitable access, AI in education will widen the digital divide — high-income students will benefit from AI tutoring while others are excluded. Her democratization argument is simultaneously a warning about the harms of unequal deployment.",
+
+  "cong_cu_phat_hien": "Luckin's work is not focused on fraud detection tools. She argues that if AI is properly integrated as a learning tool with appropriate attribution, the detection problem diminishes — students use AI openly rather than covertly.",
+
+  "han_che_cong_cu": "Luckin implicitly acknowledges that surveillance-based detection is counterproductive — it creates adversarial dynamics that undermine the trust necessary for genuine learning. Her preferred solution is institutional design that makes AI use transparent and attributed.",
+
+  "watermarking": "[uncertain] Luckin has not published specifically on LLM watermarking. Her focus is on pedagogical and ethical frameworks rather than technical detection solutions.",
+
+  "thiet_ke_bai_tap": "Luckin's AIEd vision implies assessment should adapt to AI-augmented learning — not simply testing knowledge recall but assessing higher-order thinking, creativity, and metacognition that AI cannot substitute for. She supports portfolio, project-based, and dialogic assessment formats.",
+
+  "chinh_sach_truong_hoc": "Luckin advocates for institutional policies that embrace AI as a learning tool with clear ethical guidelines, rather than blanket prohibition. She argues that banning AI creates underground use without guidance, whereas integrating it with appropriate scaffolding builds genuine competency.",
+
+  "van_hoa_to_chuc": "Luckin's approach implies a trust-based institutional culture where AI use is disclosed, discussed, and evaluated pedagogically. She supports teacher empowerment — giving educators the knowledge and tools to use AI effectively — rather than top-down surveillance.",
+
+  "ai_literacy": "AI literacy is central to Luckin's framework. She argues educators and students must understand AI's capabilities and limitations, which is the foundation for both effective use and ethical use. EVR's work is substantially focused on AI literacy professional development.",
+
+  "khung_quoc_te": "Luckin has contributed to UNESCO AI in Education policy documents and advised the UK government. Her Intelligence Unleashed framework has influenced OECD and EU discussions on AIEd. She co-wrote AI guidance for UNESCO.",
+
+  "phap_luat_viet_nam": "[uncertain] Luckin has not published on Vietnamese educational law. Her frameworks are globally applicable and relevant to Vietnam's AI education strategy (QD 1705 and emerging AI governance).",
+
+  "chinh_sach_chau_a": "[uncertain] Luckin's work is primarily UK/global policy focused. Limited documented engagement with specific Asian policy contexts, though her frameworks are cited in Singapore and HK EdTech discussions.",
+
+  "ai_tutor_vs_ai_cheater": "Luckin is the canonical voice on 'AI as tutor.' Intelligence Unleashed (2016) establishes the foundational argument that AI can serve as a personal tutor for every student, democratizing quality education. This stands in contrast to the 'AI as cheater' framing dominant in integrity literature. Luckin argues both are real phenomena, but the tutoring potential is larger and more transformative.",
+
+  "edtech_company_policies": "Through EVR, Luckin advises EdTech companies on ethical AI integration. She engages with platforms like Google for Education, and her frameworks influence how companies like Khan Academy design their AI tutoring features (Khanmigo's Socratic approach reflects Luckin-style principles).",
+
+  "de_xuat_nha_nghien_cuu": "Luckin recommends: (1) reframe AI as intelligence augmentation rather than threat; (2) invest in AI literacy for teachers and students; (3) design educational AI tools that make learning processes visible and support metacognition; (4) deploy AI equitably — address the digital divide in AI access; (5) establish ethical AI deployment standards that put learner wellbeing first; (6) use AI to address the 'two sigma problem' at scale.",
+
+  "bai_bao_khoa_hoc": "Luckin et al. (2016) Intelligence Unleashed (Pearson/UCL); multiple papers in International Journal of Artificial Intelligence in Education (IJAIED); contributions to UNESCO AI in Education guidance documents; over 200 publications in AIEd across 30+ years.",
+
+  "sach_tham_khao": "Luckin, R., Holmes, W., Griffiths, M., & Corcier, L.B. (2016). Intelligence Unleashed: An Argument for AI in Education. London: Pearson. Available free at UCL Discovery and Pearson Open Ideas. This is the foundational optimist EdTech text on AI tutoring.",
+
+  "nguon_viet_nam": "[uncertain] No specific Vietnamese-context publications identified for Luckin. Her 'democratizing education' thesis is highly relevant to Vietnam's educational equity goals (QD 1705: access for disadvantaged groups).",
+
+  "uncertain": ["watermarking", "phap_luat_viet_nam", "chinh_sach_chau_a", "nguon_viet_nam"]
+}

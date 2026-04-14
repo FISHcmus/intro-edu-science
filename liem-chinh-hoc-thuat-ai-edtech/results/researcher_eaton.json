@@ -1,0 +1,61 @@
+{
+  "id": "researcher_eaton",
+  "name": "Sarah Elaine Eaton",
+  "type": "researcher",
+  "institution": "University of Calgary, Werklund School of Education — Professor (Full) and Research Chair in Leadership, Policy, and Governance; Editor-in-Chief, International Journal for Educational Integrity (IJEI, Springer Nature/BMC)",
+  "year": null,
+
+  "dinh_nghia": "Sarah Elaine Eaton is the originator of the 'postplagiarism' framework — a reconceptualization of academic integrity for the generative AI era. Postplagiarism posits that as human-AI collaborative writing becomes normative, historical definitions of plagiarism require fundamental rethinking. The framework's six tenets are: (1) human-AI hybrid writing will become the norm; (2) creativity can be enhanced by AI; (3) AI can help overcome language barriers; (4) we can outsource control of writing to AI but cannot outsource responsibility; (5) attribution remains important; (6) historical plagiarism definitions require rethinking.",
+
+  "phan_loai": "Eaton's research spans the full taxonomy of academic integrity violations, with particular focus on: AI-assisted dishonesty, contract cheating (ghost-writing), plagiarism policy reform, and the intersection of technology and ethics in higher education. Her postplagiarism framework reframes the category of đạo văn (plagiarism) as contextually dependent rather than absolute in the AI era.",
+
+  "lich_su_khai_niem": "Eaton's first major integrity publication was 'Plagiarism in the Internet Age' (2017). She developed the postplagiarism concept through 2020-2024, first publishing it in IJEI (2023) and expanding it in her 2024 Springer handbook. The framework gained international recognition with the 2025 Tracey Bretag Prize for Academic Integrity — the field's most prestigious award — and has been translated into multiple languages.",
+
+  "ten_truong_hop": "Researcher profile — not a specific case. Eaton's most cited case-adjacent work is her analysis of contract cheating markets, AI writing tool diffusion, and institutional policy responses at Canadian universities.",
+
+  "dien_bien": "Not applicable — researcher profile.",
+
+  "ket_qua_xu_ly": "Not applicable — researcher profile. Key outputs: (1) Postplagiarism framework (IJEI 2023 + 2024, Tracey Bretag Prize 2025); (2) Second Handbook of Academic Integrity (Springer 2024, 1,991 pages) — largest academic integrity reference work ever published; (3) Editor-in-Chief of IJEI (Q1 Education journal, Springer Nature/BMC) — institutional leadership of the field's primary journal.",
+
+  "con_so_thong_ke": "Second Handbook of Academic Integrity: 1,991 pages, published 2024, Springer Nature. IJEI Impact Factor (Q1 Education). Postplagiarism framework cited internationally; translated into multiple languages (exact count [uncertain]). 2025 Tracey Bretag Prize for Academic Integrity recipient. Over 100 publications in academic integrity, language education, and EdTech policy.",
+
+  "hai_cho_nguoi_hoc": "Eaton's postplagiarism framework directly addresses learner harm: if AI does the intellectual work, learners fail to develop genuine competencies. However, Eaton argues nuance — blanket AI prohibition harms learners who would benefit from AI assistance (e.g., ESL writers, students with disabilities). The framework advocates for intentional integration that preserves learning outcomes while acknowledging AI-hybrid writing reality.",
+
+  "hai_cho_nghien_cuu": "Eaton's research documents how AI tools are changing the research process itself — from literature review (hallucination risk) to writing (undisclosed AI use) to citation practices. Her framework provides researchers with ethical guidelines for legitimate AI use that preserves research integrity.",
+
+  "hai_cho_xa_hoi": "Eaton's policy-oriented work addresses societal concerns: credential devaluation if AI-generated work is certified as human competence, equitable access to AI tools (should AI literacy be a universal right?), and the role of higher education in preparing AI-literate citizens. Her UNESCO engagement links academic integrity to broader social values.",
+
+  "cong_cu_phat_hien": "Eaton is critical of detection-first approaches to academic integrity. Her research shows that detection tools (Turnitin, GPTZero) create adversarial rather than educational environments. She advocates for context-sensitive integrity policies that go beyond technological surveillance. However, she acknowledges detection tools as one component of a comprehensive integrity ecosystem.",
+
+  "han_che_cong_cu": "Eaton's most cited critique: AI detection tools are biased against non-native English writers (citing Liang et al., Stanford, 2023: 61.3% false positive rate for ESL writers). This critique is foundational to her postplagiarism argument — punishing students for writing that 'sounds like AI' when it reflects their linguistic background is an equity issue, not an integrity issue.",
+
+  "watermarking": "Eaton has engaged with LLM watermarking debates in the context of policy. Her framework suggests watermarking must be balanced against privacy concerns and not deployed as a surveillance instrument that targets marginalized student populations disproportionately.",
+
+  "thiet_ke_bai_tap": "Eaton's postplagiarism framework has direct implications for assignment design: (1) Move from product-based to process-based assessment (portfolios, reflective journals, staged submissions); (2) Oral defense components verify authentic understanding; (3) AI disclosure requirements in assignment submissions; (4) Assessment design that makes AI use visible rather than penalized if declared. Her work with AIAS framework (Perkins) is central to practical implementation.",
+
+  "chinh_sach_truong_hoc": "Eaton has analyzed and compared AI policies at universities globally, including Stanford, Harvard, MIT, NUS. She advocates for the AIAS 5-tier model (Perkins/BUV): from AI-prohibited to AI-required, with contextual appropriateness determined at course/task level. Her Second Handbook includes comprehensive policy templates adopted by institutions worldwide.",
+
+  "van_hoa_to_chuc": "Eaton extends McCabe's honor code culture findings into the AI era: she argues that institutions must build 'cultures of academic integrity' in which AI use is normalized but disclosed, rather than hiding AI use in an adversarial culture of detection. The postplagiarism framework is fundamentally a cultural framework, not a technical one.",
+
+  "ai_literacy": "AI literacy is central to Eaton's work. She argues that AI literacy must include: understanding how AI works (and fails), knowing when AI use is appropriate vs. fraudulent, understanding attribution and disclosure obligations, and critically evaluating AI outputs. Her UNESCO and EU AI Act engagement positions AI literacy as a fundamental educational right (EU AI Act Article 4).",
+
+  "khung_quoc_te": "Eaton is actively involved in: UNESCO AI in Education Working Group; EU AI Act consultation (Article 4 AI literacy provisions); ICAI (ICAI board member); IEEE Educational AI Working Group. Her Second Handbook is the primary reference work for international academic integrity policy. The postplagiarism framework has been formally recognized with the Tracey Bretag Prize (2025).",
+
+  "phap_luat_viet_nam": "Eaton's policy frameworks are relevant to Vietnam's regulatory gaps: Nghị định 109/2022/NĐ-CP Điều 20 does not address AI disclosure; Luật KH&CN 2025 (pending) represents an opportunity. Eaton's AIAS framework could be adapted for Vietnamese higher education institutions developing AI use policies.",
+
+  "chinh_sach_chau_a": "Eaton's work is cited in NUS (Singapore) academic integrity policy documentation and NTU framework documents. Her IJEI editorship gives her platform to publish Asian academic integrity research. She has presented at Asian higher education conferences.",
+
+  "ai_tutor_vs_ai_cheater": "Eaton explicitly engages the AI tutor vs. AI cheater tension: her postplagiarism framework resolves it not by choosing sides but by reframing — the question is not whether AI is used, but how it is used and whether that use is disclosed and pedagogically appropriate. She aligns with Rose Luckin's (UCL) democratic-AI framing more than Neil Selwyn's critical framing, while acknowledging both risks.",
+
+  "edtech_company_policies": "Eaton has analyzed and published on EdTech company policies: Turnitin's AI detection (cited her ESL false positive concerns), Khan Academy Khanmigo (which aligns with her Socratic rather than product-output AI model), and Coursera's post-submission AI dialogue approach. She has contributed to discussions at EdTech policy forums about balancing integrity tools with equity.",
+
+  "de_xuat_nha_nghien_cuu": "Eaton's core EdTech recommendations: (1) Adopt postplagiarism framework — stop treating all AI use as plagiarism and start distinguishing disclosed, attributed AI assistance from fraud; (2) Implement AIAS 5-tier policy model — contextual, not blanket prohibition or permission; (3) Build AI literacy into curriculum as foundational competency, not add-on; (4) Center equity in AI integrity policy — detection tools that penalize ESL writers are unjust; (5) Attribution standards must evolve to require disclosure of AI assistance in all academic work, including research publications.",
+
+  "bai_bao_khoa_hoc": "Eaton, S.E. (2023). 'Postplagiarism: Transdisciplinary ethics and integrity in the age of artificial intelligence and neurotechnology.' International Journal for Educational Integrity (IJEI). Eaton, S.E. (2025). 'Global Trends in Education: Artificial Intelligence, Postplagiarism, and Future-focused Learning for 2025 and Beyond.' IJEI (2024-2025 Werklund Distinguished Research Lecture). URL: https://profiles.ucalgary.ca/sarah-eaton.",
+
+  "sach_tham_khao": "Eaton, S.E. (Ed.) (2024). Second Handbook of Academic Integrity. Springer Nature (1,991 pages) — largest academic integrity reference work ever published. Eaton, S.E. (Ed.) (2021). Plagiarism in Higher Education: Tackling Tough Topics in Academic Integrity. ABC-CLIO. McCabe, D.L. et al. (2012). Cheating in College. Johns Hopkins UP.",
+
+  "nguon_viet_nam": "No confirmed Vietnamese translations of Eaton's work. IJEI is accessible to Vietnamese researchers with institutional access. The postplagiarism framework is relevant to Vietnamese universities developing AI integrity policies under QĐ 1705/QĐ-TTg's digital transformation mandate.",
+
+  "uncertain": ["con_so_thong_ke (number of languages into which postplagiarism framework has been translated — 'multiple languages' confirmed but exact count [uncertain])", "year (this is a researcher profile — birth year not researched and not relevant to this field)"]
+}

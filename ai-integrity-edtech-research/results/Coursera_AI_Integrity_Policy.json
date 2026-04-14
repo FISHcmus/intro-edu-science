@@ -1,0 +1,59 @@
+{
+  "name": "Coursera AI Integrity Policy 2023-2025",
+  "type": "company_policy",
+  "year": "2023-2024 (ongoing updates)",
+  "issuing_authority": "Coursera Inc.",
+  "country_or_region": "Global; specific Vietnam pilots at FPT University and Van Lang University",
+  "summary": "Coursera responded to the ChatGPT era by developing a suite of AI-powered academic integrity features. Unlike Khan Academy's design-based prevention approach or Duolingo's detection-based approach, Coursera developed a conversational verification system: after assignment submission, an AI asks the learner five questions about their choices in the assignment. This probes for genuine understanding. Coursera also partnered with established integrity vendors (Honorlock, Turnitin) and ran pilots at Vietnamese universities (FPT, Van Lang). Their honor code was updated to include AI-specific provisions.",
+
+  "ai_use_policy": "Coursera updated Honor Code to explicitly address AI: learners may not use AI to complete graded assignments unless explicitly permitted by the course instructor. Verified certificate programs have stricter rules. Coursera's new features use AI TO verify learning rather than just to detect AI use — a philosophical shift from detection to demonstration.",
+  "academic_fraud_definition": "Using AI to generate submitted work without disclosure or instructor permission constitutes honor code violation. Specific prohibited acts: using generative AI to write essays, complete coding assignments, generate quiz answers. Permitted: using AI for research assistance if disclosed and permitted by course.",
+  "detection_mechanisms": "(1) Coursera's proprietary AI verification tool: asks 5 post-submission questions about the learner's choices — this does not use 'AI to track AI' but rather uses dialogue to verify understanding; (2) Honorlock — proctoring for supervised assessments; (3) Turnitin — plagiarism and AI detection for written work; (4) Plagiarism policy reminder feature — forces learners to re-acknowledge honor code before submission.",
+  "penalties": "Honor code violations: assignment score of zero, course failure, removal from program, and in serious cases, account suspension and certificate revocation. Coursera for Campus partners can apply their institutional penalty scales.",
+  "transparency_requirements": "Plagiarism policy reminder: pop-up requiring learners to digitally sign acknowledgment of Coursera's policies before submission. AI use disclosure requirements where AI is permitted.",
+
+  "vietnamese_law_reference": "[uncertain] — Coursera operates globally under its own terms. Vietnamese institutions using Coursera for Campus are subject to Vietnamese law but Coursera's platform applies its own standards.",
+  "moet_policy": "[uncertain] — Coursera is not directly regulated by MOET though FPT and Van Lang (Coursera pilot partners) are Vietnamese institutions subject to MOET oversight.",
+  "documented_vn_cases": "FPT University and Van Lang University were part of Coursera's global AI academic integrity pilot — the most direct documented EdTech AI integrity intervention at Vietnamese universities. Coursera cited these as success cases in their blog announcement.",
+  "vn_university_responses": "FPT University: Early adopter of Coursera platform and participated in AI integrity pilot. FPT is known for technology-forward education policies. Van Lang University: Also participated in Coursera pilot. Both universities are private institutions with more flexibility to adopt new EdTech tools compared to public universities.",
+
+  "ai_tutor_vs_cheater_framing": "Coursera's framing: 'in an age of AI-assisted cheating' — they acknowledge AI is primarily framed as a cheating threat in their communication. Their response is to use AI-powered verification to confirm genuine learning. This aligns with a 'demonstrate understanding' approach over a 'detect cheating' approach.",
+  "responsible_ai_definition": "Coursera's responsible AI in education = AI tools that verify and support genuine learning rather than replace it. Their post-submission dialogue tool is a practical implementation of this definition.",
+  "key_researchers": "Phil Hill (OnEdTech analyst) — documented Coursera's AI integrity play: onedtech.philhillaa.com. Coursera academic integrity team (internal).",
+  "company_ethics_policy": "Coursera launches Academic Integrity Features (blog.coursera.org) — published announcement of AI integrity suite. Coursera Honor Code — updated to include AI provisions — coursera.support/s/article/learner-000001214.",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "[uncertain]",
+  "asia_vs_western_differences": "[uncertain]",
+  "asean_regional_initiatives": "[uncertain]",
+
+  "framework_name": "Coursera AI Academic Integrity Suite (2023-2024)",
+  "framework_principles": "Three-layer approach: (1) Prevention — honor code acknowledgment and clear rules; (2) Verification — post-submission AI dialogue to demonstrate understanding; (3) Detection — Turnitin and Honorlock for flagging violations. This multi-layer approach is recommended as a model by EdTech Digest.",
+  "iste_standards": "[uncertain]",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "[uncertain]",
+
+  "implementation_challenges": "Coursera's five-question verification tool can be gamed if students study the assignment carefully after using AI to write it. The system is better as a deterrent than a detection mechanism. Scale challenges: Coursera has millions of learners, making human review impossible for most cases — over-reliance on automated systems.",
+  "student_perspective": "[uncertain] — No specific student response data found for Coursera's integrity features.",
+  "teacher_perspective": "Coursera for Campus partners (universities) retain control over assessment design. Faculty can require additional verification. The platform provides tools; pedagogical decisions remain with instructors.",
+  "recommendations": "For EdTech researchers: Coursera's 'demonstrate understanding' approach is more sustainable than pure detection. Recommend the post-submission dialogue mechanism as a model for online learning contexts. For Vietnamese institutions using Coursera: leverage the existing partnership (FPT, Van Lang pilot experience) as a foundation for developing institutional AI integrity policies informed by real data.",
+
+  "primary_sources": [
+    "Coursera launches a new suite of Academic Integrity features — blog.coursera.org/coursera-launches-academic-integrity-features",
+    "Coursera Honor Code — coursera.support/s/article/learner-000001214",
+    "Coursera Launches AI Plagiarism Detector — Inside Higher Ed (2024)"
+  ],
+  "academic_sources": [
+    "Update on Coursera's AI and Academic Integrity Play — Phil Hill, OnEdTech — onedtech.philhillaa.com",
+    "Academic Integrity in the Generative AI Era — edX/Coursera whitepaper (2025) — business.edx.org"
+  ],
+  "vietnamese_sources": "[uncertain]",
+  "urls": [
+    "https://blog.coursera.org/coursera-launches-academic-integrity-features-to-help-universities-verify-learning-in-an-age-of-ai-assisted-cheating/",
+    "https://www.coursera.support/s/article/learner-000001214",
+    "https://onedtech.philhillaa.com/p/update-coursera-ai-academic-integrity-play",
+    "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2024/06/12/another-ai-plagiarism-detector-comes-edtech"
+  ],
+
+  "uncertain": ["vietnamese_law_reference", "moet_policy", "singapore_approach", "australia_approach", "asia_vs_western_differences", "asean_regional_initiatives", "iste_standards", "cosn_guidelines", "unesco_guidelines", "vietnamese_sources", "student_perspective"]
+}
