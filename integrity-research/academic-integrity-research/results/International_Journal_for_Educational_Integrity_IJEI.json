@@ -1,0 +1,27 @@
+[
+  {
+    "item_name": "International Journal for Educational Integrity",
+    "category": "journal",
+    "authors": [
+      "Editorial Board"
+    ],
+    "year": 2005,
+    "publisher_or_institution": "Springer Nature / BioMed Central",
+    "key_contribution": "The International Journal for Educational Integrity is an open-access, peer-reviewed journal specifically focused on advancing research and practice in educational integrity. It publishes articles addressing plagiarism, cheating, academic misconduct, and integrity in learning contexts. The journal provides a platform for scholars to discuss emerging challenges like AI-assisted cheating and explores detection methods and prevention strategies for maintaining academic integrity in higher education.",
+    "doi_or_url": "https://link.springer.com/journal/40979",
+    "isbn": null,
+    "notable_concepts": [
+      "Academic integrity",
+      "Plagiarism detection",
+      "Student cheating",
+      "AI-generated text detection",
+      "Educational misconduct",
+      "Contract cheating",
+      "Integrity assessment practices",
+      "LLM-generated content",
+      "Academic honesty education",
+      "Prevention frameworks"
+    ],
+    "relevance_to_ai_integrity": "Highly specialized in academic integrity with extensive coverage of AI topics. Recent key papers include: 'Testing of detection tools for AI-generated text' (2023) - evaluation of limitations of AI detectors on GPT-3.5 vs GPT-4; 'Evaluating the efficacy of AI content detection tools in differentiating between human and AI-generated text' (2023) - demonstrates inconsistencies and false positives; 'Linking artificial intelligence facilitated academic misconduct to existing prevention frameworks' (2023); 'Algorithmic-driven writing and academic integrity: exploring educators' practices, perceptions, and policies in AI era' (2024); 'The great detectives: humans versus AI detectors in catching large language model-generated medical writing' (2024); 'Global Trends in Education: Artificial Intelligence, Postplagiarism, and Future-focused Learning for 2025 and Beyond' (2025) - advocates shift from detection toward validity-driven assessment. ISSN: 1833-2595. Impact Factor (2024): 6.9 (5-year: 5.8). CiteScore: 4.1. SJR: 1.405. Founding year: 2005. Open access. Quartile: Q1."
+  }
+]

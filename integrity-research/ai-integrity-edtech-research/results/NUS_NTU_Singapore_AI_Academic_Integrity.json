@@ -1,0 +1,61 @@
+{
+  "name": "NUS & NTU Singapore AI Academic Integrity Policies",
+  "type": "policy",
+  "year": "2023 (NUS policy approved Feb 2023, updated Aug 2024; NTU policy March 2023)",
+  "issuing_authority": "National University of Singapore (NUS) and Nanyang Technological University (NTU)",
+  "country_or_region": "Singapore",
+  "summary": "Singapore's top two universities — NUS and NTU — were among the fastest-responding Asian universities to the ChatGPT challenge. Both developed policies by early 2023. NUS published a formal Policy for Use of AI in Teaching and Learning (approved Feb 5, 2023; updated Aug 7, 2024), taking a disclosure-based approach: use is often permitted if disclosed. NTU took a faculty-delegation approach, allowing instructors to set rules while providing ethical guidance. The NTU case of three students penalized for AI use (2025) became a high-profile controversy when students disputed the findings — demonstrating the real-world tensions in AI fraud determination. Singapore's broader educational culture reflects a balance between technological pragmatism (the nation's Smart Nation agenda) and academic rigor.",
+
+  "ai_use_policy": "NUS Policy (Aug 2024 version): Permitted uses include gathering information, looking up concept explanations, proofreading and editing. When AI use is permitted by the course, students who acknowledge AI use have not committed plagiarism — no paraphrasing required if acknowledged. Course-by-course rules: each instructor specifies AI use conditions for their unit. NTU: faculty members given flexibility to set rules; institutional guidance focuses on productive, ethical, critical use. NTU's Deputy Provost (2023): focus on 'high-level cognitive skills and creativity through synthesis of ideas and in-depth analysis' — these cannot be replaced by AI.",
+  "academic_fraud_definition": "NUS: Undisclosed AI use in work where AI is not permitted = plagiarism/academic misconduct. NTU: AI use that generates fabricated content (hallucinated citations, fictional statistics) constitutes academic misconduct — the NTU 2025 case hinged on students having hallucinated/non-existent citations in their essays, which is a strong AI fraud indicator.",
+  "detection_mechanisms": "NUS and NTU use plagiarism detection tools (likely Turnitin with AI module). Human review of AI-detection flags before penalties are applied. NTU 2025 case: review panel identified 14 instances of false citations within one essay. Oral examinations as supplementary verification at some programs.",
+  "penalties": "NTU 2025 documented case: three students received zero marks for an essay in a health and politics module. One student's professor initially accepted partial AI use (10-mark deduction), but NTU's School Academic Integrity Officer overruled to zero grade. Students appealed; NTU convened a panel with AI experts (rare procedural response). Panel upheld zero grade based on fabricated citations. This case establishes precedent that hallucinated citations = AI fraud indicator.",
+  "transparency_requirements": "NUS: Students must acknowledge AI use when permitted. Disclosure is the key mechanism — transparency is built into the permission framework. NTU: instructors specify disclosure requirements. Both institutions publish their policies publicly.",
+
+  "vietnamese_law_reference": "[uncertain]",
+  "moet_policy": "[uncertain]",
+  "documented_vn_cases": "[uncertain]",
+  "vn_university_responses": "[uncertain]",
+
+  "ai_tutor_vs_cheater_framing": "Singapore's approach: AI as a cognitive skill-building tool (tutor framing) that should not replace high-level thinking (anti-cheater framing). NTU's Deputy Provost framing: use AI for research assistance, but 'synthesis of ideas and in-depth analysis' must remain the student's work. This is a nuanced middle position — AI assistance in preparation is accepted, AI substitution of thinking is not.",
+  "responsible_ai_definition": "NUS: Responsible AI use = transparent use that supplements rather than substitutes student thinking, with disclosure. NTU: Responsible AI use = productive, ethical, critical engagement with AI tools, combined with development of high-level cognitive skills. Singapore's Smart Nation context: AI competency is a national workforce priority, so responsible AI use in education is partly defined as developing AI literacy.",
+  "key_researchers": "NUS Centre for Learning and Technology (CTLT) — developed the institutional policy and published the Navigating Generative AI blog post. Hiverlab (Singapore EdTech company) published analysis of NTU case. South China Morning Post covered the NTU controversy extensively.",
+  "company_ethics_policy": "[uncertain]",
+
+  "singapore_approach": "Singapore's dual position: (1) National Smart Nation agenda prioritizes AI literacy and adoption; (2) Rigorous academic culture with strict integrity standards. The result: Singapore universities were faster than most to develop formal policies (by early 2023), took a disclosure-over-prohibition approach, but maintained strong penalties for undisclosed use. The NTU case (2025) shows that procedural fairness in AI fraud determination is a contested issue — students can dispute AI fraud findings, and expert panels are needed for appeals.",
+  "australia_approach": "[uncertain]",
+  "asia_vs_western_differences": "Singapore shares with Vietnam and other Asian contexts: high-stakes exam culture, significant academic pressure. Differences from typical Western approach: Singapore universities have more institutional authority (less faculty governance autonomy) — when the Provost or Academic Integrity Officer rules, it stands; student appeals are handled through institutional committees, not faculty discretion. The NTU controversy (students felt the process was unfair) mirrors Vietnamese student experience of institutional authority perceived as arbitrary.",
+  "asean_regional_initiatives": "Singapore (NUS/NTU) AI policies are the most developed in ASEAN and frequently referenced by other ASEAN universities including Vietnamese institutions. Singapore's MOE framework provides a regional benchmark.",
+
+  "framework_name": "NUS Policy for Use of AI in Teaching and Learning (2024 version)",
+  "framework_principles": "Disclosure-based approach: AI use is not automatically misconduct if disclosed and permitted. Course-by-course rules: each instructor specifies conditions. Hallucinated citations as fraud indicator: non-existent references signal AI generation regardless of student claims. Expert review for contested cases: the NTU case established that AI fraud determinations in appeals must involve AI experts, not just academic integrity officers.",
+  "iste_standards": "[uncertain]",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "Singapore's approach aligns with UNESCO's 'transparent and ethical use' guidance. The disclosure requirement mirrors UNESCO's transparency recommendations.",
+
+  "implementation_challenges": "The NTU case exposed key challenges: (1) Students who use AI for research but not writing face unfair accusations when AI signatures appear (from AI-assisted reference lookups); (2) AI detection tools have false positive risks; (3) Academic integrity officers may lack AI expertise to make fair determinations — hence the need for specialist review panels; (4) 'Innocent use' of AI (for research, not writing) is indistinguishable from 'fraudulent use' when the output contains AI artifacts (hallucinated citations).",
+  "student_perspective": "NTU 2025 controversy: students disputed findings, saying they used AI only for research, not writing. One student used a citation tool (citationmachine.net) and ChatGPT for background research. The institutional process (Academic Integrity Officer overruling professor without hearing) was perceived as procedurally unfair. The case triggered public debate in Singapore about whether AI policies are fair to students who use AI legitimately.",
+  "teacher_perspective": "NTU: Faculty initially assessed one student more leniently (10-mark deduction) accepting their account. Academic Integrity Officer overruled this — showing tension between professor discretion and institutional enforcement. The process left students and faculty uncertain about where the boundaries are.",
+  "recommendations": "For EdTech researchers: The NTU case is the most important documented Asian university AI fraud case to analyze. Key lessons: (1) Disclosure-based policies are more nuanced than prohibition-based policies but require clear implementation guidelines; (2) Hallucinated citations are the most reliable AI fraud indicator — detection frameworks should prioritize this; (3) Procedural fairness requires AI experts in appeals panels, not just academic integrity officers; (4) Vietnamese universities should study Singapore's policy evolution (2023-2025) as the closest culturally comparable benchmark in ASEAN.",
+
+  "primary_sources": [
+    "NUS Policy for Use of AI in Teaching and Learning (Aug 2024) — ctlt.nus.edu.sg/wp-content/uploads/2024/08/Policy-for-Use-of-AI-in-Teaching-and-Learning.pdf",
+    "NTU Policy on the Use of Generative Artificial Intelligence in Research — ntu.edu.sg/research/resources/use-of-gai-in-research",
+    "NTU gives zero marks to 3 students for using AI tools in assignments — mustsharenews.com"
+  ],
+  "academic_sources": [
+    "University policies on generative AI in Asia: promising practices, gaps, and future directions — Tandfonline (2024) — tandfonline.com/doi/full/10.1080/17516234.2024.2379070",
+    "Navigating the Very Real Threats of Generative AI — NUS CTLT — blog.nus.edu.sg/teachingconnections"
+  ],
+  "vietnamese_sources": "[uncertain]",
+  "urls": [
+    "https://ctlt.nus.edu.sg/wp-content/uploads/2024/08/Policy-for-Use-of-AI-in-Teaching-and-Learning.pdf",
+    "https://ctlt.nus.edu.sg/wp-content/uploads/2024/05/NUS2023-Policy-For-Use-of-AI-in-TL.pdf",
+    "https://www.ntu.edu.sg/research/resources/use-of-gai-in-research",
+    "https://www.tandfonline.com/doi/full/10.1080/17516234.2024.2379070",
+    "https://www.scmp.com/week-asia/people/article/3316155/do-universities-need-rethink-ai-use-students-singapores-ntu-case-causes-stir",
+    "https://mustsharenews.com/zero-marks-ai-ntu/"
+  ],
+
+  "uncertain": ["vietnamese_law_reference", "moet_policy", "documented_vn_cases", "vn_university_responses", "company_ethics_policy", "australia_approach", "iste_standards", "cosn_guidelines", "vietnamese_sources"]
+}

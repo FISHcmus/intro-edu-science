@@ -1,0 +1,60 @@
+fields:
+  - name: item_name
+    description: Full name of the tool, method, policy, or controversy being researched
+    type: string
+    required: true
+
+  - name: category
+    description: "Category: ai_detection_tool | technical_method | assessment_redesign | controversy"
+    type: string
+    required: true
+
+  - name: creators_or_institution
+    description: Person(s) or institution(s) responsible for creating or developing this item
+    type: string
+    required: true
+
+  - name: year_launched_or_published
+    description: Year the tool was launched, research was published, or policy was enacted
+    type: integer
+    required: true
+
+  - name: background_story
+    description: 2-4 sentence origin story or context for this item
+    type: string
+    required: true
+
+  - name: how_it_works
+    description: Technical explanation of detection method, policy mechanism, or pedagogical approach
+    type: string
+    required: true
+
+  - name: accuracy_or_effectiveness
+    description: Known accuracy rates, effectiveness data, or empirical results with citations where available
+    type: string
+    required: true
+
+  - name: limitations_and_criticisms
+    description: Documented limitations, failure modes, criticisms, or controversies
+    type: string
+    required: true
+
+  - name: false_positive_rate
+    description: Known false positive rates or cases of wrongful flagging (null if not applicable)
+    type: string
+    required: false
+
+  - name: notable_cases_or_examples
+    description: List of specific documented cases, examples, or real-world deployments
+    type: list
+    required: true
+
+  - name: key_publications_or_sources
+    description: List of key papers, articles, or official sources with authors and URLs/DOIs
+    type: list
+    required: true
+
+  - name: current_status_2024_2026
+    description: Current adoption status, recent developments, or policy changes as of 2024-2026
+    type: string
+    required: true

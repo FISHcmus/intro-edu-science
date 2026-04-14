@@ -1,0 +1,152 @@
+[
+  {
+    "item_name": "Eliminating the Successor to Plagiarism? Identifying the Usage of Contract Cheating Sites",
+    "category": "journal",
+    "authors": [
+      "Thomas Lancaster",
+      "Robert Clarke"
+    ],
+    "year": 2006,
+    "publisher_or_institution": "Proceedings of the 2nd International Plagiarism Conference",
+    "key_contribution": "Pioneering paper that introduced and defined the term 'contract cheating' to describe the outsourcing of assessed student work to third parties. The authors identified contract cheating as a distinct form of academic misconduct that extends beyond traditional plagiarism and essay mills, encompassing all disciplines including programming and technical assignments. This foundational work established the conceptual framework that would guide subsequent research in the field for over two decades.",
+    "doi_or_url": null,
+    "isbn": null,
+    "notable_concepts": [
+      "Contract cheating terminology and definition",
+      "Outsourcing of assessed student work",
+      "Distinction from traditional plagiarism",
+      "RentACoder (now Freelancer) platform analysis",
+      "Multi-disciplinary implications"
+    ],
+    "relevance_to_ai_integrity": "Establishes foundational understanding of how students outsource academic work. Directly relevant to AI integrity as students increasingly use AI systems as alternatives to or in combination with contract cheating services. The framework of understanding outsourced work applies analogously to AI-generated work and hybrid approaches where students use AI to draft, then hire writers to refine."
+  },
+  {
+    "item_name": "Contract Cheating: A New Phenomenon in Cyber-Plagiarism",
+    "category": "journal",
+    "authors": [
+      "Robert Clarke",
+      "Thomas Lancaster"
+    ],
+    "year": 2009,
+    "publisher_or_institution": "Communications of the IBIMA",
+    "key_contribution": "Expanded on the 2006 foundational work by comprehensively categorizing contract cheating into five distinct segments: bespoke essay sites, using friends and family, discussion sites, tutorial sites, and auction sites. The paper positions contract cheating as 'a different type of plagiarism but much more serious' due to its organized commercial nature and the involvement of third-party providers. This work provided the systematic taxonomy that enabled subsequent detection and prevention strategies.",
+    "doi_or_url": "https://ibimapublishing.com/articles/CIBIMA/2009/993039/993039.pdf",
+    "isbn": null,
+    "notable_concepts": [
+      "Five segments of contract cheating market",
+      "Bespoke essay sites",
+      "Commercial contract cheating industry",
+      "Distinction from plagiarism",
+      "Cyber-plagiarism classification"
+    ],
+    "relevance_to_ai_integrity": "The taxonomy of contract cheating markets (essay sites, auction sites, discussion sites) provides a historical framework for understanding contemporary AI-mediated contract cheating. Students now use AI as a first-pass tool, then route through contract cheating providers for refinement, creating a new hybrid market segment."
+  },
+  {
+    "item_name": "Contract Cheating: The Outsourcing of Assessed Student Work",
+    "category": "framework",
+    "authors": [
+      "Thomas Lancaster",
+      "Robert Clarke"
+    ],
+    "year": 2016,
+    "publisher_or_institution": "Springer Singapore (Handbook of Academic Integrity)",
+    "key_contribution": "Comprehensive handbook chapter synthesizing over a decade of contract cheating research. Provides systematic overview of contract cheating as an organized industry, reviewing research literature, discussing the implications for assessment design, and offering practical guidance to educators and administrators. Establishes contract cheating as a permanent structural challenge requiring institutional responses rather than ad-hoc interventions.",
+    "doi_or_url": "https://doi.org/10.1007/978-981-287-098-8_17",
+    "isbn": null,
+    "notable_concepts": [
+      "Industry structure and economics",
+      "Assessment implications",
+      "Detection strategies",
+      "Prevention and mitigation approaches",
+      "Institutional policy recommendations"
+    ],
+    "relevance_to_ai_integrity": "Provides assessment-design framework directly applicable to AI integrity challenges. The core principle—that contract cheating requires systemic institutional response—applies equally to AI misuse. Emphasizes need for assessment redesign and learning environment changes rather than reliance on detection tools alone."
+  },
+  {
+    "item_name": "Commercial contract cheating provision through micro-outsourcing web sites",
+    "category": "journal",
+    "authors": [
+      "Thomas Lancaster"
+    ],
+    "year": 2020,
+    "publisher_or_institution": "International Journal for Educational Integrity",
+    "key_contribution": "Empirical analysis of contract cheating on micro-outsourcing platforms (Fiverr.com) using data from June 2016 and October 2018. Documents dramatic price reduction ($31.73 to $5.73 per 1000 words) and shift in provider geography. Reveals that contract cheating providers on Fiverr.com generated minimum $92,001 USD annual revenue. Demonstrates evolution of contract cheating industry toward more sophisticated, decentralized, and economically efficient models.",
+    "doi_or_url": "https://doi.org/10.1007/s40979-020-00053-7",
+    "isbn": null,
+    "notable_concepts": [
+      "Micro-outsourcing platforms (Fiverr.com)",
+      "Price reduction over time",
+      "Geographic shift in providers (Kenya, Pakistan)",
+      "Revenue estimates",
+      "Sophisticated market models",
+      "Decentralized industry structure"
+    ],
+    "relevance_to_ai_integrity": "Shows how contract cheating industry adapts to market pressures and technology. The dramatic price reductions and market restructuring mirror potential market shifts toward AI-assisted contract cheating. Demonstrates that detection and enforcement alone do not prevent industry innovation—institutional and pedagogical responses are essential."
+  },
+  {
+    "item_name": "Rethinking Assessment By Examination In The Age Of Contract Cheating",
+    "category": "journal",
+    "authors": [
+      "Thomas Lancaster"
+    ],
+    "year": 2017,
+    "publisher_or_institution": "Academic Integrity Conference Proceedings",
+    "key_contribution": "Argues that traditional examination-based assessment is vulnerable to contract cheating and proposes fundamental redesign of assessment practices. Challenges the assumption that assessment reform alone can solve contract cheating without addressing underlying economic and structural drivers. Advocates for pedagogical approaches that integrate authentic assessment, learning processes, and student engagement.",
+    "doi_or_url": "https://academicintegrity.eu/conference/proceedings/2017/Lancaster_Rethinking.pdf",
+    "isbn": null,
+    "notable_concepts": [
+      "Assessment design and vulnerability",
+      "Examination-based assessment limitations",
+      "Authentic assessment approaches",
+      "Pedagogical reform",
+      "Economic drivers of contract cheating",
+      "Systemic institutional change"
+    ],
+    "relevance_to_ai_integrity": "Foundational for AI integrity strategy. Establishes that technical solutions (detection, watermarking) are insufficient; systemic pedagogical change is required. Directly applicable to AI misuse—institutions cannot 'detect their way out' of AI integrity challenges without fundamentally rethinking assessment design and learning outcomes."
+  },
+  {
+    "item_name": "The Implications of Plagiarism and Contract Cheating for the Assessment of Database Modules",
+    "category": "journal",
+    "authors": [
+      "Thomas Lancaster",
+      "Robert Clarke"
+    ],
+    "year": 2015,
+    "publisher_or_institution": "13th International Workshop on Teaching, Learning and Assessment of Databases (TLAD 2015)",
+    "key_contribution": "Discipline-specific analysis of how contract cheating affects technical assessment in database modules. Demonstrates that contract cheating extends to non-essay disciplines and technical assignments. Provides practical strategies for designing technical assessments that are resistant to contract cheating while maintaining pedagogical validity.",
+    "doi_or_url": null,
+    "isbn": null,
+    "notable_concepts": [
+      "Technical assessment vulnerability",
+      "Database assessment design",
+      "Discipline-specific contract cheating patterns",
+      "Assessment redesign for resistance",
+      "Programming and technical assignments"
+    ],
+    "relevance_to_ai_integrity": "Demonstrates that contract cheating and academic misconduct extend beyond essay writing to technical disciplines. AI integrity challenges are similarly cross-disciplinary. The framework for designing resistant assessments in technical fields applies directly to AI era, where students can use AI to generate code, solutions, and technical work."
+  },
+  {
+    "item_name": "Artificial intelligence, text generation tools and ChatGPT—does digital watermarking offer a solution?",
+    "category": "journal",
+    "authors": [
+      "Thomas Lancaster"
+    ],
+    "year": 2023,
+    "publisher_or_institution": "International Journal for Educational Integrity",
+    "key_contribution": "Evaluates digital watermarking as a potential technical solution to AI-generated text detection. Examines ChatGPT and generative AI tools as emerging contract cheating mechanisms. Analyzes limitations and effectiveness of watermarking approaches. Positions AI integrity as a natural evolution of contract cheating research.",
+    "doi_or_url": null,
+    "isbn": null,
+    "notable_concepts": [
+      "ChatGPT and generative AI",
+      "Digital watermarking detection",
+      "AI-generated text detection",
+      "Text generation tools",
+      "Limitations of technical solutions",
+      "AI as contract cheating mechanism"
+    ],
+    "relevance_to_ai_integrity": "Direct extension of Lancaster's contract cheating research to generative AI. Critically examines whether technical solutions (watermarking) can address AI integrity challenges. Implicitly argues for systemic pedagogical approaches based on decades of contract cheating research showing that detection alone is insufficient."
+  },
+  {
+    "_uncertain": []
+  }
+]

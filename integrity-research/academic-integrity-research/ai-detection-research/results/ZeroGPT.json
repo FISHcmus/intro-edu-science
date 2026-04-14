@@ -1,0 +1,25 @@
+{
+  "item_name": "ZeroGPT",
+  "category": "ai_detection_tool",
+  "creators_or_institution": "ZeroGPT (independent developers; specific founders not publicly named; website zerogpt.com)",
+  "year_launched_or_published": 2023,
+  "background_story": "ZeroGPT emerged as a free, browser-based AI detection tool in early-to-mid 2023, capitalizing on the same wave of concern about AI-generated student work that made GPTZero popular. Unlike Turnitin or Copyleaks, ZeroGPT targeted individual users (students checking their own work, freelancers, teachers without institutional subscriptions) by offering free detection with no account required. Its ease of access made it widely used, though it has faced criticism for lower accuracy than institutional alternatives.",
+  "how_it_works": "ZeroGPT uses a 'DeepAnalyse' technology described on their site as analyzing text patterns, sentence structures, and linguistic features associated with AI-generated content. The tool produces a percentage score (0-100%) indicating AI content likelihood and highlights specific sentences suspected to be AI-generated. The methodology is not peer-reviewed and the technical details are not publicly disclosed. Like other detector tools, it presumably uses some form of perplexity analysis and trained classification models.",
+  "accuracy_or_effectiveness": "ZeroGPT claims over 98% accuracy on their website. However, independent controlled testing tells a very different story. A DecEptioner controlled test of 160 texts found only 73.8% accuracy. Thehumanizeai.pro 2026 comparison testing found ZeroGPT overall accuracy at approximately 85% — the lowest among major tools tested. ZeroGPT has a 20.51% false positive rate in the DecEptioner study. The consensus hierarchy of AI detectors in 2026 independent testing places ZeroGPT at the bottom of major tools, below Turnitin, GPTZero, Copyleaks, and Originality.ai.",
+  "limitations_and_criticisms": "Key limitations: (1) Highest false positive rate among major tools — 14.6-20.5% in independent tests. (2) Self-reported 98% accuracy is not supported by independent testing. (3) No transparency about methodology or training data. (4) Easily bypassed by paraphrasing or using humanization tools. (5) Free tier encourages casual use but results should not be used for any punitive academic decisions. (6) Founders and development team are not publicly identified, raising accountability concerns. (7) The tool's popularity is based on accessibility, not accuracy.",
+  "false_positive_rate": "14.6% false positive rate in 2026 Humanize AI Pro independent comparison test. 20.51% false positive rate in DecEptioner controlled test of 160 samples. This is the highest false positive rate among major AI detection tools in independent benchmarks.",
+  "notable_cases_or_examples": [
+    "Widely used by students to check their own work before submission — ironic use case as AI users check if their AI content is detectable",
+    "Multiple education technology review sites warn against using ZeroGPT for any academic misconduct accusations due to high false positive rate",
+    "DecEptioner controlled benchmark (160 texts): ZeroGPT achieved 73.8% accuracy with 20.51% false positive rate",
+    "2026 comparison by UndetectedGPT.ai placed ZeroGPT as the least reliable among mainstream detectors: https://www.undetectedgpt.ai/blog/zerogpt-alternatives"
+  ],
+  "key_publications_or_sources": [
+    "Thehumanizeai.pro: 'ZeroGPT vs Copyleaks: Which AI Detector Is More Accurate? [2026 Comparison]' — https://thehumanizeai.pro/articles/zerogpt-vs-copyleaks",
+    "Brightseotools: 'ZeroGPT vs. Other AI Detectors: A Complete Comparison' — https://brightseotools.com/post/ZeroGPT-vs-Other-AI-Detectors",
+    "UndetectedGPT: 'Best ZeroGPT Alternatives (2026): Accuracy Tested' — https://www.undetectedgpt.ai/blog/zerogpt-alternatives",
+    "Kinja: 'Every AI Detector Tested: Which Ones Actually Work in 2026' — https://kinja.com/technology/ai-detectors-tested-2026"
+  ],
+  "current_status_2024_2026": "ZeroGPT remains one of the most-visited AI detector websites due to its free access model, but educational technology experts and institutions consistently caution against relying on it for academic integrity purposes. It has not published significant accuracy improvements or methodology updates. Its primary use case has shifted toward individual self-checking rather than institutional enforcement. In the 2026 accuracy rankings, it occupies the bottom tier of major tools.",
+  "uncertain": ["exact founders and development team identities", "exact launch date"]
+}

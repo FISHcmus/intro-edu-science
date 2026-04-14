@@ -1,0 +1,117 @@
+{
+  "item_name": "AI Fraud in Vietnam THPT National Examination",
+  "discipline": "k12",
+  "sub_discipline": "secondary exam",
+  "category": "k12",
+  "specific_fraud_methods": [
+    "Photographing exam questions with mobile phones and transmitting images to AI applications (ChatGPT, Gemini) for real-time solving",
+    "Using miniaturized electronic devices (cameras disguised in shoe soles, pen tips, button-sized cameras, bean-shaped wireless earphones) to transmit exam questions outside the exam room",
+    "Having external accomplices receive transmitted exam questions via wireless communication devices and use AI applications to solve them, with answers returned via earphones",
+    "Creating organized cheating networks involving multiple participants: test-takers, accomplices, and AI operators",
+    "Leaking exam questions to AI-powered math-solving applications during the exam window before test completion, creating public record of breach",
+    "Using multiple attempts to photograph different sections of exam papers within surveillance gaps"
+  ],
+  "ai_tools_used": [
+    "ChatGPT (text and reasoning)",
+    "Google Gemini (multi-modal: image recognition and text solving)",
+    "Specialized AI math-solving applications",
+    "Unspecified AI-powered problem-solving platforms accessible via mobile internet"
+  ],
+  "detection_difficulty": "Very high. Unlike text-based assignments, THPT exam fraud occurs in real-time within proctored exam rooms where detection requires continuous vigilance for increasingly sophisticated miniaturized devices. Paper-based exams leave no digital footprint for post-hoc plagiarism detection. Disguised devices exploit the limited inspection capacity of invigilators despite training. While some AI-solving apps may be detected via log analysis, transmission of photos via personal mobile phones during exams is difficult to prevent without complete electronic surveillance or jamming. Hanoi examination board reports that despite multiple training sessions for invigilators, lapses in enforcement created vulnerabilities.",
+  "unique_disciplinary_challenges": "THPT National Examination serves as the sole qualification test for university entrance in Vietnam, creating extreme high-stakes pressure that motivates organized cheating networks. Paper-based exam format prevents digital detection methods common in online assessments (keystroke analysis, screen monitoring). Widespread poverty in some regions makes access to smuggled high-tech devices a socioeconomic issue enabling organized crime. Invigilator fatigue and lapses in enforcement during multi-hour exams create detection gaps. Miniaturization of devices (wireless earphones, camera buttons, shoe-sole computers) makes physical inspection less effective than metal detectors alone. Unlike gaokao (China) or suneung (South Korea) where AI platforms can be disabled nationally, Vietnam's decentralized exam system and limited resources make coordinated countermeasures slower to implement.",
+  "governing_body": "Ministry of Education and Training (MOET), Vietnam. Secondary: Ministry of Public Security (criminal prosecution authority), Provincial examination boards, Provincial education departments",
+  "policy_documents": [
+    "Circular No. 24/2024/TT-BGDDT (December 24, 2024) - Regulations on High School Graduation Exams from 2025",
+    "Unified Regulations Text (VBHN 01/2024) - Comprehensive exam regulations effective 2025 onwards",
+    "[uncertain] Planned AI-specific guidance document (announced but not yet published as of April 2026)",
+    "Government Decision 1705/QD-TTg (referenced for broader education strategy, not THPT-specific)"
+  ],
+  "guidance_date": "December 24, 2024 (Circular 24/2024). AI-specific guidance announced as in-progress; publication date [uncertain]",
+  "enforcement_approach": "Mixed: primarily punitive with reactive educational components. Candidates caught cheating face zero exam scores, suspension from retesting for that year, or complete exam cancellation with no graduation consideration. Criminal prosecution possible under state secrecy violations (exam question leaks). Preventive approach includes invigilator training and device detection technology deployment. MOET coordination with Ministry of Public Security emphasizes criminal investigation of organized cheating rings. Educational messaging about consequences is recommended but not systematically implemented. Notably, no systematic pedagogical redesign of assessment has been mandated despite expert recommendations to shift from multiple-choice to essay/analysis formats.",
+  "traditional_assessment_methods": [
+    "Paper-based written examinations (multiple-choice and short-answer formats)",
+    "Single-sitting, proctored exam for each subject (Literature, Mathematics, Foreign Language, Sciences, Social Studies)",
+    "High-stakes national standardized testing with uniform question banks",
+    "In-person exam halls with invigilator supervision and room-based seating",
+    "Exam scores combined with high school grades and bonus points for university entrance calculation"
+  ],
+  "ai_vulnerable_assessments": [
+    "Multiple-choice questions (AI achieves very high accuracy on structured choice questions)",
+    "Quantitative problem-solving (mathematics, physics, chemistry) where AI can provide step-by-step solutions",
+    "Short-answer questions requiring factual recall or straightforward algorithmic solutions",
+    "Literature analysis questions where AI can generate plausible interpretations quickly"
+  ],
+  "ai_resistant_assessments": [
+    "[uncertain] Oral examinations (not used in THPT National Exam but proposed as alternative)",
+    "Extended essay questions requiring synthesis across multiple topics and original argumentation",
+    "Real-time performance tasks (not applicable to THPT format)",
+    "Handwriting analysis and question-specific phrasing patterns (detectable post-exam but requires human analysis)",
+    "Exam room environment controls (signal jamming, device bans) that prevent transmission of questions"
+  ],
+  "redesign_proposals": [
+    "Shift from multiple-choice format to essay, analysis, and situation-handling questions to limit AI accuracy (recommended by Vietnamese expert sources, citing AI's strength in closed-form problems)",
+    "Implement computer-based testing by 2026 (Government mandate) with real-time system monitoring and keystroke pattern analysis",
+    "Introduce randomized question variations and time-locked question delivery to prevent photo transmission before test completion",
+    "[uncertain] Integration of AI-powered invigilator detection systems (mentioned in research but not confirmed as planned for THPT)",
+    "Increased invigilator-to-candidate ratios and mandatory training on miniaturized device detection",
+    "Implementation of signal-blocking technology in exam rooms (cellular and wireless jamming) [uncertain feasibility and adoption]"
+  ],
+  "case_descriptions": [
+    "June 2025 incident: Two Hanoi high school boys (age 18 and 17) used a bean-shaped wireless earphone and button-sized camera purchased via Facebook to transmit exam questions during Literature exam at high school in Lam Ha District, Lam Dong province. External accomplice used ChatGPT to solve transmitted questions and returned answers. Students were criminally charged.",
+    "June 2025 incident: Mid-exam breach where mathematics exam questions were posted to public AI math-solving application by student (3:08 PM during June 26 exam), creating discoverable digital record of state-secret violation before exam completion.",
+    "June 2025 incident: Lam Dong provincial police discovered a shoe-sole embedded camera device used to transmit exam questions to accomplices outside the exam room.",
+    "Multiple June 2025 incidents: At least three candidates at two examination centers identified using mobile phones to photograph exam question segments and immediately transfer images to AI applications (ChatGPT, Gemini) for real-time solving without external accomplices.",
+    "Systemic pattern (ongoing): Organized cheating networks advertising high-tech cheating devices on social media platforms (Facebook, Telegram) targeting high school students and parents seeking university entrance advantages."
+  ],
+  "institutions_involved": [
+    "Lam Ha District high schools, Lam Dong province (June 2025 shoe-sole camera incident and earphone case)",
+    "Multiple Hanoi high schools (June 2025 AI-cheating cases with photos/phone transmission)",
+    "Unnamed examination centers in multiple provinces (general reported incidents)",
+    "Specialized online marketplaces and social media platforms (Facebook, Telegram) facilitating device sales to students"
+  ],
+  "outcomes": "Two Hanoi students and their accomplice were criminally charged under state-secret disclosure provisions. Criminal investigations into organized cheating networks are ongoing under Ministry of Public Security supervision. No outcomes for systemic institutional policy changes reported yet. MOET announced increased coordination with Ministry of Public Security for 2025-2026, but no detailed enforcement results are publicly available. The 2026 THPT exam guidelines reference prevention measures and technology solutions without specifying which have been successfully deployed or their effectiveness. No student case verdicts or sentencing outcomes are available in searched sources.",
+  "media_coverage": [
+    "VnExpress International: '2 Hanoi boys caught using AI to cheat in high school graduation exam' (June 2025) — detailed reporting of earphone and camera device case with names, ages, and devices",
+    "Vietnam.vn (official government news): Multiple articles on Ministry concerns and prevention measures (June-July 2025) — official framing of AI cheating as national integrity issue",
+    "VietnamNet: 'AI-linked leak of Vietnam's national math exam sparks criminal case' — coverage of June 2025 math exam breach and criminal investigation",
+    "VietnamNet: 'Major changes in Vietnam's 2025 high school graduation exams revealed' — policy coverage connecting new regulations to cheating prevention",
+    "Ministry of Public Security public briefings (June 2025) — demonstrations of miniaturized device technology and detection methods for invigilators"
+  ],
+  "direct_harm_risk": "Moderate-to-High. AI-enabled exam cheating directly undermines credentialing validity, enabling unqualified individuals to gain university admission and professional credentials without demonstrating required competency. This poses downstream risks in fields requiring critical thinking, technical competency, and professional judgment (engineering, medicine, law, teaching). However, unlike clinical medicine or aviation, THPT exam fraud does not create immediate patient/public safety risk. The harm is systemic credentialing corruption and labor market misallocation. Secondary harm includes social instability if public perception of exam integrity collapse erodes confidence in meritocratic advancement, particularly damaging in competitive societies with limited university slots.",
+  "credentialing_integrity": "AI fraud severely threatens THPT exam credentialing because the exam serves as the sole national qualification for university entrance in Vietnam. University admission scores are calculated as: (THPT score) + (high school GPA) + (bonus points). If THPT scores are unreliable due to widespread undetected AI cheating, the entire entrance system becomes compromised. Unlike higher education (where degrees have institutional reputation buffering), THPT is a standardized national credential. Detection of organized cheating networks suggests cheating may be more prevalent than detected cases indicate, per Vietnamese research showing list-experiment prevalence is 3x higher than direct admission. This creates asymmetric information: universities cannot reliably distinguish between legitimately admitted and fraudulently admitted students, undermining credential value for all graduates.",
+  "professional_licensing_stakes": "THPT exam scores are not directly used for professional licensing in Vietnam (that comes after university degree completion and separate licensing exams). However, THPT cheating sets precedent and normalizes shortcut-seeking behavior that may persist into professional credentialing exams (medical, legal, engineering licensing). More critically, if large cohorts of inadequately-qualified graduates pass through universities due to THPT fraud, downstream professional licensing systems inherit the burden of detecting and preventing credentialing of incompetent practitioners. The broader stakes: Vietnam is developing its education system to compete regionally (Education Strategy 2030) and globally. If THPT credentialing is known to be compromised by AI fraud, international recognition of Vietnamese credentials (for employment, graduate study abroad, professional reciprocity) is threatened, limiting graduate competitiveness in global labor markets.",
+  "discipline_specific_researchers": [
+    "[uncertain] Do Tuan Minh (Vietnamese researcher, author of study on ChatGPT cheating behavior in Vietnamese undergraduates published in Education and Information Technologies, 2024)",
+    "[uncertain] Researchers at Hanoi University of Science and Technology (HUST) conducting postgraduate studies on AI-assisted academic cheating (cited in Frontiers in Computer Science, 2025)",
+    "[uncertain] Vietnamese education policy researchers tracking MOET exam regulation changes (institutions unknown, cited in policy documents but not named)"
+  ],
+  "key_publications": [
+    "Do, T. M., et al. 'Unmasking academic cheating behavior in the artificial intelligence era: Evidence from Vietnamese undergraduates.' Education and Information Technologies, 2024. (Springer Nature) — Large-sample study (n=1,386) on ChatGPT cheating behavior among Vietnamese university students using list experiments.",
+    "[uncertain] Unnamed postgraduate research at HUST on AI-assisted academic cheating from student perspectives (cited in Frontiers, 2025, but full citation not recovered)",
+    "[uncertain] Vietnamese higher education research on cheating in online exams at mid-ranked universities (cited but not fully indexed in searched sources)"
+  ],
+  "conferences": [
+    "[uncertain] Regional education policy conferences (likely Vietnam National Education Conference, ASEAN Education Ministers Forum) — not specifically indexed for AI-exam-integrity talks",
+    "[uncertain] International AI Ethics and Academic Integrity conferences (general field; no Vietnam-specific streams identified)"
+  ],
+  "how_different_from_stem_social_science": "THPT National Exam AI fraud differs fundamentally from well-studied STEM/social science higher education cheating in four ways: (1) THPT is paper-based and proctored in-person, eliminating digital detection methods (plagiarism checkers, keystroke analysis, screen monitoring) applicable to online assignments. Detection relies entirely on physical invigilator vigilance and device interdiction, which is labor-intensive and human-error-prone. (2) THPT exam serves as sole university entrance gateway in a country with limited university slots and massive test-taker populations (millions annually), creating extraordinary incentive for organized cheating networks. Higher education cheating is typically individual or small-group; THPT cheating involves commercial device-smuggling and multi-party coordination. (3) THPT questions are national secrets legally, making exam question leaks criminal offenses involving state security authorities, not just institutional disciplinary matters. (4) The time-sensitive nature of THPT (single sitting, high-stakes one-time event) means detection must occur in real-time during the exam, not post-hoc via content analysis. This contrasts with higher education where plagiarism can be detected days later via software.",
+  "unique_detection_challenges": "THPT exam AI fraud presents detection challenges absent in higher education contexts: (1) Miniaturized camera and earphone technology is physically difficult to detect during standard security screening, especially with limited training and fatigue among invigilators managing large exam halls. Metal detectors cannot reliably distinguish contraband electronics from legitimate items (watches, hearing aids, pacemakers). (2) Wireless transmission of questions to external solvers creates no digital footprint within the exam room; detection requires monitoring external communication networks or catching accomplices outside the building. (3) Paper-based exams cannot use keystroke pattern analysis, screen monitoring, or digital behavior profiling that applies to computer-based tests. (4) Real-time constraint: cheating must be detected during the 3-4 hour exam window, not retrospectively. Unlike online courses where suspicious submission patterns can be identified days later, THPT cheating prevention is reactive and depends on human observation. (5) Leaking exam questions to public AI-solving applications creates discoverable evidence but only if monitored in real-time (as happened with June 2025 math exam breach posted at 3:08 PM). (6) Student populations are diverse in technical sophistication and social media literacy; predicting which students are at risk of obtaining/using devices is probabilistic at best.",
+  "discipline_specific_solutions": [
+    "Pedagogical redesign: Shift THPT assessment from multiple-choice and closed-form problem-solving questions to extended essays, analysis, and situation-handling requiring original argumentation and synthesis. This directly limits AI accuracy on THPT questions per expert recommendations. Unlike general higher education where multiple-choice exams persist, THPT redesign could be mandated nationally by MOET.",
+    "Computer-based testing (2026 government mandate) with integrated proctoring software capable of keystroke analysis, eye-tracking for off-screen glancing, and real-time question variation/randomization to prevent photographing entire question sets.",
+    "Signal-blocking (cellular and wireless jamming) in exam rooms to prevent transmission of photos to external accomplices. While mentioned in Vietnam research, feasibility and international regulatory compatibility remain uncertain.",
+    "Mobile device collection protocols: Mandatory pre-exam confiscation of all personal mobile phones and storage in sealed containers outside exam rooms, combined with detection screening for hidden electronic devices using advanced imaging (thermal cameras, millimeter-wave scanners) rather than metal detectors alone.",
+    "Invigilator recruitment from law enforcement or security backgrounds with training in spotting miniaturized devices, combined with higher invigilator-to-student ratios (e.g., 1:15 instead of 1:30) to increase real-time detection capacity.",
+    "Criminal prosecution of device manufacturers and social media marketplaces facilitating cheating device sales to students, treating organized cheating networks as criminal enterprises rather than individual student misconduct."
+  ],
+  "uncertain": [
+    "Publication date of MOET AI-specific guidance for exams (announced but not yet published as of April 2026)",
+    "Specific researchers and authors studying THPT AI integrity (cited in search results but not fully named)",
+    "Effectiveness of signal-jamming in exam rooms and regulatory status in Vietnam",
+    "Actual adoption and effectiveness of computer-based THPT testing by 2026 deadline",
+    "Detailed outcomes and sentencing in June 2025 criminal cases (charges announced but verdicts not available)",
+    "Prevalence of undetected AI cheating (detected cases are likely underestimate; Vietnamese research suggests actual prevalence 3x higher than admitted)",
+    "Specific details on government mandate for 2026 computer-based exams implementation timeline and scope",
+    "Names and institutional affiliations of key Vietnamese researchers studying AI cheating in education"
+  ]
+}

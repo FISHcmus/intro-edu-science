@@ -1,0 +1,47 @@
+field_categories:
+  - category: "basic_info"
+    fields:
+      - name: "item_name"
+        description: "Full title or name of the source (book, framework, document, journal)"
+        type: "string"
+        required: true
+      - name: "category"
+        description: "Category: classic_book | recent_book | framework | policy_document | journal"
+        type: "string"
+        required: true
+      - name: "authors"
+        description: "Author(s) full name(s)"
+        type: "list"
+        required: true
+      - name: "year"
+        description: "Publication year"
+        type: "integer"
+        required: true
+      - name: "publisher_or_institution"
+        description: "Publisher (for books), institution (for frameworks/docs), or journal publisher"
+        type: "string"
+        required: true
+      - name: "key_contribution"
+        description: "2-4 sentence summary of the key argument, framework, or contribution"
+        type: "string"
+        required: true
+  - category: "metadata"
+    fields:
+      - name: "doi_or_url"
+        description: "DOI link or official URL if available, else null"
+        type: "string"
+        required: false
+      - name: "isbn"
+        description: "ISBN for books, else null"
+        type: "string"
+        required: false
+  - category: "content"
+    fields:
+      - name: "notable_concepts"
+        description: "List of key concepts, terms, or frameworks introduced"
+        type: "list"
+        required: true
+      - name: "relevance_to_ai_integrity"
+        description: "How this source relates to AI use and academic integrity in education"
+        type: "string"
+        required: true

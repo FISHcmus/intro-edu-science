@@ -1,0 +1,113 @@
+field_categories:
+  - category: "position_identity"
+    fields:
+      - name: "position_name"
+        description: "Name of the unrepresented position (e.g., Student Falsely Accused of AI Fraud)"
+        type: "string"
+        required: true
+      - name: "category"
+        description: "Position category: student_voice"
+        type: "string"
+        required: true
+      - name: "representative_actor"
+        description: "Who holds this position (e.g., falsely accused PhD student, ESL student, cheating student)"
+        type: "string"
+        required: true
+
+  - category: "core_argument"
+    fields:
+      - name: "central_claim"
+        description: "The main claim or thesis of this position"
+        type: "string"
+        required: true
+      - name: "key_evidence_they_would_cite"
+        description: "Specific studies, cases, statistics this position relies on"
+        type: "string"
+        required: true
+      - name: "strongest_version_of_argument"
+        description: "The most intellectually rigorous version of this position"
+        type: "string"
+        required: true
+      - name: "what_they_reject"
+        description: "What claims, assumptions, or policies this position fundamentally opposes"
+        type: "string"
+        required: true
+
+  - category: "policy"
+    fields:
+      - name: "policy_preference"
+        description: "What concrete policy changes this position advocates for"
+        type: "string"
+        required: true
+
+  - category: "engagement_with_other_positions"
+    fields:
+      - name: "response_to_left_wing"
+        description: "How this position engages with left-wing structural critique"
+        type: "string"
+        required: true
+      - name: "response_to_right_wing"
+        description: "How this position engages with right-wing market/credential reform"
+        type: "string"
+        required: true
+      - name: "response_to_economist"
+        description: "How this position engages with economist cost-benefit analysis"
+        type: "string"
+        required: true
+      - name: "response_to_educator"
+        description: "How this position engages with educator assessment redesign views"
+        type: "string"
+        required: true
+      - name: "response_to_technologist"
+        description: "How this position engages with technologist detection tool views"
+        type: "string"
+        required: true
+      - name: "response_to_center"
+        description: "How this position engages with center pragmatic synthesis"
+        type: "string"
+        required: true
+
+  - category: "intellectual_stakes"
+    fields:
+      - name: "what_the_debate_missed_by_excluding_this_voice"
+        description: "What critical insights are absent from the debate without this perspective"
+        type: "string"
+        required: true
+      - name: "how_including_this_voice_changes_conclusions"
+        description: "How the debate's conclusions would shift if this perspective were included"
+        type: "string"
+        required: true
+      - name: "claims_they_would_contest"
+        description: "Specific claims from the existing debate this position challenges"
+        type: "list"
+        required: true
+      - name: "irreconcilable_disagreements"
+        description: "Which other positions this perspective fundamentally cannot reconcile with"
+        type: "string"
+        required: true
+
+  - category: "evidence_and_viability"
+    fields:
+      - name: "real_world_evidence_of_this_position"
+        description: "Documented cases, studies, survey data proving this position exists and matters"
+        type: "string"
+        required: true
+      - name: "key_publications_or_sources"
+        description: "Academic papers, case studies, reports that support this position"
+        type: "list"
+        required: true
+      - name: "weaknesses_of_this_position"
+        description: "Honest critique of limitations, blind spots, or internal tensions"
+        type: "string"
+        required: true
+      - name: "what_would_change_their_mind"
+        description: "What evidence, argument, or outcome would cause this position to shift"
+        type: "string"
+        required: true
+
+  - category: "context"
+    fields:
+      - name: "vietnamese_context_relevance"
+        description: "How this position applies to Vietnamese higher education specifically"
+        type: "string"
+        required: true

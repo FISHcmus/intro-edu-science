@@ -1,0 +1,244 @@
+topic: Missing Evidence and Counterevidence for AI Academic Integrity Debate
+description: >
+  Gap-filling research on missing evidence, historical precedents, updated data,
+  and overlooked scholars identified in the critical gaps analysis. Covers
+  historical technology disruptions in academia, AI detection tool accuracy
+  updates (2024-2026), oral defense effectiveness data, cost-benefit analysis,
+  student motivation research, and profiles of missing key scholars.
+
+execution:
+  output_dir: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/missing-evidence-counterevidence/results
+  fields_path: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/missing-evidence-counterevidence/fields.yaml
+  items_per_agent: 1
+  batch_size: 4
+
+items:
+  # --- HISTORICAL PRECEDENTS (5 items) ---
+  - name: "Photocopier Era and Academic Integrity (1960s-1980s)"
+    category: historical_precedent
+    description: >
+      Introduction of Xerox photocopier and its impact on academic integrity.
+      How photocopying changed exam security, enabled copying of assignments,
+      and forced institutions to adapt. Timeline of institutional responses.
+      Lessons for current AI disruption. Key publications from this era on
+      academic dishonesty.
+
+  - name: "Internet Era and Plagiarism Revolution (1990s-2000s)"
+    category: historical_precedent
+    description: >
+      The internet's transformation of plagiarism: copy-paste from websites,
+      birth of Turnitin (1998, founded by John Barrie), rise of online essay
+      banks and free essay sites. How institutions adapted over ~10 years.
+      The moral panic cycle and how it resolved. Key studies on internet-era
+      plagiarism prevalence.
+
+  - name: "Wikipedia and Collaborative Knowledge (2004-2015)"
+    category: historical_precedent
+    description: >
+      Wikipedia's impact on academic integrity: initial bans by universities,
+      debates about reliability, gradual acceptance as starting point for
+      research. How the "Wikipedia problem" was resolved through pedagogy
+      rather than prohibition. Timeline of institutional attitude shifts.
+      Lessons for AI tool acceptance.
+
+  - name: "Essay Mills and Contract Cheating Industry (2010-2022)"
+    category: historical_precedent
+    description: >
+      Rise of commercial contract cheating: Chegg, Course Hero, EssayShark,
+      MyMaster scandal (Australia, 2014), UK essay mill ban (Skills and Post-16
+      Education Act 2022), Australian TEQSA enforcement actions. Lancaster and
+      Clarke's pioneering research. Scale of the industry. How this precedent
+      informs understanding of AI fraud — is AI just a more efficient essay mill?
+
+  - name: "Pre-ChatGPT AI Writing Tools (2019-2022)"
+    category: historical_precedent
+    description: >
+      AI writing tools before the November 2022 ChatGPT inflection point.
+      GPT-2 (2019) and OpenAI's initial decision not to release it. GPT-3
+      (2020) and API access. Commercial AI writing tools: Jasper.ai (formerly
+      Jarvis), Copy.ai, Writesonic, Sudowrite, Rytr. Early academic fraud
+      using these tools. Why this period is historically important but often
+      ignored in the "ChatGPT changed everything" narrative.
+
+  # --- DETECTION ACCURACY UPDATES (4 items) ---
+  - name: "Weber-Wulff et al. (2023) — Systematic Testing of 14 AI Detection Tools"
+    category: detection_accuracy
+    description: >
+      Deep analysis of Deborah Weber-Wulff's landmark 2023 study testing 14
+      AI detection tools. Methodology: how tools were tested, what text types
+      were used, how accuracy was measured. Key findings: false positive rates,
+      false negative rates, tool-by-tool comparison. Limitations of the study.
+      Impact on institutional policy. Published in International Journal for
+      Educational Integrity. DOI and full citation.
+
+  - name: "AI Detection Tool Accuracy Updates 2024"
+    category: detection_accuracy
+    description: >
+      Post-Weber-Wulff studies published in 2024. Turnitin accuracy improvements
+      (claimed 98% accuracy, contested). GPTZero version updates and accuracy
+      claims. Copyleaks updates. New detection tools entering the market.
+      Academic studies evaluating detection accuracy in 2024. Any evidence of
+      improving or worsening accuracy over time.
+
+  - name: "AI Detection Tool Accuracy Updates 2025-2026"
+    category: detection_accuracy
+    description: >
+      Latest (2025-2026) accuracy data for AI detection tools. Multimodal
+      detection capabilities. LLM watermark detection tools. Benchmark
+      evolution and standardization efforts. How detection tools handle
+      newer models (GPT-4o, Claude 3.5/4, Gemini 2.0). Evidence on whether
+      the detection arms race is being won or lost.
+
+  - name: "Vietnamese-Language AI Detection Tools"
+    category: detection_accuracy
+    description: >
+      Whether AI detection tools exist specifically for Vietnamese-language
+      text. Viettel AI and VinAI research capabilities in NLP and whether
+      they've developed detection tools. Applicability of English-trained
+      detection tools (GPTZero, Turnitin, Copyleaks) to Vietnamese text.
+      False positive rates for Vietnamese ESL students writing in English.
+      This is the most policy-relevant technical gap for Vietnamese HE.
+
+  # --- ORAL DEFENSE / VIVA EFFECTIVENESS (3 items) ---
+  - name: "Oral Defense as Assessment — Empirical Evidence"
+    category: oral_defense
+    description: >
+      RCTs or quasi-experimental studies on oral defense (viva voce) effectiveness
+      for academic integrity. University of Western Ontario study (the main
+      cited evidence). Macquarie Law School anecdotal reports. Any other
+      institutions with published data on viva effectiveness for deterring
+      fraud. Systematic reviews if they exist. How strong is the evidence
+      base for the most-recommended intervention?
+
+  - name: "Game Theory of Sampling-Based Deterrence"
+    category: oral_defense
+    description: >
+      If only 10-15% of students are sampled for spot viva, what is the
+      expected value calculation for fraud? Deterrence theory from criminology
+      applied to academic integrity: certainty vs. severity of punishment.
+      Becker's (1968) rational crime model. How perceived probability of
+      detection affects cheating behavior. When does sampling-based deterrence
+      break down? Literature on random audit deterrence in tax compliance
+      as analogue.
+
+  - name: "Oral Examiner Quality and Bias Literature"
+    category: oral_defense
+    description: >
+      Inter-rater reliability in oral/viva assessment. Documented examiner
+      biases: gender bias, ethnicity/accent bias, halo effect, confirmation
+      bias. Quality assurance mechanisms for oral examiners. Training
+      requirements and their effectiveness. How poorly trained viva examiners
+      could produce worse outcomes than properly used detection tools.
+      This is the counterargument to universal viva recommendations.
+
+  # --- COST-BENEFIT ANALYSIS (2 items) ---
+  - name: "Institutional Cost of Assessment Redesign at Scale"
+    category: cost_benefit
+    description: >
+      Real-world data on the cost of redesigning assessment for AI integrity.
+      Faculty time studies: how many hours does it take to redesign a course?
+      Training costs for new assessment methods. Infrastructure needs (rooms
+      for vivas, recording equipment, scheduling systems). Published case
+      studies of universities that have redesigned assessment at scale.
+      Budget allocations and funding sources.
+
+  - name: "Detection Tool Licensing Costs vs. Assessment Redesign Costs"
+    category: cost_benefit
+    description: >
+      Turnitin institutional licensing costs (annual fees by institution size).
+      GPTZero enterprise pricing. Copyleaks institutional pricing. Total cost
+      of ownership for detection tool approach. Direct comparison with
+      assessment redesign investment. The Economist position paper claims
+      redesign has positive NPV — what does the actual data show?
+
+  # --- STUDENT MOTIVATION (2 items) ---
+  - name: "Why Students Use AI — Qualitative and Quantitative Evidence"
+    category: student_motivation
+    description: >
+      Research on WHY students use AI tools for academic work. Motivation
+      categories: time pressure, lack of understanding, unclear policies,
+      perceived low detection risk, belief that AI use is not cheating,
+      financial/employment pressure, normalization among peers. Survey data
+      and interview studies. Distinction between intentional fraud and
+      inadvertent policy violation. Most-cited motivation studies.
+
+  - name: "Vietnamese Student AI Use Motivation Data"
+    category: student_motivation
+    description: >
+      Deep analysis of the Springer 2024 Vietnamese study (N=1,386): what
+      exactly did it measure? Does it include motivation data or only
+      prevalence? Any subsequent Vietnamese-specific studies on student
+      AI use motivations. Cultural factors unique to Vietnamese student
+      motivation: face culture (thể diện), family expectations, competitive
+      exam pressure, unclear institutional policies.
+
+  # --- MISSING SCHOLARS (7 items) ---
+  - name: "Deborah Weber-Wulff (HTW Berlin)"
+    category: missing_scholar
+    description: >
+      Full research profile of Deborah Weber-Wulff, professor at HTW Berlin
+      (University of Applied Sciences Berlin). Pioneering work on plagiarism
+      detection tool evaluation (VroniPlag Wiki). 2023 systematic testing of
+      14 AI detection tools (International Journal for Educational Integrity).
+      Earlier work on plagiarism detection software testing. Methodology and
+      approach. Impact on German and European integrity policy. Key publications
+      with DOIs.
+
+  - name: "Irene Glendinning (Coventry University) and IPPHEAE Project"
+    category: missing_scholar
+    description: >
+      Irene Glendinning's research profile at Coventry University. IPPHEAE
+      (Impact of Policies for Plagiarism in Higher Education Across Europe)
+      project: EU-funded study comparing academic integrity policies across
+      27 European countries. Methodology, key findings, country-by-country
+      analysis. Subsequent work on integrity policy. QAA (Quality Assurance
+      Agency) contributions. Influence on European integrity standards.
+
+  - name: "Teddi Fishman — Former ICAI Director"
+    category: missing_scholar
+    description: >
+      Teddi Fishman's role as executive director of the International Center
+      for Academic Integrity (ICAI). Contributions to institutional integrity
+      policy development. Key publications and conference presentations.
+      Definition of academic integrity she helped develop. Influence on the
+      shift from punitive to educational approaches. Current role and
+      continued contributions.
+
+  - name: "COPE AI Authorship Guidelines (2023)"
+    category: missing_scholar
+    description: >
+      Committee on Publication Ethics (COPE) position statement on AI and
+      authorship (2023). Key recommendations: AI cannot be listed as author,
+      disclosure requirements, journal implementation guidance. How journals
+      have adopted COPE guidelines. Enforcement challenges. Comparison with
+      ICMJE guidance. Impact on research integrity standards globally.
+      Full text analysis of the position statement.
+
+  - name: "Ting-Chia Hsu (Taiwan) — Asian Academic Integrity Research"
+    category: missing_scholar
+    description: >
+      Ting-Chia Hsu's research profile. Institution affiliation. Key
+      publications on academic integrity in Asian/Taiwanese context.
+      Contribution to non-Western integrity scholarship. Research methodology.
+      How Taiwanese academic integrity challenges compare to Western context.
+      Any work on AI and integrity specifically.
+
+  - name: "Shivadas Sivasubramaniam (South Africa/UK) — Cross-Cultural Integrity"
+    category: missing_scholar
+    description: >
+      Shivadas Sivasubramaniam's research profile. Institutional affiliation(s)
+      in South Africa and/or UK. Key publications on cross-cultural academic
+      integrity. Research on how integrity norms vary across cultures.
+      African and South Asian perspectives on academic integrity that
+      challenge Western-centric frameworks. Contributions to IJEI or other
+      integrity journals.
+
+  - name: "Tomoko Ikegami (Japan) — Japanese Academic Integrity"
+    category: missing_scholar
+    description: >
+      Tomoko Ikegami's research profile. Institutional affiliation in Japan.
+      Key publications on academic integrity in Japanese higher education.
+      Japanese academic culture and integrity norms. How Japan's education
+      system handles AI and technology-enabled cheating. Contribution to
+      Asian academic integrity scholarship. APAI (Asia Pacific Academic
+      Integrity) network involvement.

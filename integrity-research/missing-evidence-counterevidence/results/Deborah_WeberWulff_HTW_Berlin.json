@@ -1,0 +1,55 @@
+{
+  "item_name": "Debora Weber-Wulff (HTW Berlin) — AI Detection Tools Testing and Plagiarism Detection Software Evaluation",
+  "category": "detection_accuracy",
+  "time_period": "2002-present (career span; key 2023 AI detection study)",
+  "key_findings": "Systematic testing of 14 AI detection tools (2023) found all tools below 80% accuracy with biased classification towards human-written text rather than AI-generated text. Earlier work (2004-2020) established that plagiarism detection software cannot determine plagiarism but only serves as a support tool; software reliability varies significantly by technique (translation plagiarism, structural plagiarism, shake & paste plagiarism have lower detection rates). Testing methodology uses controlled text generation with known plagiarism techniques to measure false positive/negative rates.",
+  "methodology": "Empirical testing of detection software using standardized test cases; systematic evaluation of 14 AI detection tools (2023) using ChatGPT-generated and human-written text, with evaluation of machine translation and content obfuscation effects; longitudinal analysis of plagiarism detection tool performance (2004-2020) using disguised plagiarism, translation plagiarism, structural plagiarism, shake & paste, and pawn sacrifice techniques.",
+  "sample_size": "14 AI detection tools tested (2023); 15 plagiarism detection tools tested in comprehensive 2013 study; systematic testing of multiple techniques per tool across multiple text samples",
+  "geographic_scope": "Germany (HTW Berlin, VroniPlag Wiki documentation of German dissertation plagiarism), European Union (European Network for Academic Integrity working group), international applicability (tools used globally in academic institutions)",
+  "publication_details": "Primary: Weber-Wulff, D., Anohina-Naumeca, A., Bjelobaba, S., Foltýnek, T., Guerrero-Dib, J., Popoola, O., Šigut, P., & Waddington, L. (2023). Testing of detection tools for AI-generated text. International Journal for Educational Integrity, 19, 26. DOI: 10.1007/s40979-023-00146-z. Also published on arXiv: 2306.15666. Secondary: Weber-Wulff, D. (2014). False Feathers: A Perspective on Academic Plagiarism. Springer-Verlag. Additional: Weber-Wulff, D. (2015). Plagiarism Detection Software: Promises, Pitfalls, and Practices. In Handbook of Academic Integrity. Springer.",
+  "study_design": "empirical testing + meta-analysis",
+  "replication_status": "[uncertain] No explicit replication studies cited in search results, but findings aligned with broader AI detection challenges reported in other studies; tool evaluation methodologies have been adopted by other researchers studying AI detection reliability",
+  "methodological_limitations": "Testing limited to English-language text for AI detection study; tool selection represents commercial and open-source tools available at time of testing (some tools may be obsolete by 2026); ChatGPT prompt engineering effects not fully controlled; plagiarism detection testing limitations include tool update cycles and algorithm changes; VroniPlag Wiki methodology relies on documentation by volunteers rather than systematic institutional sampling",
+  "generalizability": "Findings on AI detection tool unreliability are highly generalizable to global academic contexts; plagiarism detection tool limitations apply universally but with contextual variation (detection rates vary by plagiarism technique and language). For Vietnamese higher education: plagiarism and AI detection tools used identically to Western institutions, so unreliability findings directly apply; however, specific dissertation plagiarism problem in Germany may not reflect Vietnamese context. AI ethics and integrity implications are globally relevant.",
+  "which_debate_claim_it_supports_or_challenges": "Challenges claim that AI detection tools can reliably identify AI-generated text; supports claim that technological solutions alone cannot solve academic integrity problems; supports argument for human-centered, pedagogical approaches to integrity over tool-dependent enforcement; challenges reliance on software for academic misconduct detection generally; undermines confidence in automated enforcement mechanisms for AI use policies in universities",
+  "policy_implications": "Universities should not rely exclusively on AI detection tools for enforcement; institutional policy should emphasize human review and critical reading; educator training on academic integrity is more effective than tool deployment; AI use policies should focus on learning outcomes and transparency rather than detection; plagiarism detection software should be treated as support tool, not definitive proof; need for European and national regulations on AI detection tool standards and transparency; investment in instructor expertise rather than software licensing",
+  "how_it_changes_the_analysis": "Incorporating this evidence significantly weakens the case for technology-based solutions to AI integrity problems and shifts focus to pedagogical and cultural approaches. The unreliability of detection tools removes a key enforcement mechanism that some institutions rely on, requiring fundamentally different policy designs that emphasize learning and transparency over detection. For Vietnamese HE context, it suggests that importing detection-tool-focused policies from Western models is not viable and requires developing locally-appropriate, human-centered integrity strategies.",
+  "contradictory_findings": "Some institutions report perceived effectiveness of plagiarism detection tools in practice despite tool limitations documented in research; tool developers counter that accuracy improves with updates and user training; some educators find tools valuable for initial screening despite false positives",
+  "alternative_interpretations": "Tool unreliability could be interpreted as requiring better tool design and AI improvements rather than rejection of technological approaches; false negatives in detection could reflect genuine difficulty of AI detection rather than fundamental unsolvability; policy focus on student education and integrity culture could complement rather than replace tool usage; some argue plagiarism detection software serves value as deterrent even if detection accuracy is imperfect",
+  "unresolved_questions": [
+    "Can AI detection tools be fundamentally improved to achieve 90%+ accuracy without human review?",
+    "What threshold of detection accuracy is educationally acceptable (70%, 80%, 90%)?",
+    "How do students perceive and respond to known-unreliable detection tools in institutional policies?",
+    "What is the optimal mix of technological, pedagogical, and cultural interventions for academic integrity?",
+    "How transferable are findings from English-language AI detection to multilingual contexts (including Vietnamese)?",
+    "What is the cost-benefit of continued investment in detection tools vs. investing in faculty training?"
+  ],
+  "primary_publications": [
+    "Weber-Wulff, D., Anohina-Naumeca, A., Bjelobaba, S., Foltýnek, T., Guerrero-Dib, J., Popoola, O., Šigut, P., & Waddington, L. (2023). Testing of detection tools for AI-generated text. International Journal for Educational Integrity, 19, 26. https://doi.org/10.1007/s40979-023-00146-z",
+    "Weber-Wulff, D. (2014). False Feathers: A Perspective on Academic Plagiarism. Springer-Verlag. ISBN: 978-3-662-51393-4",
+    "Weber-Wulff, D. (2015). Plagiarism Detection Software: Promises, Pitfalls, and Practices. In Handbook of Academic Integrity. Springer. https://doi.org/10.1007/978-981-287-079-7_19-1",
+    "Weber-Wulff, D., et al. (2013). [Plagiarism Detection Tool Testing Study]. [uncertain - exact citation needed]"
+  ],
+  "author_affiliations": [
+    "Debora Weber-Wulff — HTW Berlin (University of Applied Sciences Berlin), Fachbereich Informatik, Kommunikation Wirtschaft; Deputy Head, Technology and Academic Integrity Working Group, European Network for Academic Integrity",
+    "Co-authors Anohina-Naumeca, Bjelobaba, Foltýnek, Guerrero-Dib, Popoola, Šigut, Waddington represent international institutions (European Network for Academic Integrity working group members)"
+  ],
+  "funding_sources": "[uncertain] European Network for Academic Integrity funding status not explicitly stated in search results; HTW Berlin institutional support presumed but not confirmed",
+  "what_evidence_still_missing": "Longitudinal data on student learning outcomes and integrity improvements from different policy approaches (tool-based vs. pedagogical vs. cultural); direct comparison of detection tool effectiveness in different language contexts; studies on Vietnamese student and faculty perceptions of AI use and detection; cost-benefit analysis comparing tool investment vs. faculty development spending; replication studies of 2023 AI detection findings with updated tools; research on how students modify their AI use in response to detection tool policies; evidence on whether detection unreliability undermines student compliance with integrity policies",
+  "recommended_studies": [
+    "Randomized controlled trial comparing institutions using detection tools vs. pedagogical integrity approaches, measuring learning outcomes and integrity violations over 2-3 years",
+    "Systematic testing of AI detection tools in multiple languages (including Vietnamese) to assess generalizability of English-language findings",
+    "Qualitative study of student and faculty perceptions of detection tool reliability and its impact on policy legitimacy",
+    "Cost-benefit analysis of technology-based vs. pedagogy-based integrity interventions in higher education",
+    "Longitudinal study of Vietnamese university students' understanding and compliance with AI use policies",
+    "Meta-analysis of all plagiarism and AI detection tool studies published 2010-2026 to establish effect sizes and generalizability patterns"
+  ],
+  "feasibility_of_filling_gap": "High feasibility for studies 1-3, 5: existing institutional networks (ENAI, university systems) can support comparative studies; high cost for large-scale RCTs but manageable with funding; medium feasibility for study 4 (cost-benefit analysis): requires institutional cooperation to share data, but economists and educational researchers have methodologies; meta-analysis is high feasibility with literature access. Vietnamese context research is high feasibility if coordinated through HCMUS and other Vietnamese universities. Timeline: 2-4 years for robust evidence base.",
+  "uncertain": [
+    "replication_status — no explicit mention of replication studies",
+    "study_design — combination of empirical testing and meta-analysis; primarily empirical",
+    "funding_sources — ENAI and HTW Berlin institutional support presumed",
+    "primary_publications — 2013 plagiarism detection study exact citation incomplete",
+    "methodological_limitations — extent of ChatGPT prompt engineering variation not fully detailed"
+  ]
+}

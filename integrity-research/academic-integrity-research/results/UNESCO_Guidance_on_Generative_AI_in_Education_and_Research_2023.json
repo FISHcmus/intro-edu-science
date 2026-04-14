@@ -1,0 +1,29 @@
+{
+  "item_name": "Guidance for Generative AI in Education and Research",
+  "category": "policy_document",
+  "authors": [
+    "Fengchun Miao",
+    "Wayne Holmes"
+  ],
+  "year": 2023,
+  "publisher_or_institution": "UNESCO (United Nations Educational, Scientific and Cultural Organization)",
+  "key_contribution": "The first global guidance document specifically addressing generative AI use in education and research, released in September 2023. Identifies eight key challenges (reality disconnection, regulatory gaps, intellectual property violations, misinformation, data marginalization, digital divide, vulnerable group marginalization, economic inequality) and proposes seven mitigation actions (external regulation, provider responsibility, institutional assessment, individual awareness, teacher training, equitable access, ethical frameworks) to ensure human-centered, ethical, safe, equitable and meaningful integration of GenAI in education systems.",
+  "doi_or_url": "https://unesdoc.unesco.org/ark:/48223/pf0000386693",
+  "isbn": null,
+  "notable_concepts": [
+    "Eight challenges in generative AI adoption",
+    "Seven key mitigation actions",
+    "Academic integrity redesign",
+    "Data privacy protection",
+    "Age-appropriate restrictions (age 13 minimum)",
+    "Intellectual property concerns",
+    "Bias and inequity mitigation",
+    "Assessment method redesign",
+    "Teacher professional development",
+    "Institutional readiness evaluation",
+    "Ethical validation and pedagogical design",
+    "Human-centered approach"
+  ],
+  "relevance_to_ai_integrity": "Provides comprehensive guidance on safeguarding academic integrity in the age of generative AI, specifically recommending strengthened manual detection of AI-generated academic work and fundamental redesign of assessment methods to evaluate students' unique human values and critical thinking when facing complex problems. Addresses intellectual property violations through provider responsibility mandates, protects data privacy through age restrictions and institutional policies, and emphasizes teacher guidance and training to help educators manage AI tools ethically. Establishes frameworks for institutional policies on student use, preventing plagiarism and ensuring authentic learning outcomes.",
+  "uncertain": []
+}

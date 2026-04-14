@@ -1,0 +1,64 @@
+{
+  "name": "QĐ 1705/QĐ-TTg — Chiến lược GD 2030 & AI/Integrity Provisions",
+  "type": "policy",
+  "year": "2024 (signed by Deputy PM Lê Thành Long)",
+  "issuing_authority": "Thủ tướng Chính phủ (Prime Minister of Vietnam)",
+  "country_or_region": "Vietnam",
+  "summary": "Decision 1705/QĐ-TTg approves the Education Development Strategy through 2030, with vision to 2045. It is the highest-level education strategy document in Vietnam and includes explicit provisions on AI, digital transformation, and CMCN 4.0 (Fourth Industrial Revolution) integration. The strategy adopts a 'human-centered' (lấy con người làm trung tâm) philosophy and calls for proactive adoption of AI and digital technology to modernize education. It does not contain specific provisions on academic integrity in the context of AI, but establishes the policy environment within which integrity regulations operate.",
+
+  "ai_use_policy": "The strategy explicitly calls for: 'deploying the national strategy on research, development, and application of artificial intelligence through 2030 in education and training' (QĐ 127/QĐ-TTg 2021). It mandates 'acceleration of digital transformation and application of artificial intelligence in education management and administration.' It requires all educational institutions to 'implement teaching and school management on digital platforms.' The strategy frames AI positively as a modernization tool — no integrity-specific prohibitions.",
+  "academic_fraud_definition": "Not addressed in this strategic document. Academic integrity is handled by Decree 109/2022 and institutional regulations.",
+  "detection_mechanisms": "Not addressed. The strategy focuses on infrastructure (national databases, connected systems) rather than fraud detection.",
+  "penalties": "Not addressed at this strategic level.",
+  "transparency_requirements": "Strategy emphasizes transparency in education management via digital systems and data connectivity, but not specifically about AI disclosure in academic work.",
+
+  "vietnamese_law_reference": "QĐ 1705/QĐ-TTg 2024 — thuvienphapluat.vn/van-ban/Giao-duc/Quyet-dinh-1705-QD-TTg-2024. Cross-references QĐ 127/QĐ-TTg 2021 (National AI Strategy). Cross-references Luật Giáo dục 2019 (43/2019/QH14). Cross-references Nghị quyết 71-NQ/TW (superseding 36-NQ/TW) on education breakthroughs.",
+  "moet_policy": "The strategy tasks MOET with: (1) leading digital transformation in education; (2) developing AI competency standards for teachers and students; (3) building national education data infrastructure; (4) integrating AI literacy into curriculum. MOET's 2025 National Plan for AI competency in teachers follows directly from this strategy.",
+  "documented_vn_cases": "[uncertain] — This policy document does not document cases.",
+  "vn_university_responses": "The strategy provides the framework for universities to expand AI integration. Higher education institutions are expected to develop AI competencies and implement digital management. Resolution 71-NQ/TW's full autonomy for higher education means each university implements AI policies independently within this national framework.",
+
+  "ai_tutor_vs_cheater_framing": "The strategy frames AI exclusively as a modernization and quality-improvement tool — 'AI as tutor.' There is no 'AI as cheater' framing at this policy level. This creates a policy gap: the Education Strategy promotes AI adoption while integrity regulations (Decree 109/2022) have not been updated to address generative AI specifically.",
+  "responsible_ai_definition": "Implicitly: AI use that supports the four pillars of human-centered development, competency building, equity, and international integration. The strategy references 'ethical, responsible AI development principles' (from QĐ 127/QĐ-TTg) but does not define responsible AI use for students.",
+  "key_researchers": "Prof. Dr. Lê Anh Vinh (VNIES — Vietnam Institute of Educational Sciences) — key researcher advising on AI in education strategy. MOET strategy division. UNICEF Vietnam co-developed the AI strategy for education sector.",
+  "company_ethics_policy": "[uncertain]",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "[uncertain]",
+  "asia_vs_western_differences": "Vietnam's approach via QĐ 1705 is top-down, state-led — contrast with Western universities where academic senate or faculty bodies lead policy. Vietnamese strategy prioritizes AI adoption and modernization goals over integrity safeguards at the national level, reflecting state-directed development model.",
+  "asean_regional_initiatives": "Vietnam's strategy aligns with ASEAN Digital Masterplan 2025 and ASEAN AI Governance Framework. QĐ 127/QĐ-TTg targets Vietnam to rank top 5 in ASEAN for AI by 2025.",
+
+  "framework_name": "Chiến lược Phát triển Giáo dục đến năm 2030 (Education Development Strategy 2030)",
+  "framework_principles": "10 priority tasks and solutions: (1) Institution improvement; (2) Education management innovation; (3) Equity in access; (4) Infrastructure development; (5) Teaching method innovation; (6) Teacher development; (7) Financial resources; (8) Technology application and digital transformation; (9) Scientific research and innovation; (10) International integration. AI appears primarily under pillars 8 and 9.",
+  "iste_standards": "[uncertain]",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "Strategy aligns with UNESCO Education 2030 Framework for Action (Incheon Declaration). Vietnam is a signatory. UNESCO's guidance on AI in education (2023) is consistent with Vietnam's human-centered framing.",
+
+  "implementation_challenges": "Gap between AI promotion (QĐ 1705) and integrity regulation (Decree 109/2022): no MOET circular bridges these. Teacher capacity for AI integration is uneven — 76% self-taught AI usage among 35,000 teachers surveyed. Urban-rural digital divide means AI integration benefits are not equitably distributed. Vietnamese language AI tools are less developed than English tools.",
+  "student_perspective": "Strategy does not directly represent student voice. Student surveys (2023-2024) show high rates of AI tool adoption for academic work, often in ways not clearly guided by institutional policy.",
+  "teacher_perspective": "A 2024 MOET survey (35,000 teachers): 76% have used AI in teaching, >60% self-taught. Strategy aims to systematize AI competency development for all teachers by 2030.",
+  "recommendations": "For EdTech researchers: (1) QĐ 1705 creates an enabling environment for AI integration research in Vietnamese education; (2) The gap between promotion and integrity regulation is a key research and policy gap to address; (3) Researchers should propose an AI integrity framework that complements QĐ 1705's modernization goals while protecting academic honesty; (4) Frame proposals around the strategy's 'human-centered' philosophy to gain traction with Vietnamese policymakers.",
+
+  "primary_sources": [
+    "Quyết định 1705/QĐ-TTg năm 2024 — thuvienphapluat.vn/van-ban/Giao-duc/Quyet-dinh-1705-QD-TTg-2024",
+    "Quyết định 127/QĐ-TTg 2021 — Chiến lược quốc gia về AI đến 2030 — thuvienphapluat.vn"
+  ],
+  "academic_sources": [
+    "VJE Tạp chí Giáo dục (2025), 25(22), 12-17 — analysis of QĐ 1705 in Vietnamese education reform context",
+    "UNICEF Vietnam: Advancing equitable digital transformation in education — unesco.org"
+  ],
+  "vietnamese_sources": [
+    "Quyết định 1705/QĐ-TTg: Chiến lược phát triển giáo dục — tapchigiaochuc.com.vn",
+    "Thủ tướng phê duyệt Chiến lược GD 2030 — baotuyenquang.com.vn",
+    "AI powers sweeping overhaul of Vietnam's education system — vietnamnet.vn (English)",
+    "Vietnam National Forum on Education Innovation with AI 2025 — rmit.edu.vn"
+  ],
+  "urls": [
+    "https://thuvienphapluat.vn/van-ban/Giao-duc/Quyet-dinh-1705-QD-TTg-2024-phe-duyet-Chien-luoc-phat-trien-giao-duc-den-2030-tam-nhin-2045-638222.aspx",
+    "https://xaydungchinhsach.chinhphu.vn/quyet-dinh-1705-qd-ttg-chien-luoc-phat-trien-giao-duc-den-nam-2030-tam-nhin-2045-119250102173414127.htm",
+    "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-127-QD-TTg-2021-Chien-luoc-nghien-cuu-phat-trien-va-ung-dung-Tri-tue-nhan-tao-den-2030-463680.aspx",
+    "https://vietnamnet.vn/en/ai-powers-sweeping-overhaul-of-vietnams-education-system-2505071.html",
+    "https://www.rmit.edu.vn/news/all-news/2025/apr/vietnam-national-forum-on-education-innovation-with-ai-2025-launched"
+  ],
+
+  "uncertain": ["documented_vn_cases", "company_ethics_policy", "singapore_approach", "australia_approach", "iste_standards", "cosn_guidelines"]
+}

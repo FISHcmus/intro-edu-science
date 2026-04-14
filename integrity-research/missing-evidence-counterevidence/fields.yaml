@@ -1,0 +1,127 @@
+fields:
+  # --- BASIC INFO ---
+  - name: item_name
+    description: Full name of the research item
+    type: string
+    required: true
+
+  - name: category
+    description: "Category: historical_precedent | detection_accuracy | oral_defense | cost_benefit | student_motivation | missing_scholar"
+    type: string
+    required: true
+
+  - name: time_period
+    description: Time period covered by this item (e.g., "1960s-1980s", "2023-present", "career span")
+    type: string
+    required: true
+
+  # --- EVIDENCE SUMMARY ---
+  - name: key_findings
+    description: Main findings or contributions — what does the evidence show?
+    type: string
+    required: true
+
+  - name: methodology
+    description: Research methodology used (for studies) or approach taken (for policy documents/scholars)
+    type: string
+    required: true
+
+  - name: sample_size
+    description: Sample size for empirical studies, or scope for non-empirical items (e.g., "27 EU countries" for IPPHEAE)
+    type: string
+    required: true
+
+  - name: geographic_scope
+    description: Which countries or regions the evidence covers
+    type: string
+    required: true
+
+  - name: publication_details
+    description: Full citation including journal, year, DOI if available
+    type: string
+    required: true
+
+  # --- STRENGTH OF EVIDENCE ---
+  - name: study_design
+    description: "Type of evidence: RCT | quasi-experimental | observational | survey | case_study | theoretical | policy_document | expert_opinion | meta-analysis"
+    type: string
+    required: true
+
+  - name: replication_status
+    description: Has the finding been replicated? By whom? In what contexts?
+    type: string
+    required: true
+
+  - name: methodological_limitations
+    description: Known limitations of the methodology or evidence base
+    type: string
+    required: true
+
+  - name: generalizability
+    description: How generalizable are these findings beyond the original context? Specifically to Vietnamese HE?
+    type: string
+    required: true
+
+  # --- RELEVANCE TO AI INTEGRITY DEBATE ---
+  - name: which_debate_claim_it_supports_or_challenges
+    description: Which specific claims from the debate this evidence supports or undermines
+    type: string
+    required: true
+
+  - name: policy_implications
+    description: What policy changes this evidence suggests
+    type: string
+    required: true
+
+  - name: how_it_changes_the_analysis
+    description: How incorporating this evidence would change the debate's conclusions
+    type: string
+    required: true
+
+  # --- COUNTEREVIDENCE ---
+  - name: contradictory_findings
+    description: Any findings that contradict or complicate the main evidence
+    type: string
+    required: true
+
+  - name: alternative_interpretations
+    description: Alternative ways to interpret the evidence that lead to different conclusions
+    type: string
+    required: true
+
+  - name: unresolved_questions
+    description: Questions that this evidence raises but does not answer
+    type: list
+    required: true
+
+  # --- KEY SOURCES ---
+  - name: primary_publications
+    description: Key publications — full citations with DOIs where available
+    type: list
+    required: true
+
+  - name: author_affiliations
+    description: Author institutional affiliations
+    type: list
+    required: true
+
+  - name: funding_sources
+    description: Funding sources for research if known (relevant for potential bias assessment)
+    type: string
+    required: true
+
+  # --- GAP ASSESSMENT ---
+  - name: what_evidence_still_missing
+    description: What evidence would be needed to fully resolve the question this item addresses
+    type: string
+    required: true
+
+  - name: recommended_studies
+    description: Specific studies that should be conducted to fill remaining gaps
+    type: list
+    required: true
+
+  - name: feasibility_of_filling_gap
+    description: How feasible is it to obtain the missing evidence (cost, time, access constraints)
+    type: string
+    required: true

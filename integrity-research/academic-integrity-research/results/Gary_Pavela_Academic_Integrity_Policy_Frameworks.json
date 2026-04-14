@@ -1,0 +1,251 @@
+[
+  {
+    "item_name": "A Model Code of Academic Integrity",
+    "category": "framework",
+    "authors": [
+      "Gary Pavela"
+    ],
+    "year": 1997,
+    "publisher_or_institution": "Journal of College and University Law",
+    "key_contribution": "Seminal framework proposing a model code of academic integrity for higher education institutions, introducing foundational concepts for institutional honor codes and integrity policies. This work established Pavela as a key architect of modern academic integrity approaches, emphasizing association and community responsibility rather than purely punitive measures.",
+    "doi_or_url": "https://eric.ed.gov/?id=EJ566415",
+    "isbn": null,
+    "notable_concepts": [
+      "model honor code",
+      "institutional integrity policies",
+      "association principle",
+      "community responsibility",
+      "modified honor codes",
+      "legal framework for academic integrity",
+      "educational vs punitive approaches"
+    ],
+    "relevance_to_ai_integrity": "Foundational policy framework establishing principles of community-based responsibility and integrity that remain relevant for developing AI-era policies emphasizing education and deterrence over punishment alone."
+  },
+  {
+    "item_name": "Ten Principles of Academic Integrity for Faculty",
+    "category": "framework",
+    "authors": [
+      "Gary Pavela",
+      "Donald L. McCabe",
+      "DeForest McDuff"
+    ],
+    "year": 2017,
+    "publisher_or_institution": "Academic Integrity Seminar / Integrity Seminars",
+    "key_contribution": "Comprehensive framework of ten principles for faculty to promote academic integrity, replacing the 2004 version published in Change Magazine. Updated version includes emphasis on faculty as guides and mentors, relationship-building with students, internet literacy, assessment design, and institutional support for integrity. Represents evolution from punitive to educational approaches.",
+    "doi_or_url": "https://integrityseminar.org/wp-content/uploads/2018/02/AIS-Ten-Principles-2017.pdf",
+    "isbn": null,
+    "notable_concepts": [
+      "ten principles framework",
+      "faculty role in promoting integrity",
+      "institutional value alignment",
+      "student responsibility",
+      "internet and online resource literacy",
+      "personal respect and connection",
+      "assessment modification strategies",
+      "institutional response to dishonesty",
+      "educational approach vs punishment"
+    ],
+    "relevance_to_ai_integrity": "Essential contemporary framework that emphasizes faculty guidance and relationship-building, which are critical approaches for navigating AI-era academic integrity challenges through education rather than detection."
+  },
+  {
+    "item_name": "Ten Principles of Academic Integrity for Faculty (Updated 2025)",
+    "category": "framework",
+    "authors": [
+      "Gary Pavela",
+      "Donald L. McCabe",
+      "DeForest McDuff"
+    ],
+    "year": 2025,
+    "publisher_or_institution": "Academic Integrity Seminar / Integrity Seminars",
+    "key_contribution": "Latest updated version of foundational ten principles framework incorporating emerging challenges and contemporary research on academic integrity. Continues emphasis on faculty mentorship, institutional values, and educational approaches while addressing evolving technologies and student contexts.",
+    "doi_or_url": "https://integrityseminar.org/resources/",
+    "isbn": null,
+    "notable_concepts": [
+      "updated principles 2025",
+      "contemporary academic integrity",
+      "faculty mentorship",
+      "institutional alignment",
+      "emerging technology challenges",
+      "educational frameworks",
+      "student responsibility"
+    ],
+    "relevance_to_ai_integrity": "Most current framework guidance explicitly addressing AI and emerging technologies in academic integrity, providing institutional leaders and faculty with up-to-date principles for policy development in AI era."
+  },
+  {
+    "item_name": "Some Good News About Academic Integrity",
+    "category": "journal",
+    "authors": [
+      "Donald McCabe",
+      "Gary Pavela"
+    ],
+    "year": 2000,
+    "publisher_or_institution": "Change Magazine",
+    "key_contribution": "Collaborative publication examining positive developments and encouraging trends in academic integrity initiatives at colleges and universities, presenting research-based evidence that educational and community-based approaches yield favorable outcomes for integrity promotion.",
+    "doi_or_url": null,
+    "isbn": null,
+    "notable_concepts": [
+      "positive integrity trends",
+      "educational effectiveness",
+      "community-based approaches",
+      "institutional improvements",
+      "research-based evidence",
+      "optimistic integrity perspective"
+    ],
+    "relevance_to_ai_integrity": "Foundational perspective on effectiveness of educational approaches to integrity promotion, supporting evidence-based policy design for AI-era academic integrity that emphasizes prevention through education."
+  },
+  {
+    "item_name": "Applying the Power of Association on Campus: A Model Code of Academic Integrity",
+    "category": "policy_document",
+    "authors": [
+      "Gary Pavela"
+    ],
+    "year": 1997,
+    "publisher_or_institution": "Journal of College and University Law",
+    "key_contribution": "Influential policy document establishing the concept of modified honor codes that balance institutional community values with accountability mechanisms. Introduces the principle of association as a core concept in academic integrity policy, shifting away from purely punitive models toward community-based responsibility.",
+    "doi_or_url": null,
+    "isbn": null,
+    "notable_concepts": [
+      "association principle",
+      "modified honor codes",
+      "institutional community",
+      "accountability mechanisms",
+      "policy innovation",
+      "balance between community and enforcement"
+    ],
+    "relevance_to_ai_integrity": "Establishes fundamental principle that institutional community and faculty engagement are central to integrity work, relevant for developing AI policies that rely on faculty guidance rather than detection technology alone."
+  },
+  {
+    "item_name": "Friendship, Fidelity and Academic Integrity",
+    "category": "journal",
+    "authors": [
+      "Gary Pavela"
+    ],
+    "year": 2018,
+    "publisher_or_institution": "Medium",
+    "key_contribution": "Reflective piece examining the relationship between personal connection, trust, and academic integrity. Argues that genuine friendships and relational fidelity between faculty and students are foundational to maintaining integrity, moving beyond transactional compliance approaches.",
+    "doi_or_url": "https://medium.com/@gpavela/friendship-fidelity-and-academic-integrity-024627d0bb25",
+    "isbn": null,
+    "notable_concepts": [
+      "faculty-student relationships",
+      "trust and integrity",
+      "fidelity in academic community",
+      "relational integrity",
+      "friendship as integrity foundation",
+      "beyond compliance approaches"
+    ],
+    "relevance_to_ai_integrity": "Emphasizes human relationship and trust as central to academic integrity, suggesting that policies relying solely on AI detection or technical solutions are insufficient without strong faculty-student relationships."
+  },
+  {
+    "item_name": "Honor Pledges and Self-Image",
+    "category": "journal",
+    "authors": [
+      "Gary Pavela"
+    ],
+    "year": 2020,
+    "publisher_or_institution": "Medium",
+    "key_contribution": "Explores the psychological and sociological mechanisms through which honor pledges and honor code systems reinforce academic integrity by shaping student self-image and identity alignment with institutional values.",
+    "doi_or_url": "https://medium.com/@gpavela/honor-pledges-and-self-image-116a1f9cda2",
+    "isbn": null,
+    "notable_concepts": [
+      "honor pledges effectiveness",
+      "self-image influence",
+      "identity alignment",
+      "psychological mechanisms",
+      "honor code systems",
+      "values internalization"
+    ],
+    "relevance_to_ai_integrity": "Provides psychological framework for understanding how institutional messaging and pledges shape student behavior, relevant for designing AI-era integrity policies that work through identity alignment rather than surveillance."
+  },
+  {
+    "item_name": "Academic Integrity Strategies and Initiatives for International Students",
+    "category": "framework",
+    "authors": [
+      "Gary Pavela"
+    ],
+    "year": 2021,
+    "publisher_or_institution": "Medium",
+    "key_contribution": "Targeted framework addressing unique academic integrity challenges for international student populations, including cultural differences in understanding plagiarism, language barriers, and adaptation challenges. Proposes culturally-sensitive strategies for promoting integrity among diverse student populations.",
+    "doi_or_url": "https://medium.com/@gpavela/academic-integrity-strategies-and-initiatives-for-international-students-735fe9035ff0",
+    "isbn": null,
+    "notable_concepts": [
+      "international student challenges",
+      "cultural differences",
+      "language barriers",
+      "plagiarism understanding",
+      "culturally-sensitive approaches",
+      "diversity in academic integrity",
+      "adaptation support"
+    ],
+    "relevance_to_ai_integrity": "Highlights that academic integrity approaches must be culturally responsive and adapted for diverse populations, suggesting AI-era policies need careful consideration for international and non-native English speakers."
+  },
+  {
+    "item_name": "New Honor Codes for a New Generation",
+    "category": "journal",
+    "authors": [
+      "Gary Pavela"
+    ],
+    "year": 2005,
+    "publisher_or_institution": "Inside Higher Ed",
+    "key_contribution": "Opinion piece advocating for revival and modernization of honor codes for contemporary higher education, arguing that modified honor codes can be effective for current student populations when designed with flexibility and community input rather than rigid traditional approaches.",
+    "doi_or_url": "https://www.insidehighered.com/views/2005/03/11/new-honor-codes-new-generation",
+    "isbn": null,
+    "notable_concepts": [
+      "honor code modernization",
+      "contemporary student adaptation",
+      "flexibility in honor systems",
+      "community-based design",
+      "generational differences",
+      "institutional traditions"
+    ],
+    "relevance_to_ai_integrity": "Demonstrates Pavela's advocacy for updating integrity frameworks to address contemporary challenges, principle applicable to developing AI-adapted honor codes and integrity policies for current student generation."
+  },
+  {
+    "item_name": "History of the International Center for Academic Integrity (ICAI): Exigence, Genesis, and Impact",
+    "category": "framework",
+    "authors": [
+      "Gary Pavela",
+      "Donald McCabe"
+    ],
+    "year": 2024,
+    "publisher_or_institution": "Springer Nature",
+    "key_contribution": "Comprehensive historical and impact analysis of ICAI's founding in 1992 by six volunteers including Gary Pavela and Donald McCabe. Documents evolution from Center for Academic Integrity to International Center for Academic Integrity, showing organizational growth and influence on global academic integrity policies and practices.",
+    "doi_or_url": "https://www.researchgate.net/publication/373461464_History_of_the_International_Center_for_Academic_Integrity_ICAI_Exigence_Genesis_and_Impact",
+    "isbn": null,
+    "notable_concepts": [
+      "ICAI founding history",
+      "institutional evolution",
+      "international expansion",
+      "organizational impact",
+      "policy influence",
+      "leadership development",
+      "community building"
+    ],
+    "relevance_to_ai_integrity": "Documents the organization founded by Pavela that continues to shape global academic integrity policy, providing context for current ICAI work on AI and emerging technologies in higher education."
+  },
+  {
+    "item_name": "The Pavela Report: College Publications",
+    "category": "policy_document",
+    "authors": [
+      "Gary Pavela"
+    ],
+    "year": 2008,
+    "publisher_or_institution": "College Publications",
+    "key_contribution": "Ongoing publication series providing expert commentary and analysis on current issues in higher education law, policy, and academic integrity. Covers institutional policy development, legal challenges, and contemporary challenges to academic integrity in higher education.",
+    "doi_or_url": "http://www.collegepubs.com/who-we-are/",
+    "isbn": null,
+    "notable_concepts": [
+      "expert commentary",
+      "higher ed policy analysis",
+      "legal perspectives",
+      "current issues coverage",
+      "institutional policy guidance",
+      "ongoing scholarship"
+    ],
+    "relevance_to_ai_integrity": "[uncertain] Ongoing publication series that likely addresses emerging AI and technology issues, though specific AI-focused articles not identified in search."
+  },
+  {
+    "uncertain": [
+      "Item 10 - relevance_to_ai_integrity: The Pavela Report publication series likely addresses AI and contemporary issues but specific AI-focused articles were not identified in web search results, so relevance cannot be fully confirmed."
+    ]
+  }
+]

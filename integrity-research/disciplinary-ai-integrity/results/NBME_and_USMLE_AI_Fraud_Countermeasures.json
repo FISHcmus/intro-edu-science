@@ -1,0 +1,183 @@
+{
+  "item_name": "NBME and USMLE AI Fraud Countermeasures: Examination Security in High-Stakes Medical Licensing",
+  "discipline": "medicine",
+  "sub_discipline": "medical licensing and physician credentialing",
+  "category": "medicine",
+  "specific_fraud_methods": [
+    "Use of ChatGPT and other large language models to generate answers to written examination questions during study preparation",
+    "Unauthorized access to examination materials through memorized content shared online ('remembered materials')",
+    "Impersonation: proxy test-taking where someone else takes the exam on behalf of the candidate",
+    "Remote access to AI tools during examination via hidden devices or virtual machines",
+    "Coordinated cheating with organized impersonation services using deepfake technology",
+    "Credential forgery: falsified medical licenses or fake diplomas to bypass credentialing verification"
+  ],
+  "ai_tools_used": [
+    "ChatGPT (versions 3.5, 4.0, 4o) - text generation for answering multiple-choice questions",
+    "Claude and other large language models - medical reasoning and question answering",
+    "Copilot, Gemini, DeepSeek, Grok - comparative AI models tested on medical exams",
+    "DeepFake technology - facial/voice synthesis for proxy test-taking",
+    "Virtual machine software - remote access to AI tools during in-person testing",
+    "AI-powered proctoring avoidance tools - detection evasion"
+  ],
+  "detection_difficulty": "Moderate to high. Text-based AI detection is challenging because ChatGPT performs at 52-75% accuracy on USMLE questions, approaching passing thresholds (60%). However, detection is easier than in academic essay contexts because: (1) medical exams include multimodal elements (images, audio cardiac sounds, computer-based case simulations) that text-only AI cannot directly answer; (2) in-person proctoring with physical security measures (metal detectors, biometric screening) prevents access to devices; (3) NBME uses statistical anomaly detection to flag unusual response patterns; (4) scoring analysis can identify aberrant performance inconsistent with candidate's historical patterns. The main detection challenge is distinguishing between AI-generated reasoning in study preparation (which is increasingly permissible) versus unauthorized AI use during the actual exam (which is prohibited). Remote proctoring via ProProctor AI requires behavioral analysis to detect suspicious patterns.",
+  "unique_disciplinary_challenges": "Medical licensing exams present uniquely high stakes for AI integrity because: (1) **Direct patient safety risk**: Unlike other disciplines where assessment fraud affects mainly career prospects, unlicensed or unqualified physicians directly endanger patients' lives—fraud threatens public health and patient safety; (2) **Credentialing consequences**: USMLE and COMLEX scores are the foundation of physician licensing and professional credentialing; fraud here directly leads to unqualified practitioners entering clinical practice; (3) **Multimodal assessment design**: USMLE includes images (histology, imaging scans), audio (cardiac sounds, heart murmurs), and interactive case simulations that text-based AI cannot fully address, creating natural resistance but also complexity in exam design; (4) **High bar for AI performance**: The 60% passing threshold on text questions is near ChatGPT's baseline (52-75%), meaning even marginal improvements in AI capability present fraud threats; (5) **Regulatory oversight**: Medical licensing is governed by state medical boards and FSMB—violations have serious legal consequences including criminal fraud charges, not just academic discipline; (6) **Professional ethics obligation**: Physicians take oath to 'do no harm'; fraud in licensing directly violates this foundational principle; (7) **International impact**: USMLE serves IMGs (International Medical Graduates) from 186 countries, creating complex verification challenges for credential validation.",
+  "governing_body": "National Board of Medical Examiners (NBME) and Federation of State Medical Boards (FSMB) jointly oversee USMLE; National Board of Osteopathic Medical Examiners (NBOME) oversees COMLEX-USA; Prometric provides testing administration",
+  "policy_documents": [
+    "NBME 'AI in Assessment: Ethics, Innovation and Research' Executive Summary (March 2024) - establishing ethical guidelines for AI in medical assessment",
+    "USMLE Bulletin of Information (2024-2025) - exam security and irregular behavior policies",
+    "COMLEX-USA Bulletin of Information (2024-2025, 2025-2026) - osteopathic exam security procedures",
+    "USMLE Exam Security & Fairness Guidance - defining irregular behavior and investigation procedures",
+    "Prometric Security Capabilities Overview - physical and AI-powered remote proctoring standards",
+    "AAMC Principles for Responsible AI in Medical School and Residency Selection - guidance on AI use in medical education",
+    "AAMC AI Policy Development Checklist for Medical Education - institutional AI governance framework",
+    "NBOME Irregular Conduct Policy - investigation and enforcement procedures for COMLEX",
+    "USMLE Examples of Security Violations - explicit list of prohibited behaviors"
+  ],
+  "guidance_date": "March 2024 (NBME AI in Assessment Executive Summary); ongoing guidance development through 2024-2025",
+  "enforcement_approach": "Mixed: punitive and educational. The NBME/FSMB uses: (1) **Investigation-based**: STOPit app allows anonymous reporting; USMLE conducts formal investigations of alleged irregular behavior; findings become part of permanent USMLE transcript; (2) **Punitive**: candidates found to have engaged in irregular behavior are barred from taking future examinations and/or special administrative procedures imposed; professional consequences extend to state medical licensing boards; (3) **Detection-based**: statistical analysis of response patterns to flag aberrant examinee behavior; unusual score patterns trigger requests for candidate explanation; (4) **Preventive/Educational**: NBME's ethical guidelines development emphasizes transparency and responsible AI use in medical education; AAMC provides institutional guidance on AI policy development; (5) **Credentialing-level consequences**: violations can prevent physician licensing and admission to medical practice—the highest-stakes enforcement in higher education. NBOME and USMLE do not emphasize public shaming or institutional penalties but rather permanent credentialing consequences.",
+  "traditional_assessment_methods": [
+    "Multiple-choice questions with single best answer (Step 1, Step 2 CK)",
+    "Single patient-centered vignettes with 4-5 response options",
+    "Questions with graphic/pictorial interpretation (medical imaging, histology slides, ECG traces)",
+    "Audio/video question items (cardiac sounds, heart murmurs, physical exam findings)",
+    "Computer-based case simulations (CCS) - interactive clinical management scenarios (Step 3)",
+    "Step 3 CCS includes diagnosis, treatment planning, monitoring, and sequencing of clinical actions",
+    "Free-text answer components in some assessments",
+    "Timed assessment administered in secure testing centers"
+  ],
+  "ai_vulnerable_assessments": [
+    "Multiple-choice text-based questions without visual media (ChatGPT scored 52-75% accuracy)",
+    "Questions testing medical knowledge, diagnosis, and treatment reasoning—domains where ChatGPT excels",
+    "Extended matching items (EMI) where text-based reasoning is sufficient",
+    "Free-text responses in educational assessments (not used on USMLE but common in medical school)",
+    "Remote online assessments without real-time proctoring verification",
+    "Take-home assessments or open-book formats in medical education (distinct from USMLE)"
+  ],
+  "ai_resistant_assessments": [
+    "Questions with mandatory image interpretation (histology, imaging scans, ECG, pedigrees) - current AI models struggle with visual reasoning combined with clinical decision-making",
+    "Audio-based questions requiring identification of cardiac sounds or physical exam findings - visual/audio modalities not present in text-only AI outputs",
+    "Computer-based case simulations (Step 3 CCS) - interactive real-time clinical management with timing and sequencing requirements",
+    "In-person examination under physical security with biometric identification and continuous proctoring",
+    "Examinations administered at secure Prometric test centers with metal detectors and surveillance"
+  ],
+  "redesign_proposals": [
+    "Increase proportion of multimodal question items combining text, images, and audio to create natural AI resistance",
+    "Expand computer-based case simulations (CCS format) that require real-time decision-making—harder for static AI to optimize",
+    "Implement statistical anomaly detection to flag unusual response patterns, rapid answer sequences, or inconsistencies with candidate's historical performance",
+    "Strengthen remote proctoring with ProProctor AI: automated AI scanning for behavioral anomalies + human reviewer follow-up",
+    "Deploy second camera in remote testing environments to increase proctor visibility and reduce detection evasion",
+    "Enhance physical security at Prometric test centers: biometric scanning, metal detectors, and mandatory pocket/clothing checks before each exam room entry",
+    "Implement scoring analysis that flags candidates whose test performance inconsistent with their previous performance trajectory",
+    "Create transparent assessment design: publish item development standards that incorporate AI resistance criteria from the start",
+    "Develop AI literacy training for medical educators and exam developers to understand AI capabilities and vulnerabilities",
+    "Establish multi-layer verification for credential validation: automated fraud detection + human credentialing specialists checking for forgery and impersonation"
+  ],
+  "case_descriptions": [
+    {
+      "case_name": "ChatGPT Performance on USMLE Sample Items (2023)",
+      "description": "Research teams tested ChatGPT 3.5 on USMLE sample questions from the NBME. ChatGPT was given official USMLE practice questions (not exam questions) and responses were scored according to operational practice. ChatGPT scored above 60% correct (passing threshold) except on one Step 3 replication. Notably, response success varied across replications for 76 items (20%), indicating instability. NBME concluded: (1) ChatGPT performance was overstated in media coverage; (2) practice questions used in research are not representative of full exam breadth (missing images, sounds, CCS); (3) NBME would not be surprised to see AI improve dramatically with future iterations.",
+      "fraud_indicator": "Demonstrates that current AI can approach but not reliably pass medical licensing exams; however, improvements in AI capability pose ongoing risk",
+      "resolution": "NBME published guidance acknowledging AI capability but emphasizing that multimodal assessment design provides natural resistance"
+    },
+    {
+      "case_name": "NBOME/COMLEX Exam Score Data Leak (ResidencyCAS Incident, 2024)",
+      "description": "NBOME mistakenly transmitted COMLEX Level 1 three-digit scores to residency programs via ResidencyCAS, when only pass/fail results should have been sent. The leak was significant because: (1) programs received granular score data unauthorized; (2) students had not yet received their own scores when program directors saw them; (3) the error affected OB/GYN applicants across the country. NBOME notified program directors that three-digit scores were erroneous and should not be used in interview/match decisions.",
+      "fraud_indicator": "Administrative security failure in credentialing data handling; demonstrates vulnerability in exam score transmission systems even without AI involvement",
+      "resolution": "NBOME issued guidance to program directors to disregard leaked scores; procedural correction implemented to prevent recurrence"
+    },
+    {
+      "case_name": "Haishan Yang v. University of Minnesota - AI Cheating Disciplinary Case (2024-2025)",
+      "description": "Haishan Yang, a Ph.D. student in Health Services Research, was expelled for academic dishonesty involving unauthorized ChatGPT use on a doctoral exam in August 2024. The exam instructions explicitly prohibited 'any sort of Artificial Intelligence tools, such as ChatGPT.' Faculty compared Yang's responses with ChatGPT outputs and found near-identical phrasing and examples, with several answers exactly matching AI text. Yang had also allegedly used ChatGPT to draft practice exam responses. Yang received notice, submitted 35-page written defense, participated in formal hearing before 5-member Committee on Student Behavior, and was represented by an advocate. In January 2025, Yang sued University of Minnesota under 42 U.S.C. §1983 seeking over $4 million in damages, reinstatement, and expungement of disciplinary record. A federal court upheld the university's disciplinary process, finding that Yang had received sufficient notice, representation, opportunity to present evidence, and appellate review—satisfying due process despite the harsh outcome (expulsion).",
+      "fraud_indicator": "Demonstrates the tension between AI detection reliability and institutional enforcement; shows courts upholding university due process even when detection methods are controversial",
+      "resolution": "Federal court upheld university discipline; Yang's case illustrates that doctoral students are not necessarily better protected than undergraduates in AI misconduct proceedings"
+    },
+    {
+      "case_name": "Yale School of Management AI Cheating Dispute (2026)",
+      "description": "A Yale SOM student was accused of violating the Honor Code by improperly using AI on a final exam. Following university disciplinary proceedings and suspension, the student sued Yale University. The complaint alleges: (1) pressure to confess to cheating; (2) irregularities in disciplinary proceedings and appeals; (3) insufficient notice or opportunity to defend; (4) discriminatory and retaliatory conduct. Case was ongoing as of 2026.",
+      "fraud_indicator": "Illustrates the adversarial relationship developing between institutions and accused students in AI cheating cases; suggests procedural fairness concerns",
+      "resolution": "Litigation ongoing; outcome not yet determined"
+    }
+  ],
+  "institutions_involved": [
+    "National Board of Medical Examiners (NBME) - developer of USMLE",
+    "Federation of State Medical Boards (FSMB) - co-sponsor of USMLE",
+    "National Board of Osteopathic Medical Examiners (NBOME) - developer of COMLEX-USA",
+    "Prometric - testing center provider for USMLE and COMLEX",
+    "Pearson VUE - alternative testing platform for COMLEX and other medical exams",
+    "All state medical licensing boards (receive USMLE results and enforce licensing standards)",
+    "Medical schools across the US and internationally",
+    "Residency programs (rely on USMLE/COMLEX scores for applicant screening)",
+    "University of Minnesota (Haishan Yang case)",
+    "Yale School of Management (AI cheating case 2026)"
+  ],
+  "outcomes": "As of April 2026: (1) NBME has not implemented wholesale changes to USMLE assessment design in response to AI threats, but continues to research multimodal question design and AI resistance; (2) NBME published 'AI in Assessment: Ethics, Innovation and Research' (March 2024) establishing ethical guidelines but not strict prohibitions on AI in medical education; (3) USMLE and COMLEX exams remain largely multiple-choice in format, administered in secure testing centers with physical and electronic proctoring; (4) Prometric has enhanced remote proctoring with ProProctor AI offering fully automated, hybrid, and live-proctored options; (5) Disciplinary outcomes for AI cheating in medical education remain case-by-case; federal courts have upheld university disciplinary processes when proper notice and hearing rights are provided; (6) AAMC and other medical education organizations have released guidance on responsible AI use in medical education but have not mandated institutional policies; (7) NBOME's data leak incident (COMLEX scores) prompted procedural corrections but no major structural changes; (8) No documented cases of medical students being caught using AI during actual USMLE or COMLEX exams—most documented cases involve coursework or educational assessments rather than high-stakes licensing exams. The strong in-person proctoring at Prometric appears to be effective in preventing device-based cheating.",
+  "media_coverage": [
+    "\"USMLE Program Discusses ChatGPT\" - NBME/USMLE official response (2023)",
+    "\"Examining ChatGPT Performance on USMLE Sample Items and Implications for Assessment\" - Academic Medicine (2024)",
+    "\"Two AI chatbots passed the USMLE, doctors react\" - MDLinx (2023)",
+    "\"The Rise of Artificial Intelligence: ChatGPT's Stunning Results on the US Medical Licensing Exam\" - SciTechDaily (2023)",
+    "\"NBOME Leaks COMLEX Medical Exam Scores: ResidencyCAS Scandal\" - Med School Insiders (2024)",
+    "\"Despite Penalties, Lawyers Can't Stop Using AI\" - Hackaday (April 2026) - broader context on AI enforcement challenges",
+    "Academic and medical education conferences: AIME 2023 and 2024; Innovations in Medical Education Conference; Macy Foundation AI initiatives",
+    "LinkedIn and professional networks: AAMC announcements on AI policy tools and guidelines"
+  ],
+  "direct_harm_risk": "Yes, very high. AI fraud in medical licensing creates direct and immediate risk to patient safety and public health. An unqualified physician (who passed licensing exams through AI assistance or credential fraud) can make clinical errors leading to: misdiagnosis, inappropriate treatment, medication errors, surgical complications, patient disability, and death. Medical licensing exams assess not just knowledge but clinical reasoning, which is essential for patient safety. Unlike assessment fraud in other disciplines where harm is primarily to career prospects, medical licensing fraud directly endangers lives. The NBME's mission is 'to protect the health of the public through state of the art assessment,' explicitly recognizing this public safety mandate. Courts have awarded damages near $8 million in negligent credentialing cases where improper vetting led to patient harm (e.g., amputation due to unqualified surgeon).",
+  "credentialing_integrity": "Critical threat. Medical licensing exams are the foundation of physician credentialing and professional licensing. AI fraud in USMLE/COMLEX directly undermines the credibility of the entire medical credentialing system. If physicians can use AI to pass licensing exams, then state medical boards cannot trust exam scores as evidence of competence, compromising their licensing decisions. This threatens: (1) the integrity of board certification; (2) public trust in licensed physicians; (3) institutional credentialing decisions by hospitals and health systems; (4) residency program selection of trainees; (5) international recognition of US medical credentials. FSMB and state medical boards depend entirely on USMLE/COMLEX results to make licensing decisions—if exam integrity fails, their entire regulatory framework collapses. NBOME has experienced a credentialing data leak (COMLEX score breach), highlighting vulnerability even in administrative credentialing systems. AI fraud could expand this vulnerability to the assessment itself.",
+  "professional_licensing_stakes": "The USMLE and COMLEX are the highest-stakes professional exams in the US healthcare system. Passing these exams is mandatory for physician licensure—without a passing score, candidates cannot practice medicine or pursue residency training in almost all US jurisdictions. The stakes are: (1) **career viability**: a failed attempt significantly delays or blocks medical practice; (2) **public safety mandate**: exam security directly determines who is licensed to practice medicine; (3) **international impact**: USMLE serves IMGs from 186 countries, affecting global physician workforce credentialing; (4) **regulatory authority**: state medical boards rely entirely on USMLE/COMLEX scores to make licensing determinations; (5) **financial consequences**: false licensing creates liability for healthcare systems (negligent credentialing); (6) **criminal liability**: unlicensed practice and credential fraud are federal crimes with prison sentences; (7) **professional ethics**: physicians take oath to 'do no harm'; fraud violates foundational professional principles. No other professional licensing exam in the US carries comparable stakes for public safety.",
+  "discipline_specific_researchers": [
+    "NBME Assessment Research Division - researchers studying fair assessment, multimodal item design, and AI implications",
+    "Dr. Aditi Pimentel and colleagues - research on ChatGPT performance on medical exams (PLOS Digital Health 2024)",
+    "FSMB Ethics and Professionalism Committee - policy development on integrity in medical licensing",
+    "AAMC Medical Education Leadership - Alison Whelan and colleagues developing AI policy guidance for medical schools",
+    "Josiah Macy Jr. Foundation grantees - three demonstration projects on responsible AI use in medical education (2024-2026)",
+    "University of Miami Innovations in Medical Education Conference organizers - convening scholars on AI impact",
+    "Prometric Assessment Security Research Team - developing ProProctor AI and remote proctoring standards",
+    "[uncertain] Individual researchers on medical education assessment at major medical schools (Stanford, UCSF, Johns Hopkins, Harvard, Yale)",
+    "International Conference on Artificial Intelligence in Medicine (AIME) 2024 proceedings authors"
+  ],
+  "key_publications": [
+    "NBME. 'AI in Assessment: Ethics, Innovation and Research' Executive Summary (March 2024)",
+    "Pimentel, A. et al. 'Examining ChatGPT Performance on USMLE Sample Items and Implications for Assessment.' Academic Medicine 99(2), 2024",
+    "Journal article: 'Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models' PLOS Digital Health, 2024",
+    "Kaur, R. et al. 'Performance of 5 AI Models on United States Medical Licensing Examination Step 1 Questions: Comparative Observational Study.' JMIR AI, 2025-2026",
+    "USMLE Bulletin of Information (2024-2025) - official security and irregular behavior policies",
+    "COMLEX-USA Bulletin of Information (2024-2025, 2025-2026) - osteopathic exam security standards",
+    "AAMC 'Principles for Responsible AI in Medical School and Residency Selection' - institutional guidance framework",
+    "AAMC 'AI Policy Development Checklist for Medical Education' - governance tool for institutions",
+    "Prometric 'Security Capabilities Overview' and 'Future-Proof High-Stakes Tests Against AI Fraud' guide",
+    "Caveon 'Test Security Standards in Online Proctoring' (2024) - proctoring best practices",
+    "[uncertain] Peer-reviewed research on aberrant response pattern detection in educational testing (autoencoder methods, 2024-2026)"
+  ],
+  "conferences": [
+    "22nd International Conference on Artificial Intelligence in Medicine (AIME 2024) - University of Utah, July 9-12, 2024",
+    "21st International Conference on Artificial Intelligence in Medicine (AIME 2023) - University of Maribor, Slovenia, June 12-15, 2023",
+    "NBME-organized 'AI in Assessment' On-Demand webinar/conference series (2024)",
+    "Innovations in Medical Education Conference - University of Miami - addressed 'AI Tipping Point' in medical education",
+    "Josiah Macy Jr. Foundation 2024 Conference on AI in Medical Education",
+    "NBME Equity in Measurement and Assessment Conference - April 25-26, 2023, Conshohocken, Pennsylvania",
+    "Harvard Medical School 'Precision Medicine 2024: Education at HMS in the Generative AI Era' conference",
+    "[uncertain] AAMC annual conference sessions on AI policy and governance (2024-2026)"
+  ],
+  "how_different_from_stem_social_science": "Medical licensing exams differ fundamentally from STEM and social science assessment fraud contexts in four critical ways: (1) **Direct patient safety risk**: Unlike STEM and social science where fraud affects primarily career advancement or research integrity, medical licensing fraud directly endangers patients' lives—an unqualified physician can kill or seriously harm patients; this creates a public health mandate absent in other disciplines; (2) **Regulatory enforcement power**: Medical licensing is enforced by state boards with legal authority to revoke licenses and prosecute fraud criminally (federal health care fraud statutes); social science and STEM rely primarily on academic discipline (expulsion, degree revocation); (3) **Multimodal assessment design**: Medical exams deliberately include images, audio, and interactive simulations specifically designed to be resistant to text-based AI—unlike STEM where AI excels at math/coding or social science where essays are AI-vulnerable; USMLE's design inherently resists AI in ways that CS homework or policy papers do not; (4) **Credentialing centrality**: USMLE/COMLEX scores are the absolute foundation of physician credentialing—state medical boards have no alternative means of assessing fitness to practice; in STEM and social science, academic degree + portfolio + interviews can substitute; there is no 'residual credibility' if the licensing exam is compromised. These factors make medical licensing exams the strongest case for justified strict proctoring and AI fraud countermeasures in higher education.",
+  "unique_detection_challenges": "Medical exam AI fraud detection faces distinct challenges compared to general higher education: (1) **Absence of prior writing samples**: In academic cheating detection, AI detectors compare AI-written essays against known student writing; USMLE candidates have no prior USMLE responses to compare against—this eliminates historical baseline comparison methods; (2) **Multimodal question resistance means limited fraud opportunity**: Unlike essay exams vulnerable to ChatGPT, USMLE's images, audio, and case simulations are not effectively completed by AI; therefore, fraud requires device-based cheating (hidden phone/earpiece) rather than knowledge substitution—making detection a physical security problem, not a text analysis problem; (3) **In-person exam environment eliminates remote fraud vectors**: USMLE and COMLEX are administered in-person at Prometric test centers with biometric screening and metal detectors, making device-based AI access very difficult—this is unlike online courses where remote AI use is the primary vulnerability; (4) **Distinguishing permitted from prohibited AI use**: Medical schools increasingly teach with ChatGPT and other AI tools; candidates use AI in study preparation; the challenge is distinguishing AI use in learning (increasingly permitted) from AI use during the actual exam (prohibited)—this gray area is harder to adjudicate than clear exam-taking violations; (5) **Limited documented fraud cases**: No known cases of medical students successfully using AI to cheat on actual USMLE/COMLEX exams exist in public record (as of April 2026)—meaning detection methods are largely untested in practice; (6) **Statistical anomaly detection limitations**: Response pattern analysis can flag unusual scores, but legitimate variation in performance (good day, bad day, exam anxiety) creates false positives; medical candidates with strong foundational knowledge may simply perform inconsistently.",
+  "discipline_specific_solutions": [
+    "Multimodal assessment design: Deliberately expand questions with images, audio (cardiac sounds), and interactive case simulations that text-based AI cannot answer—this is uniquely suited to medical education where clinical reasoning depends on visual/audio data",
+    "Computer-based case simulations (CCS) as core exam format: Expand Step 3-style interactive scenarios where timing, sequencing, and real-time decision-making matter; these are harder for static AI to optimize than multiple-choice",
+    "Remote proctoring with multi-layer verification: ProProctor AI automated scanning + human reviewer for remote candidates; second camera for increased visibility",
+    "Physical security integration: Biometric identification + metal detectors + mandatory clothing/pocket checks at Prometric test centers specifically targets device-based cheating, the primary fraud vector given exam design resistance to AI",
+    "Statistical response pattern analysis: Flag candidates with aberrant response patterns (rapid sequencing, inconsistent performance trajectories) and require explanation—medical educators understand statistical reasoning and can evaluate these explanations contextually",
+    "Credential validation automation + human review: AI can flag suspicious credentials (metadata misalignment, document forgery indicators), with human credentialing specialists following up—addresses the broader credentialing fraud threat beyond just exam day",
+    "Transparency in assessment design: NBME and COMLEX publish item development standards incorporating AI resistance from the outset—allows institutions to understand design and reduces mystery/suspicion",
+    "AI literacy for exam developers: Training item writers and assessment specialists on AI capabilities and vulnerabilities, so they design deliberately to resist AI while maintaining validity",
+    "Ethical AI guidance in medical education: AAMC and NBME provide clear policies on permissible AI use in learning (increasingly allowed) vs. prohibited AI use on exams—clarity reduces gray areas",
+    "Residency program transparency on scoring reliance: Clear communication that COMLEX Level 1 and USMLE Step scores are used in screening but not the only credentialing signal; reduced score inflation motivation if programs explicitly value other factors"
+  ],
+  "uncertain": [
+    "discipline_specific_researchers - individual researcher names at major institutions not fully documented",
+    "NBME AI in Assessment Executive Summary full content - PDF was not fully readable in web fetch",
+    "Specific AAMC conference proceedings and key publication details for medical education assessment",
+    "Number and details of unreported USMLE/COMLEX exam-day AI cheating incidents (may exist but not public)",
+    "Current status of Yale SOM student's lawsuit (2026 case ongoing)",
+    "Exact detection rate and false positive rate of Prometric's ProProctor AI system"
+  ]
+}

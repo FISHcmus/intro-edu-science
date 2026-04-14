@@ -1,0 +1,47 @@
+{
+  "_source_file": "outline.yaml",
+  "id": "book_eaton_2021",
+  "name": "Plagiarism in Higher Education: Tackling Tough Topics in Academic Integrity",
+  "type": "book",
+  "author": "Sarah Elaine Eaton",
+  "publisher": "ABC-CLIO (Libraries Unlimited)",
+  "year": 2021,
+  "isbn": "978-1-4408-7437-6",
+  "key_argument": "Issue-by-issue exploration; introduces 'postplagiarism' concept; AI changes nature of plagiarism itself",
+
+  "dinh_nghia": "Eaton (2021) defines plagiarism expansively as 'the misrepresentation of someone else's intellectual work as one's own,' and introduces 'postplagiarism' as the emerging condition in which human-AI hybrid authorship renders traditional definitions of plagiarism conceptually inadequate. The book argues that AI-generated text disrupts the foundational assumption that plagiarism requires an identifiable human source.",
+  "phan_loai": "The book addresses multiple dimensions: (1) traditional plagiarism (copy-paste, mosaic, paraphrase without attribution); (2) contract cheating and essay mills; (3) self-plagiarism and text recycling; (4) cross-language plagiarism; (5) emerging AI-assisted writing — introduced as a new category requiring redefinition.",
+  "lich_su_khai_niem": "Published in 2021, just before ChatGPT's launch — remarkable prescience. Eaton had been developing the 'postplagiarism' concept since ~2019 in journal articles. The full theoretical framework was later expanded in 'Postplagiarism: Developing a New Framework' published in International Journal for Educational Integrity (2023).",
+
+  "ten_truong_hop": "Eaton's chapter on AI writing tools (2021) anticipates cases like GPT-generated essays being submitted as student work — written just 18 months before the ChatGPT moment.",
+  "dien_bien": "The book proceeds chapter by chapter through 'tough topics': ghost-writing, contract cheating, paraphrasing tools (Spinbot, Quillbot), translation plagiarism, and nascent AI writing tools. Eaton demonstrates how each topic challenges traditional detection and policy approaches. The postplagiarism thesis: if AI generates text, there is no human 'original' to plagiarize from — the ethical violation shifts from copying to misrepresentation of authorship.",
+  "ket_qua_xu_ly": "Not a case study book; academic analysis. Highly influential in reshaping academic integrity discourse. Cited in subsequent policy documents including NUS AI policy discussion papers and UK QAA guidance. Won recognition from the Canadian Association for the Study of Adult Education.",
+  "con_so_thong_ke": "Book length: 248 pages; 15 chapters; 978-1-4408-7437-6; Libraries Unlimited imprint (ABC-CLIO); published January 2021. Eaton is based at University of Calgary, Werklund School of Education.",
+
+  "hai_cho_nguoi_hoc": "If postplagiarism conditions are not addressed in institutional policy, students who use AI tools in ambiguous ways may face inconsistent or unjust enforcement. Conversely, students who over-rely on AI fail to develop original thinking, which is the educational purpose of written assignments.",
+  "hai_cho_nghien_cuu": "Eaton's postplagiarism framework highlights that peer review and publication processes built on originality detection cannot adequately handle human-AI hybrid authorship. Research quality standards need to evolve.",
+  "hai_cho_xa_hoi": "If traditional plagiarism frameworks are applied rigidly to AI-era writing, institutions either over-punish legitimate AI use or under-punish genuine fraud. Both outcomes harm the social function of academic credentials.",
+
+  "cong_cu_phat_hien": "Eaton (2021) discusses paraphrase detection limitations (Turnitin cannot detect paraphrased plagiarism well) and anticipates AI writing tools as a detection challenge. Post-2021, her work is explicitly cited in Turnitin and Copyleaks product development discussions.",
+  "han_che_cong_cu": "Central argument: all detection tools are designed for a pre-postplagiarism world. If the original plagiarized source does not exist in a database (i.e., the 'source' is an AI language model's training data), traditional fingerprinting fails entirely.",
+  "watermarking": "Eaton (2021) does not address watermarking (predates the Kirchenbauer et al. and Aaronson work). The postplagiarism framework she develops would, however, support watermarking as an attribution mechanism — embedding AI provenance in the text itself.",
+
+  "thiet_ke_bai_tap": "Eaton advocates for assessment redesign that makes plagiarism less tempting and less possible: authentic tasks, process documentation, personal reflection, oral examination. These recommendations anticipate the post-ChatGPT assessment redesign movement.",
+  "chinh_sach_truong_hoc": "Eaton argues that existing honor codes and academic integrity policies must be fundamentally revised — not just updated — to address postplagiarism conditions. Policies should define AI use explicitly and move from prohibition to contextual disclosure.",
+  "van_hoa_to_chuc": "Consistent with McCabe's findings: Eaton emphasizes culture over enforcement. She argues that when students understand the intellectual purpose of original writing (not just rule-compliance), integrity follows naturally.",
+  "ai_literacy": "Eaton's book implicitly calls for AI literacy: students and faculty need conceptual understanding of what AI writing tools do and what academic integrity means in that context — not just tool detection.",
+
+  "khung_quoc_te": "Eaton's work informs UNESCO 2023 guidance on GenAI in education. The postplagiarism concept is cited in EU AI Act commentary on educational assessment. ICAI 2021 update to its core values framework draws on Eaton's institutional research.",
+  "phap_luat_viet_nam": "Vietnam's Decree 109/2022 uses traditional plagiarism definitions that Eaton's postplagiarism framework would classify as outdated. There is a direct policy gap: Vietnamese law does not address AI-assisted writing as a distinct category.",
+  "chinh_sach_chau_a": "NUS policy development (2023/2024) explicitly references the need to redefine academic integrity in the AI era — aligned with Eaton's framework. NTU's zero-marks policy for hallucinated citations (2025) addresses a specific postplagiarism phenomenon.",
+
+  "ai_tutor_vs_ai_cheater": "Eaton's postplagiarism framework implicitly supports the 'AI as tutor' possibility: if AI use is disclosed and attributed, it is no longer plagiarism. The ethical line is misrepresentation, not AI use itself — consistent with Rose Luckin's 'intelligence augmentation' vision.",
+  "edtech_company_policies": "Coursera's post-submission dialogue approach and Khan Academy's Khanmigo design both implicitly embody postplagiarism thinking: the question is not whether AI was used but whether the student engaged meaningfully and can account for their work.",
+  "de_xuat_nha_nghien_cuu": "Eaton's postplagiarism framework is the most actionable conceptual tool for EdTech researchers: (1) redefine academic integrity to focus on misrepresentation of authorship, not AI use per se; (2) develop attribution standards for AI assistance; (3) design assessments that require personal engagement that AI cannot substitute; (4) update Vietnamese policy to reflect postplagiarism conditions.",
+
+  "bai_bao_khoa_hoc": "Eaton, S.E. (2021) 'Plagiarism in the Post-COVID-19 Pandemic' Interchange. Eaton, S.E. (2023) 'Postplagiarism' International Journal for Educational Integrity doi:10.1007/s40979-023-00144-1. Eaton, S.E. & Edino, R.I. (2018) 'Strengthening the research agenda of educational integrity in Canada' IJEI.",
+  "sach_tham_khao": "Eaton (2021) Plagiarism in Higher Education, ISBN 978-1-4408-7437-6. Eaton (2024) Second Handbook of Academic Integrity. McCabe et al. (2012) Cheating in College. Bretag (2016) Handbook of Academic Integrity.",
+  "nguon_viet_nam": "Decree 109/2022 (Điều 20) — Vietnam's closest equivalent to Eaton's policy recommendations, but predates AI era. Perkins (BUV, 2023/2024) explicitly applies postplagiarism thinking in Vietnamese HE context.",
+
+  "uncertain": []
+}

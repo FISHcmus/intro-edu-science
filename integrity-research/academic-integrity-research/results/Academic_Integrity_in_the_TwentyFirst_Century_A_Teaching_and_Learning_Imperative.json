@@ -1,0 +1,23 @@
+{
+  "item_name": "Academic Integrity in the Twenty-First Century: A Teaching and Learning Imperative",
+  "category": "recent_book",
+  "authors": [
+    "Tricia Bertram Gallant"
+  ],
+  "year": 2008,
+  "publisher_or_institution": "Jossey-Bass / Wiley",
+  "key_contribution": "Reframes academic integrity as a teaching and learning issue rather than an enforcement problem. Proposes a shift from 'How do we stop students from cheating?' to 'How do we ensure students are learning?' Examines two institutional strategies (rule-compliance and integrity strategies) and introduces a four-dimensional framework (internal, organizational, institutional, and societal) to explain academic misconduct holistically.",
+  "doi_or_url": "https://eric.ed.gov/?id=EJ791635",
+  "isbn": "9780470373668",
+  "notable_concepts": [
+    "Teaching and learning strategy",
+    "Rule-compliance strategy",
+    "Integrity strategy",
+    "Four dimensions of academic misconduct: internal, organizational, institutional, societal",
+    "Transactional versus transformative education",
+    "Student learning as central to integrity",
+    "Institutional complicity in academic dishonesty"
+  ],
+  "relevance_to_ai_integrity": "Establishes the foundational paradigm shift from punitive to educational approaches to academic integrity. This framework is essential for understanding how modern AI integrity challenges should be addressed through teaching and learning rather than pure enforcement, setting the intellectual groundwork for contemporary discussions of student integrity in the age of artificial intelligence and advanced technology in education.",
+  "uncertain": []
+}

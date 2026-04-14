@@ -1,0 +1,36 @@
+{
+  "item_name": "ACM Code of Ethics and Professional Conduct",
+  "category": "policy_document",
+  "authors": [
+    "ACM Code 2018 Task Force",
+    "Don Gotterbarn (Chair)",
+    "Bo Brinkman",
+    "Catherine Flick",
+    "Michael S Kirkpatrick",
+    "Keith Miller",
+    "Kate Varansky",
+    "Marty J Wolf"
+  ],
+  "year": 2018,
+  "publisher_or_institution": "Association for Computing Machinery (ACM)",
+  "key_contribution": "An updated code of professional ethics adopted by ACM Council in June 2018, replacing the 1992 version to address contemporary computing challenges. The Code establishes seven general ethical principles and two additional sections covering professional responsibilities and leadership obligations, providing guidance for computing professionals to make ethically responsible decisions in contexts ranging from software development to AI implementation.",
+  "doi_or_url": "https://www.acm.org/code-of-ethics",
+  "isbn": null,
+  "notable_concepts": [
+    "Honesty and Trustworthiness",
+    "Avoid Harm",
+    "Fairness and Non-discrimination",
+    "Respect for Privacy",
+    "Confidentiality",
+    "Human Well-being",
+    "Professional Responsibility",
+    "Competence and Quality",
+    "Leadership and Governance",
+    "Computing Ethics Education",
+    "Responsible AI Use",
+    "Algorithmic Accountability",
+    "Respect for Intellectual Property"
+  ],
+  "relevance_to_ai_integrity": "The ACM Code of Ethics 2018 establishes comprehensive principles directly applicable to academic integrity and responsible AI use in education. Principle 1.3 on honesty and trustworthiness mandates full disclosure of system limitations and problems, crucial for educational AI tools that must transparently report their decision-making processes and potential biases. Principle 1.2 on avoiding harm and 1.4 on fairness address the prevention of algorithmic discrimination in grading systems, learning recommendation engines, and student assessment tools. The Code's emphasis on professional responsibility (Section 2) includes obligations to maintain high standards of competence and to report ethical violations, directly supporting academic integrity mechanisms. Principle 1.6 on respecting privacy and 1.7 on confidentiality protect student data from unauthorized use or exposure. Additionally, the Code's guidelines on computing education and professional development encourage institutions to incorporate ethics training, fostering a culture of integrity among computer science students and educators using AI technologies.",
+  "uncertain": []
+}

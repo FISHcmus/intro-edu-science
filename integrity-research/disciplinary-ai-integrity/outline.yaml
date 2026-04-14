@@ -1,0 +1,180 @@
+topic: AI Academic Fraud and Integrity Across Underrepresented Disciplines
+description: >
+  Disciplinary gap-filling research on AI academic fraud in disciplines not
+  covered by the main research corpus: Medicine/Health Sciences, Law, Creative
+  Arts/Design, K-12 Education, and TVET (Vocational/Technical Education).
+
+execution:
+  output_dir: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/disciplinary-ai-integrity/results
+  fields_path: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/disciplinary-ai-integrity/fields.yaml
+  items_per_agent: 1
+  batch_size: 4
+
+items:
+  # --- MEDICINE & HEALTH SCIENCES (5 items) ---
+  - name: "AI Fraud in Medical Education — Clinical Clerkships and Board Prep"
+    category: medicine
+    description: >
+      ChatGPT passing USMLE Steps 1-3, AI-generated patient notes and clinical
+      reasoning. Documented cases of AI fraud in medical schools. AI use in
+      clinical clerkship write-ups, case presentations, and board exam preparation.
+      Impact on clinical competency assessment. AAMC (Association of American
+      Medical Colleges) responses.
+
+  - name: "GMC Response to AI in Medical Education"
+    category: medicine
+    description: >
+      UK General Medical Council guidance on AI in medical education and fitness
+      to practice. Medical school integrity policies in UK context. GMC's
+      "Outcomes for Graduates" and how AI challenges these standards. Medical
+      Schools Council (MSC) AI guidance. Impact on patient safety through
+      credential integrity.
+
+  - name: "NBME and USMLE AI Fraud Countermeasures"
+    category: medicine
+    description: >
+      US National Board of Medical Examiners responses to AI. USMLE exam
+      security updates post-ChatGPT. Prometric testing center security.
+      COMLEX (osteopathic) exam responses. NBME's published position on AI
+      and assessment. How high-stakes medical licensing exams are adapting
+      to AI threat — the strongest case for justified proctoring.
+
+  - name: "WAME and ICMJE Statements on AI in Medical Publishing"
+    category: medicine
+    description: >
+      World Association of Medical Editors (WAME) recommendations on AI-
+      generated content in medical manuscripts. International Committee of
+      Medical Journal Editors (ICMJE) updated guidelines on AI authorship.
+      Impact on medical research integrity. How medical journals (NEJM,
+      Lancet, BMJ, JAMA) implement AI disclosure requirements. Neurosurgical
+      Review retraction wave context.
+
+  - name: "AI in Nursing and Allied Health Education"
+    category: medicine
+    description: >
+      AI integrity challenges in nursing education (NCLEX exam context),
+      physiotherapy, pharmacy, dentistry, and other allied health disciplines.
+      Simulation-based assessment as an AI-resistant alternative. Clinical
+      placement assessment integrity. NMC (UK Nursing and Midwifery Council)
+      and NCSBN (US National Council of State Boards of Nursing) responses.
+
+  # --- LAW (3 items) ---
+  - name: "ABA Guidance on AI in Legal Education"
+    category: law
+    description: >
+      American Bar Association emerging policies and guidance on AI in law
+      schools. ABA accreditation standards and how they address AI. Law school
+      honor codes and AI-specific provisions. Association of American Law
+      Schools (AALS) guidance. State bar association positions on AI in
+      legal education.
+
+  - name: "AI Fraud in Bar Exam and Law School"
+    category: law
+    description: >
+      GPT-4 passing the Uniform Bar Exam. AI use in law school essays, legal
+      research memos, moot court briefs, and law review articles. Lexis+ AI
+      and Westlaw AI Copilot as legitimate tools vs. unauthorized use.
+      Contract cheating in legal writing courses. Documented cases of AI
+      fraud in law schools.
+
+  - name: "Legal Writing Pedagogy and AI-Resistant Assessment"
+    category: law
+    description: >
+      IRAC (Issue, Rule, Application, Conclusion) method and AI. Socratic
+      method as inherently AI-resistant pedagogy. Oral advocacy and moot
+      court as AI-resistant assessment. Clinical legal education and live
+      client work. How legal writing professors are redesigning assignments.
+      Legal Writing Institute (LWI) responses to AI.
+
+  # --- CREATIVE ARTS & DESIGN (4 items) ---
+  - name: "AI Image Generation Fraud in Visual Arts Education"
+    category: creative_arts
+    description: >
+      DALL-E, Midjourney, Stable Diffusion use in studio art, illustration,
+      and graphic design courses. Portfolio fraud — submitting AI-generated
+      images as original work. Art school detection challenges (no text-based
+      detection tools work). Provenance tools: C2PA (Coalition for Content
+      Provenance and Authenticity), Content Credentials. How art schools are
+      responding (process documentation, in-studio work requirements).
+
+  - name: "AI in Architecture and Design Education"
+    category: creative_arts
+    description: >
+      AI-generated floor plans, renderings, and design concepts. Design studio
+      integrity and the role of process (sketches, iterations, critiques).
+      AI tools in architecture (Midjourney for concept art, AI structural
+      analysis). RIBA (Royal Institute of British Architects) and AIA
+      (American Institute of Architects) guidance on AI. How architecture
+      schools distinguish AI-assisted design from AI-generated fraud.
+
+  - name: "AI Music Composition and Performance Education"
+    category: creative_arts
+    description: >
+      AI music generation tools (Suno, Udio, AIVA, Amper) in composition
+      courses. Performance assessment as inherently AI-resistant. Conservatory
+      responses to AI. NASM (National Association of Schools of Music)
+      guidance. How music theory and composition courses are adapting.
+      Copyright implications of AI-generated music in academic contexts.
+
+  - name: "HCMUFA and Creative Arts Integrity Case Studies"
+    category: creative_arts
+    description: >
+      Ho Chi Minh City University of Fine Arts case as documented example
+      of AI fraud in arts education. Other global cases of AI-generated art
+      submitted as student work. Colorado State Fair AI art controversy as
+      cultural context. Image provenance tools and their applicability to
+      educational settings. How creative arts assessment differs fundamentally
+      from text-based assessment.
+
+  # --- K-12 EDUCATION (3 items) ---
+  - name: "AI Fraud in Vietnam THPT National Examination"
+    category: k12
+    description: >
+      Vietnam's Thi Tốt nghiệp THPT (high school graduation exam) and AI
+      threats. Ministry of Education and Training (MOET) proctoring measures.
+      Electronic device bans and enforcement. University entrance exam context.
+      How AI fraud manifests in a paper-based, proctored exam system vs.
+      take-home assignments. Comparison with other high-stakes Asian exams
+      (gaokao, suneung).
+
+  - name: "UK A-Levels and GCSE AI Fraud Concerns"
+    category: k12
+    description: >
+      Ofqual (Office of Qualifications and Examinations Regulation) guidance
+      on AI. Exam board responses: AQA, OCR, Edexcel/Pearson, WJEC. NEA
+      (Non-Exam Assessment) and coursework as vulnerable to AI fraud.
+      Teacher-assessed grades (TAG) experience during COVID as precedent
+      for alternative assessment. JCQ (Joint Council for Qualifications)
+      malpractice regulations and AI.
+
+  - name: "K-12 AI Literacy and Age-Appropriate Integrity Policies"
+    category: k12
+    description: >
+      UNESCO K-12 AI competency framework. US state-level K-12 AI policies
+      (California, New York, Texas). TeachAI initiative. Age-appropriate
+      integrity education — teaching academic honesty before AI complicates
+      it. ISTE (International Society for Technology in Education) K-12
+      AI standards. Developmental psychology perspective on integrity
+      formation in adolescents.
+
+  # --- TVET (2 items) ---
+  - name: "TVET Assessment Integrity and Practical Skills Certification"
+    category: tvet
+    description: >
+      Competency-based assessment (CBA) as inherently more AI-resistant than
+      academic essay assessment. Industry 4.0 TVET challenges — AI as both
+      threat and tool in vocational education. ILO (International Labour
+      Organization) and UNESCO-UNEVOC guidelines on technology in TVET.
+      WorldSkills competition integrity measures. How practical skills
+      assessment (welding, coding, nursing procedures) differs from
+      knowledge-based assessment.
+
+  - name: "Vietnam TVET Reform and AI Challenges"
+    category: tvet
+    description: >
+      Luật Giáo dục nghề nghiệp (Vocational Education Law, 2014) and its
+      provisions. GDVT (General Directorate of Vocational Training) policies.
+      Vietnam's TVET enrollment (~2M students). Skills gap between TVET
+      output and Industry 4.0 demands. How AI tools affect vocational
+      training assessment. German-Vietnamese TVET cooperation (GIZ programs)
+      and integrity standards transfer.

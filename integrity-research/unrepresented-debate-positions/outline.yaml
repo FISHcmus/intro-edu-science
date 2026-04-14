@@ -1,0 +1,263 @@
+topic: Unrepresented Debate Positions on AI Academic Integrity
+description: >
+  Research into perspectives that were absent or inadequately steelmanned in
+  the six-position debate on AI academic integrity in Vietnamese higher education.
+  Covers student voices, frontline teachers, developing-world researchers, AI
+  companies, legal/due process actors, and positions (do-nothing, surveillance)
+  that were excluded or strawmanned. Each item reconstructs the strongest version
+  of that position and its impact on the debate's conclusions.
+
+source_document: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/debate/critical_gaps.md
+existing_position_papers:
+  - debate/position_left_wing.md
+  - debate/position_right_wing.md
+  - debate/position_economist.md
+  - debate/position_educator.md
+  - debate/position_technologist.md
+  - debate/position_center.md
+
+execution:
+  output_dir: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/unrepresented-debate-positions/results
+  fields_path: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/unrepresented-debate-positions/fields.yaml
+  items_per_agent: 1
+  batch_size: 4
+
+items:
+  # --- STUDENT VOICES (4 items) ---
+  - name: "Student Falsely Accused of AI Fraud"
+    category: student_voice
+    description: >
+      The perspective of a student who submitted genuinely human-written work
+      and was flagged by AI detection tools. Psychological impact of false
+      accusation, procedural injustice of burden-of-proof inversion, lack of
+      meaningful appeals, long-term academic and reputational damage. The Haishan
+      Yang case (University of Minnesota, 2024-2026) as anchor. Real cases from
+      UK, Australia, and Vietnam. What policies this actor would demand: detection
+      tool moratoriums, mandatory procedural protections, appeal rights.
+
+  - name: "Student Who Used AI to Learn — Not Cheat"
+    category: student_voice
+    description: >
+      The perspective of a student who uses AI tools (ChatGPT, Claude, Copilot)
+      as a learning aid — to explain concepts, give feedback on drafts, practice
+      problem-solving — but encounters policies that criminalize any AI interaction.
+      The chilling effect of blanket bans on legitimate educational use. How current
+      policies conflate assisted learning with fraud. Student-led advocacy for
+      graduated AI use policies that distinguish learning assistance from academic
+      fraud. The pedagogical argument that AI is the modern calculator/spell-checker.
+
+  - name: "Student Who Cheated Using AI and Explains Why"
+    category: student_voice
+    description: >
+      The perspective of a student who intentionally submitted AI-generated work
+      as their own. The actual decision-making process: motivation (time pressure,
+      incomprehension, financial stress, low perceived risk), rationalization
+      ("everyone does it", "the assignment has no learning value"), and outcome
+      (what happened, what they would do differently). This perspective is crucial
+      for policy design — motivations determine interventions. Anonymous survey
+      data, qualitative interview studies, and confessional online posts (Reddit
+      r/college, Vietnamese student forums) as evidence.
+
+  - name: "Student Who Reported Peers for AI Fraud"
+    category: student_voice
+    description: >
+      The perspective of a student who witnessed academic fraud and faced the
+      decision to report or stay silent. Social consequences of reporting
+      ("snitch culture"), institutional failure to protect reporters, outcomes
+      of reports (did anything happen?), and the deterrence failure when students
+      know fraud goes unpunished even when reported. Academic integrity as a
+      collective action problem: honest students are harmed when fraud is
+      normalized and credentials are devalued. The case FOR stronger enforcement
+      from a student perspective. Honor code culture as collective norm, not
+      top-down policing.
+
+  # --- FRONTLINE TEACHER IN VIETNAM (2 items) ---
+  - name: "Frontline Vietnamese Lecturer — Public University, 400 Students"
+    category: frontline_teacher
+    description: >
+      The perspective of a Vietnamese public university lecturer teaching 400
+      students per semester, with no teaching assistants, an annual salary of
+      VND 6-8 million/month, unclear institutional AI policy, no training in
+      AI-era assessment design, and pressure from administrators to maintain
+      enrollment and pass rates. What assessment redesign actually looks like
+      from the trenches: the impossibility of spot vivas at scale, the time cost
+      of authentic assignment design, the administrative burden of AI misconduct
+      proceedings. This actor's actual policy needs: clear guidelines from MOET,
+      reduced class sizes, TA support, training with paid time off, protection
+      from administrative pressure to inflate grades.
+
+  - name: "K-12 Teacher Facing AI Fraud in Secondary Schools"
+    category: frontline_teacher
+    description: >
+      The perspective of a Vietnamese high school teacher dealing with AI fraud
+      in THPT exam preparation, homework, and class assignments. The entire debate
+      corpus treats higher education only — but AI fraud in secondary schools
+      affects the THPT national exam, university entrance, and the formation of
+      academic integrity habits before students reach university. The secondary
+      school context: younger students, parental pressure, teacher authority
+      culture (thầy cô nói gì nghe đó), limited digital literacy, no honor code
+      tradition. What interventions work at the secondary level that differ from
+      university-level approaches.
+
+  # --- DEVELOPING WORLD RESEARCHER (2 items) ---
+  - name: "Developing World Researcher — AI as Language Accessibility Tool"
+    category: developing_world
+    description: >
+      The perspective of a Vietnamese (or Indonesian, Nigerian, Brazilian)
+      researcher who uses AI tools to overcome English-language barriers in
+      publishing in international journals. The line between "AI-assisted
+      writing for language accessibility" and "AI-generated content fraud" is
+      genuinely blurry. A non-native English speaker using ChatGPT to polish
+      grammar and improve clarity is doing something different from submitting
+      AI-generated text as original research — but current journal policies often
+      conflate them. The asymmetry: English-native researchers have always had
+      access to professional editing, while non-native researchers are now
+      expected to write without equivalent assistance. COPE guidelines and their
+      disproportionate impact on Global South researchers.
+
+  - name: "Researcher at Resource-Poor Institution — Publish or Perish Pressure"
+    category: developing_world
+    description: >
+      The perspective of a Vietnamese academic under extreme publication pressure
+      (promotions, grants, VinIF fellowships, institutional rankings) but with
+      limited access to expensive journals, statistical software, research
+      databases, and methodological training. How resource scarcity combined
+      with publication pressure creates AI fraud risk that is structurally
+      different from student fraud. The Hindawi retraction wave and paper mills
+      as the supply-side of the market. What distinguishes Vietnam's research
+      integrity challenge from the US/UK context that dominates the debate.
+      VinAI, VinIF, and the Vietnamese government's research intensification
+      agenda vs. the capacity constraints of most Vietnamese universities.
+
+  # --- AI COMPANY PERSPECTIVE (2 items) ---
+  - name: "OpenAI / Anthropic — Why We Did Not Deploy Watermarking"
+    category: ai_company
+    description: >
+      The articulated position of AI companies (primarily OpenAI) on why
+      cryptographic watermarking of LLM outputs was not deployed despite
+      Scott Aaronson's internal advocacy. The competitive dynamics argument:
+      if one company watermarks and others don't, fraud detection only works
+      against compliant companies' outputs while open-source alternatives
+      proliferate undetected. User trust argument: watermarking increases
+      surveillance concerns. Technical accuracy argument: watermarking degrades
+      output quality. OpenAI's 2023 Educator FAQ and stated positions. Anthropic's
+      Responsible Scaling Policy and its silence on watermarking. The companies'
+      actual educational deployment guidelines and what they suggest about
+      responsible use. These are commercial actors with genuine arguments, not
+      just profit-seeking bad actors.
+
+  - name: "Open-Source AI Community — Against Surveillance Infrastructure"
+    category: ai_company
+    description: >
+      The perspective of the open-source AI community (Meta/Llama, Mistral,
+      community developers) on why watermarking and detection infrastructure
+      is both technically unenforceable and politically dangerous. Meta's explicit
+      open-source philosophy: Llama models are released without restrictions
+      precisely because centralized control of AI is dangerous. The civil liberties
+      argument: AI detection infrastructure built for academic integrity becomes
+      surveillance infrastructure for political dissent, labor organizing, or
+      journalism. The precedent concern: once detection/attribution infrastructure
+      is normalized in educational contexts, it will be repurposed. The technical
+      argument: a 1B-parameter model running locally on a student's phone cannot
+      be watermarked or detected by any centralized system.
+
+  # --- LEGAL / DUE PROCESS (3 items) ---
+  - name: "Due Process Lawyer — Burden of Proof in AI Misconduct Proceedings"
+    category: legal_due_process
+    description: >
+      The legal perspective on what standard of evidence should apply when
+      institutions accuse students of AI fraud. Current practice: Turnitin
+      score of X% constitutes sufficient evidence for proceedings. Due process
+      problem: statistical tool output as evidence reverses the burden of proof —
+      student must prove a negative (that they did NOT use AI). Comparison to
+      other misconduct standards: plagiarism (text comparison with source), exam
+      fraud (proctor witness), contract cheating (digital forensics). The Haishan
+      Yang litigation. UK's OIA (Office of the Independent Adjudicator) cases on
+      AI misconduct. What legal protections students in Vietnam have under
+      administrative law (Luật Xử lý vi phạm hành chính) and university regulations.
+      The gap between legal due process requirements and current institutional practice.
+
+  - name: "Intellectual Property Lawyer — Who Owns AI-Generated Coursework?"
+    category: legal_due_process
+    description: >
+      The unresolved intellectual property questions when students submit
+      AI-generated text as coursework. Does the student own it? (They created
+      the prompt). Does the AI company own it? (Their model produced it). Does
+      the university own it? (Submitted under academic assignment terms). Under
+      Vietnamese copyright law (Luật Sở hữu trí tuệ 2022, amended), AI-generated
+      works have no recognized author — but what happens when they are submitted
+      under a student's name? If a student submits AI text and it's accepted
+      (undetected), they have obtained a grade under false pretenses — is this
+      fraud, misrepresentation, or just academic dishonesty? The copyright
+      implications for universities that build AI content detection databases
+      using student work. OpenAI's terms of service on reuse of outputs.
+
+  - name: "Discrimination Law — Biased Detection Tools as Civil Rights Issue"
+    category: legal_due_process
+    description: >
+      The legal argument that AI detection tools with documented ESL false
+      positive rates constitute discriminatory enforcement against non-native
+      English speakers. Liang et al. (2023): tools flag ESL writing at higher
+      rates. If Vietnamese students writing in English are disproportionately
+      flagged, and if misconduct penalties follow from flagging, then the detection
+      regime has disparate impact on a protected class (national origin, in US
+      law; similar protections exist in EU law). US Title VI implications for
+      universities receiving federal funding. EU non-discrimination law. UK
+      Equality Act 2010 cases. Australian Racial Discrimination Act. What legal
+      remedies exist. Whether any student has successfully challenged AI
+      misconduct findings on discrimination grounds. The strategic implications
+      for Vietnamese students studying abroad.
+
+  # --- STEELMAN POSITIONS (3 items) ---
+  - name: "The 'Do Nothing' / Self-Correction Position"
+    category: do_nothing
+    description: >
+      The steelman of the position that was never represented: that the current
+      "AI fraud crisis" is a moral panic that will self-correct as institutions
+      adapt, as they have adapted to every previous technological disruption
+      (photocopier, internet, Wikipedia, essay mills). The argument: (1) Each
+      previous disruption caused moral panic but resolved through pedagogical
+      adaptation, not enforcement. (2) The costs of heavy-handed policy intervention
+      now (biased detection tools, damaged student-teacher trust, chilling effects
+      on legitimate AI use) may exceed the costs of waiting for self-correction.
+      (3) AI fraud may be lower than surveys suggest because students overreport
+      in anonymous surveys (social desirability effects reverse for "edgy" behavior).
+      (4) The credential market may self-correct through employer adaptation.
+      This is NOT the same as "AI fraud is fine" — it is the argument that the
+      cure may be worse than the disease. Who argues this? Economists like Tyler
+      Cowen (MRUniversity), some education technology optimists.
+
+  - name: "Surveillance and Proctoring — Legitimate for Professional Licensing"
+    category: surveillance_proctoring
+    description: >
+      The steelman of the surveillance/proctoring position that was universally
+      rejected. The argument: continuous monitoring IS justified for high-stakes
+      professional licensing examinations — medical boards (USMLE), bar exams
+      (Vietnamese Lawyer Exam), pilot certification, nursing licensure — where
+      fraud has direct patient safety consequences. The blanket rejection of
+      surveillance conflated mass undergraduate monitoring (indefensible) with
+      targeted professional certification monitoring (defensible). Proctorio,
+      ExamSoft, and Respondus publish data claiming effectiveness. The analogy:
+      we accept surveillance cameras in banks and airports; professional licensing
+      is the "airport" of education — high enough stakes to justify enhanced
+      monitoring. The specific Vietnamese context: the national bar exam, medical
+      licensing, and teaching certificate exams. What safeguards would make
+      proctoring acceptable vs. unacceptable.
+
+  - name: "AI Collective Action — Industry-Led Watermarking Consortium"
+    category: ai_company
+    description: >
+      The steelman of the watermarking solution that the Technologist presented
+      as failing due to collective action problems: the argument for a mandatory
+      industry-led watermarking consortium (like the Content Authenticity Initiative
+      or C2PA coalition) that solves the competitive dynamics problem through
+      pre-competitive standard-setting. Analogies: HTTPS adoption, financial
+      messaging standards (SWIFT), music rights management (ASCAP/BMI). Why
+      voluntary consortia can work when: (1) the first-mover disadvantage is
+      overcome by simultaneous adoption, (2) regulators provide a credible threat
+      of mandatory requirements if voluntary standards fail, (3) liability exposure
+      incentivizes companies to adopt. C2PA (Coalition for Content Provenance and
+      Authenticity) already includes major tech companies. Could C2PA be extended
+      to LLM text output? What the EU AI Act's transparency requirements imply
+      for watermarking adoption. This position was mentioned but never steelmanned
+      in the debate — the Technologist gave up too quickly on collective solutions.

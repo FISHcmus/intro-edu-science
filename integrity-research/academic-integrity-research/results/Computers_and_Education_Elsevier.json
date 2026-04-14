@@ -1,0 +1,27 @@
+[
+  {
+    "item_name": "Computers and Education",
+    "category": "journal",
+    "authors": [
+      "Editorial Board"
+    ],
+    "year": "[uncertain]",
+    "publisher_or_institution": "Elsevier Ltd.",
+    "key_contribution": "Computers and Education is a leading peer-reviewed journal aimed at increasing knowledge and understanding of how digital technology enhances education. The journal publishes high-quality research extending theory and practice in computer science, education, and e-learning. It covers the intersection of technology and educational practice, including assessment methods, pedagogical approaches, and implementation of digital tools in learning contexts.",
+    "doi_or_url": "https://www.journals.elsevier.com/computers-and-education",
+    "isbn": null,
+    "notable_concepts": [
+      "Educational technology",
+      "Digital learning environments",
+      "AI in education",
+      "Assessment and technology",
+      "Student cheating detection",
+      "Learning analytics",
+      "Technology-enhanced learning",
+      "Academic integrity in digital contexts",
+      "Pedagogical innovation",
+      "Holistic assessment practices"
+    ],
+    "relevance_to_ai_integrity": "Relevant to academic integrity through its coverage of technology in education and assessment methods. The journal covers AI applications in education and assessment, including articles on AI-assisted cheating, detection challenges, and the paradigm shift toward holistic assessment practices that move beyond detection-based strategies. Recent papers include: 'AI-Assisted Academic Cheating: A Conceptual Model Based on Postgraduate Student Voices' (2025) - explores student perspectives on AI misuse; 'The impact of generative AI on academic integrity of authentic assessments within a higher education context' (2025) - examines validity of authentic assessments with AI; 'Artificial intelligence in education: implications for academic integrity and the shift toward holistic assessment' (2024) - discusses paradigm shift from detection to validity-driven assessment; 'Ensuring academic integrity in the age of ChatGPT' (2023). ISSN: 0360-1315 (print), 1873-782X (online). Impact Factor (2024): 13.85, (2023): 8.14 - representing 14.09% increase. SJR: 3.343. H-Index: 253. Quartile: Q1. Ranking: 2 of 267 in Education & Educational Research. Frequency: 12 issues per year. Country: United Kingdom. Covers technology-enhanced learning, digital education research, computer science in education, assessment innovations, and practical applications of technology in teaching and learning."
+  }
+]

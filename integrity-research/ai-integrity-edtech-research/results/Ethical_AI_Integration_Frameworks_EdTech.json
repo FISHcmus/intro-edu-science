@@ -1,0 +1,66 @@
+{
+  "name": "Ethical AI Integration Frameworks for EdTech Researchers",
+  "type": "framework",
+  "year": "2022-2025 (multiple frameworks; primary: EDUCAUSE 2024, CoSN/ISTE 2023, UNESCO 2023, AIAS 2023)",
+  "issuing_authority": "Multiple: EDUCAUSE, CoSN, ISTE, Code.org, AIAS (British University Vietnam), UNESCO",
+  "country_or_region": "Global; with specific frameworks for higher education and K-12",
+  "summary": "Multiple frameworks for ethical AI integration in EdTech have been published since 2022. The most practically useful for EdTech researchers are: (1) EDUCAUSE Ethical Principles AI Framework — designed for higher education, covers 8 ethical principles; (2) CoSN/ISTE/Code.org Seven Principles — collaborative K-12 framework with AI governance guidance; (3) AIAS (AI Assessment Scale) by Mike Perkins (British University Vietnam) — the most Vietnam-relevant framework, provides a tiered approach to AI use in assessment; (4) UNESCO 2023 Guidance — international standard. These frameworks converge on a shared set of principles: transparency, accountability, human oversight, fairness, and designing for learning rather than against cheating.",
+
+  "ai_use_policy": "All major frameworks take a 'design for ethical integration' approach rather than prohibition. EDUCAUSE: institutions must establish ethical frameworks covering AI in advising, teaching, grading, admissions, and research. CoSN/ISTE: schools should establish clear AI use policies, prioritize critical thinking assessment, and invest in AI literacy. AIAS: provides a rubric for categorizing assessment tasks by AI-appropriateness (from fully AI-prohibited to fully AI-permitted) — giving instructors a practical tool.",
+  "academic_fraud_definition": "AIAS (Perkins 2023): AI academic fraud is defined relative to assessment design: if an assessment is categorized as AI-prohibited, any undisclosed AI use is fraud; if categorized as AI-assisted, non-disclosed use is non-compliant. This design-relative definition is more practical than absolute definitions. EDUCAUSE: fraud = using AI in ways that circumvent the learning objectives the assessment is designed to measure.",
+  "detection_mechanisms": "All frameworks de-emphasize detection in favor of design. EDUCAUSE: redesign assessment to demonstrate understanding, not just produce text. CoSN: 'Designing assessments that focus on critical thinking, problem-solving, and creativity, which are difficult to cheat on using AI.' AIAS: the rubric itself guides which assessment types need detection and which don't.",
+  "penalties": "Not a focus of these frameworks — they focus on prevention through design. Where penalties are addressed, they emphasize proportionality and due process.",
+  "transparency_requirements": "All frameworks require disclosure of AI use. EDUCAUSE: transparency is one of the eight ethical principles. CoSN: transparency includes student/parent understanding of how AI is used in educational settings. AIAS: disclosure requirements scale with the category of AI use permitted.",
+
+  "vietnamese_law_reference": "[uncertain] — These are international frameworks not referencing Vietnamese law.",
+  "moet_policy": "MOET's AI curriculum framework (2025) is consistent with these international frameworks, particularly the ISTE and UNESCO approaches. For EdTech researchers working with MOET, positioning proposals within these internationally recognized frameworks strengthens credibility.",
+  "documented_vn_cases": "[uncertain]",
+  "vn_university_responses": "British University Vietnam (BUV) developed the AIAS framework (Dr. Mike Perkins) — this is the most Vietnam-grounded of all frameworks. BUV is actively promoting AIAS adoption across Vietnamese institutions. This provides a direct link between international EdTech frameworks and Vietnamese university practice.",
+
+  "ai_tutor_vs_cheater_framing": "These frameworks collectively represent the 'third way' beyond AI-as-tutor vs AI-as-cheater binary: AI-as-instrument-of-learning that requires ethical governance. AIAS is the clearest practical expression: different assessments require different AI governance, and the appropriate governance depends on what learning outcome is being assessed.",
+  "responsible_ai_definition": "EDUCAUSE eight principles: Beneficence, Justice, Respect for autonomy, Transparency and explainability, Accountability and responsibility, Privacy and data protection, Nondiscrimination and fairness, Risk assessment. CoSN/ISTE seven principles: Transparency, Accountability, Safety, Privacy, Fairness, Reliability, Human Oversight. AIAS responsible AI use in assessment = using AI in ways that are categorized as appropriate by the assessment's AI use tier, with full disclosure.",
+  "key_researchers": "EDUCAUSE Research team — AI Literacy in Teaching and Learning (2024 major publication). Dr. Mike Perkins (BUV) — AIAS developer; most cited AI integrity researcher in Southeast Asian higher education context. CoSN: Keith Krueger (CEO), AI Advisor tool development team. CADRE (Center for the Advancement of STEM Education): 'Toward Ethical and Just AI in Education Research' (June 2024).",
+  "company_ethics_policy": "EdX/Coursera whitepaper: 'Academic Integrity in the Generative AI Era' (2025) — provides industry perspective on responsible AI integration. This whitepaper synthesizes company policy and academic research.",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "Australian TEQSA and AAIN guidelines align with these frameworks. Monash's 'responsible use' approach reflects EDUCAUSE principles. BUV/AIAS framework (developed in Vietnam) is being watched by Australian universities as a potential model.",
+  "asia_vs_western_differences": "These frameworks are primarily developed in Western institutions. The AIAS (BUV) is the most culturally adapted framework for Vietnamese and ASEAN contexts. CADRE's 'Ethical and Just AI' brief explicitly addresses equity and justice dimensions that are particularly relevant to Vietnam's urban-rural educational divide.",
+  "asean_regional_initiatives": "[uncertain]",
+
+  "framework_name": "AIAS (AI Assessment Scale) — Perkins 2023; EDUCAUSE Ethical AI Framework 2024; CoSN/ISTE Seven Principles 2023",
+  "framework_principles": "AIAS FIVE TIERS: Tier 1 — AI prohibited (e.g., final exams, original creative work); Tier 2 — AI limited (e.g., AI for research only, not writing); Tier 3 — AI permitted with disclosure (e.g., AI-assisted drafts with declaration); Tier 4 — AI encouraged (e.g., AI tools are part of the assignment task); Tier 5 — AI integrated (e.g., assignment specifically involves AI co-creation). EDUCAUSE EIGHT PRINCIPLES: Beneficence, Justice, Autonomy, Transparency, Accountability, Privacy, Fairness, Risk Assessment. CoSN/ISTE SEVEN PRINCIPLES: Transparency, Accountability, Safety, Privacy, Fairness, Reliability, Human Oversight.",
+  "iste_standards": "CoSN/ISTE Seven Principles are directly drawn from ISTE's digital citizenship standards extended for AI. ISTE AI hub (iste.org/ai) aggregates all AI education guidance consistent with these principles.",
+  "cosn_guidelines": "CoSN AI Advisor: chat-based tool guiding school leadership teams through seven governance domains. CoSN Gen AI Maturity Tool: self-assessment for districts to measure AI readiness. CoSN guidance at cosn.org/ai — comprehensive K-12 AI governance resource.",
+  "unesco_guidelines": "UNESCO's Guidance for Generative AI in Education (2023) is the international reference for all these frameworks. The EDUCAUSE and CoSN frameworks are consistent with UNESCO's human-centered approach.",
+
+  "implementation_challenges": "AIAS adoption requires faculty to classify every assessment on a five-tier scale — workload burden. EDUCAUSE framework is comprehensive but complex to implement — needs institutional support structures. Many institutions are implementing point solutions (detection tools) rather than comprehensive frameworks. Cultural adaptation is needed for Vietnamese/Asian context.",
+  "student_perspective": "Design-based frameworks respect student agency more than detection-based approaches. When students understand the tier their assessment is in (AIAS), they have clear guidance. This transparency reduces the ambiguity that drives inadvertent violations.",
+  "teacher_perspective": "AIAS gives faculty a practical decision tool. EDUCAUSE framework provides ethical grounding for faculty governance of AI. CoSN/ISTE provides leadership-level resources. The combination addresses all stakeholders in educational institutions.",
+  "recommendations": "FOR THE COURSE ASSIGNMENT (Nhập môn KHGD — Chương 3 integrity assignment): An EdTech researcher proposing an answer to AI academic integrity should: (1) Anchor in international frameworks — cite EDUCAUSE, UNESCO, ISTE as international standard-setters; (2) Connect to Vietnamese legal context — Decree 109/2022 Article 20 as legal basis; (3) Propose the AIAS model (Perkins, BUV) as an immediately applicable tool for Vietnamese universities; (4) Frame the gap: Vietnam's QĐ 1705 promotes AI but MOET has not yet issued AI integrity guidance — EdTech researcher role is to bridge this gap; (5) Recommend MOET issue a binding circular specifying AI disclosure requirements in academic work, modeled on Singapore's NUS policy; (6) Include Vietnamese cultural adaptation: face culture requires positive disclosure incentives not just punitive detection.",
+
+  "primary_sources": [
+    "2024 EDUCAUSE Action Plan: AI Policies and Guidelines — educause.edu/research/2024/2024-educause-action-plan-ai-policies-and-guidelines",
+    "AI Ethical Guidelines — EDUCAUSE Library (2025) — library.educause.edu/resources/2025/6/ai-ethical-guidelines",
+    "Artificial Intelligence in K-12 Education — CoSN — cosn.org/ai/",
+    "AIAS (AI Assessment Scale) — Perkins et al. (2023) — Journal of University Teaching and Learning Practice"
+  ],
+  "academic_sources": [
+    "Shaping integrity: why generative artificial intelligence does not have to undermine education — PMC — pmc.ncbi.nlm.nih.gov/articles/PMC11540794/",
+    "Generative AI and Academic Integrity in Higher Education: A Systematic Review and Research Agenda — MDPI (2025)",
+    "CADRE: Toward Ethical and Just AI in Education Research (June 2024) — cadrek12.org",
+    "Ethical principles for artificial intelligence in education — PubMed — pubmed.ncbi.nlm.nih.gov/36254344/"
+  ],
+  "vietnamese_sources": "[uncertain]",
+  "urls": [
+    "https://library.educause.edu/resources/2025/6/ai-ethical-guidelines",
+    "https://www.educause.edu/research/2024/2024-educause-action-plan-ai-policies-and-guidelines",
+    "https://www.cosn.org/ai/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11540794/",
+    "https://www.mdpi.com/2078-2489/16/4/296",
+    "https://cadrek12.org/sites/default/files/2024-06/CADRE-Brief-AI-Ethics-2024.pdf",
+    "https://www.buv.edu.vn/faculty/assoc-prof-mike-perkins/",
+    "https://business.edx.org/wp-content/uploads/sites/3/2025/08/Academic-Integrity-in-the-Generative-AI-Era_2025.pdf"
+  ],
+
+  "uncertain": ["vietnamese_law_reference", "documented_vn_cases", "singapore_approach", "asean_regional_initiatives", "vietnamese_sources"]
+}

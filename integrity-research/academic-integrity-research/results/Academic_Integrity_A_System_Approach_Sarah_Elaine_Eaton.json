@@ -1,0 +1,23 @@
+{
+  "item_name": "Academic Integrity: A System Approach — Sarah Elaine Eaton",
+  "category": "recent_book",
+  "authors": [
+    "Sarah Elaine Eaton"
+  ],
+  "year": 2023,
+  "publisher_or_institution": "University of Calgary / Multiple Publishers (Springer, Libraries Unlimited, Palgrave Macmillan)",
+  "key_contribution": "Develops a comprehensive systems approach to academic integrity through the Comprehensive Academic Integrity (CAI) framework with eight overlapping elements: everyday ethics, institutional ethics, ethical leadership, professional and collegial ethics, instructional ethics, student academic conduct, research integrity and ethics, and publication ethics. Argues that academic integrity must extend beyond student conduct to encompass all aspects of education. Addresses emerging challenges including contract cheating, essay mills, and artificial intelligence in higher education.",
+  "doi_or_url": "https://link.springer.com/book/10.1007/978-3-030-83255-1",
+  "isbn": "9783030832544",
+  "notable_concepts": [
+    "Comprehensive Academic Integrity (CAI) framework",
+    "Eight elements of academic integrity: everyday ethics, institutional ethics, ethical leadership, professional and collegial ethics, instructional ethics, student academic conduct, research integrity and ethics, publication ethics",
+    "Contract cheating and essay mills",
+    "Technological arms race in academic integrity (text-matching software, proctoring software, artificial intelligence, Large Language Models)",
+    "AI integrity and post-plagiarism writing",
+    "Systemic and holistic approach to integrity",
+    "Canadian context and honour culture"
+  ],
+  "relevance_to_ai_integrity": "Directly addresses the intersection of artificial intelligence and academic integrity, examining how Large Language Models (LLMs) and AI-generated content pose new challenges to academic misconduct detection and prevention. Proposes frameworks that anticipate and respond to technological advances in both cheating methods and detection tools, making it essential for understanding AI literacy and integrity in contemporary higher education.",
+  "uncertain": []
+}

@@ -1,0 +1,195 @@
+[
+  {
+    "item_name": "Core elements of exemplary academic integrity policy in Australian higher education",
+    "category": "framework",
+    "authors": [
+      "Tracey Bretag",
+      "Saadia Mahmud",
+      "Margaret Wallace",
+      "Colin G. James",
+      "Margaret Green",
+      "Julianne East",
+      "Ursula McGowan",
+      "Lee Partridge"
+    ],
+    "year": 2011,
+    "publisher_or_institution": "International Journal for Educational Integrity",
+    "key_contribution": "Foundational research from the Academic Integrity Standards Project (AISP 2010-2012) analyzing 40 academic integrity policies across Australian universities. Identified and systematized five core elements of exemplary academic integrity policy: Access, Approach, Responsibility, Detail, and Support. Each element addresses specific institutional requirements—Access ensures policies are easily located and comprehensible; Approach frames integrity as educative rather than punitive; Responsibility clarifies institutional and individual duties; Detail provides specific procedures and definitions; Support ensures resources for implementation.",
+    "doi_or_url": "https://ojs.unisa.edu.au/index.php/IJEI/article/view/759",
+    "isbn": null,
+    "notable_concepts": [
+      "Five core elements framework",
+      "Access (readability, comprehensibility)",
+      "Approach (educative philosophy)",
+      "Responsibility (institutional and individual)",
+      "Detail (specific procedures)",
+      "Support (resources and implementation)",
+      "Australian higher education context",
+      "Policy exemplars"
+    ],
+    "relevance_to_ai_integrity": "The Comprehensive Academic Integrity Model provides a systems-thinking framework essential for AI integrity. The five elements can be applied to AI policy development: Access (clear AI policy availability), Approach (educative stance on AI use), Responsibility (clarifying AI accountability), Detail (specific AI use procedures), Support (training and tools). The emphasis on systemic institutional culture rather than detection aligns with contemporary understanding that AI integrity requires comprehensive cultural change."
+  },
+  {
+    "item_name": "Handbook of Academic Integrity",
+    "category": "recent_book",
+    "authors": [
+      "Tracey Bretag (Editor)"
+    ],
+    "year": 2016,
+    "publisher_or_institution": "Springer Science+Business Media Singapore",
+    "key_contribution": "Comprehensive international reference handbook bringing together diverse scholarly perspectives on academic integrity from 40+ contributors across all major regions and disciplines. Covers definitions and philosophies of academic integrity, institutional policies, international perspectives (North America, Asia, Australia, Europe, Middle East, Latin America, Africa), specific breach types and responses, and future directions. Positions academic integrity as multifaceted, context-dependent, and requiring culturally sensitive institutional approaches.",
+    "doi_or_url": "https://doi.org/10.1007/978-981-287-098-8",
+    "isbn": "978-981-287-097-1",
+    "notable_concepts": [
+      "International perspectives on academic integrity",
+      "Definitions and frameworks",
+      "Institutional policy and implementation",
+      "Academic integrity breaches",
+      "Cultural and regional variations",
+      "North American, Asian, Australian, European approaches",
+      "Future challenges in academic integrity"
+    ],
+    "relevance_to_ai_integrity": "Foundational reference for understanding academic integrity as an institution-wide phenomenon requiring coordinated approaches across teaching, assessment, policy, and culture. The handbook's emphasis on context-specific and culturally sensitive approaches is crucial for AI integrity, as AI-related misconduct varies by discipline, institution, and cultural context. Provides historical framework showing how academic integrity challenges evolve and require systematic institutional responses."
+  },
+  {
+    "item_name": "A Research Agenda for Academic Integrity: Emerging Issues in Academic Integrity Research",
+    "category": "recent_book",
+    "authors": [
+      "Tracey Bretag (Editor)"
+    ],
+    "year": 2020,
+    "publisher_or_institution": "Edward Elgar Publishing",
+    "key_contribution": "Edited collection synthesizing cutting-edge research on emerging academic integrity threats and solutions. Published by Tracey Bretag in her final year, this volume analyzes contract cheating, identifies pathways for developing integrity cultures, examines cyber-security perspectives on academic integrity, and provides evidence-based recommendations for higher education stakeholders. Positions academic integrity research agenda for the 2020s, acknowledging commercialized higher education contexts and evolving threats.",
+    "doi_or_url": null,
+    "isbn": "978-1-789-90376-8",
+    "notable_concepts": [
+      "Emerging academic integrity threats",
+      "Contract cheating analysis",
+      "Integrity culture development",
+      "Cybersecurity research applications",
+      "Evidence-based recommendations",
+      "Commercialized higher education",
+      "Future research directions"
+    ],
+    "relevance_to_ai_integrity": "Although published in 2020, this volume likely addresses early warnings about AI-related academic integrity concerns. The emphasis on 'emerging threats' and 'cyber-security perspectives' suggests anticipation of AI-mediated misconduct. The research agenda framework is directly applicable to developing institutional responses to generative AI and ensuring academic integrity governance evolves with technology."
+  },
+  {
+    "item_name": "Academic integrity: An interview with Tracey Bretag",
+    "category": "journal",
+    "authors": [
+      "Tracey Bretag",
+      "Editor"
+    ],
+    "year": 2018,
+    "publisher_or_institution": "Discourse: Studies in the Cultural Politics of Education",
+    "key_contribution": "In-depth interview capturing Bretag's synthesis of 15+ years of academic integrity research and her vision for the field. Discusses the evolution of academic integrity research from plagiarism-focused approaches toward systemic, cultural, and institutional perspectives. Reflects on the limitations of detection-based approaches, the importance of institutional culture, and the need for international collaboration in addressing integrity challenges.",
+    "doi_or_url": "https://doi.org/10.1080/00131857.2018.1506726",
+    "isbn": null,
+    "notable_concepts": [
+      "Evolution of academic integrity research",
+      "Systemic and cultural approaches",
+      "Limitations of detection tools",
+      "Institutional culture development",
+      "International collaboration",
+      "Future research directions",
+      "Student engagement and education"
+    ],
+    "relevance_to_ai_integrity": "Captures Bretag's mature thinking on academic integrity as primarily a cultural and institutional challenge rather than a technical/detection problem. This perspective is highly relevant to AI integrity policy—suggests that institutions should focus on building integrity cultures, educating students about ethical AI use, and designing assessments that are inherently resistant to AI misuse, rather than relying on AI detection tools."
+  },
+  {
+    "item_name": "A Conceptual Framework for Implementing Exemplary Academic Integrity Policy in Australian Higher Education",
+    "category": "framework",
+    "authors": [
+      "Tracey Bretag"
+    ],
+    "year": 2012,
+    "publisher_or_institution": "Exemplary Academic Integrity Project (EAIP) / University of South Australia",
+    "key_contribution": "Extension of the 2011 core elements research into a practical implementation framework. The EAIP (2012-2013) developed an actionable methodology for translating the five core elements into institutional policy. Identified six components contributing to exemplary academic integrity culture: academic integrity champions, staff and student education, robust decision-making systems, record keeping for evaluation, regular policy review, and continuous improvement mechanisms.",
+    "doi_or_url": "https://link.springer.com/referenceworkentry/10.1007/978-981-287-098-8_24",
+    "isbn": null,
+    "notable_concepts": [
+      "Implementation framework",
+      "Exemplary academic integrity policy",
+      "Academic integrity champions",
+      "Staff and student education",
+      "Decision-making systems",
+      "Record keeping and evaluation",
+      "Regular policy review",
+      "Continuous improvement",
+      "Cultural change mechanisms"
+    ],
+    "relevance_to_ai_integrity": "Provides practical roadmap for institutional implementation of academic integrity frameworks, now directly applicable to AI integrity. The six components (champions, education, decision-making, record-keeping, review, improvement) form a tested model for building AI integrity governance. Emphasizes that cultural change requires sustained attention to people, processes, and continuous improvement—not one-time policy adoption."
+  },
+  {
+    "item_name": "Office for Academic Integrity at UniSA Business School",
+    "category": "framework",
+    "authors": [
+      "Tracey Bretag (Director)"
+    ],
+    "year": 2015,
+    "publisher_or_institution": "University of South Australia",
+    "key_contribution": "[uncertain] As founding Director of the UniSA Business School Office for Academic Integrity from 2015, Bretag led institutional implementation of comprehensive academic integrity systems. The office served as a model for how research frameworks translate into operational, student-facing, and faculty-support functions. Integrated the five core elements and implementation framework into daily institutional practice.",
+    "doi_or_url": null,
+    "isbn": null,
+    "notable_concepts": [
+      "Institutional office structure",
+      "Director-led integrity initiatives",
+      "Business school context",
+      "Student support services",
+      "Faculty development",
+      "Policy implementation",
+      "Audit and compliance"
+    ],
+    "relevance_to_ai_integrity": "Demonstrates how research-based frameworks can be translated into institutional structures. AI integrity offices are emerging on campuses, and Bretag's model provides evidence that dedicated, director-level leadership is essential for sustained cultural change and effective policy implementation."
+  },
+  {
+    "item_name": "Academic Integrity Training Program (Epigeum/Oxford University Press)",
+    "category": "framework",
+    "authors": [
+      "Tracey Bretag (Lead Advisor)"
+    ],
+    "year": 2014,
+    "publisher_or_institution": "Epigeum (imprint of Oxford University Press)",
+    "key_contribution": "Lead advisory role in developing comprehensive online training program for staff and students on academic integrity. The program, regarded as one of the most comprehensive at the time, translates academic research into accessible, scalable educational content. Demonstrates commitment to educative rather than punitive approaches to academic integrity.",
+    "doi_or_url": null,
+    "isbn": null,
+    "notable_concepts": [
+      "Online training and education",
+      "Staff development",
+      "Student education",
+      "Scalable institutional solutions",
+      "Learning design",
+      "Accessibility and engagement",
+      "Educative approach"
+    ],
+    "relevance_to_ai_integrity": "Shows the importance of building comprehensive, evidence-based training programs for both students and staff. As institutions develop AI integrity policies, similar comprehensive training approaches are essential. The Epigeum model demonstrates that academic integrity education should be accessible, engaging, and integrated into institutional onboarding processes."
+  },
+  {
+    "item_name": "Founding Editor: International Journal for Educational Integrity",
+    "category": "framework",
+    "authors": [
+      "Tracey Bretag"
+    ],
+    "year": 2006,
+    "publisher_or_institution": "International Journal for Educational Integrity / University of South Australia",
+    "key_contribution": "As founding editor, Bretag established the premiere international peer-reviewed journal dedicated exclusively to academic integrity research. The journal became the central venue for contract cheating research, integrity policy analysis, and cross-cultural academic integrity work. Bretag's editorial leadership shaped the research agenda and elevated academic integrity as a legitimate field of scholarly inquiry.",
+    "doi_or_url": "https://edintegrity.biomedcentral.com/",
+    "isbn": null,
+    "notable_concepts": [
+      "Peer-reviewed journal establishment",
+      "Research agenda setting",
+      "International collaboration",
+      "Academic legitimacy",
+      "Contract cheating research publication",
+      "Policy research dissemination",
+      "Field leadership"
+    ],
+    "relevance_to_ai_integrity": "The IJEI serves as a central repository for emerging research on AI integrity challenges. Bretag's role in establishing a dedicated venue for academic integrity scholarship demonstrates the importance of formalized knowledge infrastructure for emerging academic challenges. Similar dedicated journals and research venues will be essential for accumulating AI integrity knowledge."
+  },
+  {
+    "_uncertain": [
+      "Office for Academic Integrity role scope and impact metrics",
+      "Specific details of Epigeum training program content and reach"
+    ]
+  }
+]

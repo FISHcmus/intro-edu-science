@@ -1,0 +1,97 @@
+{
+  "item_name": "Journal of Academic Ethics",
+  "category": "journal",
+  "authors": [
+    "Deborah C. Poff (Founding Editor-in-Chief)",
+    "Alex C. Michalos (Founding Co-Editor)",
+    "Loreta Tauginienė (Current Editor-in-Chief)"
+  ],
+  "year": 2002,
+  "publisher_or_institution": "Springer Nature / Springer Netherlands",
+  "key_contribution": "An internationally recognized peer-reviewed journal dedicated to multidisciplinary research on ethical issues in academic institutions and governance. The journal publishes original research, review articles, and opinion pieces on academic integrity, research conduct, faculty relationships, institutional management, and ethical governance in post-secondary education. Over two decades of publication, it has become a leading venue for scholars examining how ethical principles apply in contemporary academic settings, including emerging challenges from artificial intelligence and generative technologies.",
+  "doi_or_url": "https://link.springer.com/journal/10805",
+  "isbn": null,
+  "issn": {
+    "print": "1570-1727",
+    "electronic": "1572-8544"
+  },
+  "impact_factor": {
+    "current": 3.3,
+    "five_year": 2.8,
+    "year": 2024
+  },
+  "additional_metrics": {
+    "scimago_journal_rank": 0.659,
+    "h_index": 34,
+    "quartile": "Q1",
+    "total_publications": 673,
+    "total_citations": 3155
+  },
+  "founding_information": {
+    "year": 2002,
+    "founding_editor": "Deborah C. Poff",
+    "founding_co_editor": "Alex C. Michalos",
+    "editorial_period_poff": "2002-2020"
+  },
+  "current_editorial_team": {
+    "editor_in_chief": "Loreta Tauginienė",
+    "position": "Associate Professor, Kaunas University of Technology, Lithuania",
+    "associate_editor": "Shiva Das Sivasubramaniam",
+    "associate_editor_affiliation": "University of Derby, United Kingdom"
+  },
+  "scope_and_aims": {
+    "primary_focus": "Multidisciplinary and interdisciplinary research on ethical issues and good practices in academic institutions",
+    "key_topics": [
+      "Research conduct and dissemination ethics",
+      "Faculty relationships and interactions",
+      "Senior leadership and institutional governance",
+      "Academic management and administration",
+      "Academic integrity",
+      "Research misconduct",
+      "Authorship ethics",
+      "Peer review ethics",
+      "Student ethics",
+      "Institutional policies and procedures"
+    ],
+    "article_types": "Original research articles, review articles, opinion pieces, book reviews, and commentaries"
+  },
+  "recent_ai_and_academic_integrity_publications": [
+    {
+      "title": "Governing Academic Integrity: Ensuring the Authenticity of Higher Thinking in the Era of Generative Artificial Intelligence",
+      "year": 2025,
+      "doi_or_url": "https://link.springer.com/article/10.1007/s10805-025-09639-7",
+      "description": "Addresses governance reforms needed to ensure academic integrity in response to generative AI implications, presenting an academic integrity indicator framework."
+    },
+    {
+      "title": "Academic Integrity and Generative Artificial Intelligence – Views and Perceptions of Students in an Irish University",
+      "year": 2025,
+      "doi_or_url": "https://link.springer.com/article/10.1007/s10805-025-09689-x",
+      "description": "Survey of 608 students exploring diverse views on ethical GenAI use, revealing gaps in awareness of institutional integrity policies and need for policy guidance."
+    },
+    {
+      "title": "ChatGPT Unveiled: Understanding Perceptions of Academic Integrity in Higher Education - A Qualitative Approach",
+      "year": 2024,
+      "doi_or_url": "https://link.springer.com/article/10.1007/s10805-024-09543-6",
+      "description": "Qualitative study gaining insights from faculty and students on AI tools' impact on academic integrity through in-depth interviews across Lebanese universities."
+    }
+  ],
+  "notable_concepts": [
+    "Academic integrity",
+    "Research ethics",
+    "Generative AI in education",
+    "Academic misconduct prevention",
+    "Institutional governance",
+    "Faculty ethics",
+    "Student integrity",
+    "Authorship responsibility",
+    "Peer review integrity",
+    "AI-generated content disclosure",
+    "Deepfake detection in education",
+    "AI literacy and ethical use",
+    "Institutional policies and procedures"
+  ],
+  "relevance_to_ai_integrity": "The Journal of Academic Ethics is the primary peer-reviewed publication venue for scholarly research on AI and academic integrity in higher education. The journal publishes rigorous empirical studies, policy analyses, and ethical frameworks examining how generative AI systems impact student behavior, faculty responsibilities, institutional governance, and research conduct. Recent publications (2024-2025) specifically address academic integrity in the era of GenAI, student perceptions of AI tool ethics, and governance reforms needed to maintain institutional integrity standards.",
+  "uncertain": [
+    "additional_metrics - exact total_publications and total_citations may require direct source verification"
+  ]
+}

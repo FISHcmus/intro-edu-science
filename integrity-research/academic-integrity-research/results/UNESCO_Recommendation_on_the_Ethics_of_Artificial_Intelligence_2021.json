@@ -1,0 +1,28 @@
+{
+  "item_name": "Recommendation on the Ethics of Artificial Intelligence",
+  "category": "policy_document",
+  "authors": [
+    "UNESCO"
+  ],
+  "year": 2021,
+  "publisher_or_institution": "UNESCO (United Nations Educational, Scientific and Cultural Organization)",
+  "key_contribution": "The first-ever global normative framework on AI ethics, adopted by 193 UNESCO member states in November 2021. Establishes four core values (human rights and dignity, peaceful and just societies, diversity and inclusiveness, environment and ecosystem flourishing) and ten actionable ethical principles (proportionality, safety, fairness, sustainability, privacy, human oversight, transparency, accountability, awareness and literacy, multi-stakeholder governance) to guide AI development and deployment globally.",
+  "doi_or_url": "https://unesdoc.unesco.org/ark:/48223/pf0000380455",
+  "isbn": null,
+  "notable_concepts": [
+    "Human rights and dignity",
+    "Transparency and explainability",
+    "Accountability and responsibility",
+    "Human oversight and control",
+    "Fairness and non-discrimination",
+    "Proportionality and do no harm",
+    "Safety and security",
+    "Privacy and data protection",
+    "Ethical Impact Assessment (EIA)",
+    "Multi-stakeholder governance",
+    "Education and research policy area",
+    "Public awareness and digital literacy"
+  ],
+  "relevance_to_ai_integrity": "Directly addresses academic integrity through its emphasis on transparency, accountability, and human oversight in AI systems. The education and research policy area specifically promotes ethical AI practices in academic settings, including integration of AI ethics into curricula and support for responsible research methodologies. Establishes principles for data governance and fairness that protect student and researcher data, and mandates that humans maintain ultimate responsibility for AI-driven decisions affecting educational outcomes.",
+  "uncertain": []
+}

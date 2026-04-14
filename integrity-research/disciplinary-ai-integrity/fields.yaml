@@ -1,0 +1,153 @@
+fields:
+  # --- BASIC INFO ---
+  - name: item_name
+    description: Full name of the research item
+    type: string
+    required: true
+
+  - name: discipline
+    description: "Primary discipline: medicine | law | creative_arts | k12 | tvet"
+    type: string
+    required: true
+
+  - name: sub_discipline
+    description: Specific sub-discipline (e.g., nursing, architecture, legal writing, secondary exam)
+    type: string
+    required: true
+
+  - name: category
+    description: "Category: medicine | law | creative_arts | k12 | tvet"
+    type: string
+    required: true
+
+  # --- AI FRAUD MANIFESTATION ---
+  - name: specific_fraud_methods
+    description: How AI fraud specifically manifests in this discipline (not generic — discipline-specific methods)
+    type: list
+    required: true
+
+  - name: ai_tools_used
+    description: Which AI tools are relevant to fraud in this discipline (text generators, image generators, code generators, etc.)
+    type: list
+    required: true
+
+  - name: detection_difficulty
+    description: How difficult is it to detect AI fraud in this discipline and why (text-based tools don't work for images, etc.)
+    type: string
+    required: true
+
+  - name: unique_disciplinary_challenges
+    description: What makes AI integrity uniquely challenging in this discipline vs. general higher education
+    type: string
+    required: true
+
+  # --- REGULATORY / PROFESSIONAL BODY RESPONSE ---
+  - name: governing_body
+    description: Professional body or regulatory authority for this discipline (GMC, ABA, Ofqual, etc.)
+    type: string
+    required: true
+
+  - name: policy_documents
+    description: Specific policy documents, guidance, or statements issued by the governing body on AI
+    type: list
+    required: true
+
+  - name: guidance_date
+    description: When the AI-specific guidance was issued (or if no guidance exists yet)
+    type: string
+    required: true
+
+  - name: enforcement_approach
+    description: How the governing body enforces AI integrity — punitive, educational, or mixed
+    type: string
+    required: true
+
+  # --- ASSESSMENT CONTEXT ---
+  - name: traditional_assessment_methods
+    description: Traditional assessment methods used in this discipline (clinical exams, moot court, studio crits, etc.)
+    type: list
+    required: true
+
+  - name: ai_vulnerable_assessments
+    description: Which assessments in this discipline are most vulnerable to AI fraud
+    type: list
+    required: true
+
+  - name: ai_resistant_assessments
+    description: Which assessments are naturally resistant to AI fraud (oral exams, live performance, clinical skills)
+    type: list
+    required: true
+
+  - name: redesign_proposals
+    description: Proposals or implementations for redesigning assessment in response to AI
+    type: list
+    required: true
+
+  # --- DOCUMENTED CASES ---
+  - name: case_descriptions
+    description: Documented cases of AI fraud in this discipline, with details
+    type: list
+    required: true
+
+  - name: institutions_involved
+    description: Institutions where cases occurred or policies were implemented
+    type: list
+    required: true
+
+  - name: outcomes
+    description: Outcomes of documented cases or policy implementations
+    type: string
+    required: true
+
+  - name: media_coverage
+    description: Notable media coverage of AI fraud in this discipline
+    type: list
+    required: true
+
+  # --- PATIENT/PUBLIC SAFETY ---
+  - name: direct_harm_risk
+    description: Whether AI fraud in this discipline creates direct risk to patients, clients, or public safety
+    type: string
+    required: true
+
+  - name: credentialing_integrity
+    description: How AI fraud threatens professional credentialing and licensing in this field
+    type: string
+    required: true
+
+  - name: professional_licensing_stakes
+    description: The stakes of professional licensing exams in this field and why integrity matters
+    type: string
+    required: true
+
+  # --- KEY SCHOLARS AND LITERATURE ---
+  - name: discipline_specific_researchers
+    description: Key researchers studying AI integrity specifically in this discipline
+    type: list
+    required: true
+
+  - name: key_publications
+    description: Important publications on AI integrity in this discipline
+    type: list
+    required: true
+
+  - name: conferences
+    description: Relevant conferences where AI integrity in this discipline is discussed
+    type: list
+    required: true
+
+  # --- COMPARISON ---
+  - name: how_different_from_stem_social_science
+    description: How AI integrity challenges in this discipline differ from the well-studied STEM/social science context
+    type: string
+    required: true
+
+  - name: unique_detection_challenges
+    description: Detection challenges specific to this discipline (e.g., no text-based detection for images)
+    type: string
+    required: true
+
+  - name: discipline_specific_solutions
+    description: Solutions or approaches unique to this discipline that don't apply to general HE
+    type: list
+    required: true

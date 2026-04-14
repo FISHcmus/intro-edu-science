@@ -1,0 +1,142 @@
+categories:
+  basic_info:
+    display_name: "Basic Info"
+    fields:
+      - name: name
+        description: "Name of the policy, law, framework, company, case, or concept"
+        detail_level: brief
+      - name: type
+        description: "Type: law, policy, framework, case_study, company_policy, academic_framework, guideline"
+        detail_level: brief
+      - name: year
+        description: "Year issued or most recent version year"
+        detail_level: brief
+      - name: issuing_authority
+        description: "Organization, government body, or institution that issued this"
+        detail_level: brief
+      - name: country_or_region
+        description: "Country or region where this applies"
+        detail_level: brief
+      - name: summary
+        description: "One-paragraph summary of what this is and why it matters"
+        detail_level: moderate
+
+  ai_integrity_provisions:
+    display_name: "AI Integrity Provisions"
+    fields:
+      - name: ai_use_policy
+        description: "What the policy says about AI use — permitted, prohibited, regulated"
+        detail_level: detailed
+      - name: academic_fraud_definition
+        description: "How academic fraud or plagiarism using AI is defined"
+        detail_level: moderate
+      - name: detection_mechanisms
+        description: "What tools or methods are used to detect AI-assisted fraud"
+        detail_level: moderate
+      - name: penalties
+        description: "Consequences for violations — suspension, expulsion, grade penalty, institutional sanctions"
+        detail_level: moderate
+      - name: transparency_requirements
+        description: "Requirements to disclose AI use in academic work"
+        detail_level: moderate
+
+  vietnam_specific:
+    display_name: "Vietnam-Specific Context"
+    fields:
+      - name: vietnamese_law_reference
+        description: "Specific Vietnamese law articles, decree numbers, or circular numbers referenced"
+        detail_level: detailed
+      - name: moet_policy
+        description: "Bộ GD&ĐT (MOET) specific directives or circulars on this topic"
+        detail_level: detailed
+      - name: documented_vn_cases
+        description: "Documented cases of AI fraud or integrity violations in Vietnamese universities"
+        detail_level: detailed
+      - name: vn_university_responses
+        description: "How specific Vietnamese universities have responded — policies, bans, guidance"
+        detail_level: moderate
+
+  edtech_perspective:
+    display_name: "EdTech Researcher Perspective"
+    fields:
+      - name: ai_tutor_vs_cheater_framing
+        description: "How EdTech researchers frame the AI-as-tutor vs AI-as-cheater debate"
+        detail_level: detailed
+      - name: responsible_ai_definition
+        description: "How EdTech researchers define responsible AI use in learning contexts"
+        detail_level: moderate
+      - name: key_researchers
+        description: "Key EdTech researchers or academics who work on this topic — names, affiliations, key works"
+        detail_level: moderate
+      - name: company_ethics_policy
+        description: "Specific EdTech company's AI ethics or integrity policy — Duolingo, Khan Academy, Coursera, etc."
+        detail_level: detailed
+
+  comparative_context:
+    display_name: "Comparative / Regional Context"
+    fields:
+      - name: singapore_approach
+        description: "How NUS, NTU, or Singapore's MOE approaches AI integrity"
+        detail_level: moderate
+      - name: australia_approach
+        description: "How Australian universities (Monash, Melbourne, ANU) approach AI integrity"
+        detail_level: moderate
+      - name: asia_vs_western_differences
+        description: "Key differences between Asian and Western university approaches to AI fraud"
+        detail_level: detailed
+      - name: asean_regional_initiatives
+        description: "Any ASEAN-level or Asia-Pacific regional initiatives on AI in education"
+        detail_level: moderate
+
+  frameworks_and_standards:
+    display_name: "Frameworks & Standards"
+    fields:
+      - name: framework_name
+        description: "Name of the framework or standard"
+        detail_level: brief
+      - name: framework_principles
+        description: "Key principles of the framework — what does it say about AI and integrity"
+        detail_level: detailed
+      - name: iste_standards
+        description: "ISTE AI standards or guidelines relevant to this item"
+        detail_level: moderate
+      - name: cosn_guidelines
+        description: "CoSN (Consortium for School Networking) guidelines relevant to this item"
+        detail_level: moderate
+      - name: unesco_guidelines
+        description: "UNESCO guidelines on AI in education relevant to this item"
+        detail_level: moderate
+
+  practical_implications:
+    display_name: "Practical Implications"
+    fields:
+      - name: implementation_challenges
+        description: "Real-world challenges in implementing this policy or framework"
+        detail_level: moderate
+      - name: student_perspective
+        description: "How students perceive or respond to AI integrity policies"
+        detail_level: moderate
+      - name: teacher_perspective
+        description: "How teachers or faculty respond to AI integrity challenges"
+        detail_level: moderate
+      - name: recommendations
+        description: "Specific recommendations for EdTech researchers or policymakers"
+        detail_level: detailed
+
+  sources:
+    display_name: "Sources"
+    fields:
+      - name: primary_sources
+        description: "Primary sources — law texts, official policy documents, official websites"
+        detail_level: detailed
+      - name: academic_sources
+        description: "Academic papers, journal articles, conference papers"
+        detail_level: detailed
+      - name: vietnamese_sources
+        description: "Vietnamese-language sources — news articles, official documents"
+        detail_level: moderate
+      - name: urls
+        description: "Direct URLs to key sources"
+        detail_level: moderate
+
+uncertain: []

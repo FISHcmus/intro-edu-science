@@ -1,0 +1,25 @@
+{
+  "item_name": "Copyleaks AI Content Detector",
+  "category": "ai_detection_tool",
+  "creators_or_institution": "Copyleaks Ltd. (founded 2015, Israel; CEO Alon Yamin)",
+  "year_launched_or_published": 2023,
+  "background_story": "Copyleaks was founded in 2015 as a plagiarism detection service and pivoted to add AI content detection after ChatGPT's launch. They launched their AI Content Detector as an integrated feature within their existing plagiarism platform, positioning it for educational institutions already using their LMS integrations. Unlike GPTZero which started as a standalone tool, Copyleaks targeted enterprise and institutional clients through existing LMS partnerships with Canvas, Moodle, and Blackboard.",
+  "how_it_works": "Copyleaks uses a machine learning model trained on a large dataset of both human-written and AI-generated text from multiple AI systems (GPT-3.5, GPT-4, Claude, Bard, etc.). It analyzes linguistic patterns, sentence structure, semantic consistency, and statistical text features to produce a percentage score indicating AI-generated content likelihood. The system can detect content from multiple AI sources, not just ChatGPT. It also offers source code plagiarism detection and multilingual AI detection in 30+ languages.",
+  "accuracy_or_effectiveness": "Copyleaks claims 99.1% accuracy in detecting AI-generated content. Independent benchmarks from 2024-2026 show: 91% overall accuracy in a 500-sample test (vs GPTZero's 99.3% self-report). Panda Copy's independent evaluation found Copyleaks accuracy at approximately 90.7%. The Scribbr independent evaluation gave it 76% accuracy. False negative rate (missed AI content) varies by AI model tested. Against GPT-5-mini output specifically, Copyleaks catches approximately 7-15% in 2025 benchmarks, suggesting newer models evade it effectively.",
+  "limitations_and_criticisms": "Key limitations: (1) False positive rate of approximately 7.2% in independent 2026 testing — meaning roughly 1 in 14 human-written documents are wrongly flagged. (2) Performance degrades substantially against newer AI models and paraphrased AI text. (3) While marketed as multilingual, accuracy is lower for non-English languages. (4) Like all detectors, susceptible to humanization tools. (5) Institutional pricing makes it inaccessible for individual educators or developing-country institutions. (6) No algorithmic transparency — exact detection method not published.",
+  "false_positive_rate": "Approximately 7.2% false positive rate in 2026 independent testing (Humanize AI Pro comparison). This is higher than GPTZero's claimed 0.24% but lower than ZeroGPT's 14.6% in the same test. Copyleaks' own accuracy claims do not specify false positive rates by student population demographics.",
+  "notable_cases_or_examples": [
+    "Integrated with Canvas, Moodle, Blackboard — used by educational institutions across 50+ countries by 2024",
+    "Copyleaks vs ZeroGPT independent test (2026): Copyleaks accuracy 91% vs ZeroGPT 85%, with Copyleaks false positive rate half that of ZeroGPT (7.2% vs 14.6%)",
+    "Copyleaks published a self-comparison study (GPTZero vs Copyleaks vs Originality.ai) showing their tool outperforming competitors — though methodology was not independently verified",
+    "Used in government-sector document verification beyond academic settings (content publishers, legal firms)"
+  ],
+  "key_publications_or_sources": [
+    "Copyleaks blog: 'Copyleaks vs ZeroGPT: Which AI Detector Is More Accurate?' — https://copyleaks.com/blog/copyleaks-vs-zerogpt",
+    "Panda Copy independent evaluation: 'How Accurate Are AI Detectors? Originality.ai vs Copyleaks vs ZeroGPT' — https://www.pandacopy.com/how-accurate-are-ai-detectors-originality-ai-vs-copyleaks-vs-zerogpt",
+    "GPTZero comparison blog: 'GPTZero vs Copyleaks vs Originality: AI Detector Accuracy' — https://gptzero.me/news/gptzero-vs-copyleaks-vs-originality/",
+    "Thehumanizeai.pro: 'ZeroGPT vs Copyleaks: Which AI Detector Is More Accurate? [2026 Comparison]' — https://thehumanizeai.pro/articles/zerogpt-vs-copyleaks"
+  ],
+  "current_status_2024_2026": "Copyleaks continues to operate as an integrated enterprise solution for institutions. By 2025-2026, they have expanded multilingual detection and updated their model against newer AI systems. However, like all current-generation detectors, accuracy against the latest LLMs (GPT-5, Claude 3.7, Gemini 2) has declined substantially, as these models produce output with higher perplexity and more human-like burstiness patterns.",
+  "uncertain": ["exact founding date of AI detection feature"]
+}

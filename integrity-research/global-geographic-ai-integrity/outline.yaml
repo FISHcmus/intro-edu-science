@@ -1,0 +1,228 @@
+topic: AI Academic Fraud and Integrity Policy in Non-Anglophone Countries
+description: >
+  Geographic gap-filling research on AI academic fraud and academic integrity
+  policy responses outside the Anglophone world (US/UK/Australia). Covers China,
+  India, Sub-Saharan Africa, Latin America, Middle East/Gulf States, and
+  Southeast Asia beyond Vietnam.
+
+execution:
+  output_dir: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/global-geographic-ai-integrity/results
+  fields_path: /home/ubuntu/nhannht-projects/hcmus/semester2/intro-edu-science/global-geographic-ai-integrity/fields.yaml
+  items_per_agent: 1
+  batch_size: 4
+
+items:
+  # --- CHINA (5 items) ---
+  - name: "China AI Fraud Prevalence in Higher Education"
+    category: regional_context
+    description: >
+      Scale of AI-assisted cheating in China's 40M+ student higher education
+      system. Gaokao context, postgraduate entrance exams (kaoyan), documented
+      AI fraud incidents, prevalence surveys if available. Ministry of Education
+      (MOE) responses and university-level policies at top institutions
+      (Tsinghua, Peking University, Fudan, Zhejiang).
+
+  - name: "Cyberspace Administration of China (CAC) AI Regulation"
+    category: regulatory
+    description: >
+      China's regulatory approach to AI content: Deep fake labeling rules (2023),
+      Interim Measures for the Management of Generative AI Services (2023),
+      content watermarking requirements, real-name registration for AI services.
+      How these regulations affect academic use of AI tools. Comparison with
+      Western regulatory approaches.
+
+  - name: "Chinese AI Detection Ecosystem"
+    category: detection_tools
+    description: >
+      Domestic Chinese AI detection tools and plagiarism systems. CNKI (China
+      National Knowledge Infrastructure) plagiarism detection system adaptations
+      for AI-generated content. Any Chinese-developed AI detection tools
+      (equivalent to GPTZero/Turnitin). University-deployed detection solutions.
+      Effectiveness for Chinese-language text specifically.
+
+  - name: "Fengchun Miao and UNESCO Beijing AI in Education"
+    category: researcher_institution
+    description: >
+      Fengchun Miao's work at UNESCO IITE (Institute for Information Technologies
+      in Education). Beijing Consensus on Artificial Intelligence and Education
+      (2019). UNESCO Asia-Pacific regional guidance on AI in education. Miao's
+      publications on AI readiness, teacher AI competency frameworks, and
+      education policy in the Asia-Pacific region.
+
+  - name: "Chinese-Language Academic Integrity Research"
+    category: scholarship
+    description: >
+      Key Chinese scholars researching academic integrity and AI fraud. CNKI-indexed
+      studies on academic fraud and AI. Publications in Chinese Journal of
+      Educational Technology (电化教育研究), Open Education Research (开放教育研究),
+      and other Chinese-language education journals. Research traditions and
+      methodological approaches in Chinese integrity scholarship.
+
+  # --- INDIA (4 items) ---
+  - name: "India AI Fraud in Competitive Examinations"
+    category: regional_context
+    description: >
+      AI fraud in India's high-stakes competitive examination system: UPSC (civil
+      services), IIT-JEE (engineering), NEET (medical), CAT (MBA). The Kota
+      coaching ecosystem and AI tool integration. UGC-NET exam leak scandal 2024.
+      NEET paper leak controversy. Scale of exam fraud industry in India and
+      how AI amplifies existing problems.
+
+  - name: "Indian EdTech and AI Integrity"
+    category: edtech_ecosystem
+    description: >
+      India's massive EdTech sector and AI integrity challenges. BYJU's rise
+      and collapse, Unacademy, Vedantu, PhysicsWallah — how these platforms
+      integrate AI and what integrity safeguards exist. BYJU's regulatory
+      aftermath. Market size (~$6B). Student reliance on EdTech for exam prep
+      and how this shapes attitudes toward AI use.
+
+  - name: "UGC Guidelines on AI in Indian Higher Education"
+    category: regulatory
+    description: >
+      University Grants Commission (UGC) directives on AI use in Indian higher
+      education. National Education Policy (NEP) 2020 technology integration
+      provisions. AICTE (All India Council for Technical Education) guidelines.
+      National Assessment and Accreditation Council (NAAC) quality frameworks
+      and how they address AI. Indian Institutes of Technology (IIT) individual
+      AI policies.
+
+  - name: "India Academic Integrity Culture and Contract Cheating"
+    category: cultural_context
+    description: >
+      Indian academic integrity culture: paper mills, predatory journals (India's
+      overrepresentation on Beall's list), contract cheating services. Cultural
+      factors: family pressure for credentials, credential premium in government
+      jobs, reservation system dynamics. Shodhganga thesis repository plagiarism
+      issues. How existing integrity challenges interact with AI tools.
+
+  # --- SUB-SAHARAN AFRICA (3 items) ---
+  - name: "Nigeria AI Adoption in Universities"
+    category: regional_context
+    description: >
+      AI adoption and academic integrity in Nigerian higher education. JAMB
+      (Joint Admissions and Matriculation Board) exam fraud history and AI
+      threats. National Universities Commission (NUC) responses. Resource
+      constraints: internet access, electricity, device availability. How
+      AI fraud manifests differently in resource-constrained environments.
+      Nigerian university student population (~2M).
+
+  - name: "Kenya and East Africa EdTech and Integrity"
+    category: edtech_ecosystem
+    description: >
+      East African EdTech ecosystem and academic integrity. M-Pesa enabled
+      EdTech platforms (Eneza Education, M-Shule). AI adoption patterns in
+      Kenya, Tanzania, Uganda. Kenya National Examinations Council (KNEC)
+      responses to technology-enabled cheating. Mobile-first education context
+      and how it shapes AI use patterns.
+
+  - name: "South Africa Academic Integrity Framework"
+    category: regulatory
+    description: >
+      South African academic integrity policies and AI responses. SAQA (South
+      African Qualifications Authority) framework. University of Cape Town,
+      Stellenbosch, Wits AI policies. Turnitin deployment across African HE
+      (South Africa as primary African market). CHE (Council on Higher Education)
+      quality assurance. Unique challenges: multilingual context (11 official
+      languages), post-apartheid education equity mandates.
+
+  # --- LATIN AMERICA (3 items) ---
+  - name: "Brazil AI in Education and Integrity"
+    category: regional_context
+    description: >
+      AI in Brazilian higher education and integrity challenges. CAPES
+      (Coordination for the Improvement of Higher Education Personnel)
+      regulations. Portuguese-language AI detection tools (if any). CNPq
+      research integrity policies. Brazilian universities' AI use policies.
+      Cultural norms around collaboration vs. plagiarism. SciELO Brazil
+      publishing and AI authorship policies.
+
+  - name: "Mexico EdTech Adoption and AI Fraud"
+    category: edtech_ecosystem
+    description: >
+      Mexican higher education AI challenges. CONACYT/CONAHCYT (National
+      Council of Humanities, Sciences, and Technologies) policies on AI and
+      research integrity. Mexican university responses (UNAM, Tecnológico de
+      Monterrey). Latin American EdTech platforms (Platzi, Crehana). Spanish-
+      language AI detection tools and their effectiveness.
+
+  - name: "Latin American Citation Culture and Academic Norms"
+    category: cultural_context
+    description: >
+      Latin American academic culture and how it shapes integrity norms.
+      Collectivist vs. individualist academic traditions. SciELO publishing
+      ecosystem and its norms. Regional differences in plagiarism
+      conceptualization across Spanish and Portuguese-speaking countries.
+      CLACSO (Latin American Council of Social Sciences) policies. How
+      Western plagiarism frameworks transfer (or don't) to Latin American
+      academic contexts.
+
+  # --- MIDDLE EAST / GULF STATES (3 items) ---
+  - name: "UAE AI Education Strategy and Branch Campus Integrity"
+    category: regional_context
+    description: >
+      UAE AI Strategy 2031 and education implications. Knowledge and Human
+      Development Authority (KHDA) and Abu Dhabi Department of Education and
+      Knowledge (ADEK) AI policies. Branch campus integrity challenges: NYU
+      Abu Dhabi, Sorbonne Abu Dhabi, Heriot-Watt Dubai — navigating home
+      institution policies vs. local context. UAE's AI adoption rate (highest
+      in MENA region) and student AI use patterns.
+
+  - name: "Saudi Arabia Vision 2030 Education and AI"
+    category: regulatory
+    description: >
+      Saudi Arabia's Vision 2030 education transformation and AI. Saudi Data
+      and AI Authority (SDAIA) guidelines. University AI policies at KAUST
+      (King Abdullah University of Science and Technology), King Saud University,
+      King Abdulaziz University. Education and Training Evaluation Commission
+      (ETEC) quality frameworks. NEOM education technology initiatives.
+
+  - name: "Qatar Foundation and AI Integrity in Education City"
+    category: institutional
+    description: >
+      Qatar Foundation's Education City: unique multi-university campus model.
+      AI integrity policies at Carnegie Mellon University Qatar, Georgetown
+      University Qatar, Northwestern Qatar, Texas A&M Qatar. How branch campuses
+      navigate AI integrity between home institution policies and Qatari
+      regulatory context. Qatar National Research Fund (QNRF) integrity policies.
+
+  # --- SOUTHEAST ASIA BEYOND VIETNAM (4 items) ---
+  - name: "Indonesia AI Academic Integrity"
+    category: regional_context
+    description: >
+      AI and academic integrity in Indonesia's massive HE system (4,600+
+      institutions). Kemendikbud (Ministry of Education, Culture, Research,
+      and Technology) AI policies. Merdeka Belajar (Freedom to Learn)
+      curriculum reform and technology integration. Indonesian language
+      (Bahasa Indonesia) AI detection challenges. Key universities' responses
+      (UI, ITB, UGM). Student population context (~8M HE students).
+
+  - name: "Philippines AI in Higher Education"
+    category: regional_context
+    description: >
+      AI in Philippine higher education. CHED (Commission on Higher Education)
+      guidelines on AI use. University of the Philippines (UP) System AI
+      policies. English-medium instruction context (advantage for detection
+      tools vs. Filipino-medium). OFW (Overseas Filipino Worker) credential
+      pressure and how it shapes academic integrity culture. Private vs.
+      public university differences.
+
+  - name: "Thailand AI Academic Integrity"
+    category: regional_context
+    description: >
+      AI and academic integrity in Thai higher education. MHESI (Ministry of
+      Higher Education, Science, Research and Innovation) policies.
+      Chulalongkorn University and Mahidol University AI responses. Thai-
+      language AI detection tools (if any). OHEC (Office of the Higher
+      Education Commission) quality assurance. Thailand 4.0 digital
+      transformation agenda and education implications.
+
+  - name: "Malaysia AI and Academic Integrity"
+    category: regulatory
+    description: >
+      Malaysian higher education AI integrity framework. MQA (Malaysian
+      Qualifications Agency) quality standards. MOHE (Ministry of Higher
+      Education) AI policies. University responses: UiTM, UM (Universiti
+      Malaya), USM, UKM. Malaysia Education Blueprint 2015-2025 technology
+      provisions. Malay-language AI detection challenges. Malaysia's
+      relatively high English proficiency and dual-language education context.

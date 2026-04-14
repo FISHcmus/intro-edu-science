@@ -1,0 +1,62 @@
+{
+  "id": "case_cuhk_policy",
+  "name": "CUHK — Chính sách đuổi học vì AI (2023)",
+  "type": "real_case",
+  "category": "asia_policy",
+  "institution": "Chinese University of Hong Kong (CUHK)",
+  "year": 2023,
+
+  "dinh_nghia": "Institutional policy framework at a leading Asian university declaring that unauthorized use of ChatGPT or AI tools constitutes academic misconduct subject to the full range of institutional penalties including expulsion. CUHK defines AI misconduct as use of AI tools 'improperly or without authorisation' — a contextual standard requiring lecturer permission rather than blanket prohibition.",
+
+  "phan_loai": "Institutional policy-level response to AI-assisted academic dishonesty. Primary violation type: unauthorized AI-assisted submission (using ChatGPT/AI without tutor permission). Policy covers all AI generative tools. Secondary concern: post-graduation revocation of academic certifications for misconduct discovered after degree award — a novel punitive extension.",
+
+  "lich_su_khai_niem": "CUHK's policy was issued in early 2023, making it one of the earliest Asian university responses to ChatGPT-era academic integrity concerns. The policy appeared in March 2023 (media confirmation March 2, 2023) via a student guide/FAQ format, responding to the post-ChatGPT (November 2022) wave of AI tool adoption. CUHK was cited in South China Morning Post and Young Post Club as a leading Asian example of decisive AI policy.",
+
+  "ten_truong_hop": "Chinese University of Hong Kong (CUHK), Sha Tin, Hong Kong SAR. Policy announced March 2023 via student guidelines. One of the first explicit AI expulsion policies in Asian higher education. Policy covers: all unauthorized AI use in coursework; requires tutor permission for any AI tool use; penalties include expulsion and post-graduation certificate revocation.",
+
+  "dien_bien": "In early 2023, following widespread ChatGPT adoption among students globally, CUHK issued new academic integrity guidelines addressing AI tool use. The guidelines established that: (1) students must obtain tutor/faculty permission before using ChatGPT or any AI tools for assignments; (2) unauthorized AI use constitutes academic misconduct; (3) penalties range from assessment review and permanent demerits, through failing grade, suspension, lower degree classification, to expulsion; (4) graduates found to have used AI inappropriately risk post-graduation revocation of academic certifications. The policy was framed as contextual (permission-based) rather than absolute prohibition — a nuanced stance that recognized potential legitimate educational uses while maintaining strict oversight.",
+
+  "ket_qua_xu_ly": "Policy implementation (no single case publicly disclosed). Reported outcomes include: permanent demerits on academic record, failing grades for affected courses, suspension, lower degree classification, expulsion, and post-graduation certification revocation. CUHK also announced plans to develop AI detection capabilities and improve plagiarism detection software. By August 2023, University of Hong Kong (HKU, separate institution) dropped its ChatGPT ban — illustrating the policy evolution within Hong Kong higher education.",
+
+  "con_so_thong_ke": "No specific case count publicly disclosed. Policy scope: all CUHK students (~20,000 enrolled). Timeline: ChatGPT launch November 2022; CUHK policy March 2023 (~3 months lag — one of fastest major Asian university responses). HKU interim ban: February 2023; HKU ban lifted: August 2023. CUHK maintained its permission-based policy without reverting to full ban.",
+
+  "hai_cho_nguoi_hoc": "A restrictive AI policy without adequate AI literacy support may drive underground use rather than eliminate it. Students unfamiliar with policy boundaries face disproportionate risk of unknowing violations. The post-graduation revocation provision creates permanent vulnerability for graduates — a disproportionate penalty for AI tool use that was permitted in some contexts.",
+
+  "hai_cho_nghien_cuu": "AI restrictions without clear guidance on permitted research uses can impede legitimate AI-assisted research methods (literature review, data analysis) that are standard in international research practice. CUHK's contextual permission model attempts to balance this, but ambiguity remains for graduate research students.",
+
+  "hai_cho_xa_hoi": "CUHK's policy established a high-profile benchmark for Asian university AI governance. The expulsion-level threat deterred some legitimate AI use while likely not eliminating strategic cheating by determined students. Post-graduation certificate revocation is unprecedented in scope and creates legal uncertainty about the retroactive application of new academic standards.",
+
+  "cong_cu_phat_hien": "CUHK announced plans to devise AI detection measures and improve plagiarism detection software — no specific tool named. As of 2023, Turnitin had launched its AI detection module (April 2023); iThenticate and other tools were available. Practical detection at CUHK likely relies on the same Turnitin/GPTZero ecosystem as Western universities.",
+
+  "han_che_cong_cu": "Detection limitations apply equally at CUHK as globally: Turnitin 4% sentence-level FP rate; Liang et al. (Stanford, 2023) found 61.3% FP for non-native English TOEFL essays. CUHK's large proportion of native Cantonese/Mandarin speakers writing in English creates elevated false positive risk similar to other ESL-dominant contexts. AI 'humanization' tools (paraphrasers, editing tools) can evade detection.",
+
+  "watermarking": "CUHK's policy predates deployed watermarking solutions. Kirchenbauer et al. (UMD) and Aaronson/OpenAI watermarking research (2022-2023) represents the technical trajectory. If Chinese-market AI tools (Baidu ERNIE, Alibaba Tongyi Qianwen, ByteDance Doubao) implement watermarking, CUHK detection capacity for locally-used AI could improve significantly.",
+
+  "thiet_ke_bai_tap": "CUHK's permission-based model implicitly requires faculty to redesign assessments to specify AI use conditions. Best practice (Stanford, University of Sydney) involves explicit assignment-level AI policies and AI-resistant design (oral components, staged submissions, reflective elements).",
+
+  "chinh_sach_truong_hoc": "CUHK: permission-based AI policy with expulsion as maximum penalty. Spectrum within Hong Kong: HKU interim ban (Feb 2023) → ban lifted (Aug 2023) → contextual integration. CUHK maintained stricter stance. Contrast with Singapore: NUS disclosure framework (2023/2024); NTU zero-mark for hallucinated citations (2025). CUHK represents the Asian university hardline that preceded the later pivot toward contextual integration.",
+
+  "van_hoa_to_chuc": "CUHK's top-down policy announcement reflects an enforcement-first culture. No publicly documented integrity education campaign accompanied the policy. McCabe's research suggests that enforcement-only approaches (without honor code culture and education) produce compliance through fear rather than internalized integrity values.",
+
+  "ai_literacy": "CUHK's 2023 policy noted that students using permitted AI tools must do so 'responsibly and ethically' and be 'mindful of their limitations' — acknowledging the need for AI literacy, but without specifying curriculum. UNESCO Art. 4 EU AI Act AI literacy mandate provides a framework CUHK could implement to substantiate this requirement.",
+
+  "khung_quoc_te": "UNESCO 2023 guidance on generative AI in education recommends contextual, educator-mediated AI policies — consistent with CUHK's permission model. EU AI Act (2024) Annex III high-risk AI systems include educational assessment tools. IEEE EAD and ACM Code of Ethics require honest attribution. CUHK's policy aligns with ICAI's academic integrity framework (honesty, trust, fairness).",
+
+  "phap_luat_viet_nam": "Vietnam has no direct equivalent of CUHK's explicit AI expulsion policy. Nghị định 109/2022/NĐ-CP addresses research integrity generally. Luật Giáo dục 2019 covers academic honesty requirements. The CUHK model provides a reference point for Vietnamese higher education regulators developing AI-specific academic integrity frameworks.",
+
+  "chinh_sach_chau_a": "CUHK (2023): permission-based, expulsion maximum, post-graduation revocation. NUS Singapore (2023/2024): disclosure framework, graduated permissions. NTU Singapore (2025): zero marks for AI-hallucinated citations. Japanese universities (2023): mostly guidance-based, no enforcement mechanism. Korean universities (2023): variable, POSTECH issued explicit ban. CUHK was the first major Asian university to formalize an expulsion-level AI policy.",
+
+  "ai_tutor_vs_ai_cheater": "CUHK's policy explicitly acknowledges the legitimate use of AI tools ('permission can be granted in some situations'; students must use tools 'responsibly') — reflecting awareness of the AI-as-tutor potential. The default prohibition with permission-based exceptions reflects institutional risk aversion while leaving space for Rose Luckin's (UCL) AI democratization model.",
+
+  "edtech_company_policies": "CUHK's policy affects which AI tools students may use in coursework. The permission-based model means faculty can explicitly permit Khan Academy-style AI tutoring tools while prohibiting ChatGPT essay generation. Duolingo's AI integration in language learning could be permitted under CUHK's model if instructor-approved. The policy creates a framework compatible with contextual EdTech integration.",
+
+  "de_xuat_nha_nghien_cuu": "From EdTech research perspective: (1) CUHK's permission-based model is more pedagogically sound than outright bans, but requires substantial faculty development to implement consistently; (2) post-graduation certificate revocation is disproportionate and legally untested — universities should limit retrospective penalties; (3) AI literacy curriculum should be embedded in undergraduate orientation to substantiate the 'responsible and ethical use' requirement; (4) CUHK should publish annual AI misconduct statistics to enable comparative research; (5) the AIAS 5-tier framework (Perkins) provides a more granular permission structure than binary permit/prohibit.",
+
+  "bai_bao_khoa_hoc": "Ng, D.T.K., et al. (2023). Examining the use of ChatGPT in public universities in Hong Kong: a case study of restricted access areas. Discover Education. Springer. DOI: 10.1007/s44217-023-00081-8. Perkins, M., et al. (2023). Academic Integrity Considerations of AI Large Language Models in the Post-ChatGPT Era. Journal of University Teaching & Learning Practice, 20(2).",
+
+  "sach_tham_khao": "Eaton, S.E. (2021). Plagiarism in Higher Education. ABC-CLIO. Bretag, T. (Ed.) (2016). Handbook of Academic Integrity. Springer.",
+
+  "nguon_viet_nam": "South China Morning Post (SCMP) coverage of CUHK policy (March 2023) — primary English-language source. Vietnamese media coverage of Hong Kong AI policies in education (VietnamNet, 2023). Relevant Vietnamese framework: Nghị định 109/2022/NĐ-CP; QĐ 1705/QĐ-TTg on education to 2030.",
+
+  "uncertain": ["con_so_thong_ke (no specific case count for disciplinary actions under the CUHK policy publicly available)", "ket_qua_xu_ly (no specific documented expulsion case under this policy publicly confirmed as of April 2026)"]
+}

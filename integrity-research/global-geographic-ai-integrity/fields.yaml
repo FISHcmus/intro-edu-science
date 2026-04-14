@@ -1,0 +1,188 @@
+fields:
+  # --- BASIC INFO ---
+  - name: item_name
+    description: Full name of the research item
+    type: string
+    required: true
+
+  - name: region
+    description: Geographic region (China, India, Sub-Saharan Africa, Latin America, Middle East/Gulf, Southeast Asia)
+    type: string
+    required: true
+
+  - name: country
+    description: Specific country or countries covered
+    type: string
+    required: true
+
+  - name: category
+    description: "Category: regional_context | regulatory | detection_tools | researcher_institution | scholarship | edtech_ecosystem | cultural_context | institutional"
+    type: string
+    required: true
+
+  - name: population_context
+    description: Student population size, number of HE institutions, system scale
+    type: string
+    required: true
+
+  # --- AI FRAUD CONTEXT ---
+  - name: documented_cases
+    description: Specific documented cases of AI academic fraud in this context, with dates and institutions
+    type: list
+    required: true
+
+  - name: fraud_prevalence_data
+    description: Any quantitative data on AI fraud prevalence (surveys, estimates, institutional reports)
+    type: string
+    required: true
+
+  - name: primary_fraud_methods
+    description: How students in this context primarily use AI for fraud (essay generation, exam cheating, code generation, etc.)
+    type: list
+    required: true
+
+  - name: high_stakes_exam_context
+    description: High-stakes exams in this country/region and how AI threatens their integrity
+    type: string
+    required: true
+
+  - name: ai_tools_commonly_used
+    description: Which AI tools are most commonly used by students in this context (ChatGPT, local alternatives, etc.)
+    type: list
+    required: true
+
+  # --- REGULATORY FRAMEWORK ---
+  - name: governing_body
+    description: Primary regulatory body for higher education and/or AI in this country
+    type: string
+    required: true
+
+  - name: key_regulations
+    description: Specific laws, regulations, or policy documents addressing AI in education
+    type: list
+    required: true
+
+  - name: ai_specific_policies
+    description: Policies specifically targeting AI use in academic contexts (not just general AI regulation)
+    type: string
+    required: true
+
+  - name: enforcement_mechanisms
+    description: How policies are enforced — penalties, monitoring, institutional compliance requirements
+    type: string
+    required: true
+
+  - name: penalties
+    description: Typical penalties for AI academic fraud in this jurisdiction
+    type: string
+    required: true
+
+  # --- DETECTION AND PREVENTION ---
+  - name: detection_tools_deployed
+    description: Which detection tools are used (Turnitin, local alternatives, etc.)
+    type: list
+    required: true
+
+  - name: local_language_detection_capability
+    description: Whether AI detection tools exist for the local language(s), and their effectiveness
+    type: string
+    required: true
+
+  - name: assessment_redesign_initiatives
+    description: Any institutional or national initiatives to redesign assessment in response to AI
+    type: string
+    required: true
+
+  - name: institutional_responses
+    description: How specific institutions have responded (policies, technology, pedagogy changes)
+    type: list
+    required: true
+
+  # --- CULTURAL FACTORS ---
+  - name: academic_culture_norms
+    description: Prevailing academic culture norms that affect integrity (e.g., rote learning, exam focus, collectivism)
+    type: string
+    required: true
+
+  - name: collectivism_vs_individualism
+    description: Where this culture falls on collectivist-individualist spectrum and how it affects integrity norms
+    type: string
+    required: true
+
+  - name: credential_premium_dynamics
+    description: How credential value, employment pressure, and social mobility shape academic fraud incentives
+    type: string
+    required: true
+
+  - name: family_pressure_factors
+    description: Role of family expectations, filial piety, or social pressure in academic integrity
+    type: string
+    required: true
+
+  - name: attitudes_toward_ai_use
+    description: General cultural/societal attitudes toward AI tool use in education in this context
+    type: string
+    required: true
+
+  # --- EDTECH ECOSYSTEM ---
+  - name: major_edtech_platforms
+    description: Major EdTech platforms operating in this country/region
+    type: list
+    required: true
+
+  - name: ai_integration_level
+    description: How deeply AI is integrated into local EdTech platforms
+    type: string
+    required: true
+
+  - name: market_size_estimate
+    description: Estimated EdTech market size in this country/region
+    type: string
+    required: true
+
+  - name: regulatory_environment_for_edtech
+    description: How EdTech is regulated in this context
+    type: string
+    required: true
+
+  # --- KEY RESEARCHERS AND SOURCES ---
+  - name: regional_scholars
+    description: Key researchers from this region working on academic integrity and/or AI in education
+    type: list
+    required: true
+
+  - name: key_publications
+    description: Important publications from this region on the topic (in any language)
+    type: list
+    required: true
+
+  - name: research_institutions
+    description: Universities or centers leading integrity/AI research in this region
+    type: list
+    required: true
+
+  - name: language_of_primary_sources
+    description: Primary language(s) of research and policy documents in this context
+    type: string
+    required: true
+
+  # --- COMPARISON TO ANGLOPHONE CONTEXT ---
+  - name: similarities_to_us_uk_au
+    description: What aspects are similar to the well-studied US/UK/Australia context
+    type: string
+    required: true
+
+  - name: key_differences
+    description: Critical differences that make Western recommendations inapplicable or requiring adaptation
+    type: string
+    required: true
+
+  - name: transferability_of_western_recommendations
+    description: Assessment of which Western AI integrity recommendations would/wouldn't work here and why
+    type: string
+    required: true
+
+  - name: unique_challenges
+    description: Challenges specific to this context that the Anglophone literature does not address
+    type: list
+    required: true

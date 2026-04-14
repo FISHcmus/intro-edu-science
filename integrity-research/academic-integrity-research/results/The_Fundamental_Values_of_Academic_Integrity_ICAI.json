@@ -1,0 +1,79 @@
+{
+  "item_name": "The Fundamental Values of Academic Integrity",
+  "category": "framework",
+  "authors": [
+    "Gary Pavela",
+    "Donald L. McCabe",
+    "Sally Cole",
+    "Larry Hinman",
+    "Elizabeth Kiss",
+    "Jeanne Wilson"
+  ],
+  "year": 1999,
+  "publisher_or_institution": "International Center for Academic Integrity (ICAI)",
+  "key_contribution": "Established the foundational framework of six core values—honesty, trust, fairness, respect, responsibility, and courage—that define academic integrity. The framework was developed to guide educational institutions globally in creating cultures of integrity and has become the standard reference for academic integrity policies and practices in higher education.",
+  "doi_or_url": "https://academicintegrity.org/fundamental-values/",
+  "isbn": null,
+  "notable_concepts": [
+    "Six fundamental values of academic integrity",
+    "Honesty",
+    "Trust",
+    "Fairness",
+    "Respect",
+    "Responsibility",
+    "Courage",
+    "Institutional climate of integrity",
+    "Academic community engagement",
+    "Values-based approach to academic integrity"
+  ],
+  "relevance_to_ai_integrity": "Directly addresses academic integrity foundational principles applicable to AI use in education. The framework guides institutional policies around AI tool use, academic honesty expectations, and student responsibility in maintaining institutional trust. The six values provide a values-based foundation relevant to AI ethics in educational contexts.",
+  "uncertain": [
+    "editorial_leadership_attribution",
+    "individual_representatives_count"
+  ],
+  "additional_information": {
+    "edition_information": {
+      "first_edition": {
+        "year": 1999,
+        "number_of_values": 5,
+        "values": [
+          "Honesty",
+          "Trust",
+          "Fairness",
+          "Respect",
+          "Responsibility"
+        ],
+        "notes": "Released to over 4,000 college and university presidents; endorsed by William and Flora Hewlett Foundation, John Templeton Foundation, and 23 higher education organizations"
+      },
+      "second_edition": {
+        "year": 2013,
+        "editor": "Teddi Fishman",
+        "number_of_values": 6,
+        "values": [
+          "Honesty",
+          "Trust",
+          "Fairness",
+          "Respect",
+          "Responsibility",
+          "Courage"
+        ],
+        "isbn": "978-0-9914906-7-7",
+        "license": "Creative Commons: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"
+      },
+      "third_edition": {
+        "year": 2021,
+        "number_of_values": 6,
+        "notes": "Most recent edition released by ICAI"
+      }
+    },
+    "global_reach": {
+      "institutional_members": 240,
+      "students_surveyed": 250000,
+      "international_networks": [
+        "Asia Pacific Forum on Educational Integrity (APFEI)",
+        "European Network on Academic Integrity (ENAI)"
+      ],
+      "notes": "Framework widely adopted by educational institutions globally as the standard reference guide for developing academic integrity policies"
+    }
+  }
+}

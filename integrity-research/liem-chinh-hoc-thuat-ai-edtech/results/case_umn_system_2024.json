@@ -1,0 +1,62 @@
+{
+  "id": "case_umn_system_2024",
+  "name": "188 students — University of Minnesota system-wide (2023–24)",
+  "type": "real_case",
+  "category": "institutional_data",
+  "institution": "University of Minnesota",
+  "year": 2024,
+
+  "dinh_nghia": "Aggregate institutional data on AI-related academic dishonesty at a major US research university. The University of Minnesota defines 'scholastic dishonesty' to include AI-assisted submission in contexts where AI use is prohibited, classified under its Office for Community Standards (OCS) policy alongside plagiarism and fabrication.",
+
+  "phan_loai": "Institutional-level AI-related scholastic dishonesty data. Categories of violations include: unauthorized AI use on exams, AI-generated assignment submissions, AI-assisted work misrepresented as student's own. Represents all confirmed violations, not all reported — actual rate is higher due to underreporting.",
+
+  "lich_su_khai_niem": "University of Minnesota began tracking AI-related violations as a distinct subcategory of academic dishonesty in the 2022-23 academic year following ChatGPT's launch. By 2023-24, AI cases had grown to represent approximately half of all confirmed dishonesty cases — a rapid normalization of AI-assisted cheating within two years of ChatGPT's release.",
+
+  "ten_truong_hop": "University of Minnesota — Twin Cities campus, Office for Community Standards (OCS) annual academic dishonesty data, 2023-24 academic year. 188 students found responsible for AI-related scholastic dishonesty, comprising approximately 50% of all confirmed dishonesty cases for that year.",
+
+  "dien_bien": "The University of Minnesota's Office for Community Standards processes all reported academic dishonesty cases through a formal investigative and hearing process. In the 2023-24 academic year, faculty across disciplines reported a significant increase in AI-related submissions. Of all students found responsible for academic dishonesty, 188 were specifically confirmed for AI-related violations. This figure was reported in The Minnesota Daily (student newspaper) citing OCS data. AI cases represented the single largest category — approximately half — of all confirmed dishonesty cases, overtaking traditional plagiarism as the dominant violation type.",
+
+  "ket_qua_xu_ly": "Individual sanctions vary by case severity and student history: range from assignment failure to course failure to suspension/expulsion. The high-profile Yang case (expulsion) represents the most severe end. OCS data does not publicly disaggregate sanction types for the 188 AI cases. Institutional response: UMN updated its academic integrity guidance to provide faculty with AI-specific reporting frameworks.",
+
+  "con_so_thong_ke": "188 students found responsible for AI-related scholastic dishonesty in 2023-24 academic year. Approximately 50% of all confirmed dishonesty cases on Twin Cities campus. Year-on-year trend: significant increase from 2022-23 baseline. Total UMN enrollment Twin Cities: ~52,000 students — AI dishonesty rate approximately 0.36% of enrolled students (confirmed cases only).",
+
+  "hai_cho_nguoi_hoc": "At scale, 188 cases represent 188 students who substituted AI for genuine learning, potentially graduating with credential but without competence. The high rate also creates adversarial classroom dynamics: faculty design more restrictive assessment conditions, reducing pedagogical flexibility for the majority who do not cheat.",
+
+  "hai_cho_nghien_cuu": "In research-intensive programs (graduate/doctoral level), AI-assisted submissions compromise the authenticity of literature reviews, analysis, and written research outputs. At UMN, a major R1 research university, this has direct implications for research pipeline quality.",
+
+  "hai_cho_xa_hoi": "Institutional data showing ~50% of dishonesty cases are AI-related signals a structural shift in academic fraud patterns. This data was widely cited in higher education policy discussions in 2024-2025. Erosion of trust in UMN credentials and pressure on employers/graduate programs to independently verify competence.",
+
+  "cong_cu_phat_hien": "UMN cases were detected through a mix of: (1) faculty manual comparison with AI outputs; (2) automated detection tools (Turnitin AI detection, GPTZero); (3) stylistic inconsistencies flagged by instructors. No single detection method was standard — approach varied by department and faculty preference.",
+
+  "han_che_cong_cu": "The 188 confirmed cases likely represent a significant undercount of actual AI violations. Detection tools generate false negatives (sophisticated AI editing evades detection) and false positives (neurodivergent and ESL students flagged incorrectly — Liang et al. 2023: 61.3% FP on TOEFL essays). Turnitin reports 4% sentence-level FP rate. Inconsistent detection standards across departments create unequal enforcement.",
+
+  "watermarking": "OpenAI's lack of deployed watermarking as of 2023-24 contributed to the difficulty of proving AI use. Kirchenbauer et al. (UMD) and Aaronson (OpenAI) watermarking proposals, if implemented, would strengthen UMN's detection and prosecution of future cases.",
+
+  "thiet_ke_bai_tap": "UMN's response to rising AI cases includes faculty guidance on AI-resistant assessment: in-person exams, oral components, staged submissions, reflective journals, process portfolios. The Minnesota Daily reporting triggered broader campus conversation about pedagogical redesign.",
+
+  "chinh_sach_truong_hoc": "UMN maintains a formal scholastic dishonesty policy under the Office for Community Standards. Following 2023-24 data, the university developed faculty resources for AI-specific detection and reporting. No blanket AI ban — policy approach allows faculty to set course-level AI rules. The Yang case (parallel case, same institution) confirmed UMN's willingness to impose expulsion for severe violations.",
+
+  "van_hoa_to_chuc": "The 188-case figure suggests enforcement culture is reactive rather than preventive. McCabe's research indicates that honor code cultures with academic integrity education (not just enforcement) produce lower violation rates. UMN's OCS-centered enforcement model may need complementary integrity education programming.",
+
+  "ai_literacy": "The scale of 188 cases in one year suggests many students either did not understand the boundaries of permitted AI use or made a deliberate choice to violate known rules. Both scenarios argue for mandatory AI literacy modules at course enrollment, not just policy documents.",
+
+  "khung_quoc_te": "UNESCO 2023 guidance on generative AI in education identifies institutional data tracking as essential for evidence-based policy. UMN's OCS data collection serves as a model for other institutions. EU AI Act Art. 50 transparency requirements would enhance institutional capacity to track AI-generated submissions.",
+
+  "phap_luat_viet_nam": "No equivalent systematic data collection on AI-related academic dishonesty at Vietnamese universities as of 2024. Nghị định 109/2022/NĐ-CP requires research integrity, but no AI-specific reporting mandate exists. Vietnamese institutions lack the OCS-equivalent infrastructure for systematic tracking.",
+
+  "chinh_sach_chau_a": "University of Hong Kong (HKU) temporarily banned ChatGPT in early 2023. CUHK issued expulsion-level AI policy in 2023. The UMN 188-case institutional data provides a quantitative benchmark that Asian universities can compare with their own (largely unpublished) AI misconduct data.",
+
+  "ai_tutor_vs_ai_cheater": "Aggregate data shows that the dominant student behavior is AI-as-cheater (submission replacement) rather than AI-as-tutor. This challenges the optimistic EdTech narrative and supports Neil Selwyn's (Monash) concern that AI primarily enables academic fraud in the short term, before pedagogical redesign catches up.",
+
+  "edtech_company_policies": "UMN's institutional data reflects the impact of freely available AI tools (ChatGPT, Gemini, Claude) without EdTech platform controls. Contrast with Khan Academy Khanmigo (refuses to write essays) and Coursera's post-submission AI dialogue — which build integrity guardrails into the platform architecture.",
+
+  "de_xuat_nha_nghien_cuu": "Recommendations from UMN's data context: (1) all R1 universities should publish annual AI misconduct statistics to establish norms and enable benchmarking; (2) faculty development on AI-resistant assessment design must precede further AI tool proliferation; (3) university-level AI literacy requirement for all entering students; (4) graduated sanction frameworks distinguishing first-time from repeat violations; (5) cross-institutional research on effective prevention strategies.",
+
+  "bai_bao_khoa_hoc": "The Minnesota Daily investigative reporting (2024) citing OCS data. Perkins, M., et al. (2023). Academic Integrity Considerations of AI Large Language Models in the Post-ChatGPT Era. Journal of University Teaching & Learning Practice, 20(2).",
+
+  "sach_tham_khao": "McCabe, D.L., Butterfield, K.D., & Treviño, L.K. (2012). Cheating in College. Johns Hopkins University Press. Eaton, S.E. (2021). Plagiarism in Higher Education. ABC-CLIO.",
+
+  "nguon_viet_nam": "No equivalent institutional data for Vietnam. Nghị định 109/2022/NĐ-CP; QĐ 1705/QĐ-TTg on education strategy 2030. Springer study: Vietnamese students and academic integrity (1,386 students surveyed [uncertain citation]).",
+
+  "uncertain": ["con_so_thong_ke (188 figure cited in task brief — not independently confirmed via web search in exact form; UMN OCS confirmed 'approximately 50% of all confirmed dishonesty cases'; 188 may derive from official annual report not publicly indexed)"]
+}

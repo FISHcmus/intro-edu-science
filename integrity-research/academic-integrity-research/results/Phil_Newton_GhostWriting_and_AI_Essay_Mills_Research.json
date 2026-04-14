@@ -1,0 +1,209 @@
+[
+  {
+    "item_name": "How Common Is Commercial Contract Cheating in Higher Education and Is It Increasing? A Systematic Review",
+    "category": "journal",
+    "authors": [
+      "Philip M. Newton"
+    ],
+    "year": 2018,
+    "publisher_or_institution": "Frontiers in Education",
+    "key_contribution": "Systematic review analyzing 71 survey samples from 65 studies covering 54,514 participants dating back to 1978, finding that contract cheating has increased significantly from a historic average of 3.5% to 15.7% in studies from 2014 onwards. This landmark study demonstrates that contract cheating, where students pay others to complete their assignments, is an increasing threat to higher education integrity.",
+    "doi_or_url": "https://doi.org/10.3389/feduc.2018.00067",
+    "isbn": null,
+    "notable_concepts": [
+      "commercial contract cheating",
+      "essay mills",
+      "essay buying",
+      "ghostwriting services",
+      "assignment outsourcing",
+      "systematic review methodology",
+      "prevalence trends over time"
+    ],
+    "relevance_to_ai_integrity": "Establishes foundational understanding of contract cheating prevalence before AI era, providing baseline data for comparing traditional ghostwriting services with AI-generated content as newer threats to academic integrity."
+  },
+  {
+    "item_name": "Are Essay Mills Committing Fraud? An Analysis of Their Behaviours vs the 2006 Fraud Act (UK)",
+    "category": "journal",
+    "authors": [
+      "Michael J. Draper",
+      "Victoria Ibezim",
+      "Philip M. Newton"
+    ],
+    "year": 2017,
+    "publisher_or_institution": "International Journal for Educational Integrity",
+    "key_contribution": "Legal analysis examining whether UK essay mill companies violate the 2006 Fraud Act through their business practices. The study found contradictions between disclaimer statements and actual promotional practices, and concluded that existing fraud law is unlikely to be effective, calling for new legislation specifically targeting essay mill operations.",
+    "doi_or_url": "https://doi.org/10.1007/s40979-017-0014-5",
+    "isbn": null,
+    "notable_concepts": [
+      "essay mills legal liability",
+      "fraud act application",
+      "UK legislation",
+      "terms and conditions analysis",
+      "plagiarism guarantees contradiction",
+      "new legal frameworks needed",
+      "contract cheating criminalization"
+    ],
+    "relevance_to_ai_integrity": "Provides legal framework analysis applicable to both traditional essay mills and emerging AI-based writing tools, demonstrating need for legislative responses to contract cheating regardless of technology used."
+  },
+  {
+    "item_name": "Staff views on commercial contract cheating in higher education: a survey study in Australia and the UK",
+    "category": "journal",
+    "authors": [
+      "Philip M. Newton",
+      "Rebecca Awdry"
+    ],
+    "year": 2019,
+    "publisher_or_institution": "Higher Education: The International Journal of Higher Education Research",
+    "key_contribution": "Survey of academic staff in Australia and the UK examining their perceptions of contract cheating prevalence, costs, and effective prevention strategies. Found staff believed 5-10% of students engage in contract cheating but underestimated prevalence, showed support for criminalizing essay mill services, and identified non-native language study and fear of failure as key motivators.",
+    "doi_or_url": "https://doi.org/10.1007/s10734-019-00360-0",
+    "isbn": null,
+    "notable_concepts": [
+      "staff perceptions of contract cheating",
+      "cost estimation of essay mill services",
+      "prevention strategies effectiveness",
+      "student motivation factors",
+      "policy support for criminalization",
+      "assessment modification approaches",
+      "international comparison Australia UK"
+    ],
+    "relevance_to_ai_integrity": "Reveals staff preparedness gaps for addressing academic dishonesty, suggesting current university policies and staff training inadequately address both traditional and emerging AI-based cheating methods."
+  },
+  {
+    "item_name": "Are essay mills committing fraud? A further analysis of their behaviours vs the 2006 fraud act (UK)",
+    "category": "journal",
+    "authors": [
+      "Callum Reid-Hutchings",
+      "Michael J. Draper"
+    ],
+    "year": 2019,
+    "publisher_or_institution": "International Journal for Educational Integrity",
+    "key_contribution": "Follow-up analysis revisiting the 2017 fraud act inquiry in light of legal developments, continuing to examine whether UK Fraud Act provisions apply to essay mill operations and exploring the legal landscape for addressing contract cheating.",
+    "doi_or_url": "https://doi.org/10.1007/s40979-019-0050-4",
+    "isbn": null,
+    "notable_concepts": [
+      "legal developments in contract cheating",
+      "fraud act revisited",
+      "essay mill legal accountability",
+      "evolving regulatory landscape",
+      "international legal perspectives"
+    ],
+    "relevance_to_ai_integrity": "Updates legal analysis for emerging technologies and contract cheating methods, providing framework for evaluating how existing law applies to AI-generated academic work."
+  },
+  {
+    "item_name": "How vulnerable are UK universities to cheating with new GenAI tools? A pragmatic risk assessment",
+    "category": "journal",
+    "authors": [
+      "Philip M. Newton"
+    ],
+    "year": 2025,
+    "publisher_or_institution": "Assessment and Evaluation in Higher Education",
+    "key_contribution": "Pragmatic risk assessment of generative AI threats to UK higher education, finding that ChatGPT can pass standardized exams at high standards, approximately 22% of students reported cheating in 2023/24, and most vulnerable assessment methods are unsupervised online exams and essays. Argues for redefining what constitutes cheating in age of AI.",
+    "doi_or_url": "https://doi.org/10.1080/02602938.2025.2511794",
+    "isbn": null,
+    "notable_concepts": [
+      "generative AI threat assessment",
+      "ChatGPT exam performance",
+      "vulnerable assessment methods",
+      "unsupervised online examinations",
+      "policy uncertainty on AI use",
+      "student confidence in understanding policies",
+      "redefinition of academic cheating",
+      "assessment security challenges"
+    ],
+    "relevance_to_ai_integrity": "Critically important recent research showing that AI tools fundamentally challenge traditional definitions of academic cheating and create policy ambiguity for universities, calling for comprehensive redefinition of academic integrity in the age of generative AI."
+  },
+  {
+    "item_name": "Education and Training Assessment and Artificial Intelligence. A Pragmatic Guide for Educators",
+    "category": "framework",
+    "authors": [
+      "Philip M. Newton",
+      "Jones"
+    ],
+    "year": 2024,
+    "publisher_or_institution": "British Journal of Biomedical Science",
+    "key_contribution": "Pragmatic guide for educators on integrating AI assessment and training considerations, providing practical strategies for detecting AI-generated work and establishing assessment policies that acknowledge AI's capability to write essays to equivalent or higher standards than university students.",
+    "doi_or_url": null,
+    "isbn": null,
+    "notable_concepts": [
+      "AI-generated essay detection challenges",
+      "assessment policy frameworks",
+      "educator practical guidance",
+      "AI performance equivalence to students",
+      "marking challenges with AI content",
+      "policy implementation strategies"
+    ],
+    "relevance_to_ai_integrity": "Provides actionable guidance for educators on identifying AI use in assessments and developing policies that acknowledge AI capabilities while maintaining educational integrity standards."
+  },
+  {
+    "item_name": "ChatGPT performance on multiple choice question examinations in higher education. A pragmatic scoping review",
+    "category": "journal",
+    "authors": [
+      "Philip M. Newton",
+      "Marianthi Xiromeriti"
+    ],
+    "year": 2024,
+    "publisher_or_institution": "Assessment and Evaluation in Higher Education",
+    "key_contribution": "Scoping review of ChatGPT performance on MCQ-based exams in higher education, demonstrating AI's capability to pass existing standardized examinations and noting that current free versions (GPT-4o) show even better performance including image analysis and internet search capabilities.",
+    "doi_or_url": null,
+    "isbn": null,
+    "notable_concepts": [
+      "ChatGPT MCQ performance",
+      "standardized exam equivalence",
+      "GPT-4 vs GPT-4o capabilities",
+      "image analysis for exams",
+      "internet search functionality",
+      "assessment security implications",
+      "medical postgraduate exam performance"
+    ],
+    "relevance_to_ai_integrity": "Documents specific capabilities of AI tools to pass high-level exams, providing empirical evidence that AI poses significant threats to assessment integrity across multiple exam formats."
+  },
+  {
+    "item_name": "Tackling contract cheating, ghostwriters and Essay Mills in Higher Education",
+    "category": "policy_document",
+    "authors": [
+      "Philip M. Newton",
+      "Michael J. Draper"
+    ],
+    "year": 2018,
+    "publisher_or_institution": "Swansea University",
+    "key_contribution": "Comprehensive guidance document advising higher education institutions and staff on evidence-based approaches to address contract cheating, ghostwriting services, and essay mills. Co-authored with input from QAA (Quality Assurance Agency) UK consultation.",
+    "doi_or_url": "https://www.swansea.ac.uk/research/research-highlights/justice-equality/paying-for-plagiarism/",
+    "isbn": null,
+    "notable_concepts": [
+      "contract cheating prevention strategies",
+      "essay mill awareness",
+      "ghostwriting detection",
+      "institutional policy approaches",
+      "staff training recommendations",
+      "student education initiatives",
+      "assessment design modifications"
+    ],
+    "relevance_to_ai_integrity": "Institutional guidance that establishes baseline approaches for detecting and preventing academic dishonesty, applicable as framework for understanding challenges AI-based cheating presents."
+  },
+  {
+    "item_name": "Prevalence of the use of prescription stimulants as 'study drugs' by UK university students: A brief report",
+    "category": "journal",
+    "authors": [
+      "Jones, F.",
+      "Newton, P."
+    ],
+    "year": 2024,
+    "publisher_or_institution": "Brain and Behavior",
+    "key_contribution": "Brief epidemiological report documenting prevalence of non-prescribed stimulant use among UK university students seeking cognitive enhancement, related to broader integrity issues including potential collaboration with AI and other performance-enhancing technologies.",
+    "doi_or_url": null,
+    "isbn": null,
+    "notable_concepts": [
+      "cognitive enhancement drugs",
+      "prescription stimulants",
+      "student performance enhancement",
+      "ethical implications",
+      "academic integrity intersections"
+    ],
+    "relevance_to_ai_integrity": "[uncertain] Tangential to AI integrity but suggests broader context of students seeking performance advantages through multiple means, relevant to understanding motivations behind AI tool adoption for assignments."
+  },
+  {
+    "uncertain": [
+      "Item 8 - relevance_to_ai_integrity: Tangential connection to AI integrity, prevalence of non-prescribed stimulants use is not directly about AI tools but relevant to understanding broader context of performance-enhancing approaches students may use alongside or instead of AI."
+    ]
+  }
+]

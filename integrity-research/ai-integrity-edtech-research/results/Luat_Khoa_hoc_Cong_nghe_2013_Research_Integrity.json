@@ -1,0 +1,62 @@
+{
+  "name": "Luật Khoa học và Công nghệ 2013 & Research Integrity",
+  "type": "law",
+  "year": "2013 (effective 2014, superseded Oct 2025 by Law 93/2025/QH15)",
+  "issuing_authority": "Quốc hội Việt Nam (National Assembly of Vietnam)",
+  "country_or_region": "Vietnam",
+  "summary": "Law No. 29/2013/QH13 on Science and Technology established the legal framework for science and technology activities in Vietnam, including early provisions on research conduct. The law contained 11 chapters and 81 articles. It was the foundational law under which subsequent decrees (including Nghị định 109/2022/NĐ-CP) introduced mandatory academic integrity codes for universities. As of October 1, 2025, it was replaced by the Law on Science, Technology and Innovation (No. 93/2025/QH15).",
+
+  "ai_use_policy": "The 2013 law predates the generative AI era and does not specifically address AI use. However, it established the legal basis for science and technology regulation in higher education, which subsequent decrees used to address AI-related integrity issues.",
+  "academic_fraud_definition": "Defines research misconduct broadly including fabrication (bịa đặt), falsification (làm giả), and plagiarism (đạo văn). Sanctions under administrative law (Decree on administrative violations in S&T) include warnings, fines, and revocation of research project approvals.",
+  "detection_mechanisms": "Not specified in this law. Implementing regulations and circulars mandate institutional adoption of plagiarism detection tools (Turnitin widely used by Vietnamese universities for Vietnamese-language content).",
+  "penalties": "Administrative sanctions under Decree on violations in science and technology activities. For higher education specifically, Decree 109/2022 expanded enforcement to require institutional codes of conduct and internal sanction mechanisms.",
+  "transparency_requirements": "Requires honest reporting of research results. Later implementing regulations (Decree 109/2022) added requirements for institutions to publish their integrity codes.",
+
+  "vietnamese_law_reference": "Luật số 29/2013/QH13 (Law No. 29/2013/QH13) — Luật Khoa học và Công nghệ. Article 22 addresses intellectual property in research; Article 57 covers researcher obligations. Replaced by Luật số 93/2025/QH15 (Law on Science, Technology and Innovation 2025) from October 1, 2025.",
+  "moet_policy": "MOET issued Circular 26 (Thông tư 26) on professional standards for university lecturers, which includes scientific integrity requirements. Lecturers must 'comply with academic ethics regulations and ensure scientific integrity and honesty in teaching, scientific research, publication of research results.'",
+  "documented_vn_cases": "The law itself does not document cases. See item on AI fraud cases for documented violations.",
+  "vn_university_responses": "Under this legal framework, universities developed their own integrity regulations. Hue University (Đại học Huế) issued QĐ-ĐHH 295/2023 on research integrity. Most major Vietnamese universities (HCMUS, VNU, HUST) use Turnitin for plagiarism detection with 20-25% similarity threshold.",
+
+  "ai_tutor_vs_cheater_framing": "[uncertain] — Not addressed in this law.",
+  "responsible_ai_definition": "[uncertain] — Not in scope of this 2013 law.",
+  "key_researchers": "[uncertain]",
+  "company_ethics_policy": "[uncertain]",
+
+  "singapore_approach": "[uncertain]",
+  "australia_approach": "[uncertain]",
+  "asia_vs_western_differences": "[uncertain]",
+  "asean_regional_initiatives": "[uncertain]",
+
+  "framework_name": "Luật Khoa học và Công nghệ 2013 Legal Framework",
+  "framework_principles": "Honesty (trung thực), transparency (minh bạch), responsibility (trách nhiệm) in research activities. Foundation for subsequent Decree 109/2022 on academic integrity codes.",
+  "iste_standards": "[uncertain]",
+  "cosn_guidelines": "[uncertain]",
+  "unesco_guidelines": "[uncertain]",
+
+  "implementation_challenges": "The 2013 law lacked specific AI provisions. Implementation of integrity rules relied on universities establishing their own codes, leading to inconsistency across institutions. Generative AI (ChatGPT post-2022) arrived before updated regulations.",
+  "student_perspective": "[uncertain]",
+  "teacher_perspective": "[uncertain]",
+  "recommendations": "The 2025 replacement law (93/2025/QH15) should incorporate explicit AI integrity provisions. EdTech researchers operating in Vietnam should reference Decree 109/2022 Chapter on academic integrity (Điều 20) as the active legal standard.",
+
+  "primary_sources": [
+    "Luật số 29/2013/QH13 — thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-khoa-hoc-va-cong-nghe-nam-2013-197387.aspx",
+    "Luật số 93/2025/QH15 — mst.gov.vn (effective Oct 1, 2025, replacing 2013 law)",
+    "Nghị định 109/2022/NĐ-CP Điều 20 — vanban.chinhphu.vn/?docid=207110"
+  ],
+  "academic_sources": [
+    "Xử lý hành vi vi phạm về sao chép, trích dẫn tác phẩm trong nghiên cứu khoa học tại các cơ sở giáo dục đại học — vietnamhoinhap.vn",
+    "Academic Dishonesty as Knowledge Circulation in Vietnamese Higher Education — educationalpoint.net"
+  ],
+  "vietnamese_sources": [
+    "Luật khoa học và công nghệ năm 2013 số 29/2013/QH13 — thuvienphapluat.vn",
+    "Luật Khoa học, Công nghệ và Đổi mới sáng tạo 2025 số 71/2025/QH15 — thuvienphapluat.vn"
+  ],
+  "urls": [
+    "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-khoa-hoc-va-cong-nghe-nam-2013-197387.aspx",
+    "https://mst.gov.vn/luat-so-93-2025-qh15-cua-quoc-hoi-luat-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-197251004130857889.htm",
+    "https://vanban.chinhphu.vn/?docid=207110&pageid=27160",
+    "https://vietnamhoinhap.vn/vi/xu-ly-hanh-vi-vi-pham-ve-sao-chep--trich-dan-tac-pham-trong-nghien-cuu-khoa-hoc-tai-cac-co-so-giao-duc-dai-hoc-38746.htm"
+  ],
+
+  "uncertain": ["ai_tutor_vs_cheater_framing", "responsible_ai_definition", "key_researchers", "company_ethics_policy", "singapore_approach", "australia_approach", "asia_vs_western_differences", "asean_regional_initiatives", "iste_standards", "cosn_guidelines", "unesco_guidelines", "student_perspective", "teacher_perspective"]
+}

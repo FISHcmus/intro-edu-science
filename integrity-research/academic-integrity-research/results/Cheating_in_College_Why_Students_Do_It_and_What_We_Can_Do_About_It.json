@@ -1,0 +1,68 @@
+{
+  "item_name": "Cheating in College: Why Students Do It and What We Can Do About It",
+  "category": "classic_book",
+  "authors": [
+    "Donald L. McCabe",
+    "Kenneth D. Butterfield",
+    "Linda Klebe Trevino"
+  ],
+  "year": 2012,
+  "publisher_or_institution": "Johns Hopkins University Press",
+  "key_contribution": "Landmark empirical study based on multiyear, multisite surveys of over 70,000 students across 150 institutions, quantifying student cheating prevalence and patterns. The authors identify key contextual factors influencing academic dishonesty, demonstrate the powerful effect of peer behavior on cheating decisions, and show how institutional honor codes and academic integrity programs significantly reduce cheating rates and create ethical institutional cultures.",
+  "doi_or_url": null,
+  "isbn": "9781421407166",
+  "notable_concepts": [
+    "Student cheating prevalence",
+    "Academic dishonesty trends",
+    "Contextual factors in cheating",
+    "Peer influence and cheating",
+    "Honor code effectiveness",
+    "Internet-based cheating",
+    "Institutional integrity climate",
+    "Business major culture and cheating",
+    "Fraternity and sorority cheating patterns",
+    "Academic integrity policy implementation"
+  ],
+  "relevance_to_ai_integrity": "Foundational research on academic dishonesty patterns and causes, providing empirical evidence that peer influence and institutional culture are the strongest predictors of cheating behavior. This research is directly relevant to understanding how students might misuse AI tools and how institutional policies and cultures can either enable or prevent AI-assisted academic dishonesty. The effectiveness of honor codes shown in this research provides a framework for understanding values-based approaches to addressing AI integrity issues.",
+  "uncertain": [
+    "exact_sample_size_clarification"
+  ],
+  "additional_information": {
+    "publication_details": {
+      "publication_date": "November 1, 2012",
+      "isbn_10": "1421407167",
+      "isbn_13": "9781421407166",
+      "alternative_isbn": "9781421424019"
+    },
+    "authors_affiliations": {
+      "donald_l_mccabe": "Professor of Management and Global Business, Rutgers Business School",
+      "kenneth_d_butterfield": "Associate Professor and Chair, Department of Management, Information Systems, and Entrepreneurship, Washington State University",
+      "linda_klebe_trevino": "Distinguished Professor of Organizational Behavior and Ethics, Smeal College of Business, Pennsylvania State University"
+    },
+    "research_methodology": {
+      "study_type": "Multiyear, multisite survey",
+      "sample_size": "Over 70,000 students",
+      "institutions_surveyed": 150,
+      "survey_duration": "12 years (2002-2015) [uncertain duration exact]",
+      "student_populations": [
+        "High school students",
+        "Undergraduate students",
+        "Graduate students"
+      ]
+    },
+    "key_findings": {
+      "cheating_prevalence": "64% admitted to cheating on tests; 58% admitted to plagiarism; 95% participated in some form of cheating (test, plagiarism, or homework copying)",
+      "business_major_rates": "26% serious test/exam cheating vs 20% for other disciplines",
+      "gender_differences": "Males 24% serious test cheating vs females 20%",
+      "contextual_factors": "Peer behavior and institutional culture are the most powerful influences on cheating",
+      "honor_code_effectiveness": "Academic dishonesty significantly lower in honor code environments",
+      "institution_influence": "Academic integrity programs and policies significantly reduce cheating"
+    },
+    "major_contributions": {
+      "landmark_status": "Classic study based on large-scale quantitative research",
+      "policy_implications": "Demonstrates effectiveness of institutional honor codes and integrity programs",
+      "cultural_insights": "Shows peer influence exhibits stronger relationship with integrity than honor code presence",
+      "practical_guidance": "Identifies successful cultural and policy efforts for restoring academic integrity"
+    }
+  }
+}

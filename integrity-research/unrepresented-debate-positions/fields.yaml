@@ -1,0 +1,122 @@
+fields:
+  # --- IDENTITY ---
+  - name: position_name
+    description: Full name of the perspective/position
+    type: string
+    required: true
+
+  - name: category
+    description: "Category: student_voice | frontline_teacher | developing_world | ai_company | legal_due_process | do_nothing | surveillance_proctoring"
+    type: string
+    required: true
+
+  - name: representative_actor
+    description: Who holds this position? (e.g., "Vietnamese undergraduate at public university", "OpenAI policy team")
+    type: string
+    required: true
+
+  # --- CORE ARGUMENT ---
+  - name: central_claim
+    description: The core argument this perspective makes — what do they actually believe?
+    type: string
+    required: true
+
+  - name: key_evidence_they_would_cite
+    description: What evidence, data, or experiences would this actor cite to support their position?
+    type: string
+    required: true
+
+  - name: policy_preference
+    description: What specific policy outcomes does this actor want?
+    type: string
+    required: true
+
+  - name: what_they_reject
+    description: What proposals or framings does this actor explicitly reject, and why?
+    type: string
+    required: true
+
+  # --- STEELMAN ---
+  - name: strongest_version_of_argument
+    description: The most compelling, intellectually honest version of this position — as this actor would argue it at their best
+    type: string
+    required: true
+
+  - name: what_the_debate_missed_by_excluding_this_voice
+    description: What specific insights, data, or arguments were lost by not having this perspective at the table?
+    type: string
+    required: true
+
+  # --- ENGAGEMENT WITH EXISTING DEBATE ---
+  - name: response_to_left_wing
+    description: How would this actor respond to the Left-Wing paper's arguments?
+    type: string
+    required: true
+
+  - name: response_to_right_wing
+    description: How would this actor respond to the Right-Wing paper's arguments?
+    type: string
+    required: true
+
+  - name: response_to_economist
+    description: How would this actor respond to the Economist paper's arguments?
+    type: string
+    required: true
+
+  - name: response_to_educator
+    description: How would this actor respond to the Educator paper's arguments?
+    type: string
+    required: true
+
+  - name: response_to_technologist
+    description: How would this actor respond to the Technologist paper's arguments?
+    type: string
+    required: true
+
+  - name: response_to_center
+    description: How would this actor respond to the Center/Moderate paper's arguments?
+    type: string
+    required: true
+
+  # --- IMPACT ON DEBATE CONCLUSIONS ---
+  - name: claims_they_would_contest
+    description: Which specific claims from the final_report.md would this actor challenge?
+    type: list
+    required: true
+
+  - name: how_including_this_voice_changes_conclusions
+    description: If this perspective had been included, how would the debate conclusions and recommendations differ?
+    type: string
+    required: true
+
+  - name: irreconcilable_disagreements
+    description: Where does this perspective fundamentally disagree with the debate consensus in ways that cannot be bridged?
+    type: string
+    required: true
+
+  # --- CONTEXT AND SOURCES ---
+  - name: real_world_evidence_of_this_position
+    description: Real statements, studies, lawsuits, articles, or events that represent this perspective existing in the world
+    type: string
+    required: true
+
+  - name: key_publications_or_sources
+    description: Key sources that give voice to this perspective
+    type: list
+    required: true
+
+  - name: vietnamese_context_relevance
+    description: How specifically relevant is this perspective to the Vietnamese HE context?
+    type: string
+    required: true
+
+  # --- LIMITATIONS ---
+  - name: weaknesses_of_this_position
+    description: Honest assessment of the weaknesses or blind spots in this perspective
+    type: string
+    required: true
+
+  - name: what_would_change_their_mind
+    description: What evidence or argument would shift this actor's position?
+    type: string
+    required: true

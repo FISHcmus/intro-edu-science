@@ -1,0 +1,166 @@
+{
+  "item_name": "TVET Assessment Integrity and Practical Skills Certification",
+  "discipline": "tvet",
+  "sub_discipline": "Competency-based assessment, practical skills certification, vocational qualifications",
+  "category": "tvet",
+  "specific_fraud_methods": [
+    "Certificate fraud: training providers issuing fake certificates to learners or learners fabricating credentials",
+    "Contract cheating: third-party completion of competency assessments, proxy test-taking in practical exams",
+    "Identity fraud: unauthorized persons taking assessments on behalf of actual candidates",
+    "Practical skills misrepresentation: claiming completion of hands-on training without adequate supervision or demonstration",
+    "Documentation falsification: submitting forged evidence of work experience, project completion, or practical hours",
+    "AI-assisted cheating in knowledge assessments: using ChatGPT or similar tools for written exam answers embedded in practical courses",
+    "Plagiarism in portfolio evidence: copying work samples or case documentation from peers or AI-generated sources"
+  ],
+  "ai_tools_used": [
+    "ChatGPT and similar large language models for written assessments embedded in TVET",
+    "AI code generation tools (GitHub Copilot, Codeium) in coding/software vocations",
+    "AI-powered video deepfakes or synthetic demonstrations for remote practical assessments",
+    "Proctoring detection tools with AI behavioral analysis (CodeSignal, Talview, BlinkExam)",
+    "AI plagiarism detection systems for portfolio and project work",
+    "Contract cheating services leveraging AI to automate written components"
+  ],
+  "detection_difficulty": "Moderate to high. Practical skills are inherently harder to fake in live assessments (welding beads, patient care procedures, electrical wiring can be physically inspected). However, detection difficulty rises for: (1) remote/hybrid TVET delivery where supervision is limited, (2) portfolio-based assessment which relies on documentation that can be forged, (3) knowledge components embedded in practical courses where AI tools are hard to detect without proctoring, (4) international assessments with inconsistent oversight. Unproctored assessments show 4x larger score increases, indicating significant cheating when supervision is absent. CodeSignal reports 35% fraud attempt rates in 2025 (doubled from 16% in 2024), with entry-level roles at 40% fraud attempts.",
+  "unique_disciplinary_challenges": "TVET assessment is uniquely challenging because it bridges academic knowledge and real-world performance. Key challenges: (1) CBA frameworks require direct observation of practical competence, making remote assessment problematic; (2) assessment quality depends on assessor expertise and consistency, which varies globally; (3) AI can assist legitimate work in many vocations (e.g., AI-assisted design in architecture, AI welding analysis), making it hard to distinguish authorized use from fraud; (4) TVET serves diverse learners with varying digital literacy, making integrity enforcement inconsistent; (5) Industry 4.0 redefines what 'competence' means (traditional welding vs. AI-augmented welding), so assessment standards are in flux; (6) Governing bodies for TVET are fragmented (ILO, UNESCO-UNEVOC, national regulators, WorldSkills) with inconsistent AI guidance; (7) TVET institutions in developing countries often lack infrastructure for robust proctoring or credential verification systems; (8) Credential fraud in TVET creates direct public safety risks (unqualified nurses, electricians, welders) but goes undetected because employers cannot easily verify vocational certificates.",
+  "governing_body": "Multiple: International Labour Organization (ILO), UNESCO-UNEVOC International Centre (established 1999, based in Bonn), WorldSkills International, national vocational authorities (Vietnam: GDVT/MOLISA, UK: Ofqual, Australia: ASQA), and regional bodies. For Vietnam specifically: Ministry of Labour, Invalids and Social Affairs (MOLISA, housing GDVT), Ministry of Education and Training (MOET), and provincial VET managers.",
+  "policy_documents": [
+    "UNESCO-UNEVOC Strategy for TVET 2022-2029: emphasizes digital transformation and quality assurance but does not explicitly address AI fraud",
+    "ILO-UNESCO Recommendations on TVET for the 21st Century: cover quality assurance but lack AI-specific guidance (as of 2024-2025)",
+    "UNESCO-UNEVOC Guidelines for Quality Assurance of TVET Qualifications: establishes assessment frameworks but predates major AI threats",
+    "Vietnam Vocational Education Law 2014: mandates employer involvement and quality assessment via NOS (National Occupational Standards) framework",
+    "Vietnam Decree 31/2015/ND-CP: regulates NOS assessment agencies and certification procedures",
+    "Vietnam Circular 19/2016/TT-BLDTBXH: specifies requirements for NOS assessor certification",
+    "WorldSkills Occupational Standards (WSOS): reference standards for practical vocational performance, updated biennially",
+    "WorldSkills Competition Rules: establish integrity requirements and electronic device bans but lack explicit AI fraud protocols (as of 2025)",
+    "German-Vietnamese TVET MOU (through GIZ): establishes quality standards transfer but does not address AI integrity",
+    "[uncertain] Specific ILO guidance on AI in TVET assessment (may exist in unpublished draft form)"
+  ],
+  "guidance_date": "ILO-UNESCO recommendations: early 2000s (predates AI integrity concerns). UNESCO-UNEVOC Strategy 2022-2029: published 2022 (limited AI content). Vietnam Decree 31/2015 and Circular 19/2016: 2015-2016 (no AI provisions). WorldSkills rules: continuously updated, 2025 version reviewed (no explicit AI fraud section). Specific AI-focused guidance on TVET assessment integrity: [uncertain] — no widely published, discipline-specific AI integrity guidance identified as of Q1 2025.",
+  "enforcement_approach": "Mixed and fragmented. Vietnam: Decree 31/2015 and Circular 19/2016 establish NOS assessment agency licensing and assessor certification, with punitive provisions for fraudulent assessors and training providers. Enforcement is reportedly weak due to complex governance (MOET/MOLISA demarcation unclear). WorldSkills: disqualification rules for false registration information or device violations, but enforcement limited to competition context. ILO/UNESCO-UNEVOC: advisory and capacity-building approach rather than punitive; rely on national governments for enforcement. No unified international enforcement mechanism for TVET credential fraud. Proctoring systems (CodeSignal, Talview) use automated detection flagging but final judgment is human-based.",
+  "traditional_assessment_methods": [
+    "Practical performance assessment: direct observation of welding, nursing procedures, electrical wiring, automotive repair, etc.",
+    "Portfolio assessment: collection of work samples, project reports, documented evidence of practical hours",
+    "Oral examination and viva: assessor questioning on theory and application of practical skills",
+    "Simulation-based assessment: controlled scenarios (patient care simulations, coding challenges, equipment operation)",
+    "Workplace assessment: on-the-job observation by qualified assessors during apprenticeship/work-integrated learning",
+    "Written knowledge tests: theory exams embedded within or separate from practical assessment",
+    "Competency checklist observation: systematic recording of competency demonstrations against predefined criteria",
+    "Client or employer feedback: testimonials or formal feedback from workplace supervisors"
+  ],
+  "ai_vulnerable_assessments": [
+    "Written knowledge components in hybrid TVET courses (theory exams, essay questions) — highly vulnerable to ChatGPT, especially in remote/unproctored settings",
+    "Portfolio documentation and project reports: vulnerable to plagiarism, AI-generated content, and forged work samples",
+    "Online competency assessments without live proctoring: vulnerable to proxy test-taking and unauthorized tool use",
+    "Case study analysis and problem-solving exercises (e.g., nursing diagnosis scenarios, electrical troubleshooting) — susceptible to AI completion",
+    "Reflective writing and competency narratives: vulnerable to AI authorship when submitted remotely",
+    "Design documentation in architecture/engineering TVET: susceptible to AI-generated renderings and technical drawings submitted as own work",
+    "Remote or asynchronous practical assessments where supervisor oversight is minimal (e.g., video-submitted welding samples without live observation)"
+  ],
+  "ai_resistant_assessments": [
+    "Live performance-based assessment: direct observation of welding, nursing procedures, surgical skills, plumbing installation — difficult to fake in real-time",
+    "Synchronous clinical/workplace placement with qualified assessor present: eliminates proxy test-taking; assessor observes actual competence",
+    "Oral viva examination: real-time dialogue between assessor and candidate allows assessment of depth of understanding; hard for AI to impersonate live",
+    "Hands-on practical exams in controlled settings: candidate must demonstrate competence in real materials/equipment (welding torch, patient dummy, electrical circuit)",
+    "Portfolio defense/presentation: candidate verbally explains and justifies their work in real-time, assessor can probe understanding",
+    "Collaborative team-based project work with in-person assessor observation: reduces individual cheating risk",
+    "Competency demonstrated through employment history and supervisor sign-off: employer attestation adds accountability layer"
+  ],
+  "redesign_proposals": [
+    "Hybrid assessment model: combine live practical observation with remote knowledge assessment under proctoring (e.g., Talview or BlinkExam with behavioral AI to detect unauthorized tool use)",
+    "Process documentation requirement: students submit evidence of work-in-progress (sketches, drafts, iteration logs, dated photos) to prove original authorship over time, not just final deliverable",
+    "Competency portfolio defense: require candidates to verbally present and defend their portfolio in synchronous oral examination, allowing assessor to probe depth of understanding",
+    "Increased assessor supervision standards: global framework for assessor qualifications and frequency of live observation (e.g., minimum 80% of assessment in real-time)",
+    "Workplace attestation integration: align TVET assessment with employer sign-off and recommendation, creating accountability loop",
+    "AI literacy and ethical use training: teach candidates legitimate vs. fraudulent AI use, with clear policy on authorized tools in each vocation",
+    "Digital credential systems: implement blockchain or cryptographic verification of certificates (e.g., Verifiable Credentials) to reduce fake certificate circulation",
+    "Machine learning analytics on assessment patterns: flag anomalies in submission timing, linguistic patterns, or performance jumps to alert assessors to potential fraud",
+    "WorldSkills-style in-person competition model adapted for certification: periodic in-person assessments where candidates demonstrate competence in controlled, observed conditions",
+    "Practical skills validation through micro-credentials: shorter, more frequent demonstrated competencies verified through workplace or third-party observation, reducing high-stakes assessment reliance"
+  ],
+  "case_descriptions": [
+    "Kenya TVET Certificate Fraud Wave (ongoing): documented cases of training providers issuing fake certificates to learners, with fraudulent certificates never identified by employers, creating genuine public safety threats",
+    "Vietnam NOS Assessment System Gaps (2015-2025): Decree 31/2015 established NOS assessment agency licensing, but enforcement has been inconsistent due to unclear MOET/MOLISA responsibility boundaries. Cases of certificate fraud in vocational qualifications reported but not systematically documented in public sources",
+    "CodeSignal Entry-Level Cheating Epidemic (2024-2025): 40% fraud attempt rate in entry-level assessments (coding, IT skills), with primary methods being AI-generated code solutions, copy-paste plagiarism, and proxy test-taking. Unproctored assessments show 4x larger score increases than proctored, indicating systematic cheating when supervision is absent",
+    "KPMG Australia AI Exam Cheating (February 2026): KPMG Partner fined AUD $10,000 for using ChatGPT to cheat on internal AI training exam. Detected through CodeSignal's anomaly detection of submission patterns. Demonstrates that even high-level professionals attempt AI-assisted cheating on proctored assessments",
+    "Contract Cheating in Further Education TVET (documented in UK research): studies show that contract cheating services are available for TVET coursework and assessments. Staff report difficulty in detecting because of time burden in gathering evidence and proving third-party authorship",
+    "[uncertain] Specific documented case of AI-generated work (images, code, design) submitted as own work in TVET certificate programs — literature indicates this is a growing concern but detailed case studies with institutional details are limited"
+  ],
+  "institutions_involved": [
+    "Kenya TVET colleges (names redacted in public reports, but affected institutions overseen by Kenya National Business Council)",
+    "Vietnam TVET institutions: 11 high-quality colleges in German-Vietnamese cooperation program, plus ~2 million enrolled students across ~280 public and private TVET institutions",
+    "WorldSkills International and member national competitions (globally)",
+    "CodeSignal platform: used by employers and educational institutions for coding/IT skill assessments globally",
+    "UK Further Education institutions: research on contract cheating in vocational courses",
+    "Germany Federal Institute for Vocational Education and Training (BIBB) and GOVET: AI research in vocational assessment",
+    "GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit): German-Vietnamese TVET cooperation",
+    "[uncertain] Specific HCMUFA or Vietnamese fine arts TVET institutions affected by AI art fraud (assumed based on global context but not explicitly documented)"
+  ],
+  "outcomes": "Fragmented. Kenya: audit reports by Auditor General and Ethics and Anti-Corruption Commission documented fraud, but systemic remediation unclear. Vietnam: Decree 31/2015 framework established, but enforcement remains weak; no major institutional changes documented in response to AI-specific threats as of 2025. CodeSignal: proactive detection reduces fraud rates in organizations using their platform, but unproctored assessments remain extremely vulnerable (40%+ fraud attempt rate). WorldSkills: disqualification rules enforced, but applied only within competition context, not to broader vocational certification. Global outcome: despite growing awareness, TVET assessment integrity faces systemic gaps in technology infrastructure, assessor training on AI fraud, and international coordination. Most vulnerable populations (developing countries, remote learners, underfunded institutions) lack detection systems.",
+  "media_coverage": [
+    "CodeSignal press releases (2025): 'CodeSignal Detection Systems Identify and Stop Record-High Cheating Attempts' — documents 35% fraud attempt rate in 2025, nearly doubled from 2024",
+    "KPMG Partner AI Cheating Fine (February 2026): reported by CreatiAI and tech news outlets — high-profile example of AI exam fraud detection",
+    "Kenya Daily Nation (2025): 'KCSE 2025: 418 candidates flagged for cheating' — broader context of exam fraud in education sector, relevant to TVET governance parallels",
+    "TVET@Asia online platform: publishes articles on AI integration in TVET, including 'TVET and AI: Crafting the Future of Vocational Training'",
+    "World of TVET blog: 'Empowering Vocational Education Through Artificial Intelligence' and commentary on AI threats",
+    "Training Qualifications UK (TQUK): 'Tackling certificate fraud and malpractice' — documents fraud trends in vocational qualifications",
+    "[uncertain] Major investigative journalism on certificate fraud rings in developing countries — likely exists but specific global TVET reports not identified"
+  ],
+  "direct_harm_risk": "HIGH. Credential fraud in TVET creates direct public safety risks. Examples: unqualified electricians installing wiring, leading to fires; unqualified nurses administering medication or procedures, causing patient harm; unqualified automotive technicians performing brake repairs, causing accidents; unqualified welders producing defective structural joints. Unlike academic essay fraud which is primarily reputational, TVET fraud directly endangers clients, patients, or end-users of products/services. Kenya's documented cases of fake certificates in vocational training explicitly note 'genuine threat to public safety.' Industry 4.0 context raises stakes: AI-augmented work requires both traditional competence AND AI literacy; unqualified practitioners using AI tools amplifies risk.",
+  "credentialing_integrity": "CRITICAL. TVET credentials (certificates, diplomas, NOS certifications) are direct entry points to employment and licensing in high-risk professions (healthcare, construction, automotive, electrical). Fake credentials bypass employer vetting, licensing boards cannot easily verify certificates across institutions/countries, and there is no unified international credential verification system. Vietnam's NOS framework (Decree 31/2015) attempted to standardize, but cross-border fraud remains possible. WorldSkills certificates carry international prestige but cover only a fraction of TVET candidates. The absence of digital credential infrastructure (blockchain, cryptographic verification) means most TVET certificates are vulnerable to forgery. Employers often cannot distinguish genuine from fraudulent certificates without direct institutional inquiry, which many do not conduct. Credential inflation through fraud devalues legitimate TVET qualifications and undermines labor market trust.",
+  "professional_licensing_stakes": "HIGH but inconsistent. In some countries (Germany, Singapore, Australia), TVET qualifications are gated by regulatory licensing (tradespersons must be licensed). In others (Vietnam, many developing nations), TVET completion leads to employment but formal licensing may not exist or is weakly enforced. Even without formal licensing, TVET credentials determine hiring in safety-critical roles: hospitals verify nursing credentials, construction firms check electrician certifications, surgical centers confirm surgical tech credentials. The stakes are highest in: healthcare (direct patient harm), construction/electrical (property damage, injury, death), transportation (vehicular safety), aviation maintenance. Unlike medical school or law school where post-graduation licensing exams add a gating mechanism, many TVET learners enter directly to employment after certification. Unqualified practitioners operate with minimal post-hire verification, making initial assessment integrity paramount.",
+  "discipline_specific_researchers": [
+    "BIBB (Federal Institute for Vocational Education and Training, Germany): conducting research on AI integration in vocational assessment",
+    "GOVET (German Office for International Cooperation in Vocational Education and Training): AI-driven competency assessment and personalization research",
+    "UNESCO-UNEVOC researchers and regional centers: focus on quality assurance and digital transformation in TVET (Bonn-based international center)",
+    "Kenneth King (cited in UNESCO TVET background papers): researcher on TVET strategy and international cooperation",
+    "[uncertain] Named researchers specifically focused on AI fraud in TVET assessment — the discipline is nascent; most AI integrity research targets higher education, not TVET"
+  ],
+  "key_publications": [
+    "MDPI 'Artificial Intelligence, Automation, and Technical and Vocational Education and Training: Transforming Vocational Training in Digital Era' (2025): peer-reviewed overview of AI opportunities and risks in TVET",
+    "TVET@Asia Issue 26 Editorial: 'The Impact of Artificial Intelligence (AI) on Technical and Vocational Education and Training (TVET)' (2025-2026)",
+    "Springer Nature chapter: 'Artificial Intelligence and Assistance Systems for Technical Vocational Education and Training – Opportunities and Risks' (2023)",
+    "Preprints.org: 'Artificial Intelligence in Technical and Vocational Education and Training: Empirical Evidence, Implementation Challenges, and Future Directions' (2025)",
+    "UNESCO-UNEVOC Strategy for TVET 2022-2029 (PDF) — strategic guidance on digital transformation, limited AI fraud content",
+    "Asian Development Bank: 'Viet Nam: Technical and Vocational Education and Training Sector Assessment' (2017) — comprehensive assessment of Vietnam TVET system, foundation for understanding governance",
+    "ScienceDirect: 'Harnessing artificial intelligence to revolutionize vocational education: Emerging trends, challenges, and contributions to SDGs 2030' (2025)",
+    "Commonwealth of Learning (COL): 'Competency-based training and assessment' TVET Toolkit for the Pacific (2024) — practical CBA guidance",
+    "TQUK: 'Tackling certificate fraud and malpractice' (UK vocational qualifications perspective) (2024)",
+    "CodeSignal research reports on assessment fraud trends (annual reports 2024-2025) — proprietary but publicly released data on cheating rates"
+  ],
+  "conferences": [
+    "WorldSkills International Biennial Conference: discusses occupational standards, assessment practices, and emerging challenges (next in 2026)",
+    "TVET@Asia online symposium and webinar series: hosted by UNESCO-UNEVOC, covers AI integration, quality assurance",
+    "GIZ TVET Academy (Akademie für Internationale Zusammenarbeit): trains international TVET professionals, includes AI topics in recent curriculum",
+    "UNESCO Global Citizenship Education (GCED) and TVET Quality conferences: address integrity and ethics in vocational training",
+    "ILO Skills for Employment Knowledge Network (SKILlS): forums on TVET policy and technology",
+    "Asian Development Bank Central and West Asia Regional Cooperation on TVET: regional forums",
+    "Germany Federal TVET Congress (Berufsbildungskongress): discusses innovations in vocational education",
+    "[uncertain] Dedicated international conference specifically on AI integrity in TVET assessment (as of Q1 2025, no major venue identified)"
+  ],
+  "how_different_from_stem_social_science": "TVET assessment differs fundamentally from general higher education (STEM, social science) in five ways: (1) **Performance primacy**: TVET emphasizes demonstrated practical competence over theoretical knowledge; assessment is primarily observational (watching someone weld, code, perform surgery) vs. written exams. AI tools cannot easily fake live performance, but can fake documentation of performance. (2) **Occupational specificity**: TVET is tightly coupled to specific trades, professions, and workplace roles with defined competency frameworks (WorldSkills standards, NOS). AI threat is vocation-specific (e.g., coding assessments face ChatGPT threat, but welding assessments do not, though documentation can be forged). General HE faces uniform essay/exam fraud across disciplines. (3) **Public safety stakes**: TVET credentials gate access to safety-critical professions (nursing, electrical work, aviation maintenance). Fraud directly endangers patients/public. Academic essay fraud is reputationally harmful but not physically dangerous. (4) **Assessor expertise requirements**: TVET assessment requires subject-matter experts (working electricians, surgeons, master welders) to observe and judge competence. General HE can employ subject specialists but doesn't require active practice in the field. This makes TVET more vulnerable to human error and inconsistency, but also more resistant to purely AI-based fraud (live observer is always present in best practice). (5) **Global fragmentation**: TVET governance is highly decentralized (national vocational authorities, WorldSkills, ILO, UNESCO-UNEVOC, industry bodies) with no unified international integrity standard, unlike academic credentialing which benefits from academic accreditation bodies (QAA, SACSCOC, etc.). This fragmentation means TVET is more vulnerable to jurisdiction-shopping and certificate fraud in developing countries.",
+  "unique_detection_challenges": "Three critical detection challenges unique to TVET: (1) **Live vs. asynchronous assessment gap**: Best-practice TVET assessment is live and synchronous (assessor observes performance), which is naturally AI-resistant. However, hybrid and remote TVET delivery has become common, especially post-COVID, creating asynchronous assessment gaps where documentation (videos, reports, portfolios) must serve as evidence of competence. These asynchronous components are highly vulnerable to AI forgery and fraud (AI-generated videos, synthetic performance documentation). No standard detection mechanism exists to distinguish live-demonstrated competence from AI-synthesized evidence. (2) **Dual vulnerability of practical skills**: Practical skills (welding, coding, nursing) can be learned and verified in-person (AI-resistant) BUT the *evidence* of these skills (welding photos, code samples, patient case studies) can be AI-generated (AI-vulnerable). Detection tools exist for AI-generated text and code (plagiarism detectors, CodeSignal), but assessing whether a photo/video is genuine performance vs. AI-synthesized deepfake or forgery is not yet standard in TVET institutions, especially in developing countries. (3) **Assessor variation and informal assessment**: Unlike standardized exams with centralized oversight, TVET assessment is often decentralized and informal, conducted by workplace-based assessors with limited training on fraud detection or AI. A welding supervisor or nursing preceptor may not recognize AI-assisted documentation or coached performance as fraudulent. This human-factor challenge is harder to solve than technical detection tools. Training 280+ Vietnamese vocational institutions' assessors on AI fraud is operationally difficult and resource-intensive.",
+  "discipline_specific_solutions": [
+    "Live performance observation as gold standard: prioritize synchronous, in-person assessment where competence is demonstrated and observed in real-time. This is inherently AI-resistant and is best practice in TVET but requires commitment to avoid asynchronous shortcuts.",
+    "Process documentation requirement: require learners to document their work process (sketches, drafts, iteration logs, dated work-in-progress photos) throughout the learning period, not just submit final deliverable. Fraud is hard to sustain over weeks of documented iteration. Example: architecture students submit weekly design iterations with timestamps, making it implausible to suddenly substitute AI-generated final deliverable.",
+    "Competency portfolio defense with oral viva: portfolio submission alone is vulnerable; require synchronous oral examination where candidate explains, justifies, and can be probed on their work. Assessor can quickly identify whether candidate understands their own portfolio or it was AI-generated.",
+    "Workplace attestation integration: align TVET certification with supervisor/employer sign-off of actual on-the-job competence. Employer has direct observation and accountability stake, reducing fraud risk. This is especially powerful in apprenticeship/work-integrated learning models.",
+    "AI literacy curriculum for TVET learners: teach legitimate vs. fraudulent AI use in each vocation. Example: coding TVET should teach 'GitHub Copilot is a permitted tool for productivity; submitting Copilot code as own understanding of algorithms is fraud.' Empowers learners to use AI ethically.",
+    "Assessor training on AI fraud detection: develop international framework for TVET assessor training on AI fraud methods, detection signals, and investigation. This is critical because assessors are frontline defense against fraud.",
+    "Digital credential verification infrastructure: implement cryptographic/blockchain-based credential systems (Verifiable Credentials, ISO/IEC 21794) to enable employers to instantly verify certificate authenticity without institutional inquiry. Reduces fake certificate circulation.",
+    "Micro-credential and continuous assessment model: shift from high-stakes, end-of-course assessment to frequent, lower-stakes demonstrated competencies verified over time. Reduces opportunity for one-off fraud and provides more robust evidence of competence.",
+    "International assessor standards and reciprocal audit: TVET assessment standards are nationally fragmented; establishing international minimum standards for assessor qualifications and audit procedures (WorldSkills model but adapted to national certifications) would raise baseline integrity globally.",
+    "AI detection tools adapted for TVET: deploy CodeSignal-style behavioral proctoring and plagiarism detection (Turnitin, Grammarly) for written and documentation components of TVET assessment. Institutional rollout would require investment, but reduces unproctored assessment vulnerability.",
+    "Workplace simulation and controlled environment assessment: for high-risk professions (healthcare, electrical, aviation), conduct periodic in-person assessments in controlled, observed settings (hospital labs, electrical test facilities, flight simulators) where competence can be verified without relying solely on workplace observation.",
+    "Industry-TVET institution partnerships for assessment: engage employers and industry bodies (WorldSkills, sector-specific unions) in co-designing and co-conducting assessments, increasing stakes and oversight. Example: electrician certification co-assessed by industry licensing board, not institution alone."
+  ],
+  "uncertain": [
+    "specific_fraud_methods: AI-generated video deepfakes in remote practical assessments (described as emerging threat but no major documented cases)",
+    "policy_documents: existence of unpublished ILO or UNESCO-UNEVOC guidance on AI in TVET assessment",
+    "guidance_date: exact publication dates and content of latest ILO-UNESCO TVET AI recommendations",
+    "case_descriptions: specific institutional names and details of AI-generated work fraud in TVET certificate programs",
+    "institutions_involved: specific HCMUFA or Vietnamese fine arts TVET institutions affected by AI art fraud",
+    "media_coverage: major investigative journalism on certificate fraud rings in developing countries",
+    "discipline_specific_researchers: named international researchers specifically focused on AI fraud (vs. general AI integration) in TVET assessment",
+    "how_different_from_stem_social_science: quantitative comparison of fraud rates between TVET vs. general HE (literature suggests differences but no systematic meta-analysis found)"
+  ]
+}

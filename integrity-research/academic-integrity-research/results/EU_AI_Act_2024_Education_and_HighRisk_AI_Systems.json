@@ -1,0 +1,59 @@
+{
+  "item_name": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 on artificial intelligence (Artificial Intelligence Act)",
+  "category": "policy_document",
+  "authors": [
+    "European Parliament",
+    "Council of the European Union"
+  ],
+  "year": 2024,
+  "publisher_or_institution": "European Union / Official Journal of the European Union",
+  "key_contribution": "The EU AI Act establishes a comprehensive risk-based regulatory framework for artificial intelligence systems across the European Union. The regulation defines high-risk AI systems in education (Annex III) and establishes specific requirements for transparency (Articles 13, 50), human oversight (Article 14), and disclosure of AI-generated content. The Act entered into force on 1 August 2024, with implementation of high-risk AI system requirements scheduled for 2 August 2026 and full application by 2 August 2027.",
+  "doi_or_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+  "isbn": null,
+  "notable_concepts": [
+    "High-risk AI systems classification",
+    "Annex III - Education and vocational training AI systems",
+    "Article 13 - Transparency and provision of information to deployers",
+    "Article 14 - Human oversight requirements",
+    "Article 50 - Transparency obligations for AI-generated content",
+    "AI-generated content disclosure requirements",
+    "Deepfake detection and labeling",
+    "Emotion recognition system transparency",
+    "Educational AI admissions systems",
+    "Student exam monitoring and proctoring systems",
+    "Risk-based regulatory framework",
+    "Conformity assessment procedures"
+  ],
+  "relevance_to_ai_integrity": "Directly addresses how AI systems used in education must be designed, deployed and overseen to protect academic integrity and fundamental rights. Annex III classifies four categories of educational AI as high-risk: (1) admission and enrollment systems, (2) learning outcome evaluation systems, (3) educational level assessment systems, and (4) student behavior monitoring during exams. Articles 13-14 mandate transparency about AI capabilities/limitations and human oversight mechanisms. Article 50 requires disclosure when AI generates text intended to inform the public on matters of public interest, and requires labeling of deepfakes and emotion recognition systems.",
+  "specific_articles_and_sections": {
+    "annex_iii_education": {
+      "reference": "Annex III, Points 2(a)-(d)",
+      "title": "High-Risk AI Systems in Education and Vocational Training",
+      "content": "AI systems intended to: (a) determine access or admission or assign natural persons to educational and vocational training institutions at all levels; (b) evaluate learning outcomes, including when used to steer the learning process; (c) assess appropriate level of education an individual will receive; (d) monitor and detect prohibited behavior of students during tests."
+    },
+    "article_13": {
+      "reference": "Article 13",
+      "title": "Transparency and Provision of Information to Deployers",
+      "content": "High-risk AI systems shall be designed to ensure sufficient transparency for deployers to interpret system output and use appropriately. Instructions for use must include: provider contact details, system characteristics, capabilities and limitations, intended purpose, accuracy and robustness level, potential risks, human oversight measures, computational requirements, maintenance needs, and logging mechanisms."
+    },
+    "article_14": {
+      "reference": "Article 14",
+      "title": "Human Oversight",
+      "content": "High-risk AI systems shall be designed with appropriate human-machine interface tools to enable effective oversight. Measures must prevent or minimize risks to health, safety or fundamental rights. Humans must be able to: monitor system operation, interpret outputs, override decisions, maintain awareness of limitations, and stop operation. For biometric identification systems, actions require verification by at least two competent natural persons."
+    },
+    "article_50": {
+      "reference": "Article 50",
+      "title": "Transparency Obligations for Providers and Deployers of Certain AI Systems",
+      "content": "Deployers of AI systems that generate or manipulate text published to inform public on matters of public interest must disclose artificial generation/manipulation. Deployers of deepfake-generating systems must disclose artificial generation/manipulation. Deployers of emotion recognition or biometric categorization systems must inform exposed natural persons. Information must be provided in clear, distinguishable manner at time of first interaction and meet accessibility requirements."
+    }
+  },
+  "implementation_timeline": {
+    "entry_into_force": "1 August 2024",
+    "high_risk_system_requirements": "2 August 2026",
+    "transparency_obligations": "2 August 2026",
+    "full_application": "2 August 2027"
+  },
+  "uncertain": [
+    "authors"
+  ]
+}

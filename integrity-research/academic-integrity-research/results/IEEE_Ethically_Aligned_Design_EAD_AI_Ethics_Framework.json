@@ -1,0 +1,30 @@
+{
+  "item_name": "Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, First Edition",
+  "category": "policy_document",
+  "authors": [
+    "The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems"
+  ],
+  "year": 2019,
+  "publisher_or_institution": "IEEE Standards Association (IEEE SA)",
+  "key_contribution": "A comprehensive framework developed by over 700 global experts through a three-year iterative process, establishing seven general principles and actionable recommendations for ethical design of autonomous and intelligent systems. EAD1e prioritizes human rights, transparency, and accountability as foundational pillars for developing AI/IS that respect human well-being and minimize societal harms.",
+  "doi_or_url": "https://standards.ieee.org/news/ieee-ead1e/",
+  "isbn": null,
+  "notable_concepts": [
+    "Human Rights",
+    "Transparency",
+    "Accountability",
+    "Well-being",
+    "Data Agency",
+    "Effectiveness",
+    "Awareness of Misuse",
+    "Safety and Security",
+    "Autonomous and Intelligent Systems (A/IS)",
+    "Trustworthy AI",
+    "Four Trust Conditions",
+    "Values-driven design",
+    "Unintended consequences",
+    "Human-centric design"
+  ],
+  "relevance_to_ai_integrity": "IEEE EAD1e directly addresses academic integrity by establishing principles of transparency, accountability, and honesty in AI/IS design applicable to educational systems. The framework mandates that AI systems used in education provide discoverable decision rationales, unambiguous explanations for autonomous decisions, and evidence of effectiveness. These principles protect against misuse of AI in academic contexts, such as algorithmic bias in grading systems, opaque adaptive learning algorithms, and unauthorized data use. The framework also emphasizes data agency and protection of human rights, critical for safeguarding student privacy and ensuring ethical use of educational data. Furthermore, the awareness of misuse principle guides developers to anticipate and prevent AI-enabled academic dishonesty scenarios and maintain integrity of learning assessments.",
+  "uncertain": []
+}
