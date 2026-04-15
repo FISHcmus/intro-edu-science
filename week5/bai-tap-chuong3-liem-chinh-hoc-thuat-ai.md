@@ -8,6 +8,7 @@
 
 ---
 
+
 ## I. Đặt vấn đề
 
 Ngày 30 tháng 11 năm 2022, OpenAI ra mắt ChatGPT. Trong vòng hai tuần, giảng viên Darren Hudson Hick tại Đại học Furman ghi nhận ca đạo văn có hỗ trợ AI đầu tiên được xác nhận trong lịch sử học thuật. Cùng tháng đó, nhiều sinh viên tại Đại học Yeshiva (New York) nộp bài thi cuối kỳ take-home được ChatGPT viết nguyên văn — đây là vụ kỷ luật tập thể đầu tiên hậu ChatGPT, xảy ra chưa đầy một tháng kể từ khi công cụ này ra mắt công chúng.

@@ -54,3 +54,7 @@
 - Quiz format: Moodle trắc nghiệm, 8 min, 1 attempt, pass mark 8/10
 - Homework prep questions are announced in "Thông báo" labels on Moodle course page
 - Reading materials linked as URLs in Chương sections
+
+## Writing Rules (Tiểu luận)
+
+- Use hyphen `-` not em-dash `—` in all essay documents in this repo
