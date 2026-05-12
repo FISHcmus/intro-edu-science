@@ -81,15 +81,15 @@ Cần lưu ý: jitsugaku không đơn thuần là học những thứ "dùng đ�
 
 **Thái độ với công cụ mới.** Fukuzawa tiếp thu tri thức phương Tây với thái độ: không tôn thờ, và cũng không sợ hãi, xem chúng như phương pháp và công. Người thầy có cùng thái độ này với AI. Khi thầy nói "nếu mà học sinh biết tận dụng AI để học thì đó là điều rất là tốt", đó là tinh thần Fukuzawa áp dụng vào thế kỷ 21. Cả hai đều phân biệt giữa công cụ và cách dùng công cụ: vấn đề không nằm ở AI, mà nằm ở việc học sinh dùng nó để hiểu hay để đối phó.
 
-**Hạn chế của việc gán với triết gia.** Bài báo cáo phải nói rõ: những gì người được phỏng vấn làm — dạy theo chuyên đề, phân hóa bài tập, kết hợp phụ huynh — là thực hành sư phạm của một giáo viên giàu kinh nghiệm trong hệ thống giáo dục Việt Nam. Không có bằng chứng thầy từng đọc Fukuzawa. Triết lý của thầy có nguồn gốc từ kinh nghiệm nghề nghiệp và yêu cầu của hệ thống (GDPT 2018, áp lực thi vào 10). Sau đó tôi đối chiếu và thấy gần với Fukuzawa nhất. Việc phân hóa bài tập gợi nhắc đến tinh thần của Comenius, người chủ trương "school lessons be carefully adapted to the different aptitudes of children"[^7] — dù bản thân Comenius không mô tả kỹ thuật phân hóa bài tập cụ thể như cách giáo viên hiện đại áp dụng, và đây chỉ là phép nối kết của người viết, không nhất thiết phải gán vào một triết gia cụ thể.
+**Hạn chế của việc gán với triết gia.** Bài báo cáo phải nói rõ: những gì người được phỏng vấn làm — dạy theo chuyên đề, phân hóa bài tập, kết hợp phụ huynh — là thực hành sư phạm của một giáo viên giàu kinh nghiệm trong hệ thống giáo dục Việt Nam. Không có bằng chứng thầy từng đọc Fukuzawa. Triết lý của thầy có nguồn gốc từ kinh nghiệm nghề nghiệp và yêu cầu của hệ thống (GDPT 2018, áp lực thi vào 10). Sau đó tôi đối chiếu và thấy gần với Fukuzawa nhất. 
 
-Về mặt sư phạm, cách thầy dạy theo chuyên đề theo nguyên tắc "từ đơn giản đến phức tạp" — nguyên tắc phổ quát được Comenius hệ thống trong *Didactica Magna* (1657): "Every subject should be taught in definitely graded steps, that the work of one day may thus expand that of the previous day, and lead up to that of the morrow"[^3]. Trong cùng một chủ đề, thầy dẫn học sinh từ dạng cơ bản nhất đến các biến thể phức tạp dần, để các em "nắm được nhiều cái dạng toán của cái chuyên đề đó" trước khi chuyển sang chuyên đề khác. Nghĩa là không phải đơn thuần chỉ luyện đề. Mà là xây dựng hệ thống kiến thức có cấu trúc. Dạy học phải như xây một tòa nhà, làm từ móng tới mái.
+Việc phân hóa bài tập gợi nhắc đến tinh thần của một triết gia khác - Comenius, người chủ trương "school lessons be carefully adapted to the different aptitudes of children"[^7] — dù bản thân Comenius không mô tả kỹ thuật phân hóa bài tập cụ thể như cách giáo viên hiện đại áp dụng
+
+Về mặt sư phạm, cách thầy dạy theo chuyên đề theo nguyên tắc "từ đơn giản đến phức tạp" — nguyên tắc phổ quát được Comenius hệ thống trong *Didactica Magna* (1657): "Every subject should be taught in definitely graded steps, that the work of one day may thus expand that of the previous day, and lead up to that of the morrow"[^3]. Trong cùng một chủ đề, thầy dẫn học sinh từ dạng cơ bản nhất đến các biến thể phức tạp dần, để các em "nắm được nhiều cái dạng toán của cái chuyên đề đó" trước khi chuyển sang chuyên đề khác. Nghĩa là không phải đơn thuần chỉ luyện đề. Mà là xây dựng hệ thống kiến thức có cấu trúc. Dạy học phải như xây một tòa nhà, làm vững chắc từ móng tới mái nhà.
 
 **Bối cảnh chính sách: GDPT 2018 và áp lực thi vào 10.** Cách dạy của người được phỏng vấn không diễn ra trong chân không hay một môi trường độc lập với những biến số bên ngoài. Điển hình là Chương trình Giáo dục Phổ thông 2018 (Thông tư 32/2018/TT-BGDĐT) chủ trương "bảo đảm phát triển phẩm chất và năng lực người học", "tích hợp cao ở các lớp học dưới, phân hóa dần ở các lớp học trên"[^6] — thay vì truyền thụ một chiều như chương trình 2006.
 
 Nhưng áp lực thi vào 10 tại TP.HCM tạo ra một sức căng: năm học 2025-2026, khoảng 169.000 học sinh cạnh tranh cho khoảng 118.000 suất vào lớp 10 công lập, tỉ lệ đỗ khoảng 70% (VnExpress, 2026). Trong bối cảnh đó, người thầy chọn dạy theo chuyên đề thay vì luyện đề — đi theo tinh thần của chương trình, dù áp lực thi cử đẩy theo hướng ngược lại.
-
-Về Rousseau: cần tránh một cách hiểu sai phổ biến. Rousseau chủ trương "negative education" trong *Émile* (1762): "The first education ought to be purely negative"[^4] — không dạy trực tiếp mà thiết kế môi trường để trẻ tự khám phá. Tutor trong Émile cực kỳ chủ động: ông ta sắp đặt mọi tình huống để Émile "tự do" làm điều tutor muốn, một khái niệm mà chính Rousseau gọi là "well-regulated liberty"[^4]. Trên bề mặt, người được phỏng vấn có vẻ khác Rousseau vì thầy dạy trực tiếp theo chuyên đề. Nhưng ở tầng sâu hơn, cả hai đều là người thiết kế lộ trình học tập cho học sinh: Rousseau qua môi trường, người thầy qua hệ thống chuyên đề và phân hóa bài tập. Khác biệt nằm ở phương pháp, không phải ở vai trò.
 
 ## 2. Bài học rút ra
 
@@ -155,8 +155,6 @@ Người viết không biết mình có đúng không. Chỉ là điều tôi ng
 
 [^3]: Comenius, J. A. (1657). *The Great Didactic*, Chapter 19, ¶14(vii). Dẫn theo bản dịch của M. W. Keatinge (1896). Toàn văn tại: https://en.wikisource.org/wiki/The_Great_Didactic_of_John_Amos_Comenius/The_Great_Didactic/Chapter_19
 
-[^4]: Rousseau, J.-J. (1762). *Émile*, Book II. Dẫn theo bản dịch của Barbara Foxley (1911). Toàn văn tại: https://books.google.com/books?id=nWj_ZbVcwgIC. Câu "well-regulated liberty" xuất hiện trong nguyên bản tiếng Pháp là "la liberté bien réglée."
-
 [^5]: Bộ Giáo dục và Đào tạo. (2020). Điều lệ trường THCS và THPT (ban hành kèm Thông tư 32/2020/TT-BGDĐT). Dẫn theo luatvietnam.vn.
 
 [^6]: Bộ Giáo dục và Đào tạo. (2018). Chương trình giáo dục phổ thông tổng thể (ban hành kèm Thông tư 32/2018/TT-BGDĐT). Dẫn theo Wikipedia tiếng Việt: vi.wikipedia.org/wiki/Chương_trình_giáo_dục_phổ_thông_2018
@@ -169,7 +167,6 @@ Người viết không biết mình có đúng không. Chỉ là điều tôi ng
 - Comenius, J. A. (1658). *Orbis Sensualium Pictus*. https://books.google.com/books?id=yp8AAAAAYAAJ
 - Fukuzawa, Y. (1872-1876). *Khuyến học* [Gakumon no Susume / An Encouragement of Learning] (D. A. Dilworth & G. C. Hurst, Trans., 2012). Columbia University Press. https://books.google.com/books?id=6rtkAgAAQBAJ
 - Keio University. (2019, September 17). *President's Speech*. https://www.keio.ac.jp/en/about/president/speech/text-2019-0917.html
-- Rousseau, J.-J. (1762). *Émile, hay là về giáo dục*. https://books.google.com/books?id=nWj_ZbVcwgIC
 - Bộ Giáo dục và Đào tạo. (2018). *Chương trình giáo dục phổ thông tổng thể* (ban hành kèm Thông tư số 32/2018/TT-BGDĐT ngày 26/12/2018). Hà Nội. https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-32-2018-TT-BGDDT-Chuong-trinh-giao-duc-pho-thong-421991.aspx
 - Bộ Giáo dục và Đào tạo. (2020). *Thông tư số 32/2020/TT-BGDĐT ban hành Điều lệ trường THCS và THPT*. https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-32-2020-TT-BGDDT-Dieu-le-truong-trung-hoc-co-so-truong-trung-hoc-pho-thong-443627.aspx
 - Lệ Nguyễn. (2026, 8/4). *TP HCM đẩy sớm lịch đăng ký thi lớp 10*. VnExpress. https://vnexpress.net/huong-dan-lich-dang-ky-dieu-chinh-nguyen-vong-thi-lop-10-cua-tp-hcm-nam-2026-5059983.html
