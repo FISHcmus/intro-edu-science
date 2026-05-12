@@ -71,11 +71,11 @@ Với những em hoàn cảnh khó khăn, thầy phối hợp ban giám hiệu �
 
 Còn một chủ đề bộ câu hỏi có đề cập mà người báo cáo không đi sâu: dạy thêm. Là giáo viên Toán lớp 9 tại TP.HCM — nơi áp lực thi vào 10 là cực đại — câu hỏi về dạy thêm không thể né. Người viết ghi nhận đây là một thực tế nghề nghiệp phổ biến. Phân tích cách người thầy cân bằng giữa dạy chính khóa và dạy thêm là hướng mở rộng có giá trị.
 
-### 1.2 Đối chiếu lý thuyết
+### 1.2 Đối chiếu lý thuyết và phân tích thực tiễn
 
 Triết lý của người được phỏng vấn gần gũi nhất với **Fukuzawa Yukichi**.
 
-**Fukuzawa Yukichi (1835-1901): Jitsugaku — "thực học."** Fukuzawa dành toàn bộ *Khuyến học* (Gakumon no Susume, 1872-1876) để công kích lối học từ chương: học thuộc kinh điển mà không hiểu bản chất. Ngay chương mở đầu, Fukuzawa viết: "Learning does not mean useless accomplishments, such as knowing strange words, or reading old and difficult texts, or enjoying and writing poetry." Thay vào đó, ông chủ trương "practical learning that is close to everyday needs" — thực học (jitsugaku)[^1]. Thầy Nghị nói cùng một điều bằng ngôn ngữ lớp 9: "Dạy theo chuyên đề, không dạy theo đề." Ở đây ta thấy cả hai đều phân biệt rạch ròi giữa hiểu bản chất và học mẹo đối phó.
+**Fukuzawa Yukichi (1835-1901): Jitsugaku — "thực học."** Fukuzawa dành toàn bộ *Khuyến học* (Gakumon no Susume, 1872-1876) để công kích lối học từ chương: học thuộc kinh điển mà không hiểu bản chất. Ngay chương mở đầu, Fukuzawa viết: "Learning does not mean useless accomplishments, such as knowing strange words, or reading old and difficult texts, or enjoying and writing poetry." Thay vào đó, ông chủ trương "practical learning that is close to everyday needs" — thực học (jitsugaku)[^1]. Thầy Nghị nói cùng một điều: "Dạy theo chuyên đề, không dạy theo đề." Ở đây ta thấy cả hai đều phân biệt rạch ròi giữa hiểu bản chất và học mẹo đối phó.
 
 Cần lưu ý: jitsugaku không đơn thuần là học những thứ "dùng được ngay." Như Hiệu trưởng Đại học Keio đã làm rõ trong bài phát biểu năm 2019: "Practical learning, or jitsugaku, does not mean learning about useful things applicable to everyday life. It means learning about the essential nature or fundamental principles of things"[^2] — gần với "học để hiểu sâu" của người được phỏng vấn hơn là "học mẹo để dùng."
 
@@ -123,7 +123,7 @@ Khác với phân tích triết lý thuần túy, thực hành của nhà giáo 
 
 Thầy không chỉ dạy Toán. Thầy phối hợp ban giám hiệu để học sinh không bỏ học vì lý do tài chính. Phối hợp tổ chức quyên góp quà Trung Thu, quà Tết. Những việc này không có trong giáo án, không triết gia nào dạy thầy làm. Nhưng chính chúng mới giữ học sinh ở lại trường.  Bài học ở đây: muốn dạy được một đứa trẻ, trước hết phải đảm bảo nó có mặt trong lớp.
 
-**Triết lý nhóm:** Giáo dục không chỉ là đứng trên bục giảng. Một giáo viên có trách nhiệm quan tâm đến điều kiện sống và học tập của học sinh — một đứa trẻ có hoàn cảnh chắc chắn không có thời gian quan tâm tới việc học, chưa kể đến sự ảnh hưởng về mặt tâm lý. 
+**Triết lý nhóm:** Giáo dục không chỉ là đứng trên bục giảng. Một giáo viên có trách nhiệm quan tâm đến điều kiện sống và học tập của học sinh — một đứa trẻ có hoàn cảnh thiếu thốn chắc chắn không có thời gian hãy động lực quan tâm tới việc học, chưa kể đến sự ảnh hưởng về mặt tâm lý. 
 
 ### 2.4 Học công nghệ giáo dục là để bồi đắp những triết lý đã từng có, không phải để hô hào những cái mới.
 
