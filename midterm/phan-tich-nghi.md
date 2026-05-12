@@ -17,7 +17,7 @@
 
 Bài viết này là một phần trong dự án giữa kỳ môn Nhập môn Khoa học Giáo dục (lớp 25CGD, học kỳ 2 năm học 2025-2026). Đề bài yêu cầu nhóm phỏng vấn ba nhà giáo dục, phân tích triết lý giáo dục của họ qua thực tiễn giảng dạy, đối chiếu với các trường phái triết lý đã học, và rút ra bài học cho bản thân.
 
-Người được phỏng vấn trong phần này là thầy Nghị, giáo viên Toán THCS tại TP.HCM, hiện đang dạy khối 7 và khối 9. Cuộc phỏng vấn diễn ra ngày 11/04/2026 trong khoảng 20 phút, theo phương pháp bán cấu trúc. Nội dung phỏng vấn tập trung vào cách thầy dạy khối 9 — giai đoạn học sinh đối mặt với kỳ thi vào lớp 10 — nhưng những nguyên tắc sư phạm thầy chia sẻ phản ánh triết lý dạy học của thầy nói chung, không giới hạn ở một khối lớp.
+Người được phỏng vấn trong phần này là thầy Nghị, giáo viên Toán THCS tại TP.HCM, hiện đang dạy khối 7 và khối 9. Cuộc phỏng vấn diễn ra ngày 07/05/2026 trong khoảng 20 phút, theo phương pháp bán cấu trúc. Nội dung phỏng vấn tập trung vào cách thầy dạy khối 9 — giai đoạn học sinh đối mặt với kỳ thi vào lớp 10 — nhưng những nguyên tắc sư phạm thầy chia sẻ phản ánh triết lý dạy học của thầy nói chung, không giới hạn ở một khối lớp.
 
 Tôi (Nguyễn Hữu Thiện Nhân, MSSV 25310023) chịu trách nhiệm phân tích một trong ba nhà giáo dục. Phần phân tích những người còn lại sẽ do các thành viên khác trong nhóm thực hiện và được tổng hợp vào báo cáo cuối cùng.
 
@@ -170,7 +170,7 @@ Người viết không biết mình có đúng không. Chỉ là điều tôi ng
 - Bộ Giáo dục và Đào tạo. (2018). *Chương trình giáo dục phổ thông tổng thể* (ban hành kèm Thông tư số 32/2018/TT-BGDĐT ngày 26/12/2018). Hà Nội. https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-32-2018-TT-BGDDT-Chuong-trinh-giao-duc-pho-thong-421991.aspx
 - Bộ Giáo dục và Đào tạo. (2020). *Thông tư số 32/2020/TT-BGDĐT ban hành Điều lệ trường THCS và THPT*. https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-32-2020-TT-BGDDT-Dieu-le-truong-trung-hoc-co-so-truong-trung-hoc-pho-thong-443627.aspx
 - Lệ Nguyễn. (2026, 8/4). *TP HCM đẩy sớm lịch đăng ký thi lớp 10*. VnExpress. https://vnexpress.net/huong-dan-lich-dang-ky-dieu-chinh-nguyen-vong-thi-lop-10-cua-tp-hcm-nam-2026-5059983.html
-- Phỏng vấn thầy Nghị, giáo viên Toán THCS, ngày 11/04/2026, TP.HCM. Phỏng vấn bán cấu trúc, 20 phút. Transcript lưu tại tệp riêng của nhóm.
+- Phỏng vấn thầy Nghị, giáo viên Toán THCS, ngày 07/05/2026, TP.HCM. Phỏng vấn bán cấu trúc, 20 phút. Transcript lưu tại tệp riêng của nhóm.
 
 ---
 

@@ -4,7 +4,7 @@
 
 | Mục | Thông tin |
 |---|---|
-| Ngày phỏng vấn | 2026-05-10 |
+| Ngày phỏng vấn | 2026-05-07 |
 | Hình thức | Google Meet |
 | Thời lượng video | 27 phút 31 giây |
 | Mô hình transcribe | GPT-4o Transcribe |
