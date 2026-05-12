@@ -29,17 +29,30 @@
 - **Tiến độ:**
   - [x] Bộ câu hỏi phỏng vấn (`./midterm/interview-questions.md`)
   - [x] Phỏng vấn chị Yến (Toán THCS) — **ĐÃ CẮT khỏi báo cáo cuối** (nhóm chọn người phù hợp hơn)
-  - [x] Phỏng vấn anh Nghị (Toán THCS khối 9) — transcript: `./midterm/interview-4-anh-nghi-toan-thcs9.md`
-  - [x] Phân tích anh Nghị — `./midterm/phan-tich-nghi.md` (đã debate 6-agent, P0 fixes done, ~8.0/10)
-  - [ ] Phỏng vấn người thứ 3 (thay thế chị Yến)
-  - [ ] Phân tích người thứ 3
-  - [ ] Tổng hợp báo cáo Word (nộp Moodle id=56076)
-  - [ ] Slide thuyết trình
+  - [x] Phỏng vấn Nghị (Toán THCS, khối 7 và 9) — transcript: `./midterm/interview-4-anh-nghi-toan-thcs9.md`
+  - [x] Phân tích Nghị — `./midterm/phan-tich-nghi.md` (đã debate 6-agent, verified sources, ~8.5/10)
+  - [x] Phỏng vấn cô Quỳnh (Tiếng Anh THCS) — `./midterm/other-interviews/PHỎNG VẤN CÔ QUỲNH.md`
+  - [x] Phỏng vấn cô Nga (Ngữ Văn THPT) — `./midterm/other-interviews/GHI CHÉP PHỎNG VẤN CÔ NGA.md`
+  - [ ] Phân tích cô Quỳnh (do thành viên khác)
+  - [ ] Phân tích cô Nga (do thành viên khác)
+  - [ ] Tổng hợp báo cáo Word (nộp Moodle id=56076, deadline HÌNH: 17/05; MOODLE: 14/05 — CẦN XÁC NHẬN)
+  - [ ] Slide thuyết trình (báo cáo 21/05 hoặc 28/05)
 - **Debate artifacts:** `./midterm/debate/` (round1 critiques + round2 arbitration)
 - **Files:** `./midterm/`
 - **Nộp tại:** Moodle > Bài báo cáo giữa kì - File Word (id=56076)
 
-### Completed Assignments
+### Người phỏng vấn thứ hai: Cô Nguyễn Thị Thúy Quỳnh
+- Giáo viên Tiếng Anh THCS Thông Tây Hội, chủ nhiệm lớp 8
+- 41 tuổi, 16 năm kinh nghiệm, thế hệ 8x nhưng tư duy hiện đại
+- Transcript: `./midterm/other-interviews/PHỎNG VẤN CÔ QUỲNH.md`
+- **Không cho ghi âm** — nội dung là ghi chép, không phải transcript chính xác từng từ
+- Cần phân tích bởi thành viên khác trong nhóm
+
+### Người phỏng vấn thứ ba: Cô Hoàng Thị Tố Nga
+- Giáo viên Ngữ Văn THPT Lý Thái Tổ, chủ nhiệm lớp 10
+- 27 tuổi, giáo viên trẻ
+- Transcript: `./midterm/other-interviews/GHI CHÉP PHỎNG VẤN CÔ NGA.md`
+- Cần phân tích bởi thành viên khác trong nhóm
 - [x] Bài tập Chương 3 — Liêm chính học thuật & gian lận AI (nộp 12/4, `./week5/`)
 - [x] Bonus — Bài thu hoạch Education Vietnam 2026 (nộp 10/5, `./secc-edtech-bonus/`)
 
