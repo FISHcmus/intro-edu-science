@@ -9,6 +9,14 @@
       "env": {
         "CHROME_DEVTOOLS_MCP_NO_USAGE_STATISTICS": "1"
       }
+    },
+    "firefox-devtools": {
+      "command": "npx",
+      "args": ["-y", "firefox-devtools-mcp@latest", "--connect-existing"],
+      "env": {
+        "ENABLE_SCRIPT": "true",
+        "ENABLE_PRIVILEGED_CONTEXT": "true"
+      }
     }
   }
 }

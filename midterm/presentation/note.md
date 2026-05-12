@@ -1,0 +1,4 @@
+- 12 min
+- 5 min to answer to teacher question
+- so need to make an script about 1000-1200 word, suppose each minute normal person can talk ~100 w
+- presentation need to work on canva
