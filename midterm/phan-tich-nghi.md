@@ -147,8 +147,7 @@ Người viết không biết mình có đúng không. Chỉ là điều tôi ng
 
 - Comenius, J. A. (1657). *Didactica Magna*. https://books.google.com/books?id=dx5K1Db2w2QC
 - Comenius, J. A. (1658). *Orbis Sensualium Pictus*. https://books.google.com/books?id=yp8AAAAAYAAJ
-- Dilworth, D. A. & Hurst, G. C. (Trans.). (2012). *An Encouragement of Learning* (Fukuzawa Yukichi). Columbia University Press. https://books.google.com/books?id=6rtkAgAAQBAJ
-- Fukuzawa, Y. (1872-1876). *Khuyến học* (Gakumon no Susume).
+- Fukuzawa, Y. (1872-1876). *Khuyến học* [Gakumon no Susume / An Encouragement of Learning] (D. A. Dilworth & G. C. Hurst, Trans., 2012). Columbia University Press. https://books.google.com/books?id=6rtkAgAAQBAJ
 - Keio University. (2019, September 17). *President's Speech*. https://www.keio.ac.jp/en/about/president/speech/text-2019-0917.html
 - Rousseau, J.-J. (1762). *Émile, hay là về giáo dục*. https://books.google.com/books?id=nWj_ZbVcwgIC
 - Bộ Giáo dục và Đào tạo. (2018). *Chương trình giáo dục phổ thông tổng thể* (ban hành kèm Thông tư số 32/2018/TT-BGDĐT ngày 26/12/2018). Hà Nội. https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-32-2018-TT-BGDDT-Chuong-trinh-giao-duc-pho-thong-421991.aspx
