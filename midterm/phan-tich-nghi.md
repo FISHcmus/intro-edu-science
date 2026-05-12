@@ -2,7 +2,7 @@
 
 ## Mục lục
 
-- [1. Thầy Nghị — Giáo viên Toán THCS (chuyên khối 9)](#1-thầy-nghị--giáo-viên-toán-thcs-chuyên-khối-9)
+- [1. Thầy Nghị — Giáo viên Toán THCS (khối 7 và 9)](#1-thầy-nghị--giáo-viên-toán-thcs-khối-7-và-9)
   - [1.1 Triết lý giáo dục qua thực tiễn](#11-triết-lý-giáo-dục-qua-thực-tiễn)
   - [1.2 Đối chiếu lý thuyết](#12-đối-chiếu-lý-thuyết)
 - [2. Bài học rút ra](#2-bài-học-rút-ra)
@@ -17,13 +17,13 @@
 
 Bài viết này là một phần trong dự án giữa kỳ môn Nhập môn Khoa học Giáo dục (lớp 25CGD, học kỳ 2 năm học 2025-2026). Đề bài yêu cầu nhóm phỏng vấn ba nhà giáo dục, phân tích triết lý giáo dục của họ qua thực tiễn giảng dạy, đối chiếu với các trường phái triết lý đã học, và rút ra bài học cho bản thân.
 
-Người được phỏng vấn trong phần này là thầy Nghị, giáo viên Toán THCS chuyên khối 9 tại TP.HCM. Cuộc phỏng vấn diễn ra ngày 11/04/2026 trong khoảng 20 phút, theo phương pháp bán cấu trúc.
+Người được phỏng vấn trong phần này là thầy Nghị, giáo viên Toán THCS tại TP.HCM, hiện đang dạy khối 7 và khối 9. Cuộc phỏng vấn diễn ra ngày 11/04/2026 trong khoảng 20 phút, theo phương pháp bán cấu trúc. Nội dung phỏng vấn tập trung vào cách thầy dạy khối 9 — giai đoạn học sinh đối mặt với kỳ thi vào lớp 10 — nhưng những nguyên tắc sư phạm thầy chia sẻ phản ánh triết lý dạy học của thầy nói chung, không giới hạn ở một khối lớp.
 
 Tôi (Nguyễn Hữu Thiện Nhân, MSSV 25310023) chịu trách nhiệm phân tích một trong ba nhà giáo dục. Phần phân tích những người còn lại sẽ do các thành viên khác trong nhóm thực hiện và được tổng hợp vào báo cáo cuối cùng.
 
 **Ghi nhận về vị trí người nghiên cứu:** Tôi là em rể của thầy Nghị. Mối quan hệ gia đình này có thể ảnh hưởng đến cả cách tôi đặt câu hỏi (thiên về đồng thuận) lẫn cách tôi diễn giải câu trả lời (thiên về tích cực). Tôi đã cố gắng kiểm soát bằng cách bám sát bộ câu hỏi chuẩn và đối chiếu với quan sát thực tế, nhưng đây là hạn chế cần nói thẳng. Với 20 phút phỏng vấn, bài phân tích này là sơ bộ. Những gì tôi viết nên được đọc như khởi đầu, không phải kết luận cuối cùng.
 
-## 1. Thầy Nghị - Giáo viên Toán THCS (chuyên khối 9)
+## 1. Thầy Nghị - Giáo viên Toán THCS (khối 7 và 9)
 
 ### 1.1 Triết lý giáo dục qua thực tiễn
 

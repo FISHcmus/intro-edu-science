@@ -13,9 +13,8 @@
 ## Lưu ý riêng buổi này
 
 - **Tone gia đình rất thoải mái** - mở đầu bằng chuyện gia đình, hỏi thăm chị Yến + hai cháu trước.
-- **Cùng nghề, cùng môn, cùng cấp với vợ** - chị Yến quay vòng lớp 6-9, anh chuyên 9 → có rất nhiều chỗ so sánh + chuyện vợ chồng cùng dạy Toán.
+- **Cùng nghề, cùng môn, trùng một phần khối với vợ** - chị Yến quay vòng lớp 6-9, anh dạy khối 7 và 9 → có rất nhiều chỗ so sánh + chuyện vợ chồng cùng dạy Toán.
 - **Lớp 9 = 100% xoay quanh kỳ thi tuyển sinh vào 10** → đây là điểm khai thác chính.
-- **Khai thác đặc thù "chuyên 1 khối"** - dạy mãi 1 khối nhiều năm, có nhàm? Có lợi thế gì?
 - **AI giải Toán hộ + chép đáp án không hiểu** - chị Yến đã nói dưới góc độ chung. Hỏi anh dưới góc độ **lớp 9 luyện thi**: học sinh dùng AI để luyện đề, có ăn gian được điểm thi không?
 - **Dạy thêm Toán 9** = đặc thù lớp 9. Hỏi nhẹ, không phán xét.
 
@@ -31,7 +30,7 @@
 ### Phần 2: Con đường vào nghề
 
 3. Vì sao hồi đó anh chọn nghề giáo, mà lại là Toán ạ? Có khoảnh khắc nào cụ thể khiến anh quyết định không? Hồi đại học của anh thì sao - có vất vả không, anh có làm thêm gì để xoay sở không ạ?
-4. Vì sao anh "chốt" dạy khối 9 chứ không xoay vòng các khối như chị Yến? Là anh chủ động xin hay trường phân vậy ạ? Dạy mãi cùng một khối nhiều năm liền có nhàm không, hay càng dạy càng sâu một dạng bài?
+4. Vì sao anh chủ yếu dạy khối 7 và khối 9 chứ không xoay vòng các khối như chị Yến? Là anh chủ động xin hay trường phân vậy ạ? Dạy mãi cùng một khối nhiều năm liền có nhàm không, hay càng dạy càng sâu một dạng bài?
 
 ### Phần 3: Câu chuyện trong nghề
 
@@ -47,7 +46,7 @@
 ### Phần 5: Vợ chồng cùng dạy Toán - **angle riêng của buổi này**
 
 10. Anh chị cùng dạy Toán THCS, ở nhà có hay bàn chuyện chuyên môn không ạ? Có khi nào hai vợ chồng bất đồng về cách giải / cách dạy một dạng bài không?
-11. Chị Yến quay vòng lớp 6-9, anh chuyên 9 - phong cách dạy của hai người khác nhau ở đâu rõ nhất ạ? Có khi nào học sinh của chị Yến lên lớp 9 thì học anh không? Lúc đó anh thấy "sản phẩm" của vợ thế nào? *(đùa nhẹ)*
+11. Chị Yến quay vòng lớp 6-9, anh dạy khối 7 và 9 - phong cách dạy của hai người khác nhau ở đâu rõ nhất ạ? Có khi nào học sinh của chị Yến lên lớp 9 thì học anh không? Lúc đó anh thấy "sản phẩm" của vợ thế nào? *(đùa nhẹ)*
 
 ### Phần 6: Vai trò + kết thúc
 
